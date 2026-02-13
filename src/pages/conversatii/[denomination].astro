@@ -1,0 +1,57 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const denominationLabels: Record<string, string> = {
+  atheist: 'Ateu',
+  baptist: 'Baptist',
+  'martorii-lui-iehova': 'Martor al lui Iehova',
+};
+
+const denominationIcons: Record<string, string> = {
+  atheist: 'science',
+  baptist: 'water_drop',
+  'martorii-lui-iehova': 'menu_book',
+};
+
+export async function getStaticPaths() {
+  const allTopics = await getCollection('conversations');
+  const denominations = [...new Set(allTopics.map((t) => t.data.denomination))];
+
+  return denominations.map((denomination) => ({
+    params: { denomination },
+    props: {
+      topics: allTopics
+        .filter((t) => t.data.denomination === denomination)
+        .sort((a, b) => a.data.order - b.data.order),
+    },
+  }));
+}
+
+const { denomination } = Astro.params;
+const { topics } = Astro.props;
+const label = denominationLabels[denomination!] || denomination;
+---
+
+<Base title={label} headerTitle={label} backHref="/conversatii" activeNav="groups">
+  <div class="space-y-3 pt-4">
+    <h3 class="text-sm font-semibold uppercase tracking-widest text-primary/70 px-1 pb-1">Alege un subiect</h3>
+
+    {topics.map((topic: any, index: number) => (
+      <a
+        href={`/conversatii/${topic.data.denomination}/${topic.id.split('/').pop()!.replace('.md', '')}`}
+        class="flex items-center gap-4 bg-white hover:bg-primary/5 p-4 rounded-xl cursor-pointer transition-all border border-transparent hover:border-primary/20 shadow-sm"
+      >
+        <div class="text-primary flex items-center justify-center rounded-lg bg-primary/10 shrink-0 size-10 text-sm font-bold">
+          {index + 1}
+        </div>
+        <div class="flex flex-col flex-1 justify-center">
+          <p class="text-slate-900 text-base font-semibold leading-tight">{topic.data.title}</p>
+        </div>
+        <div class="shrink-0 text-slate-300">
+          <span class="material-symbols-outlined">chevron_right</span>
+        </div>
+      </a>
+    ))}
+  </div>
+</Base>

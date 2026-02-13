@@ -1,0 +1,56 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const allTopics = await getCollection('conversations');
+
+const groups = [
+  { slug: 'atheist', name: 'Ateu', icon: 'science' },
+  { slug: 'baptist', name: 'Baptist', icon: 'water_drop' },
+  { slug: 'martorii-lui-iehova', name: 'Martor al lui Iehova', icon: 'menu_book' },
+];
+
+const topicCounts = groups.map((g) => ({
+  ...g,
+  count: allTopics.filter((t) => t.data.denomination === g.slug).length,
+}));
+---
+
+<Base title="Vorbesc cu un..." headerTitle="Vorbesc cu un..." backHref="/" activeNav="groups">
+  <!-- Search -->
+  <div class="py-4">
+    <div class="flex w-full items-stretch rounded-xl h-12 shadow-sm">
+      <div class="text-primary/60 flex border-none bg-white items-center justify-center pl-4 rounded-l-xl">
+        <span class="material-symbols-outlined">search</span>
+      </div>
+      <input
+        class="flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-r-xl text-slate-900 focus:outline-0 focus:ring-2 focus:ring-primary/20 border-none bg-white h-full placeholder:text-slate-400 px-4 pl-2 text-base font-normal leading-normal"
+        placeholder="Caută un grup sau o credință"
+        type="text"
+      />
+    </div>
+  </div>
+
+  <!-- Group list -->
+  <div class="space-y-3 pt-2">
+    <h3 class="text-sm font-semibold uppercase tracking-widest text-primary/70 px-1 pb-1">Alege un grup</h3>
+
+    {topicCounts.map((group) => (
+      <a
+        href={`/conversatii/${group.slug}`}
+        class="flex items-center gap-4 bg-white hover:bg-primary/5 p-4 rounded-xl cursor-pointer transition-all border border-transparent hover:border-primary/20 shadow-sm"
+      >
+        <div class="text-primary flex items-center justify-center rounded-lg bg-primary/10 shrink-0 size-12">
+          <span class="material-symbols-outlined text-3xl">{group.icon}</span>
+        </div>
+        <div class="flex flex-col flex-1 justify-center">
+          <p class="text-slate-900 text-lg font-semibold leading-none">{group.name}</p>
+          <p class="text-primary text-sm font-medium mt-1">{group.count} {group.count === 1 ? 'subiect disponibil' : 'subiecte disponibile'}</p>
+        </div>
+        <div class="shrink-0 text-slate-300">
+          <span class="material-symbols-outlined">chevron_right</span>
+        </div>
+      </a>
+    ))}
+  </div>
+</Base>

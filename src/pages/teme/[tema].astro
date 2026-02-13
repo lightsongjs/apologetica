@@ -1,0 +1,46 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { marked } from 'marked';
+
+export async function getStaticPaths() {
+  const allTeme = await getCollection('teme');
+
+  return allTeme.map((tema) => ({
+    params: { tema: tema.id },
+    props: { entry: tema },
+  }));
+}
+
+const { entry } = Astro.props;
+const bodyHtml = await marked.parse(entry.body || '');
+---
+
+<Base title={entry.data.title} headerTitle="Temă" backHref="javascript:history.back()" activeNav="groups">
+  <div class="pt-4 pb-8 space-y-6">
+
+    <!-- Title & Summary -->
+    <div class="text-center">
+      <p class="text-xs font-semibold uppercase tracking-widest text-primary/50 mb-2">Temă apologetică</p>
+      <h2 class="text-2xl md:text-3xl font-extrabold leading-tight tracking-tight">{entry.data.title}</h2>
+      <p class="mt-3 text-sm text-slate-500 leading-relaxed max-w-md mx-auto">{entry.data.summary}</p>
+    </div>
+
+    <!-- Body -->
+    <article class="prose prose-slate prose-sm max-w-none
+      prose-headings:text-primary prose-headings:font-bold
+      prose-h2:text-lg prose-h2:mt-8 prose-h2:mb-3
+      prose-h3:text-base prose-h3:mt-6 prose-h3:mb-2
+      prose-strong:text-slate-800
+      prose-ul:space-y-1
+      prose-p:leading-relaxed
+      prose-li:leading-relaxed
+      prose-table:text-sm
+      prose-th:text-left prose-th:text-primary prose-th:font-bold
+      prose-td:py-2
+      prose-blockquote:border-primary/30 prose-blockquote:text-slate-600 prose-blockquote:italic">
+      <Fragment set:html={bodyHtml} />
+    </article>
+
+  </div>
+</Base>

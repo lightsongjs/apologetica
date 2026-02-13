@@ -1,0 +1,139 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+import { marked } from 'marked';
+import { resolveWikiLinks } from '../../../lib/wiki-links';
+
+const denominationLabels: Record<string, string> = {
+  atheist: 'Ateu',
+  baptist: 'Baptist',
+  'martorii-lui-iehova': 'Martor al lui Iehova',
+};
+
+export async function getStaticPaths() {
+  const allTopics = await getCollection('conversations');
+
+  return allTopics.map((topic) => {
+    const slug = topic.id.split('/').pop()!;
+    return {
+      params: {
+        denomination: topic.data.denomination,
+        topic: slug,
+      },
+      props: { entry: topic },
+    };
+  });
+}
+
+const { denomination } = Astro.params;
+const { entry } = Astro.props;
+const groupLabel = denominationLabels[denomination!] || denomination;
+
+// Parse the raw markdown body to extract sections
+const rawBody = entry.body || '';
+
+function extractSection(body: string, heading: string): string {
+  const escaped = heading.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const pattern = new RegExp(`##\\s+${escaped}\\s*\\n([\\s\\S]*?)(?=\\n##\\s|$)`);
+  const match = body.match(pattern);
+  return match ? match[1].trim() : '';
+}
+
+const claimSection = extractSection(rawBody, 'Ce spun ei');
+const responseSection = extractSection(rawBody, 'Răspunsul ortodox');
+const scriptureSection = extractSection(rawBody, 'Versete cheie');
+const extraSection = extractSection(rawBody, 'Argumente suplimentare');
+
+// Extract the claim quote
+const claimMatch = claimSection.match(/[„"«](.+?)[""»]/s);
+const claimQuote = claimMatch ? claimMatch[1] : claimSection.split('\n\n')[0];
+
+// Parse scripture refs into array
+const scriptureRefs = scriptureSection
+  .split('\n')
+  .filter((l: string) => l.startsWith('- '))
+  .map((l: string) => {
+    const refMatch = l.match(/\*\*(.+?)\*\*\s*[—–-]\s*(.+)/);
+    return refMatch ? { ref: refMatch[1], text: refMatch[2].replace(/[„"«""»]/g, '') } : null;
+  })
+  .filter(Boolean) as { ref: string; text: string }[];
+
+// Render markdown sections to HTML (resolve wiki-links first)
+const responseHtml = await marked.parse(resolveWikiLinks(responseSection));
+const extraHtml = await marked.parse(resolveWikiLinks(extraSection));
+---
+
+<Base title={entry.data.title} headerTitle="Analiză" backHref={`/conversatii/${denomination}`} activeNav="groups">
+  <div class="pt-4 pb-8 space-y-8">
+
+    <!-- Title -->
+    <div class="text-center">
+      <p class="text-xs font-semibold uppercase tracking-widest text-primary/50 mb-2">Anchetă teologică</p>
+      <h2 class="text-2xl md:text-3xl font-extrabold leading-tight tracking-tight italic">"{entry.data.title}"</h2>
+    </div>
+
+    <!-- Their Claim -->
+    <section>
+      <div class="flex items-center gap-2 mb-3">
+        <span class="material-symbols-outlined text-red-700">format_quote</span>
+        <h3 class="text-sm font-bold uppercase tracking-widest text-red-700">Ce spun ei</h3>
+      </div>
+      <div class="bg-red-50 border border-red-200/60 rounded-xl p-5">
+        <p class="text-red-900/80 italic leading-relaxed text-base">"{claimQuote}"</p>
+      </div>
+    </section>
+
+    <!-- Orthodox Response -->
+    <section>
+      <div class="flex items-center gap-2 mb-3">
+        <span class="material-symbols-outlined text-primary">shield</span>
+        <h3 class="text-sm font-bold uppercase tracking-widest text-primary">Răspunsul ortodox</h3>
+      </div>
+      <article class="prose prose-slate prose-sm max-w-none
+        prose-headings:text-primary prose-headings:font-bold
+        prose-h3:text-base prose-h3:mt-6 prose-h3:mb-2
+        prose-strong:text-slate-800
+        prose-ul:space-y-1
+        prose-p:leading-relaxed
+        prose-li:leading-relaxed">
+        <Fragment set:html={responseHtml} />
+      </article>
+    </section>
+
+    <!-- Scripture -->
+    {scriptureRefs.length > 0 && (
+      <section>
+        <div class="flex items-center gap-2 mb-4">
+          <span class="material-symbols-outlined text-primary">menu_book</span>
+          <h3 class="text-sm font-bold uppercase tracking-widest text-primary">Versete cheie</h3>
+        </div>
+        <div class="space-y-3">
+          {scriptureRefs.map((s) => (
+            <div class="flex items-start gap-3 p-4 bg-white border border-primary/10 rounded-xl">
+              <span class="font-bold text-primary text-sm whitespace-nowrap mt-0.5">{s.ref}</span>
+              <p class="text-sm text-slate-600 italic leading-relaxed">{s.text}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Additional arguments -->
+    {extraSection && (
+      <section>
+        <div class="flex items-center gap-2 mb-3">
+          <span class="material-symbols-outlined text-primary">lightbulb</span>
+          <h3 class="text-sm font-bold uppercase tracking-widest text-primary">Argumente suplimentare</h3>
+        </div>
+        <article class="prose prose-slate prose-sm max-w-none
+          prose-strong:text-slate-800
+          prose-ul:space-y-2
+          prose-p:leading-relaxed
+          prose-li:leading-relaxed">
+          <Fragment set:html={extraHtml} />
+        </article>
+      </section>
+    )}
+
+  </div>
+</Base>
