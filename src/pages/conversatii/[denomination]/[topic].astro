@@ -29,8 +29,14 @@ const { denomination } = Astro.params;
 const { entry } = Astro.props;
 const groupLabel = denominationLabels[denomination!] || denomination;
 
-// Parse the raw markdown body to extract sections
+// --- Extract all ## sections dynamically ---
 const rawBody = entry.body || '';
+const sectionPattern = /^##\s+(.+)$/gm;
+const sectionHeadings: string[] = [];
+let m: RegExpExecArray | null;
+while ((m = sectionPattern.exec(rawBody)) !== null) {
+  sectionHeadings.push(m[1].trim());
+}
 
 function extractSection(body: string, heading: string): string {
   const escaped = heading.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -39,16 +45,12 @@ function extractSection(body: string, heading: string): string {
   return match ? match[1].trim() : '';
 }
 
+// --- Special sections ---
 const claimSection = extractSection(rawBody, 'Ce spun ei');
-const responseSection = extractSection(rawBody, 'Răspunsul ortodox');
-const scriptureSection = extractSection(rawBody, 'Versete cheie');
-const extraSection = extractSection(rawBody, 'Argumente suplimentare');
-
-// Extract the claim quote
 const claimMatch = claimSection.match(/[„"«](.+?)[""»]/s);
 const claimQuote = claimMatch ? claimMatch[1] : claimSection.split('\n\n')[0];
 
-// Parse scripture refs into array
+const scriptureSection = extractSection(rawBody, 'Versete cheie');
 const scriptureRefs = scriptureSection
   .split('\n')
   .filter((l: string) => l.startsWith('- '))
@@ -58,9 +60,72 @@ const scriptureRefs = scriptureSection
   })
   .filter(Boolean) as { ref: string; text: string }[];
 
-// Render markdown sections to HTML (resolve wiki-links first)
-const responseHtml = await marked.parse(resolveWikiLinks(responseSection));
-const extraHtml = await marked.parse(resolveWikiLinks(extraSection));
+// --- Split a section's markdown into intro + ### subsections ---
+interface SubBlock {
+  subheading: string | null; // null = intro block
+  html: string;
+}
+
+function splitSubsections(md: string): { intro: string; subs: { heading: string; content: string }[] } {
+  const parts = md.split(/^(?=###\s+)/m);
+  const intro = parts[0]?.trim() || '';
+  const subs = parts.slice(1).map((part) => {
+    const match = part.match(/^###\s+(.+)\n([\s\S]*)$/);
+    return match
+      ? { heading: match[1].trim(), content: match[2].trim() }
+      : { heading: '', content: part.trim() };
+  });
+  return { intro, subs };
+}
+
+// --- Generic sections (everything except the two special ones) ---
+const specialSections = new Set(['Ce spun ei', 'Versete cheie']);
+const genericSections = sectionHeadings.filter((h) => !specialSections.has(h));
+
+const renderedSections = await Promise.all(
+  genericSections.map(async (heading) => {
+    const md = extractSection(rawBody, heading);
+    const { intro, subs } = splitSubsections(md);
+
+    const blocks: SubBlock[] = [];
+    if (intro) {
+      blocks.push({ subheading: null, html: await marked.parse(resolveWikiLinks(intro)) });
+    }
+    for (const sub of subs) {
+      blocks.push({
+        subheading: sub.heading,
+        html: await marked.parse(resolveWikiLinks(sub.content)),
+      });
+    }
+
+    return { heading, blocks };
+  }),
+);
+
+// --- Flatten all blocks with a global rotating index ---
+const bgStyles = [
+  'bg-primary/5 border-primary/10',
+  'bg-gray-50 border-gray-200/60',
+  'bg-white border-primary/10',
+];
+
+let globalBlockIdx = 0;
+const flatSections = renderedSections.map((s) => ({
+  heading: s.heading,
+  blocks: s.blocks.map((block) => ({
+    ...block,
+    bg: bgStyles[globalBlockIdx++ % bgStyles.length],
+  })),
+}));
+
+// --- Icon map (known headings get specific icons, rest get a default) ---
+const iconMap: Record<string, string> = {
+  'Răspunsul ortodox': 'shield',
+  'Argumente suplimentare': 'lightbulb',
+  'Erori logice': 'psychology',
+  'Context istoric': 'history_edu',
+  'Surse': 'source',
+};
 ---
 
 <Base title={entry.data.title} headerTitle="Analiză" backHref={`/conversatii/${denomination}`} activeNav="groups">
@@ -72,35 +137,48 @@ const extraHtml = await marked.parse(resolveWikiLinks(extraSection));
       <h2 class="text-2xl md:text-3xl font-extrabold leading-tight tracking-tight italic">"{entry.data.title}"</h2>
     </div>
 
-    <!-- Their Claim -->
-    <section>
-      <div class="flex items-center gap-2 mb-3">
-        <span class="material-symbols-outlined text-red-700">format_quote</span>
-        <h3 class="text-sm font-bold uppercase tracking-widest text-red-700">Ce spun ei</h3>
-      </div>
-      <div class="bg-red-50 border border-red-200/60 rounded-xl p-5">
-        <p class="text-red-900/80 italic leading-relaxed text-base">"{claimQuote}"</p>
-      </div>
-    </section>
+    <!-- Their Claim (always first, special red style) -->
+    {claimSection && (
+      <section>
+        <div class="flex items-center gap-2 mb-3">
+          <span class="material-symbols-outlined text-red-700">format_quote</span>
+          <h3 class="text-sm font-bold uppercase tracking-widest text-red-700">Ce spun ei</h3>
+        </div>
+        <div class="bg-red-50 border border-red-200/60 rounded-xl p-5">
+          <p class="text-red-900/80 italic leading-relaxed text-base">"{claimQuote}"</p>
+        </div>
+      </section>
+    )}
 
-    <!-- Orthodox Response -->
-    <section>
-      <div class="flex items-center gap-2 mb-3">
-        <span class="material-symbols-outlined text-primary">shield</span>
-        <h3 class="text-sm font-bold uppercase tracking-widest text-primary">Răspunsul ortodox</h3>
-      </div>
-      <article class="prose prose-slate prose-sm max-w-none
-        prose-headings:text-primary prose-headings:font-bold
-        prose-h3:text-base prose-h3:mt-6 prose-h3:mb-2
-        prose-strong:text-slate-800
-        prose-ul:space-y-1
-        prose-p:leading-relaxed
-        prose-li:leading-relaxed">
-        <Fragment set:html={responseHtml} />
-      </article>
-    </section>
+    <!-- Generic sections with rotating backgrounds -->
+    {flatSections.map((s) => (
+      <section>
+        <div class="flex items-center gap-2 mb-3">
+          <span class="material-symbols-outlined text-primary">{iconMap[s.heading] || 'article'}</span>
+          <h3 class="text-sm font-bold uppercase tracking-widest text-primary">{s.heading}</h3>
+        </div>
+        <div class="space-y-4">
+          {s.blocks.map((block) => (
+            <div class={`${block.bg} border rounded-xl p-5`}>
+              {block.subheading && (
+                <h4 class="text-base font-bold text-primary mb-3">{block.subheading}</h4>
+              )}
+              <article class="prose prose-slate prose-sm max-w-none
+                prose-headings:text-primary prose-headings:font-bold
+                prose-h4:text-sm prose-h4:mt-4 prose-h4:mb-2
+                prose-strong:text-slate-800
+                prose-ul:space-y-1
+                prose-p:leading-relaxed
+                prose-li:leading-relaxed">
+                <Fragment set:html={block.html} />
+              </article>
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
 
-    <!-- Scripture -->
+    <!-- Scripture (always last, special card style) -->
     {scriptureRefs.length > 0 && (
       <section>
         <div class="flex items-center gap-2 mb-4">
@@ -115,23 +193,6 @@ const extraHtml = await marked.parse(resolveWikiLinks(extraSection));
             </div>
           ))}
         </div>
-      </section>
-    )}
-
-    <!-- Additional arguments -->
-    {extraSection && (
-      <section>
-        <div class="flex items-center gap-2 mb-3">
-          <span class="material-symbols-outlined text-primary">lightbulb</span>
-          <h3 class="text-sm font-bold uppercase tracking-widest text-primary">Argumente suplimentare</h3>
-        </div>
-        <article class="prose prose-slate prose-sm max-w-none
-          prose-strong:text-slate-800
-          prose-ul:space-y-2
-          prose-p:leading-relaxed
-          prose-li:leading-relaxed">
-          <Fragment set:html={extraHtml} />
-        </article>
       </section>
     )}
 
