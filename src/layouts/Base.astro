@@ -6,7 +6,7 @@ interface Props {
   headerTitle?: string;
   backHref?: string;
   showBottomNav?: boolean;
-  activeNav?: 'home' | 'groups' | 'saved' | 'settings';
+  activeNav?: 'home' | 'search' | 'saved' | 'settings';
 }
 
 const {
@@ -19,14 +19,14 @@ const {
 
 const navItems = [
   { id: 'home', href: '/', icon: 'home', label: 'Home' },
-  { id: 'groups', href: '/conversatii', icon: 'groups', label: 'Grupuri' },
+  { id: 'search', href: '/cautare', icon: 'search', label: 'Căutare' },
   { id: 'saved', href: '#', icon: 'bookmark', label: 'Salvate' },
   { id: 'settings', href: '#', icon: 'settings', label: 'Setări' },
 ];
 ---
 
 <!doctype html>
-<html lang="ro">
+<html lang="ro" class="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />

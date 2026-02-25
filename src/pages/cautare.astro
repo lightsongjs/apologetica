@@ -1,0 +1,326 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const conversations = await getCollection('conversations');
+const teme = await getCollection('teme');
+const personalitati = await getCollection('personalitati');
+
+const denominationLabels: Record<string, string> = {
+  'atheist': 'Ateu',
+  'baptist': 'Baptist',
+  'martorii-lui-iehova': 'Martor al lui Iehova',
+};
+---
+
+<Base title="Căutare" headerTitle="Căutare" backHref="/" activeNav="search">
+  <!-- Hero Search -->
+  <div class="pt-8 pb-6">
+    <div class="relative group">
+      <div class="absolute inset-0 bg-gradient-to-r from-primary/20 to-primary/5 rounded-2xl blur-xl opacity-0 group-focus-within:opacity-100 transition-opacity duration-500"></div>
+      <div class="relative">
+        <div class="absolute inset-y-0 left-0 pl-6 flex items-center pointer-events-none">
+          <span class="material-symbols-outlined text-primary/40 group-focus-within:text-primary transition-colors text-3xl">search</span>
+        </div>
+        <input
+          id="search-input"
+          class="block w-full pl-16 pr-6 py-5 bg-white border-2 border-primary/10 rounded-2xl shadow-lg focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/10 placeholder:text-primary/30 text-xl transition-all duration-300"
+          placeholder="Caută în toată biblioteca..."
+          type="text"
+          autocomplete="off"
+          autofocus
+        />
+      </div>
+    </div>
+
+    <!-- Search hint -->
+    <p class="text-center text-sm text-primary/50 mt-4 italic" id="search-hint">
+      Scrie pentru a căuta în conversații, teme și personalități
+    </p>
+  </div>
+
+  <!-- Results Container -->
+  <div id="results-container" class="space-y-8 pb-8 hidden">
+
+    <!-- Conversations Section -->
+    <section id="conversations-section" class="hidden">
+      <div class="flex items-center gap-2 mb-4 sticky top-[73px] bg-bg/95 backdrop-blur-sm py-2 -mx-4 px-4 z-10">
+        <span class="material-symbols-outlined text-primary text-xl">forum</span>
+        <h2 class="text-lg font-bold text-primary uppercase tracking-wider">Conversații</h2>
+        <div class="h-px flex-1 bg-primary/10"></div>
+        <span id="conversations-count" class="text-sm font-bold text-primary/60 bg-primary/5 px-3 py-1 rounded-full"></span>
+      </div>
+      <div id="conversations-results" class="grid grid-cols-1 gap-3"></div>
+    </section>
+
+    <!-- Teme Section -->
+    <section id="teme-section" class="hidden">
+      <div class="flex items-center gap-2 mb-4 sticky top-[73px] bg-bg/95 backdrop-blur-sm py-2 -mx-4 px-4 z-10">
+        <span class="material-symbols-outlined text-primary text-xl">auto_stories</span>
+        <h2 class="text-lg font-bold text-primary uppercase tracking-wider">Teme</h2>
+        <div class="h-px flex-1 bg-primary/10"></div>
+        <span id="teme-count" class="text-sm font-bold text-primary/60 bg-primary/5 px-3 py-1 rounded-full"></span>
+      </div>
+      <div id="teme-results" class="grid grid-cols-1 gap-3"></div>
+    </section>
+
+    <!-- Personalitati Section -->
+    <section id="personalitati-section" class="hidden">
+      <div class="flex items-center gap-2 mb-4 sticky top-[73px] bg-bg/95 backdrop-blur-sm py-2 -mx-4 px-4 z-10">
+        <span class="material-symbols-outlined text-primary text-xl">person_pin</span>
+        <h2 class="text-lg font-bold text-primary uppercase tracking-wider">Personalități</h2>
+        <div class="h-px flex-1 bg-primary/10"></div>
+        <span id="personalitati-count" class="text-sm font-bold text-primary/60 bg-primary/5 px-3 py-1 rounded-full"></span>
+      </div>
+      <div id="personalitati-results" class="grid grid-cols-1 gap-3"></div>
+    </section>
+  </div>
+
+  <!-- No Results State -->
+  <div id="no-results" class="hidden text-center py-16 animate-fade-in">
+    <div class="relative inline-block mb-6">
+      <div class="absolute inset-0 bg-primary/5 rounded-full blur-2xl"></div>
+      <span class="material-symbols-outlined text-primary/20 text-8xl relative block">search_off</span>
+    </div>
+    <h3 class="text-2xl font-bold text-primary/40 mb-2">Niciun rezultat</h3>
+    <p class="text-primary/60 max-w-sm mx-auto leading-relaxed">
+      Nu am găsit nimic pentru căutarea ta. Încearcă alte cuvinte cheie.
+    </p>
+  </div>
+
+  <!-- Empty State (before search) -->
+  <div id="empty-state" class="text-center py-16 space-y-8">
+    <div class="relative inline-block">
+      <div class="absolute inset-0 bg-primary/5 rounded-full blur-3xl animate-pulse"></div>
+      <span class="material-symbols-outlined text-primary/10 text-9xl relative block">auto_stories</span>
+    </div>
+
+    <div class="space-y-2">
+      <h3 class="text-2xl font-bold text-primary/40">Explorează biblioteca</h3>
+      <p class="text-primary/60 max-w-md mx-auto leading-relaxed">
+        Caută printre sute de conversații, teme teologice și personalități istorice
+      </p>
+    </div>
+
+    <!-- Quick suggestions -->
+    <div class="flex flex-wrap gap-2 justify-center pt-4">
+      <button class="suggestion-pill px-4 py-2 bg-white border border-primary/20 rounded-full text-sm font-medium text-primary/70 hover:bg-primary hover:text-white hover:border-primary transition-all shadow-sm hover:shadow-md">
+        Sfânta Treime
+      </button>
+      <button class="suggestion-pill px-4 py-2 bg-white border border-primary/20 rounded-full text-sm font-medium text-primary/70 hover:bg-primary hover:text-white hover:border-primary transition-all shadow-sm hover:shadow-md">
+        Isaia
+      </button>
+      <button class="suggestion-pill px-4 py-2 bg-white border border-primary/20 rounded-full text-sm font-medium text-primary/70 hover:bg-primary hover:text-white hover:border-primary transition-all shadow-sm hover:shadow-md">
+        Pocăință
+      </button>
+      <button class="suggestion-pill px-4 py-2 bg-white border border-primary/20 rounded-full text-sm font-medium text-primary/70 hover:bg-primary hover:text-white hover:border-primary transition-all shadow-sm hover:shadow-md">
+        Daniel
+      </button>
+    </div>
+  </div>
+
+  <style>
+    @keyframes fade-in {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes slide-in {
+      from {
+        opacity: 0;
+        transform: translateX(-10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    .animate-fade-in {
+      animation: fade-in 0.4s ease-out;
+    }
+
+    .result-card {
+      animation: slide-in 0.3s ease-out;
+      animation-fill-mode: both;
+    }
+
+    .result-card:nth-child(1) { animation-delay: 0.05s; }
+    .result-card:nth-child(2) { animation-delay: 0.10s; }
+    .result-card:nth-child(3) { animation-delay: 0.15s; }
+    .result-card:nth-child(4) { animation-delay: 0.20s; }
+    .result-card:nth-child(5) { animation-delay: 0.25s; }
+    .result-card:nth-child(n+6) { animation-delay: 0.30s; }
+  </style>
+
+  <script define:vars={{ conversations, teme, personalitati, denominationLabels }}>
+    const searchInput = document.getElementById('search-input');
+    const searchHint = document.getElementById('search-hint');
+    const resultsContainer = document.getElementById('results-container');
+    const emptyState = document.getElementById('empty-state');
+    const noResults = document.getElementById('no-results');
+
+    const conversationsSection = document.getElementById('conversations-section');
+    const conversationsResults = document.getElementById('conversations-results');
+    const conversationsCount = document.getElementById('conversations-count');
+
+    const temeSection = document.getElementById('teme-section');
+    const temeResults = document.getElementById('teme-results');
+    const temeCount = document.getElementById('teme-count');
+
+    const personalitatiSection = document.getElementById('personalitati-section');
+    const personalitatiResults = document.getElementById('personalitati-results');
+    const personalitatiCount = document.getElementById('personalitati-count');
+
+    // Suggestion pills
+    const suggestionPills = document.querySelectorAll('.suggestion-pill');
+    suggestionPills.forEach(pill => {
+      pill.addEventListener('click', () => {
+        searchInput.value = pill.textContent.trim();
+        searchInput.dispatchEvent(new Event('input'));
+        searchInput.focus();
+      });
+    });
+
+    function highlightMatch(text, query) {
+      if (!query) return text;
+      const regex = new RegExp(`(${query})`, 'gi');
+      return text.replace(regex, '<mark class="bg-primary/20 text-primary font-semibold px-1 rounded">$1</mark>');
+    }
+
+    function performSearch(query) {
+      query = query.toLowerCase().trim();
+
+      if (!query) {
+        resultsContainer.classList.add('hidden');
+        emptyState.classList.remove('hidden');
+        noResults.classList.add('hidden');
+        searchHint.textContent = 'Scrie pentru a căuta în toată biblioteca...';
+        return;
+      }
+
+      emptyState.classList.add('hidden');
+      searchHint.textContent = `Căutare pentru: "${query}"`;
+
+      // Search conversations
+      const matchedConversations = conversations.filter(conv => {
+        const title = conv.data.title.toLowerCase();
+        const denomination = conv.data.denomination.toLowerCase();
+        const denominationLabel = denominationLabels[conv.data.denomination]?.toLowerCase() || '';
+        return title.includes(query) || denomination.includes(query) || denominationLabel.includes(query);
+      });
+
+      // Search teme
+      const matchedTeme = teme.filter(tema => {
+        const title = tema.data.title.toLowerCase();
+        const summary = tema.data.summary.toLowerCase();
+        return title.includes(query) || summary.includes(query);
+      });
+
+      // Search personalitati
+      const matchedPersonalitati = personalitati.filter(pers => {
+        const name = pers.data.name.toLowerCase();
+        const title = pers.data.title.toLowerCase();
+        return name.includes(query) || title.includes(query);
+      });
+
+      const totalResults = matchedConversations.length + matchedTeme.length + matchedPersonalitati.length;
+
+      if (totalResults === 0) {
+        resultsContainer.classList.add('hidden');
+        noResults.classList.remove('hidden');
+        return;
+      }
+
+      noResults.classList.add('hidden');
+      resultsContainer.classList.remove('hidden');
+
+      // Render conversations
+      if (matchedConversations.length > 0) {
+        conversationsSection.classList.remove('hidden');
+        conversationsCount.textContent = matchedConversations.length;
+        conversationsResults.innerHTML = matchedConversations.map(conv => {
+          const slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
+          const denomination = conv.data.denomination;
+          const denominationLabel = denominationLabels[denomination] || denomination;
+
+          return `
+            <a href="/conversatii/${denomination}/${slug}" class="result-card group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-start gap-3">
+              <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors flex-shrink-0 mt-0.5">
+                <span class="material-symbols-outlined text-xl">forum</span>
+              </div>
+              <div class="flex-1 min-w-0">
+                <div class="text-xs font-bold text-primary/60 uppercase tracking-wider mb-1">${denominationLabel}</div>
+                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(conv.data.title, query)}</h3>
+              </div>
+              <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
+            </a>
+          `;
+        }).join('');
+      } else {
+        conversationsSection.classList.add('hidden');
+      }
+
+      // Render teme
+      if (matchedTeme.length > 0) {
+        temeSection.classList.remove('hidden');
+        temeCount.textContent = matchedTeme.length;
+        temeResults.innerHTML = matchedTeme.map(tema => {
+          const slug = tema.id.replace('.md', '');
+          return `
+            <a href="/teme/${slug}" class="result-card group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-start gap-3">
+              <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors flex-shrink-0 mt-0.5">
+                <span class="material-symbols-outlined text-xl">auto_stories</span>
+              </div>
+              <div class="flex-1 min-w-0">
+                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(tema.data.title, query)}</h3>
+                <p class="text-sm text-primary/60 leading-relaxed line-clamp-2">${highlightMatch(tema.data.summary, query)}</p>
+              </div>
+              <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
+            </a>
+          `;
+        }).join('');
+      } else {
+        temeSection.classList.add('hidden');
+      }
+
+      // Render personalitati
+      if (matchedPersonalitati.length > 0) {
+        personalitatiSection.classList.remove('hidden');
+        personalitatiCount.textContent = matchedPersonalitati.length;
+        personalitatiResults.innerHTML = matchedPersonalitati.map(pers => {
+          const slug = pers.id.replace('.md', '');
+          return `
+            <a href="/personalitati/${slug}" class="result-card group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-start gap-3">
+              <div
+                class="bg-top bg-no-repeat aspect-square bg-cover rounded-full border-2 border-primary/20 h-12 w-12 flex-shrink-0 group-hover:border-primary/60 transition-colors"
+                style="background-image: url('${pers.data.image}')"
+              ></div>
+              <div class="flex-1 min-w-0">
+                <h3 class="font-bold text-base mb-0.5 group-hover:text-primary transition-colors">${highlightMatch(pers.data.name, query)}</h3>
+                <p class="text-sm text-primary/60 italic">${highlightMatch(pers.data.title, query)}</p>
+              </div>
+              <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
+            </a>
+          `;
+        }).join('');
+      } else {
+        personalitatiSection.classList.add('hidden');
+      }
+    }
+
+    // Real-time search
+    searchInput.addEventListener('input', (e) => {
+      performSearch(e.target.value);
+    });
+
+    // Initial focus animation
+    searchInput.focus();
+  </script>
+</Base>

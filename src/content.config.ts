@@ -18,4 +18,14 @@ const teme = defineCollection({
   }),
 });
 
-export const collections = { conversations, teme };
+const personalitati = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/personalitati' }),
+  schema: z.object({
+    name: z.string(),
+    title: z.string(),
+    image: z.string(),
+    order: z.number(),
+  }),
+});
+
+export const collections = { conversations, teme, personalitati };

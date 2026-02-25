@@ -10,6 +10,12 @@
 
 html {
   -webkit-tap-highlight-color: transparent;
+  color-scheme: light;
+}
+
+/* Force light mode */
+html.light {
+  color-scheme: light;
 }
 
 body {

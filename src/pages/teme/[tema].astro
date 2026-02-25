@@ -16,7 +16,7 @@ const { entry } = Astro.props;
 const bodyHtml = await marked.parse(entry.body || '');
 ---
 
-<Base title={entry.data.title} headerTitle="Temă" backHref="javascript:history.back()" activeNav="groups">
+<Base title={entry.data.title} headerTitle="Temă" backHref="/teme" activeNav="home">
   <div class="pt-4 pb-8 space-y-6">
 
     <!-- Title & Summary -->
