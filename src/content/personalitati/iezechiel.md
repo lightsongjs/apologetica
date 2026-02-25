@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Proroc Iezechiel"
 title: "Profet major, sec. VI î.Hr."
-image: "https://api.dicebear.com/7.x/icons/svg?seed=Ezekiel&backgroundColor=1754cf&icon=star"
+image: "/images/personalitati/iezechiel.jpg"
 order: 7
 ---
 

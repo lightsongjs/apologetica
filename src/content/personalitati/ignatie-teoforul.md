@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Ignatie Teoforul"
 title: "Episcop al Antiohiei, Mucenic"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg/250px-Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg"
+image: "/images/personalitati/ignatie-teoforul.jpg"
 order: 1
 ---
 

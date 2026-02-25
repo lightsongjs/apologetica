@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Proroc Daniel"
 title: "Profet major, sec. VI î.Hr."
-image: "https://api.dicebear.com/7.x/icons/svg?seed=Daniel&backgroundColor=1754cf&icon=crown"
+image: "/images/personalitati/daniel.jpg"
 order: 8
 ---
 

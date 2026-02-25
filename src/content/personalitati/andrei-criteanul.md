@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Andrei Criteanul"
 title: "Arhiepiscop al Cretei, Imnograf"
-image: "https://api.dicebear.com/7.x/icons/svg?seed=Andrew&backgroundColor=1754cf&icon=cross"
+image: "/images/personalitati/andrei-criteanul.jpg"
 order: 4
 ---
 

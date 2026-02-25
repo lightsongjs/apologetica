@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Proroc Ieremia"
-title: "Profet major, sec. VII–VI î.Hr."
-image: "https://api.dicebear.com/7.x/icons/svg?seed=Jeremiah&backgroundColor=1754cf&icon=book"
+title: "Profet major, sec. VII-VI î.Hr."
+image: "/images/personalitati/ieremia.jpg"
 order: 6
 ---
 
