@@ -1,0 +1,132 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "arrow_back" [ref=e5] [cursor=pointer]:
+        - /url: /personalitati
+        - generic [ref=e6]: arrow_back
+      - heading "Regele Manase" [level=1] [ref=e7]
+  - main [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e13]: verified
+      - generic [ref=e14]:
+        - heading "Regele Manase" [level=1] [ref=e15]
+        - paragraph [ref=e16]: Rege al lui Iuda, sec. VII î.Hr.
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: history_edu
+          - heading "Biografie" [level=2] [ref=e21]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: "Regele Manase (în ebraică: מְנַשֶּׁה, „cel care face să uiți\") a fost regele lui Iuda pentru 55 de ani (697-642 î.Hr.), cea mai lungă domnie din istoria regatului. Fiul regelui drept Ezechia, Manase a devenit cel mai rău rege din istoria lui Iuda, reintroducând idolatria extremă și chiar sacrificând copii în Valea Hinomului."
+          - paragraph [ref=e24]: Însă viața lui Manase este una dintre cele mai puternice mărturii ale pocăinței din Scripturi. După ce a fost capturat de asirieni și dus în lanțuri la Babilon, s-a pocăit profund în temniță și s-a întors la Dumnezeu. Dumnezeu i-a primit pocăința și l-a restaurat pe tron, iar Manase și-a petrecut restul domniei înlăturând idolii pe care îi ridicase.
+          - paragraph [ref=e25]:
+            - strong [ref=e26]: Rugăciunea lui Manase
+            - text: ", o rugăciune de pocăință atribuită acestei perioade din temniță, este citită în Biserica Ortodoxă în timpul Postului Mare, la Pavecernița Mare, fiind un model al pocăinței adevărate."
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]: timeline
+          - heading "Cronologie" [level=2] [ref=e30]
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - heading "Nașterea și tinerețea (c. 710 î.Hr.)" [level=4] [ref=e34]
+            - paragraph [ref=e36]: Manase se naște în timpul domniei tatălui său, Ezechia, unul dintre cei mai drepți regi ai lui Iuda. Devine rege la doar 12 ani, după moartea lui Ezechia.
+          - generic [ref=e37]:
+            - heading "Idolatria și răutatea (697-648 î.Hr.)" [level=4] [ref=e39]
+            - generic [ref=e40]:
+              - paragraph [ref=e41]: "Manase inversează reformele religioase ale tatălui său. Reconstruiește înălțimile, ridică altare lui Baal și Așteratului, introduce cultul astral, construiește altare păgâne chiar în templul din Ierusalim. Cel mai șocant: sacrifică propriul fiu în foc în Valea Hinomului (Gheena)."
+              - paragraph [ref=e42]: „A făcut ce este rău înaintea Domnului, după urâciunile neamurilor pe care le izgonise Domnul dinaintea fiilor lui Israel." (2 Cronici 33:2)
+          - generic [ref=e43]:
+            - heading "Captivitatea în Babilon (c. 648 î.Hr.)" [level=4] [ref=e45]
+            - generic [ref=e46]:
+              - paragraph [ref=e47]: Comandanții oștirii împăratului Asiriei îl capturează pe Manase, îl leagă cu lanțuri de aramă și îl duc în Babilon (probabil Babilonul era un centru administrativ asirian la acea vreme).
+              - paragraph [ref=e48]: „În necazul său a început să se roage Domnului Dumnezeului său și s-a smerit foarte mult înaintea Dumnezeului părinților săi." (2 Cronici 33:12)
+          - generic [ref=e49]:
+            - heading "Pocăința și restaurarea (c. 647 î.Hr.)" [level=4] [ref=e51]
+            - generic [ref=e52]:
+              - paragraph [ref=e53]: În temniță, Manase se pocăiește profund. Dumnezeu primește rugăciunea lui și îl readuce la Ierusalim pe tronul său. Manase petrece restul vieții înlăturând idolii și reformând cultul.
+              - paragraph [ref=e54]: „Atunci Manase a cunoscut că Domnul este Dumnezeu." (2 Cronici 33:13)
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - generic [ref=e57]: book
+          - heading "Surse și scrieri" [level=2] [ref=e58]
+        - generic [ref=e59]:
+          - generic [ref=e62]:
+            - heading "Cărțile Regilor și Cronicilor" [level=4] [ref=e63]
+            - paragraph [ref=e65]: Regii 21 prezintă doar păcatele lui Manase, considerându-l cauza principală a exilului babilonian viitor. 2 Cronici 33 adaugă povestea captivității, pocăinței și restaurării sale - o perspectivă teologică crucială despre puterea pocăinței.
+          - generic [ref=e68]:
+            - heading "Rugăciunea lui Manase" [level=4] [ref=e69]
+            - paragraph [ref=e71]: Această rugăciune scurtă dar puternică de pocăință nu se află în canonul ebraic, dar este păstrată în Septuaginta și în canonul ortodox în cadrul cărților odice/deuterocanonice. Este citită la Pavecernița Mare în Postul Mare.
+          - generic [ref=e74]:
+            - heading "Structura rugăciunii:" [level=4] [ref=e75]
+            - list [ref=e77]:
+              - listitem [ref=e78]: Invocarea lui Dumnezeu Atotputernic
+              - listitem [ref=e79]: Recunoașterea că Dumnezeu a făgăduit pocăință pentru păcătoși
+              - listitem [ref=e80]: "Mărturisirea păcatelor: „Am păcătuit, Doamne, am păcătuit\""
+              - listitem [ref=e81]: Recunoașterea propriei nevrednicii
+              - listitem [ref=e82]: "Implorarea îndurării: „Tu, Doamne, Dumnezeul celor drepți, nu ai rânduit pocăință pentru cei drepți, pentru Avraam și Isaac și Iacov, care nu au păcătuit împotriva Ta, ci ai rânduit pocăința pentru mine păcătosul\""
+              - listitem [ref=e83]: Făgăduința de laudă și mulțumire
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]: groups
+          - heading "Contemporani" [level=2] [ref=e87]
+        - generic [ref=e88]:
+          - link "Profetul Isaia Conform tradiției iudaice (Talmud, Ascensiunea lui Isaia), profetul Isaia a fost martirizat de Manase, fiind tăiat în două cu un ferăstrău de lemn. Referința din Evrei 11:37 la „tăiați cu ferăstrăul\" este văzută ca aluzie la acest martir. chevron_right" [ref=e89] [cursor=pointer]:
+            - /url: /personalitati/isaia
+            - generic [ref=e90]:
+              - generic [ref=e91]:
+                - heading "Profetul Isaia" [level=4] [ref=e92]
+                - paragraph [ref=e94]: Conform tradiției iudaice (Talmud, Ascensiunea lui Isaia), profetul Isaia a fost martirizat de Manase, fiind tăiat în două cu un ferăstrău de lemn. Referința din Evrei 11:37 la „tăiați cu ferăstrăul" este văzută ca aluzie la acest martir.
+              - generic [ref=e95]: chevron_right
+          - generic [ref=e98]:
+            - heading "Regele Ezechia (726-697 î.Hr.)" [level=4] [ref=e99]
+            - paragraph [ref=e101]: Tatăl lui Manase, unul dintre cei mai evlavioși regi ai lui Iuda, care a purificat templul și a înlăturat idolii. Contrastul între tată și fiu este izbitor - un memento că evlavia părinților nu garantează credința copiilor.
+          - generic [ref=e104]:
+            - heading "Regele Amon (642-640 î.Hr.)" [level=4] [ref=e105]
+            - paragraph [ref=e107]: Fiul lui Manase, care a domnit doar doi ani. Spre deosebire de tatăl său, Amon „nu s-a smerit înaintea Domnului" și a continuat în idolatrie, fiind asasinat de servitorii săi.
+          - generic [ref=e110]:
+            - heading "Regele Iosia (640-609 î.Hr.)" [level=4] [ref=e111]
+            - paragraph [ref=e113]: Nepotul lui Manase, ultimul mare reformator al lui Iuda. A început domnia la 8 ani și a condus cea mai radicală reformă religioasă din istoria regatului.
+          - link "Profetul Ieremia S-ar fi născut în timpul târzii domnii a lui Manase sau sub Amon. A predicat într-o perioadă când păcatele lui Manase erau încă proaspete în memoria colectivă. chevron_right" [ref=e114] [cursor=pointer]:
+            - /url: /personalitati/ieremia
+            - generic [ref=e115]:
+              - generic [ref=e116]:
+                - heading "Profetul Ieremia" [level=4] [ref=e117]
+                - paragraph [ref=e119]: S-ar fi născut în timpul târzii domnii a lui Manase sau sub Amon. A predicat într-o perioadă când păcatele lui Manase erau încă proaspete în memoria colectivă.
+              - generic [ref=e120]: chevron_right
+  - navigation [ref=e121]:
+    - generic [ref=e122]:
+      - link "home Home" [ref=e123] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e124]: home
+        - generic [ref=e125]: Home
+      - link "search Căutare" [ref=e126] [cursor=pointer]:
+        - /url: /cautare
+        - generic [ref=e127]: search
+        - generic [ref=e128]: Căutare
+      - link "bookmark Salvate" [ref=e129] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e130]: bookmark
+        - generic [ref=e131]: Salvate
+      - link "settings Setări" [ref=e132] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e133]: settings
+        - generic [ref=e134]: Setări
+  - generic [ref=e137]:
+    - button "Menu" [ref=e138]:
+      - img [ref=e140]
+      - generic: Menu
+    - button "Inspect" [ref=e144]:
+      - img [ref=e146]
+      - generic: Inspect
+    - button "Audit" [ref=e148]:
+      - generic [ref=e149]:
+        - img [ref=e150]
+        - img [ref=e153]
+      - generic: Audit
+    - button "Settings" [ref=e156]:
+      - img [ref=e158]
+      - generic: Settings
+```

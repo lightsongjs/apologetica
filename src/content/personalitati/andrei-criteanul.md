@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Andrei Criteanul"
 title: "Arhiepiscop al Cretei, Imnograf"
-image: "https://ui-avatars.com/api/?name=Andrei+Criteanul&size=256&background=1754cf&color=fff&bold=true&font-size=0.28"
+image: "https://api.dicebear.com/7.x/icons/svg?seed=Andrew&backgroundColor=1754cf&icon=cross"
 order: 4
 ---
 

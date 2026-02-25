@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Policarp de Smyrna"
 title: "Episcop al Smirnei, Mucenic"
-image: "https://ui-avatars.com/api/?name=Policarp&size=256&background=1754cf&color=fff&bold=true&font-size=0.4"
+image: "https://api.dicebear.com/7.x/icons/svg?seed=Polycarp&backgroundColor=1754cf&icon=fire"
 order: 2
 ---
 

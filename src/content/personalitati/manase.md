@@ -1,7 +1,7 @@
 ---
 name: "Regele Manase"
 title: "Rege al lui Iuda, sec. VII î.Hr."
-image: "https://ui-avatars.com/api/?name=Manase&size=256&background=1754cf&color=fff&bold=true&font-size=0.4"
+image: "https://api.dicebear.com/7.x/icons/svg?seed=Manasseh&backgroundColor=1754cf&icon=key"
 order: 9
 ---
 

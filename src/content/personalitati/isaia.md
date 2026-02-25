@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Proroc Isaia"
 title: "Profet major, sec. VIII î.Hr."
-image: "https://ui-avatars.com/api/?name=Isaia&size=256&background=1754cf&color=fff&bold=true&font-size=0.4"
+image: "https://api.dicebear.com/7.x/icons/svg?seed=Isaiah&backgroundColor=1754cf&icon=scroll"
 order: 5
 ---
 

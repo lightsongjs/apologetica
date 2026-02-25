@@ -1,0 +1,113 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "arrow_back" [ref=e5] [cursor=pointer]:
+        - /url: /personalitati
+        - generic [ref=e6]: arrow_back
+      - heading "Sfântul Proroc Isaia" [level=1] [ref=e7]
+  - main [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e13]: verified
+      - generic [ref=e14]:
+        - heading "Sfântul Proroc Isaia" [level=1] [ref=e15]
+        - paragraph [ref=e16]: Profet major, sec. VIII î.Hr.
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: history_edu
+          - heading "Biografie" [level=2] [ref=e21]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: "Sfântul Proroc Isaia (în ebraică: יְשַׁעְיָהוּ, „Domnul mântuiește\") a fost cel mai mare profet mesianic al Vechiului Testament. A trăit în Regatul lui Iuda în sec. VIII î.Hr., profețind în timpul domniei regilor Ozia, Ioatam, Ahaz și Iezechia."
+          - paragraph [ref=e24]: Isaia a fost de neam nobil, posibil chiar de origine regală, și a avut acces direct la curtea regilor. A fost chemat la profeție printr-o viziune în Templu, când a văzut slava lui Dumnezeu și serafimii strigând „Sfânt, Sfânt, Sfânt" (Isaia 6). Tradiția spune că a fost martirizat sub regele Manase, fiind tăiat cu fierăstrăul.
+          - paragraph [ref=e25]: Cartea sa (66 de capitole) este cea mai lungă dintre scrierile profetice și conține cele mai detaliate profeții despre venirea lui Mesia.
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: timeline
+          - heading "Cronologie" [level=2] [ref=e29]
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - heading "Chemarea la profeție (c. 740 î.Hr.)" [level=4] [ref=e33]
+            - paragraph [ref=e35]: "Viziunea din Templu: Isaia vede pe Domnul pe tronul Său înconjurat de serafimi. Un serafim îi atinge buzele cu un cărbune aprins, curățindu-l, iar Isaia răspunde: „Iată-mă, trimite-mă!\" (Isaia 6:1-8)."
+          - generic [ref=e36]:
+            - heading "Profeția despre Emanuel (c. 735 î.Hr.)" [level=4] [ref=e38]
+            - paragraph [ref=e40]: "În timpul crizei siro-efraimite, Isaia profețește regelui Ahaz: „Iată, Fecioara va lua în pântece și va naște Fiu și vor chema numele Lui Emanuel\" (Isaia 7:14) — profeție mesianică centrală."
+          - generic [ref=e41]:
+            - heading "Invazia asiriană (c. 701 î.Hr.)" [level=4] [ref=e43]
+            - paragraph [ref=e45]: Isaia îl sfătuiește pe regele Iezechia să nu se teamă de Sanherib al Asiriei. Dumnezeu trimite un înger care lovește 185.000 de soldați asirieni într-o singură noapte (Isaia 37:36).
+          - generic [ref=e46]:
+            - heading "Scrierile despre Robul suferind (perioadă incertă)" [level=4] [ref=e48]
+            - paragraph [ref=e50]: Cele patru „Cântări ale Robului" (Isaia 42, 49, 50, 52-53) descriu cu precizie uimitoare patimile, moartea și învierea lui Hristos, scrise cu secole înainte.
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - generic [ref=e53]: book
+          - heading "Surse și scrieri" [level=2] [ref=e54]
+        - generic [ref=e55]:
+          - generic [ref=e58]:
+            - heading "Cartea lui Isaia (66 capitole)" [level=4] [ref=e59]
+            - paragraph [ref=e61]: Cea mai amplă scriere profetică. Capitolele 1-39 se concentrează pe judecata lui Dumnezeu, iar capitolele 40-66 pe mângâierea și mântuirea viitoare.
+          - generic [ref=e64]:
+            - heading "Nașterea din Fecioară (7:14)" [level=4] [ref=e65]
+            - paragraph [ref=e67]: „Iată, Fecioara va lua în pântece și va naște Fiu și vor chema numele Lui Emanuel" — citată direct în Matei 1:23.
+          - generic [ref=e70]:
+            - heading "Lumina neamurilor (9:1-2)" [level=4] [ref=e71]
+            - paragraph [ref=e73]: „Poporul care umbla în întuneric a văzut lumină mare" — împlinită prin predicarea lui Hristos în Galileea.
+          - generic [ref=e76]:
+            - heading "Pruncul dumnezeiesc (9:6)" [level=4] [ref=e77]
+            - paragraph [ref=e79]: „Prunc s-a născut nouă... și I se va da numele de Sfetnic minunat, Dumnezeu tare, Părinte veșnic, Domn al păcii."
+          - generic [ref=e82]:
+            - heading "Robul suferind (52:13–53:12)" [level=4] [ref=e83]
+            - paragraph [ref=e85]: "Cea mai detaliată profeție despre patimile lui Hristos din tot Vechiul Testament: „El a fost străpuns pentru păcatele noastre, zdrobit pentru fărădelegile noastre.\""
+          - generic [ref=e88]:
+            - heading "Mântuirea universală (55:1)" [level=4] [ref=e89]
+            - paragraph [ref=e91]: „Voi toți cei însetați, veniți la ape!" — chemarea lui Dumnezeu către toate neamurile.
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e94]: groups
+          - heading "Contemporani" [level=2] [ref=e95]
+        - generic [ref=e96]:
+          - generic [ref=e99]:
+            - heading "Regele Iezechia (c. 715-686 î.Hr.)" [level=4] [ref=e100]
+            - paragraph [ref=e102]: Unul dintre cei mai evlavioși regi ai lui Iuda. Isaia l-a sfătuit în timpul invaziei asiriene și i-a transmis vindecarea de la Dumnezeu când era bolnav de moarte (Isaia 38).
+          - generic [ref=e105]:
+            - heading "Profetul Miheia (sec. VIII î.Hr.)" [level=4] [ref=e106]
+            - paragraph [ref=e108]: Contemporan cu Isaia, a profețit în aceeași perioadă. Miheia a prezis nașterea lui Mesia în Betleem (Miheia 5:2).
+          - generic [ref=e111]:
+            - heading "Profetul Osea (sec. VIII î.Hr.)" [level=4] [ref=e112]
+            - paragraph [ref=e114]: A profețit în Regatul de Nord (Israel) în aceeași perioadă. Mesajul său s-a concentrat pe dragostea fidelă a lui Dumnezeu față de poporul Său necredincios.
+  - navigation [ref=e115]:
+    - generic [ref=e116]:
+      - link "home Home" [ref=e117] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e118]: home
+        - generic [ref=e119]: Home
+      - link "search Căutare" [ref=e120] [cursor=pointer]:
+        - /url: /cautare
+        - generic [ref=e121]: search
+        - generic [ref=e122]: Căutare
+      - link "bookmark Salvate" [ref=e123] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e124]: bookmark
+        - generic [ref=e125]: Salvate
+      - link "settings Setări" [ref=e126] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e127]: settings
+        - generic [ref=e128]: Setări
+  - generic [ref=e131]:
+    - button "Menu" [ref=e132]:
+      - img [ref=e134]
+      - generic: Menu
+    - button "Inspect" [ref=e138]:
+      - img [ref=e140]
+      - generic: Inspect
+    - button "Audit" [ref=e142]:
+      - generic [ref=e143]:
+        - img [ref=e144]
+        - img [ref=e147]
+      - generic: Audit
+    - button "Settings" [ref=e150]:
+      - img [ref=e152]
+      - generic: Settings
+```

@@ -1,0 +1,121 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "arrow_back" [ref=e5] [cursor=pointer]:
+        - /url: /personalitati
+        - generic [ref=e6]: arrow_back
+      - heading "Sfântul Proroc Iezechiel" [level=1] [ref=e7]
+  - main [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e13]: verified
+      - generic [ref=e14]:
+        - heading "Sfântul Proroc Iezechiel" [level=1] [ref=e15]
+        - paragraph [ref=e16]: Profet major, sec. VI î.Hr.
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: history_edu
+          - heading "Biografie" [level=2] [ref=e21]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: "Sfântul Proroc Iezechiel (în ebraică: יְחֶזְקֵאל, „Dumnezeu întărește\") a fost preot și profet, deportat în Babilon odată cu a doua deportare (597 î.Hr.), cu aproape un deceniu înainte de distrugerea Templului. A profețit printre exilații de pe malul râului Chebar, în Mesopotamia."
+          - paragraph [ref=e24]: "Iezechiel este cunoscut pentru viziunile sale grandioase și simbolice: carul de foc cu cele patru ființe (interpretate ca simboluri ale Evangheliștilor), valea oaselor uscate care învie și Templul ceresc. A fost atât preot cât și profet — o combinație rară care dă scrierilor sale un caracter profund liturgic și sacramental."
+          - paragraph [ref=e25]: A profețit timp de cel puțin 22 de ani (593-571 î.Hr.) și a fost un contemporan mai tânăr al lui Ieremia. Tradiția spune că a murit în exil, martirizat de un prinț iudeu pe care îl mustrase pentru idolatrie.
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: timeline
+          - heading "Cronologie" [level=2] [ref=e29]
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - heading "Deportarea în Babilon (597 î.Hr.)" [level=4] [ref=e33]
+            - paragraph [ref=e35]: Iezechiel este deportat împreună cu regele Ioiachin și aproximativ 10.000 de iudei de elită în prima mare deportare sub Nebucadnețar. Se stabilește la Tel-Abib, pe malul râului Chebar.
+          - generic [ref=e36]:
+            - heading "Chemarea la profeție (593 î.Hr.)" [level=4] [ref=e38]
+            - paragraph [ref=e40]: "La vârsta de 30 de ani, Iezechiel primește viziunea inaugurală: carul de foc (merkavah) cu cele patru făpturi, roțile în roți și slava lui Dumnezeu (Iezechiel 1). Dumnezeu îi dă un sul să-l mănânce și îl trimite la popor."
+          - generic [ref=e41]:
+            - heading "Profeții de judecată (593-586 î.Hr.)" [level=4] [ref=e43]
+            - paragraph [ref=e45]: "Înainte de căderea Ierusalimului, Iezechiel vestește prin acte simbolice dramatice distrugerea cetății: zace pe o parte 390 de zile, își rade capul și barba, sapă un tunel prin perete pentru a simboliza fuga."
+          - generic [ref=e46]:
+            - heading "Viziunea slavei care pleacă din Templu (592 î.Hr.)" [level=4] [ref=e48]
+            - paragraph [ref=e50]: Iezechiel vede în viziune cum slava (kavod) lui Dumnezeu părăsește Templul din Ierusalim, treptat — de la heruvimi la prag, de la prag la poartă, de la poartă la Muntele Măslinilor (Iezechiel 10-11). Templul rămâne gol.
+          - generic [ref=e51]:
+            - heading "Căderea Ierusalimului — vestea sosește (585 î.Hr.)" [level=4] [ref=e53]
+            - paragraph [ref=e55]: "Un fugar aduce vestea distrugerii Templului. Din acest moment, mesajul lui Iezechiel se schimbă: de la judecată la speranță și restaurare."
+          - generic [ref=e56]:
+            - heading "Valea oaselor uscate (după 585 î.Hr.)" [level=4] [ref=e58]
+            - paragraph [ref=e60]: "Marea viziune din capitolul 37: Dumnezeu îl duce pe Iezechiel într-o vale plină de oase uscate, care prind viață prin Duhul lui Dumnezeu — profeție despre învierea și restaurarea lui Israel."
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63]: book
+          - heading "Surse și scrieri" [level=2] [ref=e64]
+        - generic [ref=e65]:
+          - generic [ref=e68]:
+            - heading "Cartea lui Iezechiel (48 capitole)" [level=4] [ref=e69]
+            - paragraph [ref=e71]: "Structurată clar în trei părți: judecata asupra lui Israel (1-24), judecata asupra neamurilor (25-32) și restaurarea viitoare (33-48)."
+          - generic [ref=e74]:
+            - heading "Carul de foc — Merkavah (cap. 1)" [level=4] [ref=e75]
+            - paragraph [ref=e77]: "Cele patru făpturi cu fețe de om, leu, bou și vultur — identificate în tradiția creștină cu cei patru Evangheliști: Matei (omul), Marcu (leul), Luca (boul) și Ioan (vulturul)."
+          - generic [ref=e80]:
+            - heading "Valea oaselor uscate (cap. 37)" [level=4] [ref=e81]
+            - paragraph [ref=e83]: „Oase uscate, ascultați cuvântul Domnului!" — Duhul Sfânt suflă peste oase și ele învie. Citită în Biserică în Sâmbăta Mare, ca profeție a Învierii.
+          - generic [ref=e86]:
+            - heading "Templul ceresc (cap. 40-48)" [level=4] [ref=e87]
+            - paragraph [ref=e89]: Viziunea unui Templu perfect, cu un râu de viață care curge de sub prag — prefigurare a Bisericii și a Ierusalimului ceresc din Apocalipsa.
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - generic [ref=e92]: groups
+          - heading "Contemporani" [level=2] [ref=e93]
+        - generic [ref=e94]:
+          - link "Profetul Ieremia Contemporan mai în vârstă, a rămas în Ierusalim în timp ce Iezechiel era în exil. Amândoi au profețit distrugerea Templului, dar din locuri diferite. chevron_right" [ref=e95] [cursor=pointer]:
+            - /url: /personalitati/ieremia
+            - generic [ref=e96]:
+              - generic [ref=e97]:
+                - heading "Profetul Ieremia" [level=4] [ref=e98]
+                - paragraph [ref=e100]: Contemporan mai în vârstă, a rămas în Ierusalim în timp ce Iezechiel era în exil. Amândoi au profețit distrugerea Templului, dar din locuri diferite.
+              - generic [ref=e101]: chevron_right
+          - link "Profetul Daniel Contemporan în exilul babilonian, deși la curtea regală, nu printre exilați. Iezechiel îl menționează ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14). chevron_right" [ref=e102] [cursor=pointer]:
+            - /url: /personalitati/daniel
+            - generic [ref=e103]:
+              - generic [ref=e104]:
+                - heading "Profetul Daniel" [level=4] [ref=e105]
+                - paragraph [ref=e107]: Contemporan în exilul babilonian, deși la curtea regală, nu printre exilați. Iezechiel îl menționează ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14).
+              - generic [ref=e108]: chevron_right
+          - generic [ref=e111]:
+            - heading "Regele Ioiachin (exilat 597 î.Hr.)" [level=4] [ref=e112]
+            - paragraph [ref=e114]: Ultimul rege legitim al lui Iuda, deportat împreună cu Iezechiel. Exilații datau evenimentele „în anii robiei regelui Ioiachin".
+  - navigation [ref=e115]:
+    - generic [ref=e116]:
+      - link "home Home" [ref=e117] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e118]: home
+        - generic [ref=e119]: Home
+      - link "search Căutare" [ref=e120] [cursor=pointer]:
+        - /url: /cautare
+        - generic [ref=e121]: search
+        - generic [ref=e122]: Căutare
+      - link "bookmark Salvate" [ref=e123] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e124]: bookmark
+        - generic [ref=e125]: Salvate
+      - link "settings Setări" [ref=e126] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e127]: settings
+        - generic [ref=e128]: Setări
+  - generic [ref=e131]:
+    - button "Menu" [ref=e132]:
+      - img [ref=e134]
+      - generic: Menu
+    - button "Inspect" [ref=e138]:
+      - img [ref=e140]
+      - generic: Inspect
+    - button "Audit" [ref=e142]:
+      - generic [ref=e143]:
+        - img [ref=e144]
+        - img [ref=e147]
+      - generic: Audit
+    - button "Settings" [ref=e150]:
+      - img [ref=e152]
+      - generic: Settings
+```

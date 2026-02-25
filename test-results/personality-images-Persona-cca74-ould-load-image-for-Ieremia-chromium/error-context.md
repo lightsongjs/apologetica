@@ -1,0 +1,103 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "arrow_back" [ref=e5] [cursor=pointer]:
+        - /url: /personalitati
+        - generic [ref=e6]: arrow_back
+      - heading "Sfântul Proroc Ieremia" [level=1] [ref=e7]
+  - main [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e13]: verified
+      - generic [ref=e14]:
+        - heading "Sfântul Proroc Ieremia" [level=1] [ref=e15]
+        - paragraph [ref=e16]: Profet major, sec. VII–VI î.Hr.
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: history_edu
+          - heading "Biografie" [level=2] [ref=e21]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: "Sfântul Proroc Ieremia (în ebraică: יִרְמְיָהוּ, „Domnul înalță\") a fost „profetul plângător\", chemat de Dumnezeu din tinerețe să vestească distrugerea Ierusalimului și exilul babilonian. A trăit în cea mai dramatică perioadă din istoria Regatului lui Iuda — căderea definitivă a Ierusalimului în 586 î.Hr."
+          - paragraph [ref=e24]: "Ieremia a fost fiu de preot din Anatot, lângă Ierusalim. Dumnezeu l-a chemat ca profet pe când era tânăr, spunându-i: „Mai înainte de a te fi zămislit în pântece, te-am cunoscut, și mai înainte de a ieși din pântece, te-am sfințit și te-am rânduit proroc pentru popoare\" (Ieremia 1:5)."
+          - paragraph [ref=e25]: A predicat timp de 40 de ani unui popor care nu l-a ascultat. A fost persecutat, bătut, aruncat într-o cisternă cu noroi, închis și, în cele din urmă, dus forțat în Egipt după căderea Ierusalimului.
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: timeline
+          - heading "Cronologie" [level=2] [ref=e29]
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - heading "Chemarea la profeție (c. 627 î.Hr.)" [level=4] [ref=e33]
+            - paragraph [ref=e35]: "Dumnezeu îl cheamă pe tânărul Ieremia: „Nu zice: «Sunt tânăr», căci te vei duce la toți aceia la care te voi trimite\" (Ieremia 1:7). Primește viziunea migdalului înflorit și a cazanului clocotitor."
+          - generic [ref=e36]:
+            - heading "Reforma regelui Iosia (c. 622 î.Hr.)" [level=4] [ref=e38]
+            - paragraph [ref=e40]: Descoperirea Cărții Legii în Templu declanșează o reformă religioasă sub regele Iosia. Ieremia susține reforma, dar avertizează că schimbarea trebuie să fie din inimă, nu doar externă.
+          - generic [ref=e41]:
+            - heading "Moartea lui Iosia la Meghiddo (609 î.Hr.)" [level=4] [ref=e43]
+            - paragraph [ref=e45]: Regele Iosia moare în bătălia de la Meghiddo. Ieremia îl plânge. Iuda intră într-o spirală de declin sub regii următori, care ignoră avertismentele profetului.
+          - generic [ref=e46]:
+            - heading "Cuvântarea din Templu (c. 608 î.Hr.)" [level=4] [ref=e48]
+            - paragraph [ref=e50]: Ieremia rosteşte celebra predică din curtea Templului, avertizând că Templul va fi distrus ca și sanctuarul din Șilo. Este aproape ucis de mulțime, dar scapă (Ieremia 7, 26).
+          - generic [ref=e51]:
+            - heading "Aruncat în cisternă (c. 588 î.Hr.)" [level=4] [ref=e53]
+            - paragraph [ref=e55]: În timpul asediului babilonian, Ieremia este acuzat de trădare și aruncat într-o cisternă cu noroi. Este salvat de eunucul etiopian Ebed-Melec (Ieremia 38).
+          - generic [ref=e56]:
+            - heading "Căderea Ierusalimului (586 î.Hr.)" [level=4] [ref=e58]
+            - paragraph [ref=e60]: Nebucadnețar cucerește Ierusalimul, distruge Templul lui Solomon și deportează poporul în Babilon. Ieremia rămâne în Iuda sub guvernatorul Ghedalia.
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63]: book
+          - heading "Surse și scrieri" [level=2] [ref=e64]
+        - generic [ref=e65]:
+          - generic [ref=e68]:
+            - heading "Cartea lui Ieremia (52 capitole)" [level=4] [ref=e69]
+            - paragraph [ref=e71]: Cea mai lungă carte a Bibliei (după numărul de cuvinte). Conține profeții, narațiuni biografice și confesiuni personale ale profetului.
+          - generic [ref=e74]:
+            - heading "Plângerile lui Ieremia (5 capitole)" [level=4] [ref=e75]
+            - paragraph [ref=e77]: Cinci poeme de jale pentru distrugerea Ierusalimului și a Templului. Sunt citite în Biserică în Săptămâna Mare.
+          - generic [ref=e80]:
+            - heading "Ieremia 31:31-34" [level=4] [ref=e81]
+            - paragraph [ref=e83]: "Cel mai important text al cărții: „Iată vin zile, zice Domnul, când voi încheia cu casa lui Israel și cu casa lui Iuda un legământ nou... Voi pune legea Mea înlăuntrul lor și pe inimile lor voi scrie.\" Acesta este pasajul citat direct în Evrei 8:8-12 ca fundamentul Noului Testament."
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]: groups
+          - heading "Contemporani" [level=2] [ref=e87]
+        - generic [ref=e91]:
+          - heading "Profetul Sofonie (sec. VII î.Hr.)" [level=4] [ref=e92]
+          - paragraph [ref=e94]: A profețit în aceeași perioadă cu Ieremia, avertizând despre „
+  - navigation [ref=e95]:
+    - generic [ref=e96]:
+      - link "home Home" [ref=e97] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e98]: home
+        - generic [ref=e99]: Home
+      - link "search Căutare" [ref=e100] [cursor=pointer]:
+        - /url: /cautare
+        - generic [ref=e101]: search
+        - generic [ref=e102]: Căutare
+      - link "bookmark Salvate" [ref=e103] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e104]: bookmark
+        - generic [ref=e105]: Salvate
+      - link "settings Setări" [ref=e106] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e107]: settings
+        - generic [ref=e108]: Setări
+  - generic [ref=e111]:
+    - button "Menu" [ref=e112]:
+      - img [ref=e114]
+      - generic: Menu
+    - button "Inspect" [ref=e118]:
+      - img [ref=e120]
+      - generic: Inspect
+    - button "Audit" [ref=e122]:
+      - generic [ref=e123]:
+        - img [ref=e124]
+        - img [ref=e127]
+      - generic: Audit
+    - button "Settings" [ref=e130]:
+      - img [ref=e132]
+      - generic: Settings
+```

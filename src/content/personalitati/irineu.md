@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Irineu de Lyon"
 title: "Episcop al Lyonului, Teolog și Apologet"
-image: "https://ui-avatars.com/api/?name=Irineu&size=256&background=1754cf&color=fff&bold=true&font-size=0.4"
+image: "https://api.dicebear.com/7.x/icons/svg?seed=Irenaeus&backgroundColor=1754cf&icon=pen"
 order: 3
 ---
 

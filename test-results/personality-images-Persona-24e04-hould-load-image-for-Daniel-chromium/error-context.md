@@ -1,0 +1,117 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "arrow_back" [ref=e5] [cursor=pointer]:
+        - /url: /personalitati
+        - generic [ref=e6]: arrow_back
+      - heading "Sfântul Proroc Daniel" [level=1] [ref=e7]
+  - main [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e13]: verified
+      - generic [ref=e14]:
+        - heading "Sfântul Proroc Daniel" [level=1] [ref=e15]
+        - paragraph [ref=e16]: Profet major, sec. VI î.Hr.
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: history_edu
+          - heading "Biografie" [level=2] [ref=e21]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: "Sfântul Proroc Daniel (în ebraică: דָּנִיֵּאל, „Dumnezeu este judecătorul meu\") a fost un tânăr nobil din Iuda, deportat în Babilon în prima deportare (605 î.Hr.) și crescut la curtea regelui Nebucadnețar. A ajuns unul dintre cei mai înalți demnitari ai Imperiului Babilonian, apoi ai Imperiului Medo-Persan."
+          - paragraph [ref=e24]: "Daniel este unic printre profeți: nu a fost nici preot, nici păstor, ci un om de stat care a slujit la cel mai înalt nivel al puterii politice, rămânând în același timp absolut credincios lui Dumnezeu. A interpretat vise, a primit viziuni apocaliptice despre cursul istoriei universale și a supraviețuit miraculos gropii cu lei."
+          - paragraph [ref=e25]: Cartea sa conține cele mai detaliate profeții cronologice din Vechiul Testament, inclusiv cele 70 de săptămâni care prezic cu precizie venirea lui Mesia.
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: timeline
+          - heading "Cronologie" [level=2] [ref=e29]
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - heading "Deportarea în Babilon (605 î.Hr.)" [level=4] [ref=e33]
+            - paragraph [ref=e35]: Tânărul Daniel, împreună cu Anania, Azaria și Misail, este luat din Iuda și adus la curtea lui Nebucadnețar pentru a fi educat în cultura caldeeană. Li se dau nume babiloniene, dar refuză să se spurce cu mâncarea regelui.
+          - generic [ref=e36]:
+            - heading "Visul lui Nebucadnețar — statuia (c. 603 î.Hr.)" [level=4] [ref=e38]
+            - paragraph [ref=e40]: "Daniel interpretează visul regelui despre statuia colosală din aur, argint, bronz, fier și lut — cele patru imperii mondiale (Babilon, Medo-Persia, Grecia, Roma) — și piatra care le zdrobește pe toate: Împărăția lui Dumnezeu (Daniel 2)."
+          - generic [ref=e41]:
+            - heading "Cuptorul de foc (c. 590 î.Hr.)" [level=4] [ref=e43]
+            - paragraph [ref=e45]: Anania, Azaria și Misail (Șadrac, Meșac, Abed-Nego) refuză să se închine chipului de aur al lui Nebucadnețar și sunt aruncați în cuptorul încinit de șapte ori mai tare. Un al patrulea chip, „ca un fiu al zeilor", apare cu ei în foc, iar ei ies nevătămați (Daniel 3).
+          - generic [ref=e46]:
+            - heading "Scrierea de pe perete (539 î.Hr.)" [level=4] [ref=e48]
+            - paragraph [ref=e50]: "În timpul banchetului regelui Belșațar, o mână scrie pe perete: „MENE, MENE, TEKEL, UFARSIN\". Daniel interpretează: Dumnezeu a numărat zilele împărăției, a fost cântărită și găsită ușoară, și va fi împărțită între mezi și perși. Chiar în acea noapte, Babilonul cade."
+          - generic [ref=e51]:
+            - heading "Groapa cu lei (c. 538 î.Hr.)" [level=4] [ref=e53]
+            - paragraph [ref=e55]: Sub Darius Medul, dușmanii lui Daniel obțin un decret care interzice rugăciunea către oricine în afară de rege. Daniel continuă să se roage de trei ori pe zi cu fața spre Ierusalim. Este aruncat în groapa cu lei, dar Dumnezeu trimite un înger care închide gura leilor (Daniel 6).
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - generic [ref=e58]: book
+          - heading "Surse și scrieri" [level=2] [ref=e59]
+        - generic [ref=e60]:
+          - generic [ref=e63]:
+            - heading "Cartea lui Daniel (12 capitole + suplimente ortodoxe)" [level=4] [ref=e64]
+            - paragraph [ref=e66]: "Primele 6 capitole sunt narațiune, următoarele 6 sunt viziuni apocaliptice. Canonul ortodox include și: Cântarea celor trei tineri, Istoria Susanei, Bel și Balaurul."
+          - generic [ref=e69]:
+            - heading "Cele patru imperii mondiale (cap. 2, 7)" [level=4] [ref=e70]
+            - paragraph [ref=e72]: "Statuia și cele patru fiare reprezintă succesiunea imperiilor: Babilon (aur/leu), Medo-Persia (argint/urs), Grecia (bronz/leopard), Roma (fier/fiara a patra). După ele, Dumnezeu ridică o Împărăție veșnică."
+          - generic [ref=e75]:
+            - heading "Fiul Omului (7:13-14)" [level=4] [ref=e76]
+            - paragraph [ref=e78]: „Am privit în vedenia de noapte, și iată, pe norii cerurilor venea cineva ca un Fiu al Omului... Și I s-a dat stăpânire, slavă și împărăție." Titlul principal pe care Hristos Și-l atribuie.
+          - generic [ref=e81]:
+            - heading "Cele 70 de săptămâni (9:24-27)" [level=4] [ref=e82]
+            - paragraph [ref=e84]: "Profeție cronologică: 70 de „săptămâni\" (490 de ani) de la porunca de a rezidi Ierusalimul până la „Unsul\" (Mesia). Calculul duce cu precizie în perioada slujirii lui Hristos."
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - generic [ref=e87]: groups
+          - heading "Contemporani" [level=2] [ref=e88]
+        - generic [ref=e89]:
+          - link "Profetul Iezechiel Contemporan în exilul babilonian. Iezechiel îl menționează pe Daniel ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14), deși Daniel era încă în viață. chevron_right" [ref=e90] [cursor=pointer]:
+            - /url: /personalitati/iezechiel
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - heading "Profetul Iezechiel" [level=4] [ref=e93]
+                - paragraph [ref=e95]: Contemporan în exilul babilonian. Iezechiel îl menționează pe Daniel ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14), deși Daniel era încă în viață.
+              - generic [ref=e96]: chevron_right
+          - generic [ref=e99]:
+            - heading "Regele Nebucadnețar (605-562 î.Hr.)" [level=4] [ref=e100]
+            - paragraph [ref=e102]: Cel mai puternic rege al Babilonului. Daniel i-a interpretat visele și l-a sfătuit. Nebucadnețar ajunge să recunoască puterea Dumnezeului lui Israel (Daniel 4:37).
+          - generic [ref=e105]:
+            - heading "Regele Cirus cel Mare (559-530 î.Hr.)" [level=4] [ref=e106]
+            - paragraph [ref=e108]: Fondatorul Imperiului Persan, care a cucerit Babilonul și a eliberat iudeii să se întoarcă în Iuda (Edictul din 538 î.Hr.). Daniel a continuat să slujească sub el.
+          - generic [ref=e111]:
+            - heading "Anania, Azaria și Misail" [level=4] [ref=e112]
+            - paragraph [ref=e114]: Cei trei tineri iudei, prietenii lui Daniel, aruncați în cuptorul de foc. Cântarea lor din cuptorul de foc este parte a cultului ortodox (Cântarea a 7-a și a 8-a din canon).
+  - navigation [ref=e115]:
+    - generic [ref=e116]:
+      - link "home Home" [ref=e117] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e118]: home
+        - generic [ref=e119]: Home
+      - link "search Căutare" [ref=e120] [cursor=pointer]:
+        - /url: /cautare
+        - generic [ref=e121]: search
+        - generic [ref=e122]: Căutare
+      - link "bookmark Salvate" [ref=e123] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e124]: bookmark
+        - generic [ref=e125]: Salvate
+      - link "settings Setări" [ref=e126] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e127]: settings
+        - generic [ref=e128]: Setări
+  - generic [ref=e131]:
+    - button "Menu" [ref=e132]:
+      - img [ref=e134]
+      - generic: Menu
+    - button "Inspect" [ref=e138]:
+      - img [ref=e140]
+      - generic: Inspect
+    - button "Audit" [ref=e142]:
+      - generic [ref=e143]:
+        - img [ref=e144]
+        - img [ref=e147]
+      - generic: Audit
+    - button "Settings" [ref=e150]:
+      - img [ref=e152]
+      - generic: Settings
+```
