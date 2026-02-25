@@ -27,8 +27,8 @@ Isaia îl sfătuiește pe regele Iezechia să nu se teamă de Sanherib al Asirie
 ### Scrierile despre Robul suferind (perioadă incertă)
 Cele patru „Cântări ale Robului" (Isaia 42, 49, 50, 52-53) descriu cu precizie uimitoare patimile, moartea și învierea lui Hristos, scrise cu secole înainte.
 
-### Martiriul (tradiție, sub Manase, c. 686 î.Hr.)
-Tradiția iudaică și creștină spune că Isaia a fost tăiat cu fierăstrăul de lemn din porunca regelui Manase. Epistola către Evrei 11:37 face posibil aluzie la acest eveniment.
+### Martiriul (tradiție, sub [[personalitati:manase|Manase]], c. 686 î.Hr.)
+Tradiția iudaică și creștină spune că Isaia a fost tăiat cu fierăstrăul de lemn din porunca regelui [[personalitati:manase|Manase]]. Epistola către Evrei 11:37 face posibil aluzie la acest eveniment.
 
 ## Surse și scrieri
 

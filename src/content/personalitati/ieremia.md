@@ -51,6 +51,9 @@ Cel mai important text al cărții: „Iată vin zile, zice Domnul, când voi î
 
 ## Contemporani și rude spirituale
 
+### [[personalitati:iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
+Contemporan mai tânăr, deportat în Babilon în 597 î.Hr. Iezechiel a profețit printre exilați, în timp ce Ieremia rămânea în Iuda. Amândoi au vestit distrugerea Templului și restaurarea viitoare.
+
 ### Profetul Sofonie (sec. VII î.Hr.)
 A profețit în aceeași perioadă cu Ieremia, avertizând despre „Ziua Domnului" și judecata asupra Iudei.
 

@@ -81,6 +81,9 @@ Papa roman cu care Irineu a corespondat în timpul controversei pascale, cerând
 ### Potinus de Lyon (murit 177)
 Episcopul său predecessor la Lyon, martirizat în vârstă de 90 de ani. Sub Potinus, Irineu a slujit ca preot și a absorbit experiența pastorală.
 
+### [[personalitati:ignatie-teoforul|Sfântul Ignatie Teoforul]] (murit c. 107-110)
+Martirizat cu decenii înainte ca Irineu să se nască, dar epistolele sale au fost cunoscute și citate de Irineu. Ignatie fusese prieten apropiat al învățătorului lui Irineu, Policarp, creând astfel o legătură indirectă între cele două generații.
+
 ### Tertulian de Cartagina (c. 155-220)
 Contemporan din Africa de Nord, alt mare apologet și teolog. Amândoi au scris împotriva acelorași erezii, deși cu stiluri diferite.
 
