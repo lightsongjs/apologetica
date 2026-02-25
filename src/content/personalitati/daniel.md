@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Proroc Daniel"
 title: "Profet major, sec. VI î.Hr."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_WGA20200.jpg/250px-Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_WGA20200.jpg"
+image: "https://ui-avatars.com/api/?name=Daniel&size=256&background=1754cf&color=fff&bold=true&font-size=0.4"
 order: 8
 ---
 

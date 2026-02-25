@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Proroc Ieremia"
 title: "Profet major, sec. VII–VI î.Hr."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jeremiah_lamenting.jpg/250px-Jeremiah_lamenting.jpg"
+image: "https://ui-avatars.com/api/?name=Ieremia&size=256&background=1754cf&color=fff&bold=true&font-size=0.4"
 order: 6
 ---
 

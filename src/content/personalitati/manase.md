@@ -1,7 +1,7 @@
 ---
 name: "Regele Manase"
 title: "Rege al lui Iuda, sec. VII î.Hr."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Manasseh_Led_Into_Captivity.jpg/300px-Manasseh_Led_Into_Captivity.jpg"
+image: "https://ui-avatars.com/api/?name=Manase&size=256&background=1754cf&color=fff&bold=true&font-size=0.4"
 order: 9
 ---
 

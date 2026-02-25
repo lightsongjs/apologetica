@@ -1,7 +1,7 @@
 ---
 name: "Sfântul Policarp de Smyrna"
 title: "Episcop al Smirnei, Mucenic"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Polikarpos.jpg/250px-Polikarpos.jpg"
+image: "https://ui-avatars.com/api/?name=Policarp&size=256&background=1754cf&color=fff&bold=true&font-size=0.4"
 order: 2
 ---
 
