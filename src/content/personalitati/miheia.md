@@ -68,6 +68,9 @@ Deși a profețit cu aproximativ un secol după Miheia, Ieremia 26:18-19 mărtur
 ### Regele Iezechia (c. 715-686 î.Hr.)
 Unul dintre cei mai evlavioși regi ai lui Iuda. Profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe Iezechia să caute fața Domnului, iar Domnul a cruțat cetatea (cf. Ieremia 26:18-19).
 
+### [[personalitati:osea|Profetul Osea]] (sec. VIII î.Hr.)
+Contemporan cu Miheia, Osea a profețit în Regatul de Nord al lui Israel. Ca și Miheia, Osea a cerut milă și cunoașterea lui Dumnezeu mai presus de jertfe: „Milă voiesc, iar nu jertfă" (Osea 6:6), ecou al cuvintelor lui Miheia 6:8.
+
 ### Regele Ahaz (c. 735-715 î.Hr.)
 Rege necredincios al lui Iuda, care a introdus cultul idolilor și i-a trecut pe fiii săi prin foc. Miheia a profețit și în timpul lui Ahaz, denunțând idolatria și nedreptatea.
 

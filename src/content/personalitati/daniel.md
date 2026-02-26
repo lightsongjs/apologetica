@@ -66,6 +66,9 @@ Fondatorul Imperiului Persan, care a cucerit Babilonul și a eliberat iudeii să
 ### Anania, Azaria și Misail
 Cei trei tineri iudei, prietenii lui Daniel, aruncați în cuptorul de foc. Cântarea lor din cuptorul de foc este parte a cultului ortodox (Cântarea a 7-a și a 8-a din canon).
 
+### [[personalitati:avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
+Conform tradiției ortodoxe din suplimentul deuterocanonic „Bel și Balaurul", Avacum a fost transportat miraculos de un înger din Iudeea în Babilon pentru a-i duce mâncare lui Daniel în groapa cu lei — legătură narativă și liturgică unică între cei doi profeți.
+
 ## Versete cheie din epistolele sale
 
 **Daniel 2:44** — „Dumnezeul cerurilor va ridica o împărăție care nu va fi nimicită niciodată. Ea va zdrobi și va nimici toate aceste împărății, iar ea va dăinui veșnic."

@@ -48,8 +48,8 @@ După judecată, Sofonie vestește restaurarea Ierusalimului și bucuria lui Dum
 ### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan cu Sofonie, chemat la profeție în anul 627 î.Hr. Amândoi au predicat în Iuda în timpul domniei lui Iosia, vestind judecata lui Dumnezeu și chemând poporul la pocăință.
 
-### Profetul Habacuc (sec. VII î.Hr.)
-Contemporan cu Sofonie și Ieremia. A pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Habacuc 2:4).
+### [[personalitati:avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
+Contemporan cu Sofonie și Ieremia. A pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Avacum 2:4).
 
 ### Regele Iosia (640-609 î.Hr.)
 Ultimul rege drept al lui Iuda, sub a cărui domnie Sofonie a profețit. Reforma religioasă a lui Iosia poate fi văzută ca un răspuns la mesajul profeților din timpul său, inclusiv Sofonie.

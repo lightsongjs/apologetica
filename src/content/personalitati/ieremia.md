@@ -63,8 +63,8 @@ Contemporan mai tânăr, deportat în Babilon în 605 î.Hr. Daniel a slujit la 
 ### [[personalitati:manase|Regele Manase]] (697-642 î.Hr.)
 Ieremia s-ar fi născut în timpul târziei domnii a lui Manase sau sub fiul acestuia, Amon. Păcatele lui Manase — idolatria extremă și vărsarea de sânge nevinovat — erau încă proaspete în memoria colectivă și au contribuit la căderea finală a Ierusalimului pe care Ieremia a profețit-o.
 
-### Profetul Habacuc (sec. VII î.Hr.)
-Contemporan cu Ieremia, a pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Habacuc 2:4).
+### [[personalitati:avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
+Contemporan cu Ieremia, a pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Avacum 2:4).
 
 ### Regele Iosia (640-609 î.Hr.)
 Ultimul rege drept al lui Iuda. Ieremia a susținut reforma sa religioasă și l-a plâns după moartea sa la Meghiddo.

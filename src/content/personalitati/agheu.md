@@ -66,8 +66,8 @@ Nepotul regelui Ioiachin, din neamul lui David, conducătorul politic al comunit
 ### Iosua, fiul lui Ioțadac (marele preot)
 Primul mare preot al celui de-al doilea Templu, partenerul lui Zorobabel în conducerea comunității. Agheu i se adresează direct, alături de Zorobabel, în toate profețiile sale.
 
-### [[personalitati:daniel|Profetul Daniel]] (sec. VI î.Hr.)
-Daniel a trăit tot în perioada exilului babilonian și a profețit sub aceiași regi persi. Viziunile sale despre cele patru imperii și cele 70 de săptămâni se corelează cu perioada reconstrucției Templului pe care Agheu o promovează.
+### [[personalitati:maleahi|Profetul Maleahi]] (sec. V î.Hr.)
+Ultimul profet al Vechiului Testament, care a profetizat la aproape un secol după Agheu, în Templul deja reconstruit. Maleahi vestește că în acest Templu va veni „Solul Legământului" (Maleahi 3:1) — împlinind promisiunea lui Agheu despre slava mai mare a celui de-al doilea Templu.
 
 ### Regele Darius I Hystaspes (522-486 î.Hr.)
 Regele persan sub care Agheu a profețit. Darius a confirmat edictul lui Cirus și a permis continuarea reconstrucției Templului, oferind chiar sprijin financiar din tezaurul regal.

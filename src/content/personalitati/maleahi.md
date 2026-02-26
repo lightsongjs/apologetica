@@ -7,83 +7,107 @@ order: 28
 
 ## Bio
 
-Sfântul Proroc Maleahi (în ebraică: מַלְאָכִי, „Îngerul Meu" sau „Solul Meu") este ultimul dintre Profeții Vechiului Testament, încheind lanțul profetic care a început cu [[personalitati:moise|Moise]]. A profetizat în Iudeea post-exilică, probabil în jurul anului 450 î.Hr., în perioada contemporană sau puțin anterioară reformelor lui Neemia.
+Sfântul Proroc Maleahi (în ebraică: מַלְאָכִי, „solul meu" sau „îngerul meu") a fost ultimul profet al Vechiului Testament, a cărui voce închide revelația profetică veterotestamentară și deschide tăcerea de patru secole care precedă venirea lui Hristos. A activat în Ierusalim în jurul anului 460-430 î.Hr., după reconstruirea celui de-al doilea Templu, într-o perioadă de declin spiritual și moral.
 
-Maleahi a denunțat decăderea cultului — preoții aduceau jertfe cu animale bolnave și șchioape — necredincioșia în căsătorii (divorțul și căsătoriile mixte) și nedreptatea socială. Poporul întors din exil se complăcea în mediocritate spirituală, întrebându-se cinic: „Unde este Dumnezeul dreptății?"
+Numele „Maleahi" este discutat de comentatori: unii îl consideră un nume propriu, alții un titlu („solul Meu"), iar tradiția iudaică tardivă l-a identificat uneori cu scribul Ezdra. Biserica Ortodoxă îl venerează ca profet distinct.
 
-Profeția sa culminantă vestește venirea unui „sol" care va pregăti calea Domnului (Maleahi 3:1) și întoarcerea lui Ilie înainte de Ziua Domnului (Maleahi 3:23) — profeții împlinite în Sfântul Ioan Botezătorul.
+Mesajul lui Maleahi se adresează în principal preoților corupți care aduceau jertfe necorespunzătoare și poporului care se depărtase de legile căsătoriei și ale zeciuielii. Dar în mijlocul acestor mustrări strălucesc două profeții de o importanță imensă: anunțarea „jertfei curate" care va fi adusă între neamuri „de la răsăritul soarelui până la apusul lui" (1:11) — interpretată de Sfinții Părinți ca profeție a Sfintei Euharistii — și vestirea trimiterii lui Ilie înainte de „Ziua cea mare și înfricoșătoare a Domnului" (3:23/4:5).
 
 ## Timeline
 
-### Contextul post-exilic (c. 460-450 î.Hr.)
-Templul al doilea fusese reconstruit (516 î.Hr.), dar entuziasmul inițial se stinsese. Poporul era dezamăgit că restaurarea nu adusese gloria promisă. Preoții erau corupți și neglijenți.
+### Contextul istoric (c. 460-430 î.Hr.)
+Templul al doilea fusese reconstruit în 515 î.Hr. și funcționa de peste jumătate de secol. Entuziasmul inițial se stinsese, iar poporul căzuse în formalism religios, corupție preoțească și căsătorii mixte cu popoarele păgâne. Maleahi profețește în aceeași perioadă cu reformele lui Neemia și Ezdra.
 
-### Rechizitoriul împotriva preoților
-Maleahi mustră preoții care disprețuiesc Numele lui Dumnezeu: „Un fiu cinstește pe tatăl său și un rob pe stăpânul său. Dacă Eu sunt Tată, unde este cinstea Mea?" (Maleahi 1:6). Jertfele cu animale bolnave sunt o ocară.
+### Disputa cu preoții — jertfele necurate (cap. 1:6-2:9)
+Maleahi mustră preoții care aduceau pe altar animale oarbe, șchioape și bolnave: „Aduceți-le dregătorului vostru! Va fi el mulțumit de voi?" (1:8). Preoții care ar fi trebuit să fie „buze care păzesc cunoștința" deveniseră călăuze oarbe.
 
-### Profeția jertfei universale
-Maleahi vestește: „De la răsăritul soarelui și până la apusul lui, mare va fi Numele Meu între neamuri, și în tot locul se va aduce jertfă de tămâie Numelui Meu și jertfă curată" (Maleahi 1:11) — interpretat ca profeție a Sfintei Euharistii.
+### Profeția jertfei curate între neamuri (1:11)
+În mijlocul mustrării, Maleahi vestește: „De la răsăritul soarelui și până la apusul lui, mare va fi Numele Meu între neamuri; și în tot locul se vor aduce Numelui Meu tămâie și jertfă curată." Sfinții Părinți, în unanimitate, văd aici profeția Sfintei Euharistii — jertfa nesângeroasă adusă în toată lumea.
 
-### Denunțarea divorțului și a căsătoriilor mixte
-Maleahi condamnă divorțul: „Eu urăsc repudierea, zice Domnul" (Maleahi 2:16) și căsătoriile cu femei păgâne care duceau la idolatrie.
+### Mustrarea pentru căsătoriile nelegitime (2:10-16)
+Maleahi condamnă atât căsătoriile mixte cu femei păgâne, cât și divorțurile nedrepte: „Domnul a fost martor între tine și femeia tinereții tale, față de care ai fost necredincios... Căci Eu urăsc divorțul, zice Domnul" (2:14-16).
 
-### „Solul legământului" și venirea Domnului
-„Iată, Eu trimit pe solul Meu și va pregăti calea înaintea feței Mele, și va veni deodată în templul Său Domnul pe Care Îl căutați" (Maleahi 3:1).
+### „Solul Legământului" și curățirea (3:1-5)
+„Iată, Eu trimit pe solul Meu și el va pregăti calea înaintea Feței Mele; și îndată va veni în Templul Său Domnul pe care Îl căutați și Solul Legământului pe care voi Îl doriți." Sfinții Părinți identifică „solul" cu Sfântul Ioan Botezătorul și „Solul Legământului" cu Hristos Însuși.
 
-### Profeția întoarcerii lui Ilie
-Ultimele cuvinte ale Vechiului Testament: „Iată, Eu vă trimit pe Ilie proorocul, înainte de a veni ziua Domnului cea mare și înfricoșătoare. El va întoarce inima părinților către fii și inima fiilor către părinți" (Maleahi 3:23-24).
+### Zeciuiala și binecuvântarea (3:8-12)
+Maleahi mustră poporul pentru furtul zeciuielilor și oferă una dintre rarele provocări din Scriptură: „Încercați-Mă în aceasta, zice Domnul Savaot, dacă nu voi deschide zăgazurile cerurilor și dacă nu voi turna peste voi binecuvântare fără măsură" (3:10).
+
+### Profeția despre Ilie (3:23-24 / 4:5-6)
+Ultima profeție a Vechiului Testament: „Iată, Eu vă trimit pe Ilie proorocul, înainte de a veni ziua Domnului cea mare și înfricoșătoare. El va întoarce inima părinților către fii și inima fiilor către părinți." Cu aceste cuvinte se încheie revelația profetică a Vechiului Legământ.
 
 ## Surse și scrieri
 
-### Cartea lui Maleahi (3 capitole în LXX / 4 în textul ebraic)
-Ultima carte a Vechiului Testament în canonul creștin. Scrisă în formă de dialog disputativ — Dumnezeu afirmă, poporul contestă, Dumnezeu răspunde.
+### Cartea lui Maleahi (3 sau 4 capitole)
+Ultima carte a Vechiului Testament în ordinea canonică. Unele traduceri împart textul în 3 capitole, altele în 4. Cartea este structurată ca o serie de „dispute" (rib) între Dumnezeu și popor — un format unic în literatura profetică.
 
-**Capitolul 1 — Dragostea lui Dumnezeu și neglijența preoților**
-Dumnezeu declară: „V-am iubit!" Poporul răspunde: „Cu ce ne-ai iubit?" Urmează mustrarea preoților.
+### Structura cărții — cele șase dispute
 
-**Capitolul 2 — Căsătoria și credincioșia**
-Condamnarea preoților și a divorțului. Dumnezeu este martorul legământului căsătoriei.
+**Disputa 1 (1:2-5) — „Eu v-am iubit"**
+Dumnezeu afirmă dragostea Sa pentru Israel, contrastând soarta lui Iacov (Israel) cu cea a lui Esau (Edom). Poporul întreabă cinic: „Prin ce ne-ai iubit?"
 
-**Capitolul 3 — Solul, zeciuiala și ziua judecății**
-Profeția solului, mustrarea pentru reținerea zeciuielii, distincția dintre cei drepți și cei nelegiuiți, venirea lui Ilie.
+**Disputa 2 (1:6-2:9) — „Un fiu cinstește pe tatăl său"**
+Mustrarea preoților corupți care aduc jertfe necorespunzătoare. Include profeția jertfei curate între neamuri (1:11).
+
+**Disputa 3 (2:10-16) — „Nu avem oare toți un singur Tată?"**
+Condamnarea căsătoriilor mixte și a divorțurilor — infidelitatea conjugală reflectă infidelitatea spirituală.
+
+**Disputa 4 (2:17-3:5) — „Unde este Dumnezeul dreptății?"**
+Poporul îl obosește pe Dumnezeu cu vorbele lor. Răspunsul: va veni Solul Legământului care va curăți pe fiii lui Levi.
+
+**Disputa 5 (3:6-12) — „Întoarceți-vă la Mine"**
+Mustrarea pentru furtul zeciuielilor și provocarea divină: „Puneți-Mă la încercare!"
+
+**Disputa 6 (3:13-24/4:6) — „Cuvintele voastre au fost aspre împotriva Mea"**
+Poporul spune că este zadarnic să slujești lui Dumnezeu. Dumnezeu răspunde cu promisiunea cărții de pomenire, a zilei judecății și a trimiterii lui Ilie.
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ilie|Sfântul Proroc Ilie Tesviteanul]]
-Maleahi profetizează întoarcerea lui Ilie „înainte de ziua Domnului cea mare". Hristos identifică această profeție cu Sfântul Ioan Botezătorul (Matei 11:14; 17:12), dar tradiția ortodoxă așteaptă și o venire literală a lui Ilie înainte de a Doua Venire.
+### [[personalitati:ilie|Sfântul Proroc Ilie Tesviteanul]] (sec. IX î.Hr.)
+Deși au trăit la secole distanță, Maleahi și Ilie sunt legați prin profeția finală a Vechiului Testament: „Iată, Eu vă trimit pe Ilie proorocul" (3:23/4:5). Maleahi vestește revenirea lui Ilie înainte de Ziua Domnului, iar Hristos confirmă că această profeție s-a împlinit parțial în Sfântul Ioan Botezătorul (Matei 11:14, 17:12) și se va împlini deplin înainte de a Doua Venire.
 
-### Sfântul Ioan Botezătorul
-Împlinirea profeției din Maleahi 3:1 — „solul" care pregătește calea Domnului. Evanghelia după Marcu începe citând tocmai această profeție (Marcu 1:2).
+### [[personalitati:agheu|Profetul Agheu]] (sec. VI î.Hr.)
+Agheu profetizase reconstrucția Templului cu aproape un secol înainte, promițând că „slava acestui din urmă Templu va fi mai mare decât a celui dintâi" (Agheu 2:9). Maleahi, profetizând în Templul deja reconstruit, vestește că în acest Templu va veni „Solul Legământului" — împlinind promisiunea lui Agheu.
 
-### Neemia (c. 445 î.Hr.)
-Guvernatorul Iudeii a cărui reformă abordează exact aceleași probleme denunțate de Maleahi: căsătoriile mixte, neglijarea Templului, neplata zeciuielilor.
+### [[personalitati:zaharia|Profetul Zaharia]] (sec. VI î.Hr.)
+Contemporanul lui Agheu, care a profetizat cu un secol înainte de Maleahi. Profețiile mesianice ale lui Zaharia (regele pe asin, cele 30 de arginți, cel străpuns) și cele ale lui Maleahi (Solul Legământului, Ilie) se completează reciproc, formând împreună imaginea cea mai detaliată a venirii lui Mesia din profeții minori.
 
-### Sfântul Proroc Agheu și Sfântul Proroc Zaharia
-Predecesorii lui Maleahi cu o generație. Agheu și Zaharia au mobilizat reconstrucția Templului; Maleahi mustră generația care a lăsat să decadă ceea ce ei construiseră.
+### Neemia (guvernatorul lui Iuda, sec. V î.Hr.)
+Contemporan cu Maleahi, Neemia s-a confruntat cu aceleași probleme: căsătoriile mixte, neglijarea zeciuielilor, profanarea Sabatului. Reformele sale administrative completează mesajul profetic al lui Maleahi.
+
+### [[personalitati:ioil|Profetul Ioil]] (datare incertă)
+Dacă Ioil este datat în perioada post-exilică, ar fi un contemporan apropiat al lui Maleahi. Amândoi profețesc despre „Ziua Domnului" și despre pregătirea pentru venirea ei. Ioil vestește revărsarea Duhului Sfânt, iar Maleahi vestește trimiterea lui Ilie — ambele profeții pregătesc calea Noului Legământ.
+
+### Ezdra scribul (sec. V î.Hr.)
+Preotul și scribul care a restaurat cunoașterea Legii în Iuda. Activitatea sa de reformă religioasă se intersectează cronologic cu profeția lui Maleahi, ambii luptând pentru puritatea cultului și a vieții poporului.
 
 ## Versete cheie din epistolele sale
 
-**Maleahi 1:11** — „De la răsăritul soarelui și până la apusul lui, mare va fi Numele Meu între neamuri, și în tot locul se va aduce jertfă de tămâie Numelui Meu și jertfă curată."
+**Maleahi 1:11** — „De la răsăritul soarelui și până la apusul lui, mare va fi Numele Meu între neamuri; și în tot locul se vor aduce Numelui Meu tămâie și jertfă curată."
 
-**Maleahi 3:1** — „Iată, Eu trimit pe solul Meu și va pregăti calea înaintea feței Mele, și va veni deodată în templul Său Domnul pe Care Îl căutați și Îngerul legământului pe Care Îl doriți."
+**Maleahi 2:7** — „Căci buzele preotului păzesc cunoștința și din gura lui se cere Legea, pentru că el este solul Domnului Savaot."
 
-**Maleahi 3:10** — „Aduceți toată zeciuiala la vistierie... și încercați-Mă cu aceasta, zice Domnul Savaot, dacă nu voi deschide jgheaburile cerurilor și voi vărsa peste voi belșug de binecuvântare."
+**Maleahi 3:1** — „Iată, Eu trimit pe solul Meu și el va pregăti calea înaintea Feței Mele; și îndată va veni în Templul Său Domnul pe care Îl căutați."
 
-**Maleahi 3:23 (4:5)** — „Iată, Eu vă trimit pe Ilie proorocul, înainte de a veni ziua Domnului cea mare și înfricoșătoare."
+**Maleahi 3:6** — „Căci Eu, Domnul, nu Mă schimb; de aceea voi, fiii lui Iacov, nu ați fost nimiciți."
+
+**Maleahi 3:10** — „Aduceți toate zeciuielile la vistierie, ca să fie hrană în casa Mea; și încercați-Mă în aceasta, zice Domnul Savaot, dacă nu voi deschide zăgazurile cerurilor și dacă nu voi turna peste voi binecuvântare fără măsură."
+
+**Maleahi 3:23-24 (4:5-6)** — „Iată, Eu vă trimit pe Ilie proorocul, înainte de a veni ziua Domnului cea mare și înfricoșătoare. El va întoarce inima părinților către fii și inima fiilor către părinți."
 
 ## Semnificație teologică și istorică
 
-### Profeția Sfintei Euharistii
-Maleahi 1:11 — „jertfa curată" adusă „în tot locul" între neamuri — este interpretată de Părinții Bisericii (Sfântul Iustin Martirul, Sfântul Irineu) ca profeție a Sfintei Euharistii, jertfa cea nouă a Bisericii universale.
+### Profeția Sfintei Euharistii — „Jertfa curată"
+Maleahi 1:11 este considerat de Sfinții Părinți (Sfântul Iustin Martirul, Sfântul Irineu, Sfântul Chiril al Ierusalimului) cea mai clară profeție veterotestamentară a Sfintei Euharistii. „Jertfa curată" adusă „în tot locul" între neamuri nu poate fi nicio altă jertfă decât Liturghia — pâinea și vinul prefăcute în Trupul și Sângele Domnului, oferite zilnic de la răsărit până la apus.
 
-### Solul și Înaintemergătorul
-Maleahi 3:1 este prima profeție citată în Evanghelia după Marcu (1:2), aplicată la Sfântul Ioan Botezătorul. Ultimul profet al Vechiului Testament vestește pe primul profet al Noului.
+### Ultimul glas profetic — „pecetea profeților"
+Maleahi închide revelația profetică a Vechiului Testament. După el urmează patru secole de tăcere profetică până la glasul Sfântului Ioan Botezătorul în pustie. Această tăcere nu este vid, ci așteptare: ultimele cuvinte ale Vechiului Legământ sunt o promisiune — venirea lui Ilie și Ziua Domnului.
 
-### Venirea lui Ilie
-Profeția întoarcerii lui [[personalitati:ilie|Ilie]] leagă ultimele cuvinte ale Vechiului Testament de primul eveniment al Noului — apariția Sfântului Ioan Botezătorul „în duhul și puterea lui Ilie" (Luca 1:17).
+### „Solul Legământului" — hristologia lui Maleahi
+Maleahi 3:1 conține o profeție cu structură dublă: un sol care pregătește calea (Ioan Botezătorul) și Domnul Însuși care vine „îndată" în Templul Său. Hristos aplică prima parte a versetului la Ioan Botezătorul (Matei 11:10), iar intrarea Sa în Templu (Matei 21:12-13) împlinește a doua parte.
 
-### Puntea dintre Testamente
-Maleahi stă ca o punte între Vechiul și Noul Testament. Ultimele sale cuvinte privesc spre venirea lui Ilie și a Domnului; primele cuvinte ale Evangheliei după Marcu citează tocmai pe Maleahi. Între cei doi se întinde „tăcerea" de 400 de ani a perioadei intertestamentare.
+### Sfințenia căsătoriei
+Maleahi este singurul profet care se ocupă explicit de etica conjugală. Declarația „Eu urăsc divorțul" (2:16) și afirmarea căsătoriei ca legământ cu Dumnezeu martor fac din Maleahi un profet al sfințeniei familiei — temă centrală în teologia ortodoxă a Tainei Cununiei.
 
-### Dragostea și credincioșia lui Dumnezeu
-Prima afirmație a lui Dumnezeu prin Maleahi este: „V-am iubit!" (1:2). Chiar și când mustră, Dumnezeu acționează din dragoste — principiu fundamental al teologiei profetice ortodoxe.
+### Profeția lui Ilie și pregătirea pentru Noul Testament
+Ultimele versete ale Vechiului Testament anunță revenirea lui Ilie, creând o punte directă către Noul Testament. Evanghelia după Matei se deschide cu genealogia lui Hristos, iar Evanghelia după Marcu începe cu glasul lui Ioan Botezătorul — „Ilie care trebuia să vină" (Matei 11:14) — exact acolo unde Maleahi se oprește.

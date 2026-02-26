@@ -60,8 +60,11 @@ Unul dintre cei mai evlavioși regi ai lui Iuda. Isaia l-a sfătuit în timpul i
 ### [[personalitati:miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan cu Isaia, a profețit în aceeași perioadă. Miheia a prezis nașterea lui Mesia în Betleem (Miheia 5:2).
 
-### Profetul Osea (sec. VIII î.Hr.)
+### [[personalitati:osea|Profetul Osea]] (sec. VIII î.Hr.)
 A profețit în Regatul de Nord (Israel) în aceeași perioadă. Mesajul său s-a concentrat pe dragostea fidelă a lui Dumnezeu față de poporul Său necredincios.
+
+### [[personalitati:amos|Profetul Amos]] (sec. VIII î.Hr.)
+Păstor din Tecoa, chemat de Dumnezeu să profețească în Regatul de Nord în timpul lui Ieroboam al II-lea. Contemporan cu Isaia, Amos a ridicat glasul cel mai puternic al Vechiului Testament în apărarea dreptății sociale, cerând: „Curgă judecata ca apa!" (Amos 5:24).
 
 ### [[personalitati:sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
 Profet mai tânăr, a continuat tema „Zilei Domnului" inaugurată de Isaia. Sofonie a profețit în timpul lui Iosia, vestind judecata universală dar și restaurarea unui „rest smerit" — dezvoltând viziunea lui Isaia despre rămășița credincioasă a lui Israel.

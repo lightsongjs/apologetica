@@ -7,74 +7,94 @@ order: 20
 
 ## Bio
 
-Sfântul Proroc Amos (în ebraică: עָמוֹס, „Cel care poartă povara") a fost un păstor și culegător de smochine din Tecoa, un sat din Iuda, chemat de Dumnezeu să profețească în Regatul de Nord al lui Israel în timpul domniei prospere a lui Ieroboam al II-lea (c. 786-746 î.Hr.).
+Sfântul Proroc Amos (în ebraică: עָמוֹס, „purtător de povară") a fost un păstor și culegător de smochine de sicomor din Tecoa, un sat din pustia Iudeii, la sud de Betleem. Deși nu era de neam profetic și nu aparținea niciunei școli profetice, Dumnezeu l-a chemat și l-a trimis să profețească în Regatul de Nord al lui Israel, în timpul domniei lui Ieroboam al II-lea (c. 786-746 î.Hr.).
 
-Amos nu era profet de profesie, nici fiu de profet: „Eu eram doar un păstor și culegător de smochine de sicomor. Dar Domnul m-a luat de la turmă și mi-a zis: Du-te și profețește poporului Meu Israel" (Amos 7:14-15). Această origine umilă subliniază că autoritatea profetică vine direct de la Dumnezeu.
+Amos a profețit într-o perioadă de mare prosperitate materială, dar de profundă nedreptate socială. Bogații exploatau pe săraci, judecătorii luau mită, cultul religios devenise o farsă rituală fără conținut moral. Într-un astfel de context, Amos ridică glasul cel mai puternic al Vechiului Testament în apărarea dreptății sociale: „Curgă judecata ca apa, și dreptatea ca un râu care nu seacă!" (Amos 5:24).
 
-Amos este „profetul dreptății sociale". A denunțat cu asprime nedreptatea, exploatarea săracilor, luxul necuviincios al bogaților și formalismul religios al Israelului prosper, cerând: „Ci să curgă judecata ca apa și dreptatea ca un pârâu ce nu seacă" (Amos 5:24).
+Mesajul său central este că Dumnezeu cere dreptate socială ca expresie a credinței autentice. Fără milostivire și dreptate, toate jertfele și sărbătorile religioase sunt o urâciune înaintea lui Dumnezeu.
 
 ## Timeline
 
 ### Viața de păstor în Tecoa
-Amos duce o viață simplă de păstor și culegător de smochine de sicomor în Tecoa, un sat din pustia Iudeei, la sud de Betleem.
+Amos era „dintre păstorii din Tecoa" (Amos 1:1), un om simplu care culegea și smochine de sicomor. Nu era profet profesionist: „Nu sunt prooroc, nici fiu de prooroc, ci sunt un păstor și un culegător de smochine de sicomor" (Amos 7:14).
 
-### Chemarea profetică (c. 760 î.Hr.)
-Dumnezeu îl ia de la turmă și îl trimite să profețească în Regatul de Nord, în plină prosperitate economică sub Ieroboam II — dar și în plină corupție morală și socială.
+### Chemarea divină (c. 760 î.Hr.)
+Dumnezeu îl ia pe Amos „de la oi" și îl trimite să profețească: „Du-te, profețește poporului Meu Israel" (Amos 7:15). Un păstor din Iuda este trimis în Regatul de Nord — semn al suveranității divine care nu cunoaște granițe.
 
-### Profețiile la Betel (c. 760-755 î.Hr.)
-Amos profețește la Betel, principalul sanctuar al Regatului de Nord. Denunță exploatarea săracilor, mituirea judecătorilor, luxul obscen și formele religioase goale de conținut moral.
+### Profețiile împotriva neamurilor (Amos 1-2)
+Amos începe prin a rosti judecata lui Dumnezeu asupra neamurilor vecine — Damascul, Gaza, Tirul, Edomul, Amonul, Moabul — câștigând aprobarea publicului israelit. Apoi, în mod dramatic, se întoarce și rostește judecata asupra lui Iuda și, în cele din urmă, asupra lui Israel însuși.
 
-### Confruntarea cu preotul Amasia
-Amasia, preotul sanctuarului din Betel, îi poruncește lui Amos să plece: „Văzătorule, fugi în pământul lui Iuda!" Amos răspunde că nu este profet de profesie, ci trimis direct de Dumnezeu (Amos 7:10-17).
+### Denunțarea nedreptății sociale
+Amos atacă cu o vehemență fără precedent nedreptatea bogaților: „Ascultați cuvântul acesta, voi, vaci ale Basanului, care asupriți pe cei săraci și zdrobiți pe cei lipsiți" (Amos 4:1). „Voi, care prefaceți judecata în pelin și aruncați dreptatea la pământ" (Amos 5:7).
 
-### Cele cinci viziuni
-Amos primește cinci viziuni profetice: lăcustele, focul, cumpăna de plumb, coșul cu fructe coapte și Domnul stând lângă altar — fiecare vestind judecata iminentă.
+### Confruntarea cu Amația, preotul din Betel (Amos 7:10-17)
+Amația, preotul oficial al sanctuarului din Betel, îl acuză pe Amos de conspirație și îi cere să plece înapoi în Iuda. Amos răspunde cu demnitate profetică: „Nu sunt prooroc... Dar Domnul m-a luat de la oi și mi-a zis: Du-te, profețește." Apoi rostește o judecată aspră asupra lui Amația.
+
+### Cele cinci viziuni (Amos 7-9)
+Amos primește cinci viziuni succesive: lăcustele, focul, cumpăna (firul cu plumb), coșul cu fructe coapte (simbolul sfârșitului) și Domnul stând lângă altar. Fiecare viziune intensifică mesajul judecății iminente.
+
+### Promisiunea restaurării (Amos 9:11-15)
+Cartea se încheie cu o promisiune de restaurare: „În ziua aceea voi ridica cortul cel căzut al lui David" — profeție mesianică citată de Sfântul Apostol Iacov la Soborul din Ierusalim (Fapte 15:16-17) ca justificare a primirii neamurilor în Biserică.
 
 ## Surse și scrieri
 
 ### Cartea lui Amos (9 capitole)
-Una dintre cele mai vechi cărți profetice scrise. Structură clară: profeții împotriva neamurilor (cap. 1-2), rechizitorii împotriva Israelului (cap. 3-6), cele cinci viziuni (cap. 7-9) și epilogul restaurării.
+Una dintre cele mai bine structurate cărți profetice, cu o retorică puternică și imagini memorabile.
 
 **Capitolele 1-2 — Judecata neamurilor și a lui Israel**
-Profeții în crescendo împotriva Damascului, Gazei, Tirului, Edomului, Amonului, Moabului, Iudei și, în final, Israelului.
+Seria de opt oracole „pentru trei nelegiuiri... și pentru patru" culminează cu judecata asupra lui Israel — tehnica retorică a surprizei.
 
-**Capitolele 3-6 — Rechizitoriul social**
-Denunțarea corupției, a exploatării săracilor și a falsei religiozități.
+**Capitolele 3-6 — Trei cuvântări de mustrare**
+Denunțarea nedreptății sociale, a luxului excesiv și a ritualismului fără conținut moral. Include celebra cerere: „Curgă judecata ca apa!" (5:24).
 
-**Capitolele 7-9 — Viziuni și restaurare**
-Cele cinci viziuni profetice, confruntarea cu Amasia și promisiunea finală a restaurării.
+**Capitolele 7-9 — Viziunile și confruntarea**
+Cele cinci viziuni profetice, confruntarea cu Amația și promisiunea finală a restaurării.
+
+### Referințe în Noul Testament
+Amos 9:11-12 este citat de Sfântul Apostol Iacov în Fapte 15:16-17, la Soborul din Ierusalim, ca argument scripturistic pentru primirea neamurilor în Biserică fără a li se impune Legea mozaică.
+
+### Sirah (Ecclesiasticul) 49:7
+Amos este menționat indirect printre profeții care au vestit judecata și restaurarea.
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:osea|Sfântul Proroc Osea]]
-Contemporan cu Amos în Regatul de Nord. Osea accentuează dragostea lui Dumnezeu, Amos — dreptatea Sa. Mesajele lor sunt complementare.
+### [[personalitati:osea|Profetul Osea]] (sec. VIII î.Hr.)
+Contemporan cu Amos, a profețit și el în Regatul de Nord în timpul lui Ieroboam al II-lea. Amândoi au denunțat corupția lui Israel, dar din perspective complementare: Amos prin prisma dreptății sociale, Osea prin prisma dragostei rănite a lui Dumnezeu. Împreună, cei doi profeți oferă o imagine completă a relației dintre Dumnezeu și Israel.
 
-### [[personalitati:isaia|Sfântul Proroc Isaia]]
-Contemporan mai tânăr, profețind în Iuda. Isaia dezvoltă temele dreptății sociale ale lui Amos într-un context mai amplu.
+### [[personalitati:isaia|Profetul Isaia]] (sec. VIII î.Hr.)
+Contemporan mai tânăr, a profețit în Regatul de Sud (Iuda). Isaia continuă și dezvoltă temele dreptății sociale inițiate de Amos, dar le integrează într-o viziune mesianică mai amplă. Amândoi cer dreptate pentru sărmani și văduve ca expresie a credinței autentice.
 
 ### Regele Ieroboam al II-lea (c. 786-746 î.Hr.)
-Regele Israelului în a cărui domnie Amos a profețit. Prosperitatea economică și militară a domniei sale ascundea decăderea morală și socială pe care Amos a denunțat-o.
+Regele sub a cărui domnie Amos a profețit. Domnia sa a fost o perioadă de maximă expansiune teritorială și prosperitate economică a lui Israel, dar prosperitatea exterioară masca o profundă corupție morală și socială.
+
+### Amația, preotul din Betel
+Preotul oficial al sanctuarului regal din Betel, care l-a confruntat pe Amos și i-a cerut să plece. Reprezintă religia instituționalizată care servește puterea politică și refuză glasul profetic.
 
 ## Versete cheie din epistolele sale
 
-**Amos 5:24** — „Ci să curgă judecata ca apa și dreptatea ca un pârâu ce nu seacă!"
+**Amos 3:2** — „Numai pe voi v-am ales din toate neamurile pământului; de aceea vă voi pedepsi pentru toate nelegiuirile voastre."
 
-**Amos 5:21-22** — „Urăsc și dispretuiesc sărbătorile voastre și nu-Mi plac adunările voastre de sărbătoare. Chiar dacă-Mi aduceți arderi de tot și darurile voastre de pâine, nu le voi primi."
+**Amos 5:21-24** — „Urăsc, disprețuiesc sărbătorile voastre și nu pot să sufăr adunările voastre de sărbătoare... Depărtează de la Mine zgomotul cântărilor tale... Ci curgă judecata ca apa, și dreptatea ca un râu care nu seacă!"
 
-**Amos 3:7** — „Căci Domnul Dumnezeu nu face nimic fără să-Și descopere taina Sa slujitorilor Săi, proorocilor."
+**Amos 7:14-15** — „Nu sunt prooroc, nici fiu de prooroc, ci sunt un păstor și un culegător de smochine de sicomor. Dar Domnul m-a luat de la oi și mi-a zis: Du-te, profețește poporului Meu Israel."
 
-**Amos 7:14-15** — „Nu sunt profet, nici fiu de profet, ci sunt un păstor și un culegător de smochine de sicomor. Dar Domnul m-a luat de la turmă și mi-a zis: Du-te și profețește poporului Meu Israel."
+**Amos 8:11** — „Iată, vin zile, zice Domnul Dumnezeu, când voi trimite foamete pe pământ, nu foamete de pâine, nici sete de apă, ci de auzirea cuvintelor Domnului."
+
+**Amos 9:11** — „În ziua aceea voi ridica cortul cel căzut al lui David, voi drege spărturile lui și voi ridica dărâmăturile lui."
 
 ## Semnificație teologică și istorică
 
-### Dreptatea socială ca poruncă divină
-Amos stabilește definitiv că dreptatea socială nu este opțională, ci parte integrantă a legământului cu Dumnezeu. Cultul fără dreptate este urâciune înaintea Domnului.
+### Profetul dreptății sociale
+Amos este vocea cea mai puternică a dreptății sociale din Vechiul Testament. Mesajul său că Dumnezeu cere dreptate pentru săraci și oprimați ca expresie esențială a credinței a influențat profund gândirea teologică creștină. Sfinții Părinți — în special Sfântul Vasile cel Mare și Sfântul Ioan Gură de Aur — au preluat și dezvoltat acest mesaj în predicile lor despre milostenie și dreptate.
 
-### Profetul „nechemat" — chemarea directă de la Dumnezeu
-Exemplul lui Amos arată că Dumnezeu poate chema pe oricine, indiferent de origine sau pregătire, la slujirea profetică — principiu reluat în chemarea apostolilor.
+### Cultul fără morală este urâciune
+Amos 5:21-24 este unul dintre cele mai puternice texte ale Vechiului Testament: Dumnezeu respinge sărbătorile, cântările și jertfele unui popor care practică nedreptatea. Credința autentică se manifestă în dreptate și milostivire, nu în ritualism — principiu central în teologia ortodoxă a slujirii liturgice ca izvor al vieții în Hristos.
 
-### „Să curgă dreptatea ca apa"
-Amos 5:24 a devenit unul dintre cele mai citate versete din Vechiul Testament în contextul luptei pentru dreptate socială și al învățăturii sociale a Bisericii Ortodoxe.
+### Chemarea profetică a omului simplu
+Amos nu era profet profesionist, ci un păstor chemat direct de Dumnezeu. Acest fapt demonstrează că Dumnezeu alege pe cine vrea, indiferent de statut social sau pregătire — principiu care se regăsește în chemarea apostolilor, pescari simpli aleși de Hristos.
 
-### Universalitatea judecății divine
-Profețiile lui Amos împotriva neamurilor (cap. 1-2) arată că Dumnezeu judecă toate popoarele, nu doar pe Israel — Dumnezeu este Stăpânul întregului pământ.
+### „Cortul lui David" și Biserica
+Profeția din Amos 9:11 despre ridicarea „cortului căzut al lui David" este citată la Soborul Apostolic din Ierusalim (Fapte 15:16-17) ca temei scripturistic pentru primirea neamurilor în Biserică. Părinții Bisericii văd în această profeție vestirea Bisericii universale, noul Israel care include toate neamurile.
+
+### „Foamete de cuvântul Domnului"
+Amos 8:11 profetizează o foamete nu de pâine, ci de auzirea Cuvântului lui Dumnezeu — o imaginae care descrie starea omenirii fără revelație divină și care subliniază valoarea inestimabilă a Sfintei Scripturi și a predicii în viața Bisericii.

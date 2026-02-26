@@ -67,6 +67,9 @@ Sora lui Moise și a lui Aaron, proorocița care a condus cântarea femeilor dup
 ### Ietro (Raguel)
 Socrul lui Moise, preotul din Madian. L-a sfătuit pe Moise să numească judecători peste popor pentru a ușura povara conducerii (Ieșirea 18).
 
+### [[personalitati:samuel|Sfântul Proroc Samuel]] (sec. XI î.Hr.)
+Ultimul judecător și primul mare profet după Moise. Samuel a continuat rolul lui Moise de mijlocitor între Dumnezeu și popor, judecând pe Israel și chemându-l la pocăință. Psalmul 98:6 îi menționează pe Moise și Samuel împreună ca mari mijlocitori ai lui Israel.
+
 ## Versete cheie
 
 **Ieșirea 3:14** — „Eu sunt Cel ce sunt. Așa să le spui fiilor lui Israel: Cel ce este m-a trimis la voi."

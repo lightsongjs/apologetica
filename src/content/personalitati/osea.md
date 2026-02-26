@@ -55,7 +55,7 @@ Contemporan cu Osea, a profețit în Regatul de Sud (Iuda) în aceeași perioad�
 ### [[personalitati:amos|Profetul Amos]] (sec. VIII î.Hr.)
 Contemporan cu Osea, a profețit și el în Regatul de Nord în timpul lui Ieroboam al II-lea. Amândoi au denunțat nedreptatea socială și corupția religioasă a lui Israel, dar din perspective complementare: Amos prin prisma dreptății divine, Osea prin prisma dragostei rănite a lui Dumnezeu.
 
-### Profetul Miheia (sec. VIII î.Hr.)
+### [[personalitati:miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan mai tânăr, a profețit în Iuda în aceeași perioadă. Miheia a prezis nașterea lui Mesia în Betleem (Miheia 5:2) și, ca și Osea, a cerut „milă, nu jertfă" (Miheia 6:8).
 
 ## Versete cheie din epistolele sale
