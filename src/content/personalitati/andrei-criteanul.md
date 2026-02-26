@@ -61,7 +61,7 @@ A lăsat o colecție de omilii pentru marile sărbători, caracterizate prin elo
 **Lauda Maicii Domnului**
 Omilii dedicate venerării Theotokos, reflectând devotamentul său profund față de Maica Domnului.
 
-### Viața Sfintei Maria Egipteanca
+### Viața [[personalitati:maria-egipteanca|Sfintei Maria Egipteanca]]
 I se atribuie redactarea sau cel puțin popularizarea narațiunii despre Sfânta Maria Egipteanca, care este citită în timpul cântării Marelui Canon în Joia din Săptămâna a V-a a Postului Mare.
 
 ## Contemporani și rude spirituale
