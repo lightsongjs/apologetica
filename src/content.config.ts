@@ -28,4 +28,14 @@ const personalitati = defineCollection({
   }),
 });
 
-export const collections = { conversations, teme, personalitati };
+const locuri = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/locuri' }),
+  schema: z.object({
+    name: z.string(),
+    title: z.string(),
+    image: z.string(),
+    order: z.number(),
+  }),
+});
+
+export const collections = { conversations, teme, personalitati, locuri };

@@ -1,0 +1,88 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const locuri = await getCollection('locuri');
+const sorted = locuri.sort((a, b) => a.data.order - b.data.order);
+---
+
+<Base title="Locuri Biblice" headerTitle="Locuri Biblice" backHref="/" activeNav="home">
+  <!-- Header -->
+  <div class="mb-6">
+    <h1 class="text-3xl font-extrabold leading-tight tracking-tight mb-2">Locuri Biblice</h1>
+    <p class="text-primary/70 leading-relaxed">Locurile sfinte ale istoriei mântuirii</p>
+  </div>
+
+  <!-- Search Bar -->
+  <div class="mb-6">
+    <div class="relative">
+      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-primary/40">search</span>
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Caută locuri..."
+        class="w-full pl-11 pr-4 py-3 rounded-xl border border-primary/20 focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
+      />
+    </div>
+  </div>
+
+  <!-- Places Grid -->
+  <div id="places-grid" class="grid grid-cols-1 gap-4">
+    {sorted.map(l => {
+      const slug = l.id.replace('.md', '');
+      return (
+        <a
+          href={`/locuri/${slug}`}
+          class="place-card group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-center gap-4"
+          data-name={l.data.name.toLowerCase()}
+          data-title={l.data.title.toLowerCase()}
+        >
+          <div
+            class="bg-center bg-no-repeat aspect-square bg-cover rounded-lg border-2 border-primary/20 h-16 w-16 flex-shrink-0 group-hover:border-primary/60 transition-colors"
+            style={`background-image: url("${l.data.image}")`}
+          />
+          <div class="flex-1">
+            <h3 class="font-bold text-lg mb-0.5 group-hover:text-primary transition-colors">{l.data.name}</h3>
+            <p class="text-sm text-primary/60 italic">{l.data.title}</p>
+          </div>
+          <span class="material-symbols-outlined text-primary/30 group-hover:translate-x-1 transition-transform">chevron_right</span>
+        </a>
+      );
+    })}
+  </div>
+
+  <!-- No Results Message -->
+  <div id="no-results" class="hidden text-center py-12">
+    <span class="material-symbols-outlined text-primary/20 text-6xl mb-4">search_off</span>
+    <p class="text-gray-500">Niciun loc găsit</p>
+  </div>
+
+  <script>
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const placeCards = document.querySelectorAll('.place-card') as NodeListOf<HTMLElement>;
+    const noResults = document.getElementById('no-results') as HTMLElement;
+
+    searchInput.addEventListener('input', () => {
+      const query = searchInput.value.toLowerCase().trim();
+      let visibleCount = 0;
+
+      placeCards.forEach(card => {
+        const name = card.dataset.name || '';
+        const title = card.dataset.title || '';
+
+        if (name.includes(query) || title.includes(query)) {
+          card.style.display = 'flex';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (visibleCount === 0 && query !== '') {
+        noResults.classList.remove('hidden');
+      } else {
+        noResults.classList.add('hidden');
+      }
+    });
+  </script>
+</Base>
