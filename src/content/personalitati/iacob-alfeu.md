@@ -56,7 +56,7 @@ Istoricul iudeu menționează uciderea lui „Iacob, fratele lui Iisus, cel numi
 Consemnează detaliat viața, episcopatul și martiriul lui Iacob, citând din Hegesip, Clement Alexandrinul și alte surse timpurii.
 
 ### Clement Alexandrinul (c. 150-215)
-Menționează că Iacob a fost ales episcop al Ierusalimului de Petru, [[personalitati:ignatie-teoforul|Iacob]] și Ioan, subliniind succesiunea apostolică.
+Menționează că Iacob a fost ales episcop al Ierusalimului de Petru, Iacob și Ioan, subliniind succesiunea apostolică.
 
 ## Contemporani și rude spirituale
 
