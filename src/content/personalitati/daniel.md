@@ -51,6 +51,9 @@ Profeție cronologică: 70 de „săptămâni" (490 de ani) de la porunca de a r
 
 ## Contemporani și rude spirituale
 
+### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+Contemporan mai în vârstă, a rămas în Ierusalim și apoi în Egipt, în timp ce Daniel era la curtea babiloniană. Amândoi au trăit căderea Ierusalimului din 586 î.Hr., dar din perspective diferite — Ieremia ca martor direct, Daniel din exil.
+
 ### [[personalitati:iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
 Contemporan în exilul babilonian. Iezechiel îl menționează pe Daniel ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14), deși Daniel era încă în viață.
 

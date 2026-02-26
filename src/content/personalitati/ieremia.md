@@ -54,8 +54,14 @@ Cel mai important text al cărții: „Iată vin zile, zice Domnul, când voi î
 ### [[personalitati:iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
 Contemporan mai tânăr, deportat în Babilon în 597 î.Hr. Iezechiel a profețit printre exilați, în timp ce Ieremia rămânea în Iuda. Amândoi au vestit distrugerea Templului și restaurarea viitoare.
 
-### Profetul Sofonie (sec. VII î.Hr.)
-A profețit în aceeași perioadă cu Ieremia, avertizând despre „Ziua Domnului" și judecata asupra Iudei.
+### [[personalitati:sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
+Contemporan cu Ieremia, a profețit în Iuda în timpul domniei lui Iosia. Mesajul său central este „Ziua Domnului" — o zi de judecată universală, dar și de restaurare pentru cei smeriți. Amândoi au predicat chemând poporul la pocăință.
+
+### [[personalitati:daniel|Profetul Daniel]] (sec. VI î.Hr.)
+Contemporan mai tânăr, deportat în Babilon în 605 î.Hr. Daniel a slujit la curtea regilor babilonieni și a primit viziuni apocaliptice despre cursul istoriei universale, în timp ce Ieremia profețea în Iuda și apoi în Egipt.
+
+### [[personalitati:manase|Regele Manase]] (697-642 î.Hr.)
+Ieremia s-ar fi născut în timpul târziei domnii a lui Manase sau sub fiul acestuia, Amon. Păcatele lui Manase — idolatria extremă și vărsarea de sânge nevinovat — erau încă proaspete în memoria colectivă și au contribuit la căderea finală a Ierusalimului pe care Ieremia a profețit-o.
 
 ### Profetul Habacuc (sec. VII î.Hr.)
 Contemporan cu Ieremia, a pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Habacuc 2:4).

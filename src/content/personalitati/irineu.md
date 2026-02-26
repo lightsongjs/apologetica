@@ -66,7 +66,7 @@ Folosește lucrările lui Irineu în propria sa combatere a ereziilor.
 
 ## Contemporani și rude spirituale
 
-### Sfântul Policarp de Smyrna (c. 69-155)
+### [[personalitati:policarp|Sfântul Policarp de Smyrna]] (c. 69-155)
 Învățătorul său direct, care îl conectează cu tradiția apostolică prin Apostolul Ioan. Irineu păstrează amintiri vii despre Policarp predicând și relatează predania primită de la el.
 
 ### Justin Martirul (c. 100-165)

@@ -63,6 +63,9 @@ Contemporan cu Isaia, a profețit în aceeași perioadă. Miheia a prezis naște
 ### Profetul Osea (sec. VIII î.Hr.)
 A profețit în Regatul de Nord (Israel) în aceeași perioadă. Mesajul său s-a concentrat pe dragostea fidelă a lui Dumnezeu față de poporul Său necredincios.
 
+### [[personalitati:sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
+Profet mai tânăr, a continuat tema „Zilei Domnului" inaugurată de Isaia. Sofonie a profețit în timpul lui Iosia, vestind judecata universală dar și restaurarea unui „rest smerit" — dezvoltând viziunea lui Isaia despre rămășița credincioasă a lui Israel.
+
 ## Versete cheie din epistolele sale
 
 **Isaia 6:3** — „Sfânt, Sfânt, Sfânt este Domnul Savaot, plin este tot pământul de slava Lui!"

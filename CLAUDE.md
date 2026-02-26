@@ -2,6 +2,10 @@
 
 Orthodox apologetics static site built with Astro 5, Tailwind CSS 4, and Marked.
 
+## Theological Standpoint
+
+All content on this site is written exclusively from an **Eastern Orthodox** perspective. This applies to conversations, themes, personality pages, scripture interpretations, and any other content. Never use Protestant, Catholic, or secular theological frameworks when generating or editing content. Sources should prioritize the Church Fathers, the Philokalia, Orthodox liturgical tradition, and the Septuagint/Orthodox biblical canon (including deuterocanonical books). When referencing scripture, prefer the Orthodox Study Bible or Synodal translations where relevant.
+
 ## Content Architecture
 
 Two collections defined in `src/content.config.ts`:
