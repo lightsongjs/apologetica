@@ -116,7 +116,7 @@ Martirizat înainte de prima călătorie misionară a lui Pavel. Primul apostol 
 ### [[personalitati:ignatie-teoforul|Sfântul Ignatie Teoforul]] (†c. 107-110)
 Episcop al Antiohiei după Petru și Euodiu. A continuat tradiția apostolică petro-paulină în cetatea unde ucenicii au fost numiți pentru prima dată „creștini" (Faptele Apostolilor 11:26).
 
-### Sfântul Evanghelist Luca
+### [[personalitati:luca-evanghelistul|Sfântul Evanghelist Luca]]
 „Doctorul cel iubit" (Coloseni 4:14), însoțitorul credincios al lui Pavel în călătorii, autorul Evangheliei după Luca și al Faptelor Apostolilor.
 
 ### Sfântul Timotei

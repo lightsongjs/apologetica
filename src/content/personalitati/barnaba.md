@@ -66,7 +66,7 @@ Colegul de misiune și cel mai important partener apostolic. Barnaba a fost cel 
 ### [[personalitati:petru|Sfântul Apostol Petru]]
 Barnaba a lucrat cu Petru la Ierusalim și la Antiohia. La incidentul din Antiohia (Galateni 2:11-13), Barnaba a fost influențat de atitudinea lui Petru de a se retrage de la masa cu cei din neamuri.
 
-### Ioan Marcu (Sfântul Evanghelist Marcu)
+### [[personalitati:marcu-evanghelistul|Ioan Marcu (Sfântul Evanghelist Marcu)]]
 Vărul lui Barnaba (Coloseni 4:10). Barnaba l-a luat pe Marcu în prima călătorie misionară și l-a apărat când Pavel a vrut să-l respingă. Sub îndrumarea lui Barnaba, Marcu s-a maturizat spiritual și a devenit autorul celei de-a doua Evanghelii.
 
 ### [[personalitati:iacob-alfeu|Sfântul Apostol Iacob]]
