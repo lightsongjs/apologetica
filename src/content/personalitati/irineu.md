@@ -67,7 +67,13 @@ Folosește lucrările lui Irineu în propria sa combatere a ereziilor.
 ## Contemporani și rude spirituale
 
 ### [[personalitati:policarp|Sfântul Policarp de Smyrna]] (c. 69-155)
-Învățătorul său direct, care îl conectează cu tradiția apostolică prin Apostolul Ioan. Irineu păstrează amintiri vii despre Policarp predicând și relatează predania primită de la el.
+Învățătorul său direct, care îl conectează cu tradiția apostolică prin [[personalitati:ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]]. Irineu păstrează amintiri vii despre Policarp predicând și relatează predania primită de la el.
+
+### [[personalitati:ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
+Deși Irineu nu l-a cunoscut personal, întreaga sa teologie este ancorată în lanțul succesiunii apostolice ioaneice: Ioan → [[personalitati:policarp|Policarp]] → Irineu. Citează extensiv din Evanghelia lui Ioan și din epistolele ioaneice în „Adversus Haereses".
+
+### [[personalitati:petru|Sfântul Apostol Petru]] (†c. 64-68) și [[personalitati:pavel|Sfântul Apostol Pavel]] (†c. 64-67)
+Irineu invocă succesiunea de la Petru și Pavel prin Biserica din Roma ca garanție a ortodoxiei (Adversus Haereses 3.3.2). Citează extensiv din epistolele lui Pavel și mărturisește că tradiția apostolică petrino-paulină și cea ioaneică sunt una și aceeași credință.
 
 ### Justin Martirul (c. 100-165)
 Apologet contemporan, martirizat la Roma. Deși nu există dovezi clare ale unei relații directe, amândoi au contribuit la apărarea credinței creștine în fața filosofiei păgâne și a ereziilor.

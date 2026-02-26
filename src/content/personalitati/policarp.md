@@ -54,8 +54,11 @@ Menționează că Policarp a fost numit episcop de către Apostolul Ioan însuș
 
 ## Contemporani și rude spirituale
 
-### Apostolul Ioan (c. 6-100 d.Hr.)
+### [[personalitati:ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (c. 6-100 d.Hr.)
 Învățătorul direct al lui Policarp, ultimul Apostol supraviețuitor. Ioan l-a format spiritual pe Policarp și, conform tradiției, l-a hirotonit ca episcop al Smirnei. Această relație directă face din Policarp un martor privilegiat al învățăturii apostolice.
+
+### [[personalitati:pavel|Sfântul Apostol Pavel]] (†c. 64-67)
+Policarp citează frecvent din epistolele lui Pavel în propria sa Epistolă către Filipeni, demonstrând profundul respect față de teologia paulină. Comunitatea din Filipi, căreia Policarp îi scrie, fusese întemeiată de Pavel.
 
 ### [[personalitati:ignatie-teoforul|Sfântul Ignatie Teoforul]] (murit c. 107-110)
 Prieten apropiat și corespundent al lui Policarp. Ignatie i-a dedicat una din cele șapte epistole sale, oferindu-i sfaturi pastorale. Policarp l-a întâlnit pe Ignatie în drumul acestuia spre martiriu și a adunat epistolele sale pentru a le transmite mai departe.
