@@ -63,7 +63,7 @@ Cel mai puternic rege al Babilonului. Daniel i-a interpretat visele și l-a sfă
 ### Regele Cirus cel Mare (559-530 î.Hr.)
 Fondatorul Imperiului Persan, care a cucerit Babilonul și a eliberat iudeii să se întoarcă în Iuda (Edictul din 538 î.Hr.). Daniel a continuat să slujească sub el.
 
-### Anania, Azaria și Misail
+### [[personalitati:anania|Anania]], [[personalitati:azaria|Azaria]] și Misail
 Cei trei tineri iudei, prietenii lui Daniel, aruncați în cuptorul de foc. Cântarea lor din cuptorul de foc este parte a cultului ortodox (Cântarea a 7-a și a 8-a din canon).
 
 ### [[personalitati:avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
