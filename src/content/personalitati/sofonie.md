@@ -57,6 +57,9 @@ Ultimul rege drept al lui Iuda, sub a cărui domnie Sofonie a profețit. Reforma
 ### [[personalitati:isaia|Profetul Isaia]] (sec. VIII î.Hr.)
 Strămoșul spiritual al lui Sofonie. Isaia a profețit cu un secol mai devreme, dar tema „Zilei Domnului" și a judecății urmate de restaurare este comună ambilor profeți.
 
+### [[personalitati:naum|Profetul Naum]] (sec. VII î.Hr.)
+Contemporan cu Sofonie, Naum profețește și el distrugerea Ninivei și a Imperiului Asirian. Amândoi au trăit în perioada de declin a Asiriei și au vestit judecata lui Dumnezeu asupra neamurilor opresoarelor.
+
 ## Versete cheie din epistolele sale
 
 **Sofonie 1:14-15** — „Aproape este ziua cea mare a Domnului, aproape este și vine foarte repede! Amară este ziua Domnului! Zi de mânie va fi ziua aceea, zi de necaz și de strâmtorare, zi de pustiire și de prăpăd, zi de întuneric și de beznă."

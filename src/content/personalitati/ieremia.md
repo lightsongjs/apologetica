@@ -72,6 +72,12 @@ Ultimul rege drept al lui Iuda. Ieremia a susținut reforma sa religioasă și l
 ### Baruh, scribul lui Ieremia
 Secretarul și prietenul fidel al lui Ieremia. A scris sub dictare profețiile lui Ieremia pe un sul (Ieremia 36) și l-a însoțit pe profet în Egipt.
 
+### [[personalitati:avdie|Profetul Avdie]] (sec. VI sau IX î.Hr.)
+Dacă datăm pe Avdie în sec. VI î.Hr., el este contemporan cu Ieremia. Amândoi au trăit tragedia căderii Ierusalimului și au profețit împotriva Edomului. Ieremia 49:7-22 și Cartea lui Avdie conțin profeții similare, ceea ce sugerează o legătură profundă între cei doi profeți.
+
+### [[personalitati:naum|Profetul Naum]] (sec. VII î.Hr.)
+Contemporan mai în vârstă sau de aceeași generație. Naum a vestit căderea Ninivei (612 î.Hr.), un eveniment major în viața lui Ieremia, care a confirmat mesajul profetic despre dreptatea lui Dumnezeu față de neamurile opresoarelor.
+
 ## Versete cheie din epistolele sale
 
 **Ieremia 1:5** — „Mai înainte de a te fi zămislit în pântece, te-am cunoscut, și mai înainte de a ieși din pântece, te-am sfințit."

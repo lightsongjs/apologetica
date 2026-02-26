@@ -57,7 +57,7 @@ Cea mai detaliată profeție despre patimile lui Hristos din tot Vechiul Testame
 ### Regele Iezechia (c. 715-686 î.Hr.)
 Unul dintre cei mai evlavioși regi ai lui Iuda. Isaia l-a sfătuit în timpul invaziei asiriene și i-a transmis vindecarea de la Dumnezeu când era bolnav de moarte (Isaia 38).
 
-### Profetul Miheia (sec. VIII î.Hr.)
+### [[personalitati:miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan cu Isaia, a profețit în aceeași perioadă. Miheia a prezis nașterea lui Mesia în Betleem (Miheia 5:2).
 
 ### Profetul Osea (sec. VIII î.Hr.)
