@@ -78,6 +78,9 @@ Dacă datăm pe Avdie în sec. VI î.Hr., el este contemporan cu Ieremia. Amând
 ### [[personalitati:naum|Profetul Naum]] (sec. VII î.Hr.)
 Contemporan mai în vârstă sau de aceeași generație. Naum a vestit căderea Ninivei (612 î.Hr.), un eveniment major în viața lui Ieremia, care a confirmat mesajul profetic despre dreptatea lui Dumnezeu față de neamurile opresoarelor.
 
+### [[personalitati:miheia|Profetul Miheia]] (sec. VIII î.Hr.)
+Predecesor cu un secol al lui Ieremia. Ieremia însuși invocă profeția lui Miheia în propria sa apărare (Ieremia 26:18-19), arătând că Miheia a profețit distrugerea Ierusalimului sub regele Iezechia, iar poporul nu l-a ucis, ci s-a pocăit.
+
 ## Versete cheie din epistolele sale
 
 **Ieremia 1:5** — „Mai înainte de a te fi zămislit în pântece, te-am cunoscut, și mai înainte de a ieși din pântece, te-am sfințit."

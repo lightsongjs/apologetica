@@ -62,8 +62,11 @@ Cel mai important contemporan al lui Miheia. Amândoi au profețit în Iuda în 
 ### [[personalitati:iona|Profetul Iona]] (sec. VIII î.Hr.)
 Contemporan cu Miheia, Iona a profețit în Regatul de Nord și a fost trimis la Ninive. Ambii profeți vestesc suveranitatea universală a lui Dumnezeu — Miheia prezicând nașterea Mesiei în Betleem, iar Iona demonstrând mila lui Dumnezeu față de neamuri.
 
+### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+Deși a profețit cu aproximativ un secol după Miheia, Ieremia 26:18-19 mărturisește că profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe regele Iezechia să se smerească, iar Domnul a cruțat cetatea. Miheia este astfel un model invocat de Ieremia în apărarea propriei sale profeții.
+
 ### Regele Iezechia (c. 715-686 î.Hr.)
-Unul dintre cei mai evlavioși regi ai lui Iuda. Ieremia 26:18-19 relatează că profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe Iezechia să se smerească și să caute fața Domnului, iar Domnul a cruțat cetatea.
+Unul dintre cei mai evlavioși regi ai lui Iuda. Profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe Iezechia să caute fața Domnului, iar Domnul a cruțat cetatea (cf. Ieremia 26:18-19).
 
 ### Regele Ahaz (c. 735-715 î.Hr.)
 Rege necredincios al lui Iuda, care a introdus cultul idolilor și i-a trecut pe fiii săi prin foc. Miheia a profețit și în timpul lui Ahaz, denunțând idolatria și nedreptatea.
