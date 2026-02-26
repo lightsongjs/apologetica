@@ -24,6 +24,10 @@ This test checks that:
 
 All 7 tests must pass before committing personality changes.
 
+### Image rule
+
+When creating new personality files, **skip image creation**. Use a placeholder path (`/images/personalitati/{slug}.jpg`) in frontmatter but do not generate or add actual image files.
+
 ---
 
 ## Content Architecture
