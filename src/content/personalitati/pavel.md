@@ -32,7 +32,7 @@ Hristos Cel Înviat i Se arată în lumină cerească (Faptele Apostolilor 9:3-6
 Se retrage în Arabia (Galateni 1:17), probabil pentru rugăciune și reflecție. Revine la Damasc, apoi urcă la Ierusalim unde îl întâlnește pe [[personalitati:petru|Sfântul Apostol Petru]] timp de 15 zile (Galateni 1:18).
 
 ### Prima călătorie misionară (c. 46-48 d.Hr.)
-Împreună cu Barnaba și Ioan Marcu, propovăduiește în Cipru, Antiohia Pisidiei, Iconia, Listra și Derbe. Proconsulul Sergius Paulus se convertește (Faptele Apostolilor 13:12).
+Împreună cu [[personalitati:barnaba|Barnaba]] și Ioan Marcu, propovăduiește în Cipru, Antiohia Pisidiei, Iconia, Listra și Derbe. Proconsulul Sergius Paulus se convertește (Faptele Apostolilor 13:12).
 
 ### Sinodul Apostolic din Ierusalim (c. 49 d.Hr.)
 Participă alături de [[personalitati:petru|Petru]] și Iacob la sinodul care decide că neamurile nu trebuie să se supună Legii mozaice (Faptele Apostolilor 15). Moment crucial pentru universalitatea Evangheliei.
