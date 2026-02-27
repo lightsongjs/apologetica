@@ -92,7 +92,7 @@
 - [ ] Orbul de la naștere (Man born blind)
 
 ### Old Testament Figures Mentioned
-- [ ] Avraam (Abraham)
+- [x] Avraam (Abraham)
 - [ ] Isaac (Isaac)
 - [ ] Iacov patriarhul (Jacob)
 - [x] Moise (Moses)
