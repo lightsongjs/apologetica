@@ -46,10 +46,10 @@ Duminica a 5-a după Paști (Duminica Samarinencei) este dedicată pomenirii ace
 
 ## Contemporani și rude spirituale
 
-### Apostolul Petru (murit c. 64-67 d.Hr.)
+### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Contemporan în misiunea creștină. Amândoi au propovăduit în Imperiul Roman și au suferit mucenicia sub Nero la Roma.
 
-### Apostolul Pavel (murit c. 64-67 d.Hr.)
+### [[personalitati/pavel|Apostolul Pavel]] (murit c. 64-67 d.Hr.)
 Contemporan în lucrarea misionară. Ca și Fotini, Pavel a călătorit extensiv pentru a răspândi Evanghelia în lumea greco-romană.
 
 ### Fiii săi: Victor (Fotinos) și Ioses

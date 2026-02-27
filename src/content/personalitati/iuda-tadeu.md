@@ -75,7 +75,7 @@ Cel mai apropiat tovarăș de misiune al lui Iuda Tadeu. Cei doi au propovăduit
 ### [[personalitati/matia|Sfântul Apostol Matia]]
 Coleg apostol, ales prin sorți după trădarea și moartea lui Iuda Iscarioteanul. Matia a completat numărul celor doisprezece Apostoli, restabilind plinătatea comunității apostolice din care făcea parte și Iuda Tadeu.
 
-### Apostolul Bartolomeu (murit c. 71 d.Hr.)
+### [[personalitati/bartolomeu|Apostolul Bartolomeu]] (murit c. 71 d.Hr.)
 Împreună cu Iuda Tadeu, este considerat co-întemeietor al Bisericii în Armenia. Amândoi au propovăduit în regiunile estice și au suferit mucenicia pentru Hristos.
 
 ### Regele Abgar al Edesei (murit c. 50 d.Hr.)

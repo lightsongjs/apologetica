@@ -43,6 +43,53 @@ function extractContemporariesSection(content: string): string {
   return match ? match[1] : '';
 }
 
+/** Extract plain text mentions of apostles/personalities (without wiki-links) */
+function extractPlainTextMentions(content: string): Array<{ mention: string; possibleSlug: string }> {
+  const mentions: Array<{ mention: string; possibleSlug: string }> = [];
+
+  // Common apostle name patterns that should be wiki-linked
+  const patterns = [
+    { regex: /Apostolul (Petru|Pavel|Ioan|Andrei|Filip|Bartolomeu|Toma|Matei|Iacob|Simon|Iuda|Tadeu)/g, prefix: '' },
+    { regex: /Sfântul Apostol (Petru|Pavel|Ioan|Andrei|Filip|Bartolomeu|Toma|Matei|Iacob|Simon|Iuda)/g, prefix: 'Sfântul Apostol ' },
+    { regex: /Profetul (Isaia|Ieremia|Iezechiel|Daniel|Osea|Ioil|Amos|Avdie|Iona|Miheia|Naum|Avacum|Sofonie|Agheu|Zaharia|Maleahi)/g, prefix: 'Profetul ' },
+  ];
+
+  for (const { regex, prefix } of patterns) {
+    let match;
+    while ((match = regex.exec(content)) !== null) {
+      const fullMatch = match[0];
+      const name = match[1];
+
+      // Skip if this mention is already inside a wiki-link
+      const beforeMatch = content.substring(0, match.index);
+      const afterMatch = content.substring(match.index + fullMatch.length);
+      const insideWikiLink = beforeMatch.lastIndexOf('[[') > beforeMatch.lastIndexOf(']]') ||
+                            afterMatch.indexOf(']]') < afterMatch.indexOf('[[');
+
+      if (!insideWikiLink) {
+        mentions.push({
+          mention: fullMatch,
+          possibleSlug: name.toLowerCase()
+            .replace('petru', 'petru')
+            .replace('pavel', 'pavel')
+            .replace('ioan', 'ioan-evanghelistul')
+            .replace('andrei', 'andrei-apostolul')
+            .replace('filip', 'filip-apostolul')
+            .replace('bartolomeu', 'bartolomeu')
+            .replace('toma', 'toma')
+            .replace('matei', 'matei-evanghelistul')
+            .replace('iacob', 'iacob-zebedeu')  // Most common Iacob
+            .replace('simon', 'simon-zilotul')
+            .replace('iuda', 'iuda-tadeu')
+            .replace('tadeu', 'iuda-tadeu')
+        });
+      }
+    }
+  }
+
+  return mentions;
+}
+
 /** Extract the "Surse și scrieri" section content */
 function extractSourcesSection(content: string): string {
   // Normalize line endings first
@@ -262,5 +309,31 @@ test.describe('Personality cross-references', () => {
       }
     }
     expect(missing, `Missing image files:\n${missing.join('\n')}`).toHaveLength(0);
+  });
+
+  test('common apostle/prophet names in Contemporani should have wiki-links', () => {
+    const issues: string[] = [];
+    const allSlugs = new Set(personalities.map(p => p.slug));
+
+    for (const { slug, content } of personalities) {
+      const section = extractContemporariesSection(content);
+      if (!section) continue;
+
+      const plainTextMentions = extractPlainTextMentions(section);
+
+      for (const { mention, possibleSlug } of plainTextMentions) {
+        // Check if a file exists for this personality
+        if (allSlugs.has(possibleSlug)) {
+          issues.push(
+            `${slug}.md: "${mention}" should be wiki-linked as [[personalitati/${possibleSlug}|${mention}]]`
+          );
+        }
+      }
+    }
+
+    expect(
+      issues,
+      `Common apostle/prophet names without wiki-links:\n${issues.join('\n')}`
+    ).toHaveLength(0);
   });
 });

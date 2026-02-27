@@ -60,10 +60,10 @@ Menționează că Iacob a fost ales episcop al Ierusalimului de Petru, Iacob și
 
 ## Contemporani și rude spirituale
 
-### Apostolul Petru (murit c. 64-67 d.Hr.)
+### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Împreună cu Iacob și Ioan, Petru este numit „stâlp" al Bisericii (Galateni 2:9). Petru a fost prima dată conducătorul comunității din Ierusalim, apoi a încredințat-o lui Iacob, plecând în misiune. Cei doi au colaborat strâns la Sinodul din Ierusalim.
 
-### Apostolul Pavel (murit c. 64-67 d.Hr.)
+### [[personalitati/pavel|Apostolul Pavel]] (murit c. 64-67 d.Hr.)
 Pavel l-a vizitat pe Iacob la Ierusalim de mai multe ori (Galateni 1:19; 2:9; Faptele Apostolilor 21:18). Deși au existat tensiuni privind raportul dintre Lege și har, cei doi au ajuns la un acord fundamental la Sinodul din Ierusalim. Iacob l-a primit pe Pavel cu bucurie la ultima sa vizită la Ierusalim.
 
 ### [[personalitati/barnaba|Sfântul Barnaba]]

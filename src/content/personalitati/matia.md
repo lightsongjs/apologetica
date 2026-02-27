@@ -63,7 +63,7 @@ Laudă lui Matia (Encomion), un discurs pangiric care compilează tradițiile de
 
 ## Contemporani și rude spirituale
 
-### Apostolul Petru (murit c. 64-67 d.Hr.)
+### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Cel care a propus și a prezidat procesul de alegere a lui Matia. Petru a formulat criteriile apostolice și a condus rugăciunea comunității, demonstrând rolul său de conducător al celorlalți Apostoli. Matia a fost astfel ales sub autoritatea celui dintâi dintre Apostoli.
 
 ### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]]

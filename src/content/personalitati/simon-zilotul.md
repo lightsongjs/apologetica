@@ -75,7 +75,7 @@ Coleg apostol, ales prin sorți după Înălțarea Domnului. Matia a fost martor
 ### Maica Domnului
 Prezentă la Nunta din Cana, unde tradiția spune că Simon era mirele. Cuvintele Maicii Domnului — „Faceți orice vă va spune El" (Ioan 2:5) — au fost decisive pentru viața lui Simon, care a ascultat această îndemnare urmându-L pe Hristos.
 
-### Apostolul Petru (murit c. 64-67 d.Hr.)
+### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Conducătorul celorlalți Apostoli, împreună cu care Simon a propovăduit în primii ani după Cincizecime. Petru, ca și Simon, a suferit mucenicia în timpul persecuțiilor romane.
 
 ## Versete cheie

@@ -83,10 +83,10 @@ Coleg apostol, prezent alături de Toma la arătarea de pe malul Mării Tiberiad
 ### [[personalitati/matei-evanghelistul|Sfântul Apostol și Evanghelist Matei]]
 Coleg apostol care îl menționează pe Toma în lista celor doisprezece (Matei 10:3). Ca și Toma, Matei a predicat în regiuni îndepărtate ale lumii antice și a suferit mucenicia departe de Palestina.
 
-### Apostolul Petru (murit c. 64-67 d.Hr.)
+### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Liderul Apostolilor. Mărturisirea lui Petru — „Tu ești Hristosul, Fiul Dumnezeului celui viu" (Matei 16:16) — și mărturisirea lui Toma — „Domnul meu și Dumnezeul meu!" (Ioan 20:28) — sunt cele două coloane ale hristologiei apostolice, complementându-se reciproc.
 
-### Apostolul Ioan (murit c. 100 d.Hr.)
+### [[personalitati/ioan-evanghelistul|Apostolul Ioan]] (murit c. 100 d.Hr.)
 Evanghelistul care a consemnat toate cele patru episoade-cheie ale lui Toma. Faptul că Ioan a ales să includă aceste momente arată importanța lor teologică pentru înțelegerea Învierii și a dumnezeirii lui Hristos.
 
 ## Versete cheie

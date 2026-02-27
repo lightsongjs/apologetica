@@ -82,10 +82,10 @@ Coleg apostol, menționat de Matei în lista celor doisprezece (Matei 10:3). Tra
 ### [[personalitati/toma|Sfântul Apostol Toma]]
 Coleg apostol, menționat în Evanghelia după Matei (10:3). Ca și Matei, Toma a predicat în regiuni îndepărtate — India — și a suferit mucenicia departe de Palestina. Amândoi au dat mărturie despre Hristos până la moarte.
 
-### Apostolul Petru (murit c. 64-67 d.Hr.)
+### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Liderul Apostolilor, contemporan și coleg în slujirea apostolică. Petru apare frecvent în Evanghelia lui Matei, inclusiv în episodul mărturisirii de la Cezareea lui Filip: „Tu ești Hristosul, Fiul Dumnezeului celui viu" (Matei 16:16).
 
-### Apostolul Pavel (murit c. 64-67 d.Hr.)
+### [[personalitati/pavel|Apostolul Pavel]] (murit c. 64-67 d.Hr.)
 Deși nu a fost ucenic direct al lui Hristos în timpul activității pământești, Pavel este contemporanul lui Matei în misiunea apostolică. Amândoi au scris texte canonice ale Noului Testament.
 
 ## Versete cheie

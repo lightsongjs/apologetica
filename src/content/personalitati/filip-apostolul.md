@@ -69,10 +69,10 @@ Coleg apostol, fost vameș chemat de Hristos. Matei consemnează numele lui Fili
 ### [[personalitati/toma|Sfântul Apostol Toma]]
 Coleg apostol care, asemenea lui Filip, apare în momente-cheie ale Evangheliei lui Ioan. La Cina cea de Taină, întrebarea lui Toma „Doamne, nu știm unde Te duci" (Ioan 14:5) precedă întrebarea lui Filip despre Tatăl (Ioan 14:8), ambele prilejuind revelații cristologice fundamentale.
 
-### Apostolul Petru (murit c. 64-67 d.Hr.)
+### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Coleg apostol, originar din aceeași cetate — Betsaida. Petru și Filip au crescut probabil cunoscându-se, iar chemarea lor de către Hristos îi leagă într-o frățietate apostolică specială.
 
-### Apostolul Andrei (murit c. 60 d.Hr.)
+### [[personalitati/andrei-apostolul|Apostolul Andrei]] (murit c. 60 d.Hr.)
 Ca și Petru, originar din Betsaida. Andrei a fost primul chemat de Hristos, iar Filip al treilea, ambii răspunzând imediat și aducând alți oameni la Mântuitorul.
 
 ## Versete cheie

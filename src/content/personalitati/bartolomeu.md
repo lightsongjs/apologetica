@@ -75,10 +75,10 @@ Coleg apostol, prezent împreună cu Bartolomeu la arătarea de pe malul Mării 
 ### [[personalitati/matei-evanghelistul|Sfântul Apostol și Evanghelist Matei]]
 Coleg apostol. Tradiția leagă pe Bartolomeu de Evanghelia după Matei prin relatarea lui Eusebiu despre o copie a acestei Evanghelii dusă de Bartolomeu în India. Ambii sunt pomeniți în toate listele apostolice.
 
-### Apostolul Tadeu (Iuda, fiul lui Iacov)
+### [[personalitati/iuda-tadeu|Apostolul Tadeu]] (Iuda, fiul lui Iacov)
 Co-fondator al Bisericii din Armenia, alături de Bartolomeu. Tradiția armeană venerează pe amândoi ca „Luminătorii Armeniei" și întemeietorii credinței creștine în acea țară.
 
-### Apostolul Petru (murit c. 64-67 d.Hr.)
+### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Prezent alături de Bartolomeu la arătarea de pe malul Mării Tiberiadei (Ioan 21). Petru, ca și Bartolomeu, a fost chemat în primele zile ale activității publice a lui Hristos.
 
 ## Versete cheie
