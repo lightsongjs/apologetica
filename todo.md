@@ -148,8 +148,8 @@
 - [x] Muntele Tabor (Mount Tabor)
 - [x] Muntele Măslinilor (Mount of Olives)
 - [x] Râul Iordan (Jordan River)
-- [ ] Muntele Ispitei (Mount of Temptation/Wilderness)
-- [ ] Marea Moartă (Dead Sea)
+- [x] Muntele Ispitei (Mount of Temptation/Wilderness)
+- [x] Marea Moartă (Dead Sea)
 
 ### Locations in/near Jerusalem
 - [x] Golgota (Golgotha)
