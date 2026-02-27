@@ -75,6 +75,9 @@ Tatăl său, logodnicul Fecioarei Maria.
 ### [[personalitati/iose|Iose]] (sec. I)
 Fratele său, fiu al lui Iosif din prima căsătorie (Matei 13:55).
 
+### [[personalitati/iuda-fratele-domnului|Sfântul Apostol Iuda, fratele Domnului]] (sec. I)
+Fratele său, autorul Epistolei Soborniceşti a lui Iuda.
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Coleg „stâlp" al Bisericii (Galateni 2:9). Petru recunoștea autoritatea lui Iacob în Ierusalim (Fapte 12:17; Galateni 2:12).
 

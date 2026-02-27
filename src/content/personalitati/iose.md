@@ -43,6 +43,9 @@ Tatăl său, logodnicul Fecioarei Maria.
 ### [[personalitati/iacob-fratele-domnului|Sfântul Apostol Iacob, fratele Domnului]] (†62)
 Fratele său, primul episcop al Ierusalimului.
 
+### [[personalitati/iuda-fratele-domnului|Sfântul Apostol Iuda, fratele Domnului]] (sec. I)
+Fratele său, autorul Epistolei Soborniceşti a lui Iuda.
+
 ## Versete cheie
 
 - **Matei 13:55** — „Au nu este Acesta fiul teslarului? Au nu se numește mama Lui Maria și frații Lui: Iacov și Iose și Simon și Iuda?"
