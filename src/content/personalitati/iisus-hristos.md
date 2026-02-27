@@ -119,6 +119,12 @@ Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
+### [[personalitati/femeia-cu-scurgere-de-sange|Femeia cu scurgere de sânge]] (sec. I)
+Cea vindecată prin atingerea hainei Sale: „Fiică, credința ta te-a mântuit" (Marcu 5:34).
+
+### [[personalitati/vaduva-din-nain|Văduva din Nain]] (sec. I)
+Mama al cărei fiu a fost înviat prin cuvânt: „Tinere, ție îți zic, scoală-te!" (Luca 7:14).
+
 ### [[personalitati/slabanogul-de-la-betezda|Slăbănogul de la Betezda]] (sec. I)
 Bolnavul de 38 de ani, vindecat prin cuvânt: „Scoală-te, ia-ți patul tău și umblă!" (Ioan 5:8).
 
