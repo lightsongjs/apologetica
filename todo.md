@@ -89,7 +89,7 @@
 - [ ] Văduvă din Nain (Widow of Nain)
 - [ ] Leprosul samaritean (Samaritan leper)
 - [ ] Slăbănogul de la Betezda (Paralytic at Bethesda)
-- [ ] Orbul de la naștere (Man born blind)
+- [x] Orbul de la naștere (Man born blind)
 
 ### Old Testament Figures Mentioned
 - [x] Avraam (Abraham)

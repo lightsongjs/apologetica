@@ -119,6 +119,9 @@ Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
+### [[personalitati/orbul-din-nastere|Orbul din naștere]] (sec. I)
+Cel vindecat la Siloam, a cărui mărturisire „Eram orb și acum văd" (Ioan 9:25) este model de simplitate și curaj.
+
 ### [[personalitati/magii|Magii de la Răsărit]] (sec. I)
 Înțelepții care, călăuziți de stea, I s-au închinat la Betleem, aducând aur, tămâie și smirnă — pârgă a neamurilor.
 
