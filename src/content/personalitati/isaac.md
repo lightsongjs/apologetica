@@ -56,6 +56,9 @@ Cel prefigurat de Isaac: Fiul unic al Tatălui, adus la jertfă pe același munt
 ### [[personalitati/avraam|Sfântul Patriarh Avraam]] (c. 2000 î.Hr.)
 Tatăl său, care l-a adus la jertfă pe Moria prin credință: „A socotit că Dumnezeu poate și din morți să învieze" (Evrei 11:19).
 
+### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov/Israel]] (c. 1800 î.Hr.)
+Fiul său, care a primit binecuvântarea și a devenit tatăl celor douăsprezece seminții ale lui Israel.
+
 ## Versete cheie
 
 - **Facerea 21:3** — „Și Avraam a pus pruncului pe care i-l născuse Sarra numele Isaac."

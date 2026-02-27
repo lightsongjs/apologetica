@@ -94,7 +94,7 @@
 ### Old Testament Figures Mentioned
 - [x] Avraam (Abraham)
 - [x] Isaac (Isaac)
-- [ ] Iacov patriarhul (Jacob)
+- [x] Iacov patriarhul (Jacob)
 - [x] Moise (Moses)
 - [x] Ilie (Elijah)
 - [x] Elisei (Elisha)

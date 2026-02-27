@@ -68,6 +68,9 @@ Urmașul lui Avraam după trup (Matei 1:1) și Cel în Care „se binecuvânteaz
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul făgăduinței, pe care l-a adus la jertfă pe Moria. Isaac este tipul lui Hristos — Fiul unic jertfit de Tatăl.
 
+### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov/Israel]] (c. 1800 î.Hr.)
+Nepotul său, tatăl celor douăsprezece seminții, care a continuat Legământul.
+
 ### [[personalitati/moise|Sfântul Proroc Moise]] (sec. XIII î.Hr.)
 Dumnezeu Se revelează lui Moise ca „Dumnezeul lui Avraam, Dumnezeul lui Isaac și Dumnezeul lui Iacob" (Ieșirea 3:6). Legământul cu Avraam se împlinește prin Ieșirea din Egipt.
 
