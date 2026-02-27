@@ -110,7 +110,7 @@
 ### Other Named Figures
 - [x] Barabas (Barabbas)
 - [x] Simeon Leproso (Simon the Leper)
-- [ ] Simon Fariseu (Simon the Pharisee)
+- [x] Simon Fariseu (Simon the Pharisee)
 - [x] Cleopa (Cleopas, road to Emmaus)
 - [x] Malh (Malchus, servant whose ear was cut)
 - [x] Magii (The Magi/Wise Men)
