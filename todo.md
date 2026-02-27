@@ -67,7 +67,7 @@
 - [x] Nicodim (Nicodemus, Pharisee)
 - [x] Iosif din Arimateea (Joseph of Arimathea)
 - [ ] Gamaliel (Gamaliel)
-- [ ] Simeon (Simeon in the Temple)
+- [x] Simeon (Simeon in the Temple)
 - [ ] Ana profetisa (Anna the prophetess)
 
 ### Roman Officials
