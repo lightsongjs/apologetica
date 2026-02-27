@@ -64,6 +64,9 @@ Sora sa mai mare, cea care L-a întâmpinat pe Hristos cu mărturisirea credinț
 ### [[personalitati/barnaba|Sfântul Apostol Barnaba]] (†c. 61)
 Conform tradiției, l-a hirotonit pe Lazăr episcop al Kitionului în Cipru, în timpul misiunii sale apostolice pe insulă.
 
+### [[personalitati/maria-din-betania|Sfânta Maria din Betania]] (sec. I d.Hr.)
+Sora sa, cea care a șezut la picioarele lui Hristos ascultând cuvântul Său și L-a uns cu mir de nard. La moartea lui Lazăr, lacrimile ei L-au mișcat pe Hristos.
+
 ## Versete cheie
 
 - **Ioan 11:3** — „Doamne, iată, cel pe care îl iubești este bolnav."

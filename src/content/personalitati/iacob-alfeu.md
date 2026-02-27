@@ -60,6 +60,9 @@ Menționează că Iacob a fost ales episcop al Ierusalimului de Petru, Iacob și
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Mântuitorul care l-a ales pe Iacob între cei doisprezece Apostoli și care, după Înviere, i S-a arătat în mod special (1 Corinteni 15:7). Ca „frate al Domnului" și primul episcop al Ierusalimului, Iacob a mărturisit dumnezeirea lui Hristos cu o greutate unică, iar la martiriu a repetat rugăciunea Mântuitorului de pe Cruce: „Doamne, iartă-i, căci nu știu ce fac."
+
 ### [[personalitati/petru|Apostolul Petru]] (murit c. 64-67 d.Hr.)
 Împreună cu Iacob și Ioan, Petru este numit „stâlp" al Bisericii (Galateni 2:9). Petru a fost prima dată conducătorul comunității din Ierusalim, apoi a încredințat-o lui Iacob, plecând în misiune. Cei doi au colaborat strâns la Sinodul din Ierusalim.
 

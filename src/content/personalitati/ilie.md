@@ -67,6 +67,9 @@ Slujitorul temător de Dumnezeu al lui Ahab, care a ascuns 100 de profeți ai Do
 ### [[personalitati/maleahi|Profetul Maleahi]] (sec. V î.Hr.)
 Deși au trăit la secole distanță, ultimele cuvinte ale Vechiului Testament (Maleahi 3:23-24/4:5-6) vestesc revenirea lui Ilie: „Iată, Eu vă trimit pe Ilie proorocul, înainte de a veni ziua Domnului cea mare și înfricoșătoare." Hristos confirmă împlinirea parțială prin [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]] (Matei 11:14).
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Cel pentru Care a pregătit calea prin duhul și puterea sa, transmise [[personalitati/ioan-botezatorul|Înaintemergătorului]]. S-a arătat alături de [[personalitati/moise|Moise]] la Schimbarea la Față pe Tabor, mărturisind dumnezeirea lui Hristos (Matei 17:3).
+
 ## Versete cheie
 
 **3 Regi 18:21** — „Până când veți șchiopăta de amândouă picioarele? Dacă Domnul este Dumnezeu, urmați-L pe El; iar dacă este Baal, urmați-l pe acela."

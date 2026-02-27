@@ -75,6 +75,9 @@ Autorul Faptelor Apostolilor, în care consemnează rolul crucial al lui Barnaba
 ### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob]]
 La Sinodul din Ierusalim, Iacob, episcopul Ierusalimului, a conlucrat cu Barnaba și Pavel pentru a stabili libertatea neamurilor față de Legea mozaică (Faptele Apostolilor 15).
 
+### [[personalitati/lazar|Sfântul Drept Lazăr]] (sec. I d.Hr.)
+Conform tradiției, Barnaba l-a hirotonit pe Lazăr episcop al Kitionului în Cipru, în timpul misiunii sale apostolice pe insulă.
+
 ## Versete cheie
 
 **Faptele Apostolilor 4:36-37** — „Iar Iosif, cel numit de apostoli Barnaba — care se tâlcuiește 'fiul mângâierii' —, levit, de neam din Cipru, având o țarină, a vândut-o și a adus banii și i-a pus la picioarele apostolilor."

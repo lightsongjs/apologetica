@@ -63,6 +63,9 @@ Poporul spune că este zadarnic să slujești lui Dumnezeu. Dumnezeu răspunde c
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+„Solul Legământului" profetizat de Maleahi (3:1), care a venit „îndată" în Templul Său. Hristos a aplicat prima parte a profeției la [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]] (Matei 11:10), iar intrarea Sa în Templu și curățirea acestuia (Matei 21:12-13) au împlinit a doua parte. Profeția „jertfei curate" aduse „în tot locul" între neamuri (Maleahi 1:11) se împlinește în Sfânta Euharistie — Trupul și Sângele Mântuitorului, oferite zilnic de la răsărit până la apus.
+
 ### [[personalitati/ilie|Sfântul Proroc Ilie Tesviteanul]] (sec. IX î.Hr.)
 Deși au trăit la secole distanță, Maleahi și Ilie sunt legați prin profeția finală a Vechiului Testament: „Iată, Eu vă trimit pe Ilie proorocul" (3:23/4:5). Maleahi vestește revenirea lui Ilie înainte de Ziua Domnului, iar Hristos confirmă că această profeție s-a împlinit parțial în [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]] (Matei 11:14, 17:12) și se va împlini deplin înainte de a Doua Venire.
 

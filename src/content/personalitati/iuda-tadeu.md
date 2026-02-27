@@ -66,6 +66,9 @@ Text hagiografic care descrie misiunea și mucenicia comună a lui [[personalita
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Mântuitorul care l-a ales pe Iuda Tadeu între cei doisprezece Apostoli. La Cina cea de Taină, Iuda Tadeu I-a adresat întrebarea: „Doamne, ce s-a întâmplat că ai să Te arăți nouă și nu lumii?" (Ioan 14:22), primind unul dintre cele mai profunde răspunsuri despre locuirea Sfintei Treimi în sufletul credinciosului. Ca „frate al Domnului", Iuda Tadeu L-a cunoscut pe Hristos din copilărie și L-a mărturisit ca Domn și Dumnezeu.
+
 ### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]]
 Fratele lui Iuda Tadeu (Iuda 1:1), primul episcop al Ierusalimului și autorul Epistolei lui Iacob. Cei doi frați au fost amândoi Apostoli și „frați ai Domnului", dedicându-și viața propovăduirii Evangheliei. Legătura lor frățească și apostolică este unică în ceata celor doisprezece.
 

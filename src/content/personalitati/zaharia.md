@@ -60,6 +60,9 @@ Confirmarea istorică: „Profeții Agheu și Zaharia au profetizat iudeilor" ș
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Împlinitorul profețiilor mesianice ale lui Zaharia. Intrarea în Ierusalim pe mânzul asinei (Zaharia 9:9), cele 30 de arginți ai trădării (11:12-13), lovirea Păstorului și risipirea oilor (13:7), străpungerea pe Cruce (12:10) — fiecare moment al Săptămânii Patimilor împlinește câte o profeție a lui Zaharia. Mântuitorul Însuși citează pe Zaharia în noaptea arestării: „Lovește pe Păstor și se vor risipi oile!" (Matei 26:31).
+
 ### [[personalitati/agheu|Profetul Agheu]] (sec. VI î.Hr.)
 Contemporan și coleg în slujirea profetică, Agheu a profețit cu două luni înainte de Zaharia și s-a concentrat pe urgența practică a reconstrucției Templului. Zaharia completează mesajul lui Agheu cu viziuni despre semnificația spirituală și mesianică a Templului restaurat.
 

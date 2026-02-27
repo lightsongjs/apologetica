@@ -54,6 +54,12 @@ Cea mai detaliată profeție despre patimile lui Hristos din tot Vechiul Testame
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Mesia cel prezis de Isaia cu 700 de ani înainte. Profețiile isaiane despre nașterea din Fecioară (7:14), Pruncul dumnezeiesc (9:6), Robul suferind (52:13-53:12) și mântuirea universală s-au împlinit în viața, Patimile, Moartea și Învierea lui Hristos. Mântuitorul Însuși Și-a început propovăduirea citind din Isaia 61 în sinagoga din Nazaret: „Astăzi s-a împlinit Scriptura aceasta" (Luca 4:21).
+
+### [[personalitati/david|Sfântul Proroc și Rege David]] (c. 1040-970 î.Hr.)
+Regele din a cărui seminție a profetizat Isaia despre „Odrasla lui Iesei" (Isaia 11:1). Profețiile isaiane dezvoltă și desăvârșesc Legământul davidic.
+
 ### Regele Iezechia (c. 715-686 î.Hr.)
 Unul dintre cei mai evlavioși regi ai lui Iuda. Isaia l-a sfătuit în timpul invaziei asiriene și i-a transmis vindecarea de la Dumnezeu când era bolnav de moarte (Isaia 38).
 

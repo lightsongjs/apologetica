@@ -49,6 +49,12 @@ Prietenul casei din Betania. „Iisus iubea pe Marta și pe sora ei și pe Lază
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Mărturisirea Martei (Ioan 11:27) este paralelă cu mărturisirea lui Petru (Matei 16:16) — amândoi Îl recunosc pe Iisus ca Hristos, Fiul lui Dumnezeu.
 
+### [[personalitati/lazar|Sfântul Drept Lazăr]] (sec. I d.Hr.)
+Fratele ei, înviat din morți de Hristos după patru zile. Marta L-a întâmpinat pe Hristos cu mărturisirea credinței înainte de învierea lui Lazăr.
+
+### [[personalitati/maria-din-betania|Sfânta Maria din Betania]] (sec. I d.Hr.)
+Sora ei, cu care formează perechea simbolică viață activă — viață contemplativă. Împreună au trimis vorbă lui Iisus despre boala lui [[personalitati/lazar|Lazăr]].
+
 ## Versete cheie
 
 - **Luca 10:41-42** — „Marto, Marto, te îngrijorezi și te neliniștești de multe; dar un lucru trebuie. Maria și-a ales partea cea bună, care nu se va lua de la ea."

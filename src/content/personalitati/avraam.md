@@ -71,6 +71,9 @@ Fiul făgăduinței, pe care l-a adus la jertfă pe Moria. Isaac este tipul lui 
 ### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov/Israel]] (c. 1800 î.Hr.)
 Nepotul său, tatăl celor douăsprezece seminții, care a continuat Legământul.
 
+### [[personalitati/noe|Sfântul Patriarh Noe]] (pre-Avraam)
+Dreptul care a salvat omenirea prin arcă. Legământul lui Dumnezeu cu Noe (Facerea 9) prefigurează și pregătește Legământul cu Avraam — de la salvarea universală la alegerea unui neam.
+
 ### [[personalitati/moise|Sfântul Proroc Moise]] (sec. XIII î.Hr.)
 Dumnezeu Se revelează lui Moise ca „Dumnezeul lui Avraam, Dumnezeul lui Isaac și Dumnezeul lui Iacob" (Ieșirea 3:6). Legământul cu Avraam se împlinește prin Ieșirea din Egipt.
 

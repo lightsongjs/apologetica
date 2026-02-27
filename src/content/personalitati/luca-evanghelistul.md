@@ -65,6 +65,9 @@ Biserica Ortodoxă atribuie lui Luca primele icoane ale Maicii Domnului, pictate
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Subiectul celor două volume ale operei lucane — Evanghelia și Faptele Apostolilor. Luca a cercetat „cu de-amănuntul toate de la început" (Luca 1:3) despre viața Mântuitorului, consemnând în mod unic Nașterea, copilăria, parabolele milostivirii și Înălțarea Sa. Tradiția ortodoxă îl consideră pe Luca primul iconograf, care a pictat chipul [[personalitati/maica-domnului|Maicii Domnului]] care L-a născut pe Hristos.
+
 ### [[personalitati/pavel|Sfântul Apostol Pavel]]
 Cel mai important om din viața lui Luca. „Doctorul cel iubit" (Coloseni 4:14) l-a însoțit pe Pavel în călătorii, în captivitate, în naufragiu, și a fost ultimul care a rămas alături de el: „Numai Luca este cu mine" (2 Timotei 4:11).
 

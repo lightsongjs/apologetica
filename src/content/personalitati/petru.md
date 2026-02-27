@@ -47,6 +47,17 @@ Scrisă probabil din Roma (numită „Babilon" — 1 Petru 5:13) către creștin
 **A Doua Epistolă a Sfântului Petru**
 Avertizează împotriva învățătorilor mincinoși și vorbește despre Schimbarea la Față ca mărturie directă a slavei lui Hristos (2 Petru 1:16-18). Îndeamnă la creșterea în cunoașterea lui Dumnezeu și la așteptarea Zilei Domnului.
 
+### Referințe în predicile și epistolele sale
+
+**[[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]**
+Toate epistolele și predicile lui Petru sunt centrate pe persoana și lucrarea lui Hristos. Epistolele sale dezvoltă teologic semnificația Patimilor, Învierii și Parusiei Domnului.
+
+**[[personalitati/david|Sfântul Proroc și Rege David]]** (c. 1040-970 î.Hr.)
+În predica de la Cincizecime (Faptele Apostolilor 2:25-31), Petru citează psalmii lui David ca profeții ale Învierii lui Hristos, demonstrând că David a vorbit profetic despre Mesia.
+
+**[[personalitati/iuda-iscarioteanul|Iuda Iscarioteanul]]** (†c. 30)
+Petru vorbește despre căderea lui Iuda în Faptele Apostolilor 1:15-26, inițiind procesul de alegere a unui nou apostol în locul trădătorului.
+
 ### Mărturii despre el
 
 **[[personalitati/pavel|Sfântul Apostol Pavel]]**
@@ -89,6 +100,57 @@ Autorul Evangheliei după Luca și al Faptelor Apostolilor. Luca a consemnat pre
 
 ### [[personalitati/marcu-evanghelistul|Sfântul Evanghelist Marcu]]
 Ucenicul și fiul spiritual al lui Petru. Evanghelia după Marcu este, în esență, predicile lui Petru filtrate prin pana lui Marcu. Petru îl numește „Marcu, fiul meu" (1 Petru 5:13), iar tradiția atestă că Marcu a scris Evanghelia sa în Roma sub îndrumarea lui Petru.
+
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Învățătorul și Domnul lui Petru. Hristos l-a chemat de la mreaja pescarului, i-a schimbat numele din Simon în Petru (Chifa — „Stâncă") și i-a încredințat cheile Împărăției cerurilor (Matei 16:19).
+
+### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
+Petru a fost alături de Maica Domnului în comunitatea primară din Ierusalim după Înălțarea Domnului, împreună cu ceilalți Apostoli, stăruind în rugăciune (Faptele Apostolilor 1:14).
+
+### [[personalitati/filip-apostolul|Sfântul Apostol Filip]] (†c. 80)
+Coleg apostol, originar din aceeași cetate — Betsaida (Ioan 1:44). Petru și Filip au crescut probabil cunoscându-se, iar chemarea lor de către Hristos îi leagă într-o frățietate apostolică specială.
+
+### [[personalitati/bartolomeu|Sfântul Apostol Bartolomeu (Natanael)]] (†sec. I)
+Coleg apostol, prezent alături de Petru la arătarea de pe malul Mării Tiberiadei (Ioan 21). Bartolomeu a fost chemat în primele zile ale activității publice a lui Hristos, ca și Petru.
+
+### [[personalitati/matei-evanghelistul|Sfântul Apostol și Evanghelist Matei]] (†sec. I)
+Coleg apostol. În Evanghelia sa, Matei consemnează cu deosebită atenție mărturisirea lui Petru de la Cezareea lui Filip (Matei 16:16) și darul cheilor Împărăției cerurilor.
+
+### [[personalitati/toma|Sfântul Apostol Toma]] (†c. 72)
+Coleg apostol. Mărturisirea lui Petru — „Tu ești Hristosul, Fiul Dumnezeului Celui viu" (Matei 16:16) — și mărturisirea lui Toma — „Domnul meu și Dumnezeul meu!" (Ioan 20:28) — sunt cele două coloane ale hristologiei apostolice.
+
+### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]] (†c. 62)
+Coleg apostol. Petru și Iacob al lui Alfeu au colaborat strâns la Sinodul din Ierusalim (Faptele Apostolilor 15), unde au hotărât împreună primirea neamurilor în Biserică.
+
+### [[personalitati/simon-zilotul|Sfântul Apostol Simon Zilotul]] (†sec. I)
+Coleg apostol, împreună cu care Petru a propovăduit în primii ani după Cincizecime în comunitatea din Ierusalim.
+
+### [[personalitati/iuda-iscarioteanul|Iuda Iscarioteanul]] (†c. 30)
+Contrastul central al Noului Testament: ambii L-au trădat pe Hristos — Iuda prin vânzare, Petru prin lepădare — dar Petru s-a pocăit cu lacrimi amare și a fost restaurat, pe când Iuda a ales disperarea și moartea.
+
+### [[personalitati/matia|Sfântul Apostol Matia]] (†sec. I)
+Petru a propus și a prezidat procesul de alegere a lui Matia în locul lui Iuda (Faptele Apostolilor 1:15-26), formulând criteriile apostolice și conducând rugăciunea comunității.
+
+### [[personalitati/iacob-fratele-domnului|Sfântul Apostol Iacob, Fratele Domnului]] (†62)
+Coleg „stâlp" al Bisericii (Galateni 2:9). Petru a recunoscut autoritatea lui Iacob în Ierusalim (Faptele Apostolilor 12:17; Galateni 2:12), încredințându-i conducerea comunității ierusalimitene.
+
+### [[personalitati/maria-magdalena|Sfânta Mironosiță Maria Magdalena]]
+Maria a alergat la Petru și la Ioan cu vestea mormântului gol (Ioan 20:2), iar Petru a alergat la mormânt și a crezut, devenind martor al Învierii.
+
+### [[personalitati/marta|Sfânta Mironosiță Marta]]
+Mărturisirea Martei (Ioan 11:27) este paralelă cu mărturisirea lui Petru (Matei 16:16) — amândoi Îl recunosc pe Iisus ca Hristos, Fiul lui Dumnezeu.
+
+### [[personalitati/sfanta-fotini|Sfânta Fotini cea Mare]]
+Contemporană în misiunea creștină. Amândoi au propovăduit în Imperiul Roman și au suferit mucenicia sub împăratul Nero la Roma.
+
+### [[personalitati/iosif-din-arimateea|Sfântul Iosif din Arimateea]]
+Pe când apostolii se ascundeau de frică în noaptea Patimilor, Iosif — care nu era apostol — a mers cu curaj la Pilat pentru a cere trupul Domnului, subliniind că devotamentul nu depinde de rang.
+
+### [[personalitati/nicodim|Sfântul Nicodim]]
+Conform tradiției, Petru l-a botezat pe Nicodim după Cincizecime, aducându-l pe ucenicul tainic al Domnului în comunitatea Bisericii pe față.
+
+### [[personalitati/caiafa|Caiafa]]
+Marele preot al Ierusalimului, în curtea căruia Petru s-a lepădat de Hristos de trei ori (Matei 26:69-75), episodul care a marcat cel mai dureros moment al vieții apostolului.
 
 ### [[personalitati/irineu|Sfântul Irineu de Lyon]] (c. 130-202)
 Invocă succesiunea de la Petru și Pavel prin Biserica din Roma ca garanție a ortodoxiei (Adversus Haereses 3.3.2), conectând astfel autoritatea apostolică a lui Petru cu tradiția Bisericii din secolul al doilea.

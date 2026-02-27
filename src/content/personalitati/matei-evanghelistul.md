@@ -73,6 +73,9 @@ Menționează tradiții despre viața ascetică a lui Matei după convertire, sp
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Mântuitorul care l-a chemat pe Matei de la vamă cu cuvintele „Urmează-Mi!" (Matei 9:9), transformându-l din vameș disprețuit în Apostol și Evanghelist. Matei a consemnat în Evanghelia sa genealogia, învățăturile, minunile, Patimile, Moartea și Învierea lui Hristos, demonstrând că El este Mesia cel promis de prooroci.
+
 ### [[personalitati/filip-apostolul|Sfântul Apostol Filip]]
 Coleg apostol, chemat de Hristos la scurt timp înainte sau după Matei. Ambii au răspuns imediat chemării lui Hristos și și-au dedicat viața propovăduirii Evangheliei. Filip apare în Evanghelia lui Matei în lista celor doisprezece (Matei 10:3).
 

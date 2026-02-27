@@ -51,6 +51,9 @@ Cel mai important text al cărții: „Iată vin zile, zice Domnul, când voi î
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Împlinitorul Legământului Nou profetizat de Ieremia (31:31-34). Viața lui Ieremia — respins de ai săi, persecutat, plângând pentru poporul care nu-l ascultă — este o prefigurare a lui Hristos, care a plâns pentru Ierusalim (Luca 19:41) și a fost respins de ai Săi. Cuvântul „Legământ Nou" folosit de Mântuitorul la Cina cea de Taină (Luca 22:20) vine direct din profeția lui Ieremia.
+
 ### [[personalitati/iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
 Contemporan mai tânăr, deportat în Babilon în 597 î.Hr. Iezechiel a profețit printre exilați, în timp ce Ieremia rămânea în Iuda. Amândoi au vestit distrugerea Templului și restaurarea viitoare.
 

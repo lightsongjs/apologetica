@@ -66,6 +66,15 @@ Soția sa, din seminția lui Levi, cu care a împărtășit anii de sterilitate,
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia]] (†sec. I d.Hr.)
 Preotul Templului, soțul [[personalitati/elisabeta|Elisabetei]], care era rudă cu Fecioara Maria. Cei doi soți au trecut prin aceeași încercare a sterilității, primind în cele din urmă pe [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]].
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Nepotul lui Ioachim după trup — Fiul Fecioarei Maria. Ioachim este cinstit ca bunicul Mântuitorului (Θεοπάτωρ).
+
+### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
+Fiica sa, rodul rugăciunii și al lacrimilor, cea din care S-a întrupat Fiul lui Dumnezeu.
+
+### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+Ginerele său, logodnicul Fecioarei Maria, ocrotitorul Sfintei Familii.
+
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)
 Rudă a Fecioarei Maria (Luca 1:36), mama [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]]. Legătura de rudenie dintre Maria și Elisabeta leagă cele două familii în planul mântuirii.
 

@@ -60,8 +60,17 @@ Troparul Nașterii Maicii Domnului (8 septembrie): „Nașterea ta, Născătoare
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
 Soțul ei, din seminția lui Iuda, cu care a împărtășit anii de sterilitate, rugăciune și nădejde. Împreună sunt cinstiți ca „Dumnezeieștii Părinți" (Θεοπάτορες) ai Maicii Domnului.
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Nepotul Sfintei Ana după trup — Fiul Fecioarei Maria. Ana este cinstită ca bunica Mântuitorului (Θεοπρομήτωρ).
+
+### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
+Fiica ei, rodul rugăciunii stăruitoare, cea care L-a născut pe Dumnezeu în trup.
+
+### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+Ginerele ei, logodnicul Fecioarei Maria, ocrotitorul Sfintei Familii.
+
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)
-Rudă a Sfintei Ana sau a Fecioarei Maria (Luca 1:36). Elisabeta a trecut prin aceeași încercare a sterilității și a primit în cele din urmă pe [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]]. Legătura de rudenie dintre cele două familii leagă Întruparea de Înaintemergătorul.
+Rudă a Sfintei Ana sau a Fecioarei Maria (Luca 1:36). Elisabeta a trecut prin aceeași încercare a sterilității și a primit în cele din urmă pe [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]].
 
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia]] (†sec. I d.Hr.)
 Soțul Elisabetei, preot la Templu. Prin legătura de rudenie, familiile celor doi drepți au fost unite în planul mântuirii.

@@ -56,6 +56,9 @@ Conform tradiției, Petru l-a botezat pe Nicodim după Cincizecime.
 ### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
 Singurul evanghelist care îl menționează pe Nicodim. Narațiunea detaliată sugerează o cunoaștere personală.
 
+### [[personalitati/iosif-din-arimateea|Sfântul Iosif din Arimateea]] (sec. I d.Hr.)
+Împreună au coborât trupul Domnului de pe Cruce și L-au îngropat. Ambii erau membri ai Sinedriului și ucenici tainici care au îndrăznit în momentul decisiv, când apostolii se ascundeau.
+
 ## Versete cheie
 
 - **Ioan 3:2** — „Învățătorule, știm că de la Dumnezeu ai venit, căci nimeni nu poate face aceste minuni pe care le faci Tu, dacă nu este Dumnezeu cu el."

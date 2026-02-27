@@ -65,8 +65,17 @@ Stihirile și canonul praznicului de la 5 septembrie laudă pe Elisabeta ca „m
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia]] (†sec. I d.Hr.)
 Soțul ei, preot din ceata lui Abia. Au împărtășit sterilitatea, credința și bucuria nașterii lui Ioan. El a primit vestirea îngerească, iar Elisabeta a primit confirmarea prin Duhul Sfânt la vizita Mariei.
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Cel pe Care l-a recunoscut în pântecele Fecioarei la Vizitație, când pruncul Ioan a săltat de bucurie. Elisabeta a rostit prima mărturisire a Maternității divine: „Maica Domnului meu" (Luca 1:43).
+
+### [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]] (†c. 28-30)
+Fiul ei, zămislit la bătrânețe prin minune divină. L-a ascuns de soldații lui Irod în pustia Iudeii.
+
+### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
+Rudenia sa (Luca 1:36), care a vizitat-o la Întâmpinare. La salutul Mariei, Elisabeta s-a umplut de Duhul Sfânt și a proorocit.
+
 ### [[personalitati/ana|Sfânta Dreaptă Ana]] (sec. I î.Hr.)
-Mama Fecioarei Maria, rudă cu Elisabeta. Amândouă au trecut prin sterilitate și au primit rod prin minune divină. Rugăciunile lor paralele au pregătit venirea Mântuitorului și a Înaintemergătorului Său.
+Mama Fecioarei Maria, rudă cu Elisabeta. Amândouă au trecut prin sterilitate și au primit rod prin minune divină.
 
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
 Tatăl Fecioarei Maria. Prin rudenia dintre Maria și Elisabeta, cele două familii sunt unite în planul mântuirii.

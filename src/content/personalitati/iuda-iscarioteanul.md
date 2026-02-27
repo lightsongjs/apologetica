@@ -65,6 +65,12 @@ Contrastul central: ambii L-au trădat pe Hristos — Iuda prin vânzare, Petru 
 ### [[personalitati/matia|Sfântul Apostol Matia]]
 Ales prin sorți pentru a lua locul lui Iuda în ceata apostolilor (Fapte 1:26).
 
+### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]] (†c. 62)
+Coleg apostol, primul episcop al Ierusalimului. Iacob a făcut parte din comunitatea apostolică în care Iuda își trăise căderea, iar [[personalitati/matia|Matia]] a fost ales să completeze numărul celor doisprezece.
+
+### [[personalitati/iuda-tadeu|Sfântul Apostol Iuda Tadeu]] (†sec. I d.Hr.)
+Coleg apostol, „Iuda, nu Iscarioteanul" (Ioan 14:22). Contrastul dintre cei doi purtători ai numelui Iuda este grăitor: unul trădează, celălalt rămâne credincios până la mucenicie.
+
 ## Versete cheie
 
 - **Matei 26:15** — „Ce-mi veți da și eu Îl voi da în mâinile voastre? Iar ei i-au pus treizeci de arginți."

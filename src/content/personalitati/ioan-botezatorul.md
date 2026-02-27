@@ -80,11 +80,29 @@ Rudenia mamei sale. Vizita Fecioarei la Elisabeta este momentul primei întâlni
 ### [[personalitati/irodiada|Irodiada]] (sec. I)
 Soția lui [[personalitati/irod-antipa|Irod Antipa]], care a uneltit uciderea sa prin vicleșugul dansului fiicei sale (Marcu 6:19-28).
 
+### [[personalitati/ana|Sfânta Dreaptă Ana]] (sec. I î.Hr.)
+Mama Fecioarei Maria, bunica Domnului. Prin legătura de rudenie dintre familii, Ana este și ea parte din istoria Înaintemergătorului.
+
+### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
+Tatăl Fecioarei Maria. Ca și [[personalitati/zaharia-preotul|Zaharia]] și [[personalitati/elisabeta|Elisabeta]], el și soția sa au primit rod prin minune după ani de sterilitate.
+
+### [[personalitati/irod-cel-mare|Irod cel Mare]] (†4 î.Hr.)
+Cel care a căutat să-l ucidă pe pruncul Ioan în cadrul masacrului Pruncilor. Mama sa Elisabeta a fugit cu el în pustie pentru a-l salva.
+
+### [[personalitati/maleahi|Sfântul Proroc Maleahi]] (sec. V î.Hr.)
+Prorocul care a vestit venirea Înaintemergătorului: „Iată, Eu trimit pe îngerul Meu și va pregăti calea înaintea feței Mele" (Maleahi 3:1).
+
 ### [[personalitati/andrei-apostolul|Sfântul Apostol Andrei]] (†c. 60-70)
 Ucenic al lui Ioan Botezătorul înainte de a fi chemat de Hristos. La cuvintele „Iată Mielul lui Dumnezeu!", Andrei L-a urmat pe Hristos (Ioan 1:35-40).
 
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Adus la Hristos de fratele său Andrei, care fusese ucenic al lui Ioan. Astfel, prin mărturia lui Ioan, s-a declanșat lanțul chemărilor apostolice.
+
+### [[personalitati/ilie|Sfântul Proroc Ilie Tesviteanul]] (sec. IX î.Hr.)
+Profetul de foc al cărui „duh și putere" a venit asupra lui Ioan (Luca 1:17). Hristos Însuși a confirmat: „Ilie a și venit, și nu l-au cunoscut" (Matei 17:12).
+
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
+Fost ucenic al lui Ioan Botezătorul, care la cuvintele „Iată Mielul lui Dumnezeu!" L-a urmat pe Hristos împreună cu [[personalitati/andrei-apostolul|Andrei]] (Ioan 1:35-40).
 
 ## Versete cheie
 

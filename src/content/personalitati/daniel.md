@@ -51,6 +51,9 @@ Profeție cronologică: 70 de „săptămâni" (490 de ani) de la porunca de a r
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Împlinitorul viziunilor lui Daniel. Hristos Se numește „Fiul Omului" de peste 80 de ori în Evanghelii, preluând direct titlul din Daniel 7:13-14, iar la judecata din fața Sinedriului citează acest pasaj (Marcu 14:62). Profeția celor 70 de săptămâni (Daniel 9:24-27) prezice cu precizie cronologică venirea lui Mesia, iar piatra care zdrobește statuia (Daniel 2:44) este Împărăția lui Hristos care dăinuiește veșnic.
+
 ### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan mai în vârstă, a rămas în Ierusalim și apoi în Egipt, în timp ce Daniel era la curtea babiloniană. Amândoi au trăit căderea Ierusalimului din 586 î.Hr., dar din perspective diferite — Ieremia ca martor direct, Daniel din exil.
 

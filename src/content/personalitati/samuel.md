@@ -64,7 +64,7 @@ Părintele duhovnicesc al lui Samuel, care l-a crescut în Cortul din Șilo. De�
 ### Regele Saul
 Primul rege al lui Israel, uns de Samuel din porunca lui Dumnezeu. Început promițător, dar lepădat pentru neascultare repetată. Relația tragică dintre Samuel și Saul ilustrează tensiunea dintre autoritatea profetică și cea regală.
 
-### Regele David
+### [[personalitati/david|Sfântul Proroc și Rege David]] (c. 1040-970 î.Hr.)
 Tânărul păstor din Betleem, ales de Dumnezeu și uns de Samuel ca viitor rege al lui Israel. „Bărbat după inima lui Dumnezeu" (1 Regi 13:14), David devine regele-profet care prefigurează pe Hristos.
 
 ### [[personalitati/moise|Sfântul Proroc Moise]]

@@ -87,6 +87,9 @@ Apostol contemporan care a predicat în regiuni diferite. Dacă Pavel a evanghel
 ### [[personalitati/ignatie-teoforul|Sfântul Ignatie Teoforul]] (†c. 107-110)
 Episcop al Antiohiei, contemporan cu generația apostolică. Deși nu există mărturii directe ale unei legături personale, Ignatie a continuat tradiția apostolică în regiuni unde și Andrei predicase.
 
+### [[personalitati/filip-apostolul|Sfântul Apostol Filip]] (†c. 80)
+Coleg apostol, originar din aceeași cetate — Betsaida. Andrei a fost primul chemat de Hristos, iar Filip al treilea, ambii răspunzând imediat și aducând alți oameni la Mântuitorul (Ioan 1:40-46).
+
 ## Versete cheie
 
 - **Ioan 1:36** — „Și privind pe Iisus, Care trecea, a zis: Iată Mielul lui Dumnezeu!"

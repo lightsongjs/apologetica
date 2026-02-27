@@ -75,6 +75,9 @@ Coleg apostol, împreună cu care Matia a primit Duhul Sfânt la Cincizecime. Am
 ### [[personalitati/iuda-tadeu|Sfântul Apostol Iuda Tadeu]]
 Coleg apostol și „frate al Domnului". Ca și Matia, Iuda Tadeu a propovăduit în regiunile estice ale lumii antice, contribuind la răspândirea creștinismului dincolo de granițele Imperiului Roman.
 
+### [[personalitati/iuda-iscarioteanul|Iuda Iscarioteanul]] (†c. 30 d.Hr.)
+Apostolul căzut, al cărui loc în ceata celor doisprezece l-a luat Matia. Trădarea și moartea lui Iuda au creat nevoia completării numărului apostolic, iar alegerea lui Matia a restaurat plinătatea comunității.
+
 ### Iosif Barsaba (Iustus)
 Celălalt candidat propus pentru locul apostolic vacant. Deși sorțul nu a căzut pe el, Iosif Barsaba a continuat să slujească în Biserică și este pomenit între cei șaptezeci de Apostoli. Împreună, el și Matia demonstrează că în Biserică nu există „învinși" — toți sunt slujitori ai lui Hristos.
 

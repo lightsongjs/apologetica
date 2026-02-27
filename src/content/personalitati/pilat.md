@@ -61,6 +61,12 @@ Descoperire arheologică: o placă de calcar cu inscripția „Pontius Pilatus, 
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Cel pe Care L-a judecat, declarat nevinovat, și totuși condamnat. Dialogul lor (Ioan 18-19) este unul dintre cele mai profunde din Scriptură.
 
+### [[personalitati/caiafa|Caiafa]] (mare preot, c. 18-36)
+Marele preot care L-a predat pe Iisus lui Pilat. „Dacă Îl vei slobozi pe Acesta, nu ești prieten al Cezarului" (Ioan 19:12).
+
+### [[personalitati/irod-antipa|Irod Antipa]] (†39 d.Hr.)
+Tetrahul Galileii, la care Pilat L-a trimis pe Iisus. „S-au împrietenit în ziua aceea Irod și Pilat" (Luca 23:12).
+
 ### [[personalitati/iosif-din-arimateea|Sfântul Iosif din Arimateea]] (sec. I d.Hr.)
 A venit la Pilat cerând trupul lui Iisus. Pilat s-a mirat că Iisus murise deja și a dat trupul.
 

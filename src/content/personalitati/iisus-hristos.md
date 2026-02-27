@@ -80,6 +80,12 @@ Epistolele Sfântului [[personalitati/pavel|Pavel]], ale Sfântului [[personalit
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]] (sec. I)
+Fecioara Maria, Maica Domnului, cea din care S-a întrupat Fiul lui Dumnezeu prin lucrarea Duhului Sfânt, pururea Fecioară și mijlocitoare neîncetată a lumii înaintea Fiului ei.
+
+### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+Logodnicul Fecioarei Maria, ocrotitorul Pruncului Iisus, drept și ascultător poruncilor îngerești, care L-a ferit de mânia lui [[personalitati/irod-cel-mare|Irod]] prin fuga în Egipt.
+
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
 Bunicul după trup al Mântuitorului, tatăl Preasfintei Născătoare de Dumnezeu. Prin credința și rugăciunea sa, alături de [[personalitati/ana|Sfânta Ana]], a fost dat lumii vasul Întrupării.
 
@@ -116,8 +122,23 @@ Soția lui Huza, administratorul casei lui Irod, mironosiță care L-a urmat și
 ### [[personalitati/suzana|Sfânta Mironosiță Suzana]] (sec. I)
 Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 
+### [[personalitati/simeon|Sfântul Drept Simeon]] (sec. I)
+Primitorul de Dumnezeu, dreptul bătrân căruia i se vestise că nu va vedea moartea până nu va vedea pe Hristosul Domnului. L-a primit pe Prunc în brațe la Templu și a rostit cântarea „Acum slobozește..." (Luca 2:29-32).
+
+### [[personalitati/noe|Sfântul Patriarh Noe]]
+Dreptul antediluvian care a construit corabia la porunca lui Dumnezeu — prefigurare a mântuirii prin Biserică, Corabia Noului Legământ al lui Hristos.
+
+### [[personalitati/avraam|Sfântul Patriarh Avraam]] (c. 2000-1825 î.Hr.)
+Părintele credincioșilor, care a primit făgăduința că prin sămânța sa se vor binecuvânta toate neamurile pământului (Facerea 22:18) — profeție împlinită în Hristos. Jertfirea lui [[personalitati/isaac|Isaac]] pe Moria este cel mai puternic tip al jertfei de pe Golgota.
+
+### [[personalitati/david|Sfântul Proroc și Rege David]] (c. 1040-970 î.Hr.)
+Strămoșul după trup al Mântuitorului, regele-psalmist care a profetizat Patimile (Psalmul 21) și Învierea (Psalmul 15:10). Hristos este „Fiul lui David" și totodată Domnul lui David (Matei 22:43-45).
+
+### [[personalitati/solomon|Regele Solomon]] (c. 990-931 î.Hr.)
+Fiul lui [[personalitati/david|David]], regele înțelept al lui Israel, a cărui slavă și înțelepciune au fost depășite de Hristos: „Iată, mai mult decât Solomon este aici" (Matei 12:42).
+
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
-Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
+Fiul unic al lui [[personalitati/avraam|Avraam]], adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
 ### [[personalitati/centurionul-de-la-capernaum|Centurionul de la Capernaum]] (sec. I)
 Ofițerul roman a cărui credință L-a uimit: „Nici în Israel n-am găsit atâta credință!" (Matei 8:10).
@@ -187,6 +208,78 @@ Corifeu al apostolilor, cel care a mărturisit: „Tu ești Hristosul, Fiul Dumn
 
 ### [[personalitati/pavel|Sfântul Apostol Pavel]] (†c. 64-67)
 Apostolul Neamurilor, chemat direct de Hristos cel înviat pe drumul Damascului. Cel mai mare teolog al Noului Testament, care a dezvoltat înțelegerea tainei Întrupării, Crucii și Învierii.
+
+### [[personalitati/iuda-iscarioteanul|Iuda Iscarioteanul]] (†c. 30)
+Unul dintre cei doisprezece apostoli, vistiernicul grupului, care L-a vândut pe Hristos pentru treizeci de arginți și L-a trădat cu sărutare în Ghetsimani (Matei 26:14-16, 47-50).
+
+### [[personalitati/maria-magdalena|Sfânta Mironosiță Maria Magdalena]] (sec. I)
+Întocmai cu Apostolii, cea dintâi căreia Hristos cel înviat i S-a arătat și pe care a trimis-o să vestească Învierea apostolilor (Ioan 20:11-18).
+
+### [[personalitati/lazar|Sfântul Drept Lazăr]] (sec. I)
+Prietenul Domnului din Betania, pe care Hristos l-a înviat din morți după patru zile, arătând puterea Sa asupra morții (Ioan 11:1-44).
+
+### [[personalitati/maria-din-betania|Sfânta Maria din Betania]] (sec. I)
+Sora lui [[personalitati/lazar|Lazăr]] și a [[personalitati/marta|Martei]], cea care a ales „partea cea bună" (Luca 10:42) și a uns cu mir de mare preț picioarele Domnului (Ioan 12:3).
+
+### [[personalitati/marta|Sfânta Mironosiță Marta]] (sec. I)
+Sora lui [[personalitati/lazar|Lazăr]] și a [[personalitati/maria-din-betania|Mariei din Betania]], care a mărturisit: „Da, Doamne, eu am crezut că Tu ești Hristosul, Fiul lui Dumnezeu" (Ioan 11:27).
+
+### [[personalitati/nicodim|Sfântul Nicodim]] (sec. I)
+Fariseu și membru al Sinedriului, ucenic tainic al Domnului, care a venit noaptea la Hristos și a primit învățătura despre nașterea din nou prin apă și Duh (Ioan 3:1-21). A ajutat la îngroparea Mântuitorului alături de [[personalitati/iosif-din-arimateea|Iosif din Arimateea]].
+
+### [[personalitati/iosif-din-arimateea|Sfântul Iosif din Arimateea]] (sec. I)
+Sfetnic de cinste și ucenic tainic al Domnului, care a cerut trupul lui Hristos de la [[personalitati/pilat|Pilat]] și L-a îngropat în mormântul său nou, săpat în stâncă (Matei 27:57-60).
+
+### [[personalitati/pilat|Ponțiu Pilat]] (procurator, c. 26-36)
+Procuratorul roman al Iudeii care L-a judecat pe Hristos, L-a găsit nevinovat, dar L-a predat la răstignire cedând presiunii mulțimii și a arhiereilor (Ioan 18:38 — 19:16).
+
+### [[personalitati/irod-cel-mare|Irod cel Mare]] (c. 73-4 î.Hr.)
+Regele Iudeii în timpul Nașterii Domnului, care a poruncit uciderea pruncilor din Betleem, căutând să-L omoare pe „Regele Iudeilor" vestit de [[personalitati/magii|magi]] (Matei 2:16).
+
+### [[personalitati/irod-antipa|Irod Antipa]] (c. 20 î.Hr. — 39 d.Hr.)
+Tetrarhul Galileii care l-a ucis pe [[personalitati/ioan-botezatorul|Ioan Botezătorul]] și L-a batjocorit pe Hristos în timpul Patimilor, îmbrăcându-L în haină strălucitoare și trimițindu-L înapoi la [[personalitati/pilat|Pilat]] (Luca 23:6-12).
+
+### [[personalitati/zaheu|Sfântul Drept Zaheu]] (sec. I)
+Vameșul din Ierihon care s-a urcat în sicomor ca să-L vadă pe Hristos, iar Domnul l-a chemat și a intrat în casa lui: „Astăzi s-a făcut mântuire casei acesteia" (Luca 19:1-10).
+
+### [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]] (†c. 28-30)
+Înaintemergătorul și Botezătorul Domnului, cel care a pregătit calea Mântuitorului și L-a botezat în Iordan, mărturisind: „Iată Mielul lui Dumnezeu, Cel ce ridică păcatul lumii!" (Ioan 1:29).
+
+### [[personalitati/matei-evanghelistul|Sfântul Apostol și Evanghelist Matei]] (sec. I)
+Vameș chemat de Hristos să-L urmeze (Matei 9:9), apoi apostol și evanghelist. A scris prima Evanghelie canonică, prezentându-L pe Hristos ca Regele lui Israel și împlinirea profețiilor mesianice.
+
+### [[personalitati/marcu-evanghelistul|Sfântul Apostol și Evanghelist Marcu]] (†c. 68)
+Ucenic al Sfântului [[personalitati/petru|Petru]], a scris Evanghelia după Marcu — cea mai veche narațiune evanghelică — prezentându-L pe Hristos ca Slujitorul lui Dumnezeu.
+
+### [[personalitati/luca-evanghelistul|Sfântul Apostol și Evanghelist Luca]] (†c. 84)
+Medic, ucenic al Sfântului [[personalitati/pavel|Pavel]], autor al Evangheliei după Luca și al Faptelor Apostolilor. A consemnat cel mai detaliat Nașterea, copilăria și viața [[personalitati/maica-domnului|Maicii Domnului]].
+
+### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob al lui Alfeu]] (sec. I)
+Unul dintre cei doisprezece apostoli, autorul Epistolei Soborniceşti care învață că „credința fără fapte este moartă" (Iacob 2:26).
+
+### [[personalitati/iuda-tadeu|Sfântul Apostol Iuda Tadeu]] (sec. I)
+Unul dintre cei doisprezece apostoli, cel care la Cina cea de Taină a întrebat: „Doamne, ce s-a întâmplat că ai să Te arăți nouă și nu lumii?" (Ioan 14:22). Autorul Epistolei Soborniceşti a lui Iuda.
+
+### [[personalitati/isaia|Sfântul Proroc Isaia]] (sec. VIII î.Hr.)
+„Al cincilea Evanghelist" (Sfântul Ieronim), cel care a profetizat cu 700 de ani înainte nașterea din Fecioară (7:14), Pruncul dumnezeiesc (9:6) și Robul suferind (52:13–53:12). Hristos Și-a început propovăduirea citind din Isaia 61 în sinagoga din Nazaret.
+
+### [[personalitati/ieremia|Sfântul Proroc Ieremia]] (c. 650-570 î.Hr.)
+Profetul plângător care a vestit Noul Legământ: „Voi pune legea Mea înăuntrul lor și pe inimile lor voi scrie" (Ieremia 31:33) — profeție împlinită prin Hristos.
+
+### [[personalitati/daniel|Sfântul Proroc Daniel]] (sec. VI î.Hr.)
+Profetul care a văzut în viziune pe „Fiul Omului" venind pe norii cerului (Daniel 7:13-14) — titlul mesianic pe care Hristos Însuși l-a folosit cel mai frecvent.
+
+### [[personalitati/zaharia|Sfântul Proroc Zaharia]] (sec. VI î.Hr.)
+Profetul post-exilic care a prezis intrarea triumfală a Regelui smerit pe mânz de asină (Zaharia 9:9) și pe „Cel pe Care L-au străpuns" (Zaharia 12:10).
+
+### [[personalitati/maleahi|Sfântul Proroc Maleahi]] (sec. V î.Hr.)
+Ultimul profet al Vechiului Testament, care a vestit venirea „Solului Legământului" (Maleahi 3:1) și trimiterea lui [[personalitati/ilie|Ilie]] înainte de „ziua Domnului cea mare" (Maleahi 4:5).
+
+### [[personalitati/ilie|Sfântul Proroc Ilie Tesviteanul]] (sec. IX î.Hr.)
+Profetul de foc al Vechiului Testament, care s-a arătat alături de [[personalitati/moise|Moise]] la Schimbarea la Față pe Tabor, vorbind cu Hristos despre „ieșirea Sa" (Luca 9:30-31).
+
+### [[personalitati/moise|Sfântul Proroc Moise]] (sec. XIII î.Hr.)
+Marele legiuitor al Vechiului Testament, care a profetizat despre Hristos: „Profet din mijlocul tău, dintre frații tăi, ca mine, îți va ridica Domnul" (Deuteronom 18:15). S-a arătat alături de [[personalitati/ilie|Ilie]] la Schimbarea la Față.
 
 ## Versete cheie
 

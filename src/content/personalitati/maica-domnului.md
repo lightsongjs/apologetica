@@ -99,6 +99,18 @@ Soțul Elisabetei, tatăl [[personalitati/ioan-botezatorul|Sfântului Ioan Botez
 ### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
 Ucenicul căruia Hristos i-a încredințat-o pe Maica Sa de pe Cruce. Conform tradiției, Ioan a îngrijit-o pe Maica Domnului până la Adormirea ei.
 
+### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+Logodnicul ei, ocrotitorul Sfintei Familii. Drept și ascultător poruncilor îngerești, a primit-o pe Maria și a ocrotit Pruncul Iisus.
+
+### [[personalitati/simeon|Sfântul Drept Simeon]] (sec. I)
+Dreptul bătrân care a primit pe Pruncul Iisus în Templu și a profetizat Mariei: „Și prin sufletul tău va trece sabie" (Luca 2:35).
+
+### [[personalitati/maria-magdalena|Sfânta Mironosiță Maria Magdalena]] (sec. I)
+Prima martoră a Învierii, prezentă alături de Maica Domnului la picioarele Crucii (Ioan 19:25).
+
+### [[personalitati/luca-evanghelistul|Sfântul Apostol și Evanghelist Luca]] (†c. 84)
+Evanghelistul care a consemnat cel mai detaliat viața Maicii Domnului: Buna Vestire, Magnificat, Nașterea, Întâmpinarea. Tradiția îl consideră primul iconograf al chipului ei.
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeu al apostolilor, prezent alături de Maica Domnului în comunitatea primară din Ierusalim.
 

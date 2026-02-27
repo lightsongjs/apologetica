@@ -65,6 +65,15 @@ Troparul Sfântului Zaharia (5 septembrie) îl cinstește ca „preot al Celui P
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)
 Soția sa, din fiicele lui Aaron, cu care a împărtășit sterilitatea, rugăciunea și bucuria nașterii lui [[personalitati/ioan-botezatorul|Ioan Botezătorul]]. Elisabeta este cea care, plină de Duh Sfânt, a recunoscut pe Maica Domnului: „Binecuvântată ești tu între femei!" (Luca 1:42).
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Cel pentru Care a pregătit calea prin fiul său Ioan. Cântarea Benedictus profetizează venirea Mântuitorului: „Ne-a ridicat putere de mântuire în casa lui David" (Luca 1:69).
+
+### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
+Rudenia soției sale Elisabeta. Fecioara Maria a vizitat casa preotului, iar la salutul ei, pruncul Ioan a săltat în pântecele Elisabetei.
+
+### [[personalitati/irod-cel-mare|Irod cel Mare]] (†4 î.Hr.)
+Conform tradiției, soldații lui Irod l-au ucis pe preot în Templu, „între altar și sanctuar" (cf. Matei 23:35), pentru că a refuzat să dezvăluie locul unde era ascuns pruncul Ioan.
+
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
 Tatăl Fecioarei Maria. Amândoi au trecut prin aceeași încercare a sterilității și au primit vestiri îngerești. Familiile lor sunt legate prin rudenia dintre Fecioara Maria și Elisabeta.
 

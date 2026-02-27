@@ -67,6 +67,9 @@ Confirmă că Marcu a scris la Roma, pe baza predicilor lui Petru, la cererea cr
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Centrul Evangheliei lui Marcu, care se deschide cu mărturisirea „Începutul Evangheliei lui Iisus Hristos, Fiul lui Dumnezeu" (Marcu 1:1). Marcu a fost martor al arestării din Ghetsimani și a consemnat faptele, minunile și Patimile Mântuitorului pe baza predicilor [[personalitati/petru|Apostolului Petru]].
+
 ### [[personalitati/petru|Sfântul Apostol Petru]]
 Maestrul și părintele spiritual al lui Marcu. Evanghelia după Marcu este, în esență, Evanghelia după Petru — predicile apostolului filtrate prin pana ucenicului. Petru îl numește „Marcu, fiul meu" (1 Petru 5:13).
 

@@ -79,6 +79,9 @@ Profetizează despre „Odrasla lui Iesei" (Isaia 11:1) și despre Regele din ne
 ### [[personalitati/moise|Sfântul Proroc Moise]] (sec. XIII î.Hr.)
 Legislatorul prin care a venit Legea. David completează pe Moise: dacă Moise a dat Legea, David a dat Psalmii — cele două coloane ale rugăciunii și vieții spirituale a lui Israel.
 
+### [[personalitati/solomon|Regele Solomon]] (c. 970-931 î.Hr.)
+Fiul și moștenitorul lui David, cel care a zidit Templul Domnului pe care David l-a pregătit. Solomon a primit înțelepciunea, dar nu și credincioșia tatălui său.
+
 ## Versete cheie
 
 - **1 Regi 16:7** — „Omul se uită la înfățișare, dar Domnul Se uită la inimă."

@@ -128,6 +128,24 @@ Relație complexă: de la respingere inițială („nu-l lua pe cel care se desp
 ### Sfântul Timotei
 „Copilul meu adevărat în credință" (1 Timotei 1:2), cel mai apropiat ucenic al lui Pavel, hirotonit episcop al Efesului.
 
+### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
+Fiul lui Dumnezeu, Mântuitorul lumii, Care i S-a arătat lui Pavel pe drumul Damascului în lumină orbitoare (Faptele Apostolilor 9:3-6), chemându-l să fie „vas ales" pentru neamuri (Faptele Apostolilor 9:15).
+
+### [[personalitati/avraam|Sfântul Patriarh Avraam]] (c. 2000-1825 î.Hr.)
+Părintele credincioșilor, pe care Pavel îl invocă extensiv în Romani 4 și Galateni 3 ca model al justificării prin credință, arătând că făgăduința lui Dumnezeu către Avraam se împlinește în Hristos pentru toate neamurile.
+
+### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]] (†c. 62)
+Unul dintre cei doisprezece Apostoli, pe care Pavel l-a vizitat la Ierusalim de mai multe ori (Galateni 1:19; 2:9; Faptele Apostolilor 21:18) și cu care a conlucrat la Sinodul Apostolic pentru a stabili libertatea neamurilor față de Legea mozaică.
+
+### [[personalitati/iacob-fratele-domnului|Sfântul Apostol Iacob, Fratele Domnului]] (†62)
+Primul episcop al Ierusalimului, pe care Pavel l-a vizitat și l-a recunoscut ca „stâlp" al Bisericii (Galateni 2:9); deși aveau perspective diferite privind relația dintre Lege și Evanghelie, s-au respectat reciproc.
+
+### [[personalitati/matei-evanghelistul|Sfântul Apostol și Evanghelist Matei]] (†sec. I)
+Contemporan în misiunea apostolică; amândoi au scris texte canonice ale Noului Testament, Matei adresându-se iudeilor iar Pavel neamurilor, completându-se astfel în vestirea Evangheliei.
+
+### [[personalitati/sfanta-fotini|Sfânta Fotini cea Mare]]
+Întocmai cu Apostolii, contemporană în lucrarea misionară; ca și Pavel, a călătorit extensiv pentru a răspândi Evanghelia în lumea greco-romană, mărturisind pe Hristos până la martiriul din timpul lui Nero.
+
 ## Versete cheie
 
 - **Faptele Apostolilor 9:4-5** — „Saule, Saule, de ce Mă prigonești? ... Eu sunt Iisus, pe Care tu Îl prigonești."
