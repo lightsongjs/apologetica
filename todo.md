@@ -108,7 +108,7 @@
 - [x] Noe (Noah)
 
 ### Other Named Figures
-- [ ] Barabas (Barabbas)
+- [x] Barabas (Barabbas)
 - [ ] Simeon Leproso (Simon the Leper)
 - [ ] Simon Fariseu (Simon the Pharisee)
 - [ ] Cleopa (Cleopas, road to Emmaus)
