@@ -126,7 +126,7 @@
 - [x] Capernaum (Capernaum)
 - [x] Betania (Bethany)
 - [x] Betfaghe (Bethphage)
-- [ ] Betsaida (Bethsaida)
+- [x] Betsaida (Bethsaida)
 - [ ] Corazin (Chorazin)
 - [ ] Nain (Nain)
 - [x] Cana din Galileea (Cana of Galilee)
