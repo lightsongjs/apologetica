@@ -135,13 +135,13 @@
 - [x] Sihar (Sychar)
 
 ### Regions
-- [ ] Galileea (Galilee)
-- [ ] Iudeea (Judea)
-- [ ] Samaria (Samaria)
-- [ ] Pereea (Perea)
-- [ ] Decapolis (Decapolis)
-- [ ] Fenicia (Phoenicia)
-- [ ] Idumea (Idumea)
+- [x] Galileea (Galilee)
+- [x] Iudeea (Judea)
+- [x] Samaria (Samaria)
+- [x] Pereea (Perea)
+- [x] Decapolis (Decapolis)
+- [x] Fenicia (Phoenicia)
+- [x] Idumea (Idumea)
 
 ### Geographic Features
 - [x] Marea Galileii (Sea of Galilee)
