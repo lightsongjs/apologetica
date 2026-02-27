@@ -72,7 +72,7 @@ Precum Noe a salvat omenirea prin apă, Moise a salvat Israelul prin apa Mării 
 ## Semnificație teologică și istorică
 
 ### Corabia — tipul Bisericii
-Sfinții Părinți (Sfântul Ciprian, Sfântul Ambrozie) interpretează corabia lui Noe ca tip al Bisericii: în afara corăbiei — potop și moarte; în interiorul ei — mântuire. „Extra Ecclesiam nulla salus" — în afara Bisericii nu este mântuire.
+Sfinții Părinți (Sfântul [[personalitati/ciprian-al-cartaginei|Ciprian al Cartaginei]], Sfântul Ambrozie) interpretează corabia lui Noe ca tip al Bisericii: în afara corăbiei — potop și moarte; în interiorul ei — mântuire. „Extra Ecclesiam nulla salus" — în afara Bisericii nu este mântuire.
 
 ### Potopul — tipul Botezului
 [[personalitati/petru|Sfântul Petru]] identifică explicit potopul cu Botezul (1 Petru 3:20-21). Apa care distruge lumea veche este aceeași apă care mântuiește pe cei din corabie. Botezul este moarte și înviere — moartea omului vechi și nașterea celui nou.

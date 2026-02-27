@@ -93,6 +93,9 @@ Episcopul său predecessor la Lyon, martirizat în vârstă de 90 de ani. Sub Po
 ### [[personalitati/ignatie-teoforul|Sfântul Ignatie Teoforul]] (murit c. 107-110)
 Martirizat cu decenii înainte ca Irineu să se nască, dar epistolele sale au fost cunoscute și citate de Irineu. Ignatie fusese prieten apropiat al învățătorului lui Irineu, Policarp, creând astfel o legătură indirectă între cele două generații.
 
+### [[personalitati/ciprian-al-cartaginei|Sfântul Ciprian al Cartaginei]] (c. 210-258)
+Moștenitorul spiritual. Ciprian a dezvoltat eclesiologia lui Irineu — principiul succesiunii apostolice și al autorității Bisericii — într-o eclesiologie sistematică, formulând raportul dintre episcopat, Biserică și mântuire.
+
 ### Tertulian de Cartagina (c. 155-220)
 Contemporan din Africa de Nord, alt mare apologet și teolog. Amândoi au scris împotriva acelorași erezii, deși cu stiluri diferite.
 
