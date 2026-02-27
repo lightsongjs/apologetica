@@ -17,7 +17,7 @@ Hirotonit diacon (381), apoi preot (386) la Antiohia, a predicat 12 ani în cate
 
 A murit pe 14 septembrie 407, în drum spre un loc de exil și mai îndepărtat, în Comana Pontică (nord-estul Turciei). Ultimele sale cuvinte au fost: „Slavă lui Dumnezeu pentru toate!" (Δόξα τῷ Θεῷ πάντων ἕνεκεν).
 
-Moaștele sale au fost aduse triumfal înapoi la Constantinopol în 438, când împăratul Teodosie al II-lea a cerut iertare în numele părinților săi. Este prăznuit la 13 noiembrie și la 30 ianuarie (împreună cu [[personalitati/trei-ierarhi|Sfinții Trei Ierarhi]]).
+Moaștele sale au fost aduse triumfal înapoi la Constantinopol în 438, când împăratul Teodosie al II-lea a cerut iertare în numele părinților săi. Este prăznuit la 13 noiembrie și la 30 ianuarie (împreună cu [[personalitati/vasile-cel-mare|Vasile cel Mare]] și [[personalitati/grigorie-teologul|Grigorie Teologul]] — Sfinții Trei Ierarhi).
 
 ## Timeline
 
@@ -75,9 +75,6 @@ Deși nu s-au întâlnit (Vasile a murit înainte ca Ioan să ajungă la Constan
 
 ### [[personalitati/grigorie-teologul|Sfântul Grigorie Teologul]] (c. 329-390)
 Predecesorul său pe scaunul Constantinopolului. „Despre preoție" al lui Hrisostom dezvoltă ideile din Oratio 2 a lui Grigorie.
-
-### [[personalitati/trei-ierarhi|Sfinții Trei Ierarhi]]
-Ioan Gură de Aur este prăznuit împreună cu [[personalitati/vasile-cel-mare|Vasile cel Mare]] și [[personalitati/grigorie-teologul|Grigorie Teologul]] la 30 ianuarie — sărbătoare care afirmă egalitatea lor înaintea lui Dumnezeu.
 
 ### [[personalitati/ioan-casian|Sfântul Ioan Casian]] (c. 360-435)
 Ucenic al Hrisostomului la Constantinopol, hirotonit diacon de el. L-a apărat în fața persecuțiilor și i-a continuat moștenirea în Apus.

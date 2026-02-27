@@ -15,7 +15,7 @@ Grigorie era un contemplativ prin temperament, dorind viața retrasă și rugăc
 
 Momentul culminant al vieții sale a fost la Constantinopol (379-381), unde a fost chemat să restaureze Ortodoxia într-un oraș dominat de arieni. Din mica capelă Anastasia („Învierea"), a rostit cele cinci Cuvântări Teologice (Orațiunile 27-31) care au definit terminologia trinitară ortodoxă și au pregătit Sinodul II Ecumenic (381). A prezitat acest Sinod ca arhiepiscop al Constantinopolului, dar a demisionat curând după aceea, când au apărut dispute legate de legitimitatea numirii sale.
 
-S-a retras la Arianz, unde și-a petrecut ultimii ani scriind poezie teologică — peste 17.000 de versuri care unesc profunzimea dogmatică cu frumusețea literară. A adormit în Domnul pe 25 ianuarie 390. Este prăznuit la 25 ianuarie și la 30 ianuarie (împreună cu [[personalitati/trei-ierarhi|Sfinții Trei Ierarhi]]).
+S-a retras la Arianz, unde și-a petrecut ultimii ani scriind poezie teologică — peste 17.000 de versuri care unesc profunzimea dogmatică cu frumusețea literară. A adormit în Domnul pe 25 ianuarie 390. Este prăznuit la 25 ianuarie și la 30 ianuarie (împreună cu [[personalitati/vasile-cel-mare|Vasile cel Mare]] și [[personalitati/ioan-gura-de-aur|Ioan Gură de Aur]] — Sfinții Trei Ierarhi).
 
 ## Timeline
 
@@ -74,8 +74,8 @@ Prietenul cel mai drag, coleg de studii la Atena. „Aveam un singur suflet în 
 ### Sfântul Grigorie de Nyssa (c. 335-395)
 Fratele lui [[personalitati/vasile-cel-mare|Vasile]], episcop de Nyssa. Împreună, cei trei Capadocieni au definit teologia trinitară. Grigorie de Nyssa a dezvoltat mai ales teologia mistică și conceptul de epectază (progresul infinit spre Dumnezeu).
 
-### [[personalitati/trei-ierarhi|Sfinții Trei Ierarhi]]
-Grigorie Teologul este prăznuit împreună cu [[personalitati/vasile-cel-mare|Vasile cel Mare]] și [[personalitati/ioan-gura-de-aur|Ioan Gură de Aur]] la 30 ianuarie — trei dascăli egali ai Bisericii.
+### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)
+Cel de-al treilea ierarh, cel mai mare predicator al Bisericii. Tratatul său „Despre preoție" dezvoltă ideile din Oratio 2 a lui Grigorie. Prăznuiți împreună la 30 ianuarie.
 
 ### Împăratul Teodosie I (347-395)
 Împăratul care l-a chemat pe Grigorie la Constantinopol și care a convocat Sinodul II Ecumenic (381), unde teologia capadociană a devenit dogmă oficială.

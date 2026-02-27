@@ -15,7 +15,7 @@ Ales arhiepiscop al Cezareei Capadociei în 370, Vasile a devenit stâlpul Ortod
 
 A compus Liturghia care îi poartă numele — Liturghia Sfântului Vasile cel Mare — celebrată de 10 ori pe an în Biserica Ortodoxă. A întemeiat „Vasiliada" — un complex de instituții caritative (spital, azil, adăpost pentru străini) de o amploare fără precedent în lumea antică, descrisă de contemporani ca un „oraș nou."
 
-A adormit în Domnul la 1 ianuarie 379, la doar 49 de ani, epuizat de asceză și de neobosita activitate pastorală. Este prăznuit la 1 ianuarie și la 30 ianuarie (împreună cu [[personalitati/trei-ierarhi|Sfinții Trei Ierarhi]]).
+A adormit în Domnul la 1 ianuarie 379, la doar 49 de ani, epuizat de asceză și de neobosita activitate pastorală. Este prăznuit la 1 ianuarie și la 30 ianuarie (împreună cu [[personalitati/grigorie-teologul|Grigorie Teologul]] și [[personalitati/ioan-gura-de-aur|Ioan Gură de Aur]] — Sfinții Trei Ierarhi).
 
 ## Timeline
 
@@ -80,8 +80,8 @@ Sora mai mare, cea care l-a influențat decisiv pe Vasile în alegerea vieții m
 ### [[personalitati/antonie-cel-mare|Sfântul Antonie cel Mare]] (c. 251-356)
 Părintele monahismului, a cărui viață (scrisă de Sfântul Atanasie) l-a inspirat pe Vasile în organizarea vieții monahale. Vasile a transformat modelul pustnicesc antoniar într-un monahism de obște structurat.
 
-### [[personalitati/trei-ierarhi|Sfinții Trei Ierarhi]]
-Vasile cel Mare este prăznuit împreună cu [[personalitati/grigorie-teologul|Grigorie Teologul]] și [[personalitati/ioan-gura-de-aur|Ioan Gură de Aur]] la 30 ianuarie, sărbătoare instituită în sec. XI pentru a arăta că cei trei mari dascăli sunt egali înaintea lui Dumnezeu.
+### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)
+Cel de-al treilea mare ierarh, cel mai mare predicator al Bisericii. Deși nu s-au întâlnit, Hrisostom a venerat pe Vasile și i-a continuat opera liturgică. Prăznuiți împreună la 30 ianuarie.
 
 ## Versete cheie
 
