@@ -113,7 +113,7 @@
 - [ ] Simon Fariseu (Simon the Pharisee)
 - [x] Cleopa (Cleopas, road to Emmaus)
 - [x] Malh (Malchus, servant whose ear was cut)
-- [ ] Magii (The Magi/Wise Men)
+- [x] Magii (The Magi/Wise Men)
 
 ---
 

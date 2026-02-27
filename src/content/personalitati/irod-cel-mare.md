@@ -56,6 +56,9 @@ Cel care a salvat Pruncul și pe Maria fugind în Egipt la avertizarea îngerulu
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia, Preotul]] (†sec. I d.Hr.)
 Conform tradiției, ucis în Templu de soldații lui Irod pentru că a refuzat să dezvăluie locul pruncului [[personalitati/ioan-botezatorul|Ioan]].
 
+### [[personalitati/magii|Magii de la Răsărit]] (sec. I)
+Înțelepții pe care Irod a încercat să-i folosească pentru a afla locul nașterii Pruncului (Matei 2:7-8).
+
 ### [[personalitati/irodiada|Irodiada]] (sec. I)
 Nepoata sa, care a moștenit cruzimea familiei și a uneltit uciderea Botezătorului.
 
