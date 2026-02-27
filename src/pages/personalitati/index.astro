@@ -3,7 +3,11 @@ import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
 const personalitati = await getCollection('personalitati');
-const sorted = personalitati.sort((a, b) => a.data.order - b.data.order);
+const sorted = personalitati.sort((a, b) => {
+  const orderA = a.data?.order ?? 999;
+  const orderB = b.data?.order ?? 999;
+  return orderA - orderB;
+});
 ---
 
 <Base title="Personalități" headerTitle="Personalități" backHref="/" activeNav="home">
