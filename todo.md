@@ -131,8 +131,8 @@
 - [x] Nain (Nain)
 - [x] Cana din Galileea (Cana of Galilee)
 - [x] Arimateea (Arimathea)
-- [ ] Efraim (Ephraim)
-- [ ] Sihar (Sychar)
+- [x] Efraim (Ephraim)
+- [x] Sihar (Sychar)
 
 ### Regions
 - [ ] Galileea (Galilee)
