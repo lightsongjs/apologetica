@@ -82,6 +82,9 @@ A alergat împreună cu Petru la mormânt la vestea Mariei. Ioan este cel care r
 ### [[personalitati/ioana|Sfânta Mironosiță Ioana]] (sec. I)
 Împreună-mironosiță, soția lui Huza, menționată alături de ea în Luca 8:2 și 24:10.
 
+### [[personalitati/suzana|Sfânta Mironosiță Suzana]] (sec. I)
+Împreună-mironosiță, menționată alături de ea în Luca 8:3.
+
 ## Versete cheie
 
 - **Luca 8:2** — „Maria, numită Magdalena, din care ieșiseră șapte demoni."

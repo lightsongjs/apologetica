@@ -56,7 +56,7 @@
 - [x] Maria mama lui Iacov și Iose (Mary mother of James and Joses)
 - [x] Salomeea (Salome)
 - [x] Ioana (Joanna)
-- [ ] Suzana (Susanna)
+- [x] Suzana (Susanna)
 - [x] Marta (Martha of Bethany)
 - [x] Maria din Betania (Mary of Bethany)
 - [x] Samarineanca (Samaritan Woman at the well)

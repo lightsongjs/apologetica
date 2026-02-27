@@ -44,6 +44,9 @@ Cel Care a vindecat-o și pe Care L-a urmat, slujindu-I din averea sa.
 ### [[personalitati/maria-mama-lui-iacov|Maria, mama lui Iacov și Iose]] (sec. I)
 Împreună-mironosiță, prezentă alături de ea la Mormânt (Luca 24:10).
 
+### [[personalitati/suzana|Sfânta Mironosiță Suzana]] (sec. I)
+Împreună-mironosiță, menționată alături de ea în Luca 8:3.
+
 ### [[personalitati/irod-antipa|Irod Antipa]] (†39 d.Hr.)
 Soțul ei, Huza, era administrator al casei lui Irod. Ioana L-a urmat pe Hristos din chiar curtea celui care l-a ucis pe Înaintemergătorul.
 
