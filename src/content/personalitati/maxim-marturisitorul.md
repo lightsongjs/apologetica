@@ -87,8 +87,14 @@ Predecesorul spiritual în apărarea hristologiei ortodoxe. Atanasie a apărat d
 ### [[personalitati/ioan-damaschin|Sfântul Ioan Damaschin]] (c. 675-749)
 Moștenitorul teologic al lui Maxim. „Expunerea exactă a credinței ortodoxe" a Damaschinului sintetizează și sistematizează hristologia lui Maxim, transmițând-o generațiilor următoare.
 
+### [[personalitati/ioan-scararul|Sfântul Ioan Scărarul]] (c. 579-649)
+Contemporan și duhovnicește înrudit. Ambii au contribuit — Maxim prin teologie speculativă, Ioan prin asceză practică — la transmiterea moștenirii patristice a primelor secole.
+
 ### [[personalitati/simeon-noul-teolog|Sfântul Simeon Noul Teolog]] (949-1022)
 Moștenitorul spiritual al tradiției maximiene. Capitolele teologice ale lui Simeon continuă tradiția Centuriilor lui Maxim, adăugând dimensiunea autobiografică a experienței mistice personale.
+
+### [[personalitati/nicodim-aghioritul|Sfântul Nicodim Aghioritul]] (1749-1809)
+Editorul și comentatorul Centuriilor maximiene în Filocalia, asigurând transmiterea operei lui Maxim către Ortodoxia modernă.
 
 ### Împăratul Constans al II-lea (630-668)
 Împăratul care a impus monotelismul prin Typos-ul imperial și l-a persecutat pe Maxim. Istoria i-a dat dreptate lui Maxim, nu împăratului.

@@ -73,6 +73,9 @@ Moștenitorul teologic al lui Simeon. Palama a oferit cadrul dogmatic (distincț
 ### [[personalitati/maxim-marturisitorul|Sfântul Maxim Mărturisitorul]] (c. 580-662)
 Predecesorul spiritual. Capitolele teologice ale lui Simeon continuă tradiția Centuriilor maximiene, dar adaugă dimensiunea autobiografică a experienței mistice personale.
 
+### [[personalitati/nicodim-aghioritul|Sfântul Nicodim Aghioritul]] (1749-1809)
+Editorul și comentatorul scrierilor lui Simeon în Filocalia, contribuind la redescoperirea acestui mare mistic în Ortodoxia modernă.
+
 ### Nichita Stithatul (c. 1005-1090)
 Ucenicul cel mai apropiat, biograf și editor al operelor lui Simeon. Fără Nichita, mare parte din scrierile lui Simeon s-ar fi pierdut. Nichita a continuat și apărat moștenirea duhovnicească a maestrului său.
 

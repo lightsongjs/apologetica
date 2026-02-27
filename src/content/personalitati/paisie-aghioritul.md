@@ -68,6 +68,9 @@ Numeroase volume de mărturii adunate de monahi și credincioși care l-au cunos
 ### Sfântul Arsenie Capadocianul (1840-1924)
 Preotul din Farasa care l-a botezat și l-a binecuvântat, lăsându-l ca moștenitor duhovnicesc. Părintele Paisie i-a scris biografia și a lucrat pentru canonizarea sa.
 
+### [[personalitati/nicodim-aghioritul|Sfântul Nicodim Aghioritul]] (1749-1809)
+Editorul Filocaliei, a cărui operă a generat renașterea filocalică pe care Paisie a trăit-o. Paisie a continuat pe Muntele Athos tradiția trezviei și rugăciunii pe care Filocalia o propovăduiește.
+
 ### Cuviosul Tihon Rusul (1884-1968)
 Duhovnicul Părintelui Paisie pe Muntele Athos, monah rus de la Coliba Sfintei Cruci. Sub îndrumarea sa, Paisie a deprins tainele rugăciunii și ale discernământului.
 

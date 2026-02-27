@@ -76,6 +76,9 @@ Precursorul spiritual al lui Palama. Experiențele luminii necreate descrise de 
 ### Varlaam de Calabria (c. 1290-1348)
 Călugăr grec din sudul Italiei, format în scolastica occidentală, care a atacat practica isihaștilor. Condamnat de sinoadele din 1341 și 1351, a trecut la catolicism și a devenit episcop.
 
+### [[personalitati/nicodim-aghioritul|Sfântul Nicodim Aghioritul]] (1749-1809)
+Editorul Filocaliei, care a inclus textele palamite fundamentale și a asigurat transmiterea isihasmului către Ortodoxia modernă. Fără opera sa editorială, scrierile lui Palama ar fi rămas accesibile doar specialiștilor.
+
 ### Împăratul Ioan al VI-lea Cantacuzino (1292-1383)
 Împărat și teolog, principalul sprijinitor politic al lui Palama. După abdicare, a devenit monah (Ioasaf) și a scris lucrări teologice apărând palamismul.
 
