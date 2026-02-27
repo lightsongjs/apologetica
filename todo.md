@@ -26,7 +26,7 @@
 ### Core Figures
 - [x] Iisus Hristos (Jesus Christ)
 - [x] Maria (Virgin Mary, mother of Jesus)
-- [ ] Iosif (Joseph, husband of Mary)
+- [x] Iosif (Joseph, husband of Mary)
 
 ### The Twelve Apostles
 - [x] Petru / Simon Petru (Peter/Simon Peter)

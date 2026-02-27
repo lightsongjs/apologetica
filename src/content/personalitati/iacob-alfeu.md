@@ -76,7 +76,7 @@ Fratele lui Iacob (Iuda 1:1), apostol și autor al Epistolei lui Iuda. Amândoi 
 Contemporan apostolic, menționat în listele celor doisprezece alături de Iacob. Unele tradiții îl identifică pe Simon Zilotul cu Simon, un alt „frate al Domnului", care ar fi succedat lui Iacob ca episcop al Ierusalimului.
 
 ### [[personalitati/matia|Sfântul Apostol Matia]]
-Cel ales prin sorți să ia locul lui Iuda Iscarioteanul, Matia a fost martor al întregii activități a Mântuitorului, ca și Iacob, și a făcut parte din comunitatea apostolică a Ierusalimului condusă de acesta.
+Cel ales prin sorți să ia locul lui [[personalitati/iuda-iscarioteanul|Iuda Iscarioteanul]], Matia a fost martor al întregii activități a Mântuitorului, ca și Iacob, și a făcut parte din comunitatea apostolică a Ierusalimului condusă de acesta.
 
 ## Versete cheie
 
