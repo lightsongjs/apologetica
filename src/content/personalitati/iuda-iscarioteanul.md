@@ -52,7 +52,7 @@ Fapte 1:15-26 — discursul lui [[personalitati/petru|Petru]] despre căderea lu
 
 ### Sfinții Părinți
 **Sfântul Ioan Gură de Aur** — în omiliile la Matei, analizează procesul treptat al căderii lui Iuda: lăcomia, minciuna, lipsa de pocăință.
-**Sfântul Efrem Sirul** — în imnele la Săptămâna Mare, meditează asupra contrastului dintre lacrimile lui Iuda (regret) și lacrimile lui [[personalitati/petru|Petru]] (pocăință adevărată).
+**Sfântul [[personalitati/efrem-sirul|Efrem Sirul]]** — în imnele la Săptămâna Mare, meditează asupra contrastului dintre lacrimile lui Iuda (regret) și lacrimile lui [[personalitati/petru|Petru]] (pocăință adevărată).
 
 ## Contemporani și rude spirituale
 

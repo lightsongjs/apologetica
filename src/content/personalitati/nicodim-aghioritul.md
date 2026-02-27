@@ -82,6 +82,9 @@ A editat și comentat „Scara Raiului", punând-o în centrul renașterii filoc
 ### [[personalitati/simeon-noul-teolog|Sfântul Simeon Noul Teolog]] (949-1022)
 Unul dintre autorii centrali ai Filocaliei. A editat și comentat scrierile lui Simeon, contribuind la redescoperirea acestui mare mistic în Ortodoxia modernă.
 
+### [[personalitati/iosif-isihastul|Cuviosul Iosif Isihastul]] (1897-1959)
+Moștenitorul spiritual al renașterii filocalice în secolul XX. Iosif a trăit pe Muntele Athos rugăciunea și trezvia pe care Filocalia le propovăduiește, formând o generație de ucenici care au reînnoit viața monahală athonită.
+
 ### Sfântul Paisie Velicikovski (1722-1794)
 Contemporanul slavon. A tradus Filocalia în slavonă („Dobrotolubiye"), răspândind-o în lumea rusă și românească. Împreună au generat renașterea filocalică în întreaga lume ortodoxă.
 

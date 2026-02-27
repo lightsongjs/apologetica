@@ -83,6 +83,9 @@ Părintele monahismului, a cărui viață (scrisă de [[personalitati/atanasie-c
 ### [[personalitati/atanasie-cel-mare|Sfântul Atanasie cel Mare]] (c. 296-373)
 Arhiepiscopul Alexandriei, apărătorul termenului „homoousios" la Niceea. Vasile a continuat și desăvârșit lupta teologică trinitară pe care Atanasie o începuse.
 
+### [[personalitati/efrem-sirul|Sfântul Efrem Sirul]] (c. 306-373)
+Contemporanul siriac. Tradiția menționează o întâlnire între Efrem și Vasile la Cezareea Capadociei. Ambii au îmbinat teologia cu slujirea socială a celor săraci.
+
 ### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)
 Cel de-al treilea mare ierarh, cel mai mare predicator al Bisericii. Deși nu s-au întâlnit, Hrisostom a venerat pe Vasile și i-a continuat opera liturgică. Prăznuiți împreună la 30 ianuarie.
 

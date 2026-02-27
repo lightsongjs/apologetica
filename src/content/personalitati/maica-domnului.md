@@ -72,7 +72,7 @@ Fapte 1:14 — Maria prezentă la rugăciune cu apostolii înainte de Cincizecim
 Sursa principală pentru copilăria Mariei: nașterea din Ioachim și Ana, Intrarea în Biserică, logodna cu Iosif. Deși apocrif, reflectă tradiții vechi acceptate în cultul ortodox.
 
 ### Sfinții Părinți
-**Sfântul Efrem Sirul** — Imnele la Fecioara Maria, cele mai vechi și mai frumoase laude mariologice patristice.
+**Sfântul [[personalitati/efrem-sirul|Efrem Sirul]]** — Imnele la Fecioara Maria, cele mai vechi și mai frumoase laude mariologice patristice.
 **Sfântul [[personalitati/ioan-damaschin|Ioan Damaschin]]** — Cele trei „Cuvântări la Adormirea Maicii Domnului," fundamentul dogmatic al sărbătorii Adormirii.
 **Sfântul Grigorie Palama** — Omilii despre Maica Domnului, dezvoltând teologia ei ca „hotar între cele zidite și cele nezidite."
 

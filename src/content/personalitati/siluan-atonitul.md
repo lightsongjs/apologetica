@@ -62,6 +62,9 @@ Continuare a reflecțiilor teologice pornite de la experiența Sfântului Siluan
 ### Arhimandritul Sofronie Saharov (1896-1993)
 Ucenicul și biograful Sfântului Siluan, cel care a descoperit, editat și publicat scrierile Cuviosului. A întemeiat Mănăstirea Sfântului Prodrom (Înaintemergătorul) din Essex (Anglia), devenind el însuși un mare duhovnic și teolog al sec. XX.
 
+### [[personalitati/iosif-isihastul|Cuviosul Iosif Isihastul]] (1897-1959)
+Contemporan pe Sfântul Munte. Siluan și Iosif sunt cele două mari figuri isihaste ale Athosului din prima jumătate a secolului XX — Siluan în mănăstirea rusă, Iosif în pustia grecească.
+
 ### Comunitatea Mănăstirii Sfântul Panteleimon
 Obștea rusească de pe Muntele Athos în care Siluan a trăit 46 de ani. Mănăstirea, una dintre cele 20 de mănăstiri athonite, a fost cadrul în care smerenia și rugăciunea Cuviosului s-au desăvârșit.
 

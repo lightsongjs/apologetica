@@ -76,6 +76,9 @@ Predecesorul spiritual. Capitolele teologice ale lui Simeon continuă tradiția 
 ### [[personalitati/nicodim-aghioritul|Sfântul Nicodim Aghioritul]] (1749-1809)
 Editorul și comentatorul scrierilor lui Simeon în Filocalia, contribuind la redescoperirea acestui mare mistic în Ortodoxia modernă.
 
+### [[personalitati/iosif-isihastul|Cuviosul Iosif Isihastul]] (1897-1959)
+Moștenitorul spiritual al tradiției lui Simeon în secolul XX. Iosif a trăit ceea ce Simeon descrisese: vederea luminii necreate, experiența conștientă a harului, rugăciunea neîncetată.
+
 ### Nichita Stithatul (c. 1005-1090)
 Ucenicul cel mai apropiat, biograf și editor al operelor lui Simeon. Fără Nichita, mare parte din scrierile lui Simeon s-ar fi pierdut. Nichita a continuat și apărat moștenirea duhovnicească a maestrului său.
 

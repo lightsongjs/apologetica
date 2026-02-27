@@ -70,6 +70,9 @@ Arhiepiscopul Alexandriei, marele apărător al Ortodoxiei contra arianismului. 
 ### Cuviosul Pavel Tebeul (c. 227-342)
 Considerat primul pustnic creștin. Conform tradiției, Antonie l-a vizitat la bătrânețe în peștera sa din pustia Tebaidei, iar un corb le-a adus pâine.
 
+### [[personalitati/efrem-sirul|Sfântul Efrem Sirul]] (c. 306-373)
+Contemporanul siriac. Efrem a cunoscut monahismul egiptean inspirat de Antonie și l-a adaptat tradiției siriace, răspândind idealul ascetic în Mesopotamia.
+
 ### Sfântul Pahomie cel Mare (c. 292-348)
 Contemporan mai tânăr, întemeietorul monahismului cenobitic (de obște) în Egipt. Dacă Antonie este părintele pustnicismului (anahoretismului), Pahomie este părintele vieții de obște.
 

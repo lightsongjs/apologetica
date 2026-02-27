@@ -71,6 +71,9 @@ Preotul din Farasa care l-a botezat și l-a binecuvântat, lăsându-l ca moște
 ### [[personalitati/nicodim-aghioritul|Sfântul Nicodim Aghioritul]] (1749-1809)
 Editorul Filocaliei, a cărui operă a generat renașterea filocalică pe care Paisie a trăit-o. Paisie a continuat pe Muntele Athos tradiția trezviei și rugăciunii pe care Filocalia o propovăduiește.
 
+### [[personalitati/iosif-isihastul|Cuviosul Iosif Isihastul]] (1897-1959)
+Contemporan pe Sfântul Munte, din altă tradiție duhovnicească. Paisie și Iosif sunt cele două mari figuri athonite ale secolului XX — Paisie prin sfaturile sale pastorale, Iosif prin rugăciunea isihastă și formarea ucenicilor.
+
 ### Cuviosul Tihon Rusul (1884-1968)
 Duhovnicul Părintelui Paisie pe Muntele Athos, monah rus de la Coliba Sfintei Cruci. Sub îndrumarea sa, Paisie a deprins tainele rugăciunii și ale discernământului.
 

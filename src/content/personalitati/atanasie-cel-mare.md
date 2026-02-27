@@ -79,6 +79,9 @@ Continuatorul operei teologice a lui Atanasie. Terminologia trinitară a Capadoc
 ### [[personalitati/maxim-marturisitorul|Sfântul Maxim Mărturisitorul]] (c. 580-662)
 Continuatorul spiritual al lui Atanasie în apărarea hristologiei ortodoxe. Atanasie a apărat dumnezeirea Fiului contra arianismului; Maxim a apărat umanitatea deplină a lui Hristos (inclusiv voința umană) contra monotelismului. Principiul atanasian — „ceea ce nu este asumat nu este vindecat" — stă la baza întregii argumentații a lui Maxim.
 
+### [[personalitati/efrem-sirul|Sfântul Efrem Sirul]] (c. 306-373)
+Contemporan în lupta contra arianismului. Atanasie a luptat prin tratate dogmatice în greacă; Efrem a luptat prin imne în siriacă. Amândoi au apărat credința niceeană cu mijloacele lor proprii.
+
 ### Arie (c. 256-336)
 Preotul alexandrin care a susținut că Fiul este creatură — „a fost un timp când nu era." Erezia sa a provocat cea mai gravă criză din istoria Bisericii, iar Atanasie a fost principalul ei adversar.
 

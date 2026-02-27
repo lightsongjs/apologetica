@@ -62,7 +62,7 @@ Text apocrif care descrie moartea lui Iosif, cu Hristos prezent la căpătâiul 
 
 ### Sfinții Părinți
 **Sfântul Ioan Gură de Aur** — în omiliile la Matei, subliniază dreptatea și credința lui Iosif.
-**Sfântul Efrem Sirul** — în imnele la Naștere, meditează asupra rolului lui Iosif ca păzitor al tainei.
+**Sfântul [[personalitati/efrem-sirul|Efrem Sirul]]** — în imnele la Naștere, meditează asupra rolului lui Iosif ca păzitor al tainei.
 
 ## Contemporani și rude spirituale
 

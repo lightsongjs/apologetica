@@ -69,7 +69,7 @@ Menționează în „Historia Ecclesiastica" că Toma a propovăduit în Parția
 ### Tradiția Creștinilor Sfântului Toma
 Comunitățile creștine din Kerala, India, păstrează o tradiție orală și liturgică continuă despre venirea Apostolului Toma și întemeierea primelor biserici pe coastele Malabar.
 
-### Efrem Sirul (c. 306-373)
+### [[personalitati/efrem-sirul|Sfântul Efrem Sirul]] (c. 306-373)
 Menționează în imnele sale transferul moaștelor Sfântului Toma de la India la Edesa, oferind una dintre cele mai timpurii mărturii despre venerarea relicvelor apostolului.
 
 ## Contemporani și rude spirituale

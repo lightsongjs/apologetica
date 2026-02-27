@@ -47,7 +47,7 @@ Narațiunea principală: corupția lumii, construirea corăbiei, potopul, legăm
 
 ### Sfinții Părinți
 **Sfântul Ioan Gură de Aur** — omilii la Facerea, dezvoltând teologia potopului.
-**Sfântul Efrem Sirul** — comentariul la Facerea, interpretarea tipologică a corăbiei.
+**Sfântul [[personalitati/efrem-sirul|Efrem Sirul]]** — comentariul la Facerea, interpretarea tipologică a corăbiei.
 
 ## Contemporani și rude spirituale
 
