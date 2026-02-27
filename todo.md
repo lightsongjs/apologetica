@@ -77,8 +77,8 @@
 - [x] Irodiada (Herodias)
 - [ ] Irodul Filip (Herod Philip)
 - [ ] Arhelau (Archelaus)
-- [ ] Centurionul de la Capernaum (Centurion at Capernaum)
-- [ ] Centurionul de la cruce (Centurion at the cross)
+- [x] Centurionul de la Capernaum (Centurion at Capernaum)
+- [x] Centurionul de la cruce (Centurion at the cross)
 
 ### People Jesus Healed/Encountered
 - [x] Lazăr din Betania (Lazarus of Bethany)

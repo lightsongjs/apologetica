@@ -119,6 +119,12 @@ Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
+### [[personalitati/centurionul-de-la-capernaum|Centurionul de la Capernaum]] (sec. I)
+Ofițerul roman a cărui credință L-a uimit: „Nici în Israel n-am găsit atâta credință!" (Matei 8:10).
+
+### [[personalitati/centurionul-de-la-cruce|Centurionul de la Cruce]] (sec. I)
+Primul om care a mărturisit la Cruce: „Cu adevărat, Fiul lui Dumnezeu era Acesta!" (Matei 27:54).
+
 ### [[personalitati/femeia-cananeeanca|Femeia cananeeancă]] (sec. I)
 Mama păgână a cărei credință a biruit aparentul refuz: „O, femeie, mare este credința ta!" (Matei 15:28).
 
