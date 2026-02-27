@@ -57,7 +57,7 @@ Moare la Marsilia, în jurul anului 435. Moaștele sale sunt venerate la Mănăs
 
 ## Contemporani și rude spirituale
 
-### Sfântul Ioan Gură de Aur (c. 347-407)
+### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)
 Marele ierarh al Constantinopolului care l-a hirotonit diacon pe Casian. Acesta i-a fost ucenic devotat și l-a apărat în fața persecuțiilor.
 
 ### Avva cel Negru (Etiopianul)

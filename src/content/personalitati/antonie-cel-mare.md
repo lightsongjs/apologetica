@@ -76,6 +76,9 @@ Contemporan mai tânăr, întemeietorul monahismului cenobitic (de obște) în E
 ### Sfântul Macarie cel Mare (Egipteanul) (c. 300-391)
 Ucenic spiritual al lui Antonie, întemeietorul comunității monahale din Sketis. A dezvoltat și transmis mai departe tradiția monahală antoniană.
 
+### [[personalitati/vasile-cel-mare|Sfântul Vasile cel Mare]] (c. 330-379)
+Arhiepiscop al Cezareei Capadociei, care a vizitat centrele monahale din Egipt și a transformat modelul pustnicesc antoniar într-un monahism de obște structurat prin Regulile sale monahale.
+
 ## Versete cheie
 
 - **Matei 19:21** — „Dacă voiești să fii desăvârșit, du-te, vinde averea ta, dă-o săracilor și vei avea comoară în cer; și vino de-Mi urmează Mie."

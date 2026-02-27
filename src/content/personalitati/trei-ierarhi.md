@@ -7,7 +7,7 @@ order: 108
 
 ## Bio
 
-Sfinții Trei Ierarhi — Sfântul Vasile cel Mare (c. 330-379), Sfântul Grigorie Teologul (c. 329-390) și Sfântul Ioan Gură de Aur (c. 347-407) — sunt cei trei mari dascăli și ierarhi ai Bisericii, prăznuiți împreună la 30 ianuarie. Această sărbătoare a fost instituită în sec. XI de mitropolitul Ioan al Euchaiteilor pentru a pune capăt unei dispute: creștinii din Constantinopol se certau despre care dintre cei trei este cel mai mare. Într-o viziune, cei trei ierarhi i-au apărut lui Ioan și i-au spus că sunt egali înaintea lui Dumnezeu și că doresc să fie prăznuiți împreună.
+Sfinții Trei Ierarhi — [[personalitati/vasile-cel-mare|Sfântul Vasile cel Mare]] (c. 330-379), [[personalitati/grigorie-teologul|Sfântul Grigorie Teologul]] (c. 329-390) și [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407) — sunt cei trei mari dascăli și ierarhi ai Bisericii, prăznuiți împreună la 30 ianuarie. Această sărbătoare a fost instituită în sec. XI de mitropolitul Ioan al Euchaiteilor pentru a pune capăt unei dispute: creștinii din Constantinopol se certau despre care dintre cei trei este cel mai mare. Într-o viziune, cei trei ierarhi i-au apărut lui Ioan și i-au spus că sunt egali înaintea lui Dumnezeu și că doresc să fie prăznuiți împreună.
 
 **Sfântul Vasile cel Mare** (Βασίλειος ὁ Μέγας), arhiepiscop al Cezareei Capadociei, a fost organizatorul vieții monahale de obște (cenobitism), marele liturghist (Liturghia Sfântului Vasile cel Mare), apărătorul Ortodoxiei contra arianismului și unul dintre cei mai importanți teologi ai Sfintei Treimi. A întemeiat instituții de caritate (Vasiliadele), a scris regulile monahale care stau la baza monahismului ortodox și a compus tratate teologice fundamentale.
 
@@ -72,11 +72,20 @@ Exilat de două ori. Moare în drum spre un loc de exil mai îndepărtat, rostin
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/vasile-cel-mare|Sfântul Vasile cel Mare]] (c. 330-379)
+Arhiepiscop al Cezareei Capadociei, organizator al monahismului de obște, autor al Liturghiei care îi poartă numele, apărător al Ortodoxiei contra arianismului și slujitor al săracilor prin Vasiliada.
+
+### [[personalitati/grigorie-teologul|Sfântul Grigorie Teologul]] (c. 329-390)
+Arhiepiscop al Constantinopolului, „Teologul" Bisericii, autor al celor cinci Cuvântări Teologice care au definit dogma trinitară ortodoxă. Poet și contemplativ.
+
+### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)
+Arhiepiscop al Constantinopolului, cel mai mare predicator al Bisericii, autor al Liturghiei principale și al Cuvântului la Paști. „Slavă lui Dumnezeu pentru toate!"
+
 ### Sfântul Grigorie de Nyssa (c. 335-395)
-Fratele mai mic al Sfântului Vasile cel Mare, episcop de Nyssa, mare teolog mistic. Împreună cu Vasile și Grigorie Teologul formează grupul „Părinților Capadocieni" care au definit teologia trinitară ortodoxă.
+Fratele mai mic al lui [[personalitati/vasile-cel-mare|Vasile]], episcop de Nyssa, mare teolog mistic. Împreună cu [[personalitati/vasile-cel-mare|Vasile]] și [[personalitati/grigorie-teologul|Grigorie]] formează grupul „Părinților Capadocieni" care au definit teologia trinitară ortodoxă.
 
 ### Sfânta Macrina cea Tânără (c. 327-379)
-Sora mai mare a Sfântului Vasile, cea care l-a influențat decisiv în alegerea vieții monahale. Sfântul Grigorie de Nyssa i-a scris biografia.
+Sora mai mare a lui [[personalitati/vasile-cel-mare|Vasile]], cea care l-a influențat decisiv în alegerea vieții monahale. Sfântul Grigorie de Nyssa i-a scris biografia.
 
 ### Împăratul Teodosie I (347-395)
 Împăratul care a convocat Sinodul II Ecumenic (381) la Constantinopol, unde învățătura trinitară a Capadocienilor a devenit dogmă oficială a Bisericii.
