@@ -63,7 +63,7 @@
 
 ### Jewish Religious Leaders
 - [x] Caiafa (Caiaphas, high priest)
-- [ ] Ana (Annas, former high priest)
+- [x] Ana (Annas, former high priest)
 - [x] Nicodim (Nicodemus, Pharisee)
 - [x] Iosif din Arimateea (Joseph of Arimathea)
 - [ ] Gamaliel (Gamaliel)

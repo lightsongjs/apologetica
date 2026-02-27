@@ -50,6 +50,9 @@ Osuarul descoperit în 1990 în Ierusalim cu inscripția „Yehosef bar Qayafa."
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Cel pe Care l-a judecat și condamnat, dar ale Cărui cuvinte la judecată au confirmat identitatea mesianică.
 
+### [[personalitati/ana-arhiereul|Ana Arhiereul]] (mare preot, c. 6-15)
+Socrul său, fostul mare preot care rămânea autoritatea reală. Iisus a fost dus mai întâi la Ana, apoi trimis la Caiafa.
+
 ### [[personalitati/pilat|Ponțiu Pilat]] (procurator, c. 26-36)
 Caiafa i-a predat pe Iisus lui Pilat pentru execuție. Cei doi au cooperat politic timp de un deceniu.
 

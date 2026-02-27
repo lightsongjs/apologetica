@@ -116,6 +116,9 @@ Soția lui Huza, administratorul casei lui Irod, mironosiță care L-a urmat și
 ### [[personalitati/suzana|Sfânta Mironosiță Suzana]] (sec. I)
 Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 
+### [[personalitati/ana-arhiereul|Ana Arhiereul]] (mare preot, c. 6-15)
+Fostul mare preot care L-a interogat în noaptea arestării, înainte de a-L trimite la ginerele său [[personalitati/caiafa|Caiafa]].
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeu al apostolilor, cel care a mărturisit: „Tu ești Hristosul, Fiul Dumnezeului Celui viu" (Matei 16:16). Hristos i-a încredințat cheile Împărăției cerurilor.
 
