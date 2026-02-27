@@ -81,7 +81,7 @@
 - [ ] Centurionul de la cruce (Centurion at the cross)
 
 ### People Jesus Healed/Encountered
-- [ ] Lazăr din Betania (Lazarus of Bethany)
+- [x] Lazăr din Betania (Lazarus of Bethany)
 - [ ] Bartimeu (Bartimaeus, blind beggar)
 - [ ] Zaheu (Zacchaeus)
 - [ ] Femeia cu scurgere de sânge (Woman with hemorrhage)
