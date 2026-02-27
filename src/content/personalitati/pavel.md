@@ -29,13 +29,13 @@ Participă la uciderea Sfântului Ștefan, păzind hainele celor care îl ucidea
 Hristos Cel Înviat i Se arată în lumină cerească (Faptele Apostolilor 9:3-6). Orbește trei zile. Ananias îl botează și îi redă vederea. Primește chemarea de a fi „vas ales" pentru neamuri (Faptele Apostolilor 9:15).
 
 ### Retragerea în Arabia și pregătirea (c. 36-39 d.Hr.)
-Se retrage în Arabia (Galateni 1:17), probabil pentru rugăciune și reflecție. Revine la Damasc, apoi urcă la Ierusalim unde îl întâlnește pe [[personalitati:petru|Sfântul Apostol Petru]] timp de 15 zile (Galateni 1:18).
+Se retrage în Arabia (Galateni 1:17), probabil pentru rugăciune și reflecție. Revine la Damasc, apoi urcă la Ierusalim unde îl întâlnește pe [[personalitati/petru|Sfântul Apostol Petru]] timp de 15 zile (Galateni 1:18).
 
 ### Prima călătorie misionară (c. 46-48 d.Hr.)
-Împreună cu [[personalitati:barnaba|Barnaba]] și Ioan Marcu, propovăduiește în Cipru, Antiohia Pisidiei, Iconia, Listra și Derbe. Proconsulul Sergius Paulus se convertește (Faptele Apostolilor 13:12).
+Împreună cu [[personalitati/barnaba|Barnaba]] și Ioan Marcu, propovăduiește în Cipru, Antiohia Pisidiei, Iconia, Listra și Derbe. Proconsulul Sergius Paulus se convertește (Faptele Apostolilor 13:12).
 
 ### Sinodul Apostolic din Ierusalim (c. 49 d.Hr.)
-Participă alături de [[personalitati:petru|Petru]] și Iacob la sinodul care decide că neamurile nu trebuie să se supună Legii mozaice (Faptele Apostolilor 15). Moment crucial pentru universalitatea Evangheliei.
+Participă alături de [[personalitati/petru|Petru]] și Iacob la sinodul care decide că neamurile nu trebuie să se supună Legii mozaice (Faptele Apostolilor 15). Moment crucial pentru universalitatea Evangheliei.
 
 ### A doua călătorie misionară (c. 49-52 d.Hr.)
 Împreună cu Sila, trece în Macedonia (vedenia „Vino în Macedonia!" — Faptele Apostolilor 16:9). Întemeiază comunitățile din Filipi, Tesalonic, Berea, Atena și Corint. Discursul din Areopagul Atenei (Faptele Apostolilor 17:22-31).
@@ -81,43 +81,49 @@ A doua jumătate a cărții Faptelor Apostolilor, scrisă de Sfântul Evanghelis
 
 ### Mărturii despre el
 
-**[[personalitati:petru|Sfântul Apostol Petru]]**
+**[[personalitati/petru|Sfântul Apostol Petru]]**
 Menționează epistolele lui Pavel în 2 Petru 3:15-16, numindu-le „Scripturi" și recunoscând înțelepciunea dată lui de Dumnezeu.
 
 **Clement al Romei** (murit c. 99)
-În Epistola către Corinteni menționează martiriul lui Pavel și al lui [[personalitati:petru|Petru]] la Roma.
+În Epistola către Corinteni menționează martiriul lui Pavel și al lui [[personalitati/petru|Petru]] la Roma.
 
-**[[personalitati:ignatie-teoforul|Sfântul Ignatie Teoforul]]** (murit c. 107-110)
+**[[personalitati/ignatie-teoforul|Sfântul Ignatie Teoforul]]** (murit c. 107-110)
 Îl menționează pe Pavel cu reverență în epistolele sale, în special în Epistola către Efeseni.
-
-**[[personalitati:policarp|Sfântul Policarp de Smyrna]]** (c. 69-155)
-Citează frecvent din epistolele lui Pavel în propria sa Epistolă către Filipeni.
-
-**[[personalitati:irineu|Sfântul Irineu de Lyon]]** (c. 130-202)
-Citează extensiv din Pavel în „Adversus Haereses", apărând interpretarea ortodoxă a epistolelor sale împotriva gnosticilor.
 
 **Ioan Gură de Aur** (c. 349-407)
 A scris cele mai ample comentarii patristice la epistolele lui Pavel, pline de admirație pentru apostol.
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:petru|Sfântul Apostol Petru]] (†c. 64-68)
+### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeii Apostolilor. Petru și Pavel au lucrat împreună la Sinodul din Ierusalim (Faptele Apostolilor 15). Pavel l-a mustrat frățește pe Petru la Antiohia pentru fățărnicie (Galateni 2:11-14). Amândoi au fost martirizați la Roma și sunt prăznuiți împreună la 29 iunie.
 
-### [[personalitati:ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
 Unul dintre „stâlpii" Bisericii (Galateni 2:9), alături de Petru și Iacob. Pavel mărturisește că a primit „dreapta de părtășie" de la Ioan, Petru și Iacob la Ierusalim.
 
-### [[personalitati:andrei-apostolul|Sfântul Apostol Andrei]] (†c. 60-70)
+### [[personalitati/andrei-apostolul|Sfântul Apostol Andrei]] (†c. 60-70)
 Apostol contemporan care a predicat în regiuni diferite (Scitia, Grecia), completând misiunea lui Pavel către neamuri prin propovăduirea sa în ținuturile răsăritene.
 
-### [[personalitati:iacob-zebedeu|Sfântul Apostol Iacob, fiul lui Zebedeu]] (†44)
+### [[personalitati/iacob-zebedeu|Sfântul Apostol Iacob, fiul lui Zebedeu]] (†44)
 Martirizat înainte de prima călătorie misionară a lui Pavel. Primul apostol mucenic, a cărui moarte este consemnată în Faptele Apostolilor 12:2.
 
-### [[personalitati:ignatie-teoforul|Sfântul Ignatie Teoforul]] (†c. 107-110)
+### [[personalitati/ignatie-teoforul|Sfântul Ignatie Teoforul]] (†c. 107-110)
 Episcop al Antiohiei după Petru și Euodiu. A continuat tradiția apostolică petro-paulină în cetatea unde ucenicii au fost numiți pentru prima dată „creștini" (Faptele Apostolilor 11:26).
 
-### [[personalitati:luca-evanghelistul|Sfântul Evanghelist Luca]]
+### [[personalitati/policarp|Sfântul Policarp de Smyrna]] (c. 69-155)
+Ucenic al Apostolului Ioan și episcop al Smirnei. Citează frecvent din epistolele lui Pavel în propria sa Epistolă către Filipeni, perpetuând astfel învățătura paulină în Biserica din secolul al doilea.
+
+### [[personalitati/irineu|Sfântul Irineu de Lyon]] (c. 130-202)
+Citează extensiv din epistolele lui Pavel în „Adversus Haereses", apărând interpretarea ortodoxă a scrierilor sale împotriva gnosticilor și conectând teologia paulină cu tradiția Bisericii din secolul al doilea.
+
+### [[personalitati/barnaba|Sfântul Barnaba]]
+Coleg apostol și partener de misiune în prima călătorie misionară. Barnaba l-a descoperit pe Pavel pentru Biserică după convertirea sa și l-a adus la Antiohia. Au predicat împreună în Cipru și Asia Mică (Faptele Apostolilor 13-14).
+
+### [[personalitati/luca-evanghelistul|Sfântul Evanghelist Luca]]
 „Doctorul cel iubit" (Coloseni 4:14), însoțitorul credincios al lui Pavel în călătorii, autorul Evangheliei după Luca și al Faptelor Apostolilor.
+
+### [[personalitati/marcu-evanghelistul|Sfântul Evanghelist Marcu]]
+Relație complexă: de la respingere inițială („nu-l lua pe cel care se despărțise") la reconciliere și prețuire („îmi este de folos" — 2 Timotei 4:11). Marcu l-a însoțit pe Pavel în prima călătorie misionară și, după o perioadă de maturizare sub Barnaba, s-a reîntors în slujba lui Pavel.
 
 ### Sfântul Timotei
 „Copilul meu adevărat în credință" (1 Timotei 1:2), cel mai apropiat ucenic al lui Pavel, hirotonit episcop al Efesului.

@@ -9,17 +9,17 @@ order: 17
 
 Capernaum (în greacă: Καφαρναούμ, din ebraică: כְּפַר נַחוּם — „Satul lui Nahum") era un sat de pescari pe malul de nord-vest al Mării Galileii, la care Iisus Hristos Și-a stabilit centrul activității Sale publice. Evanghelistul Matei îl numește „cetatea Sa" (Matei 9:1).
 
-Situat pe drumul comercial Via Maris (Drumul Mării), Capernaum avea o vamă — locul unde [[personalitati:matei-evanghelistul|Matei]] a fost chemat de la vamă (Matei 9:9) — și o garnizoană romană, al cărei centurion a cerut vindecarea slugii sale (Matei 8:5-13). Era și orașul lui [[personalitati:petru|Petru]] și [[personalitati:andrei-apostolul|Andrei]], ale căror case au fost descoperite de arheologi.
+Situat pe drumul comercial Via Maris (Drumul Mării), Capernaum avea o vamă — locul unde [[personalitati/matei-evanghelistul|Matei]] a fost chemat de la vamă (Matei 9:9) — și o garnizoană romană, al cărei centurion a cerut vindecarea slugii sale (Matei 8:5-13). Era și orașul lui [[personalitati/petru|Petru]] și [[personalitati/andrei-apostolul|Andrei]], ale căror case au fost descoperite de arheologi.
 
 La Capernaum, Iisus a săvârșit cele mai multe minuni: a vindecat pe soacra lui Petru, pe slăbănogul coborât prin acoperiș, pe femeia cu scurgere de sânge, pe fiica lui Iair, pe demonizatul din sinagogă. Tot aici a rostit discursul euharistic: „Eu sunt Pâinea vieții" (Ioan 6:35). Și tot aici a fost mustrarea cea mai aspră: „Și tu, Capernaume, care te-ai înălțat până la cer, până la iad te vei coborî!" (Matei 11:23).
 
 ## Evenimente biblice
 
 ### Mutarea lui Iisus la Capernaum (c. 27 d.Hr.)
-După ce a fost respins la Nazaret, Iisus Se mută la Capernaum: „Părăsind Nazaretul, a venit de a locuit în Capernaum, lângă mare" (Matei 4:13). Matei vede în aceasta împlinirea profeției lui [[personalitati:isaia|Isaia]]: „Pământul lui Zabulon și pământul lui Neftali... poporul care stătea în întuneric a văzut lumină mare" (Matei 4:15-16).
+După ce a fost respins la Nazaret, Iisus Se mută la Capernaum: „Părăsind Nazaretul, a venit de a locuit în Capernaum, lângă mare" (Matei 4:13). Matei vede în aceasta împlinirea profeției lui [[personalitati/isaia|Isaia]]: „Pământul lui Zabulon și pământul lui Neftali... poporul care stătea în întuneric a văzut lumină mare" (Matei 4:15-16).
 
 ### Chemarea primilor apostoli
-Din Capernaum și zona mării, Iisus cheamă pe [[personalitati:petru|Petru]], [[personalitati:andrei-apostolul|Andrei]], [[personalitati:iacob-zebedeu|Iacob]] și [[personalitati:ioan-evanghelistul|Ioan]] — toți pescari pe Marea Galileii.
+Din Capernaum și zona mării, Iisus cheamă pe [[personalitati/petru|Petru]], [[personalitati/andrei-apostolul|Andrei]], [[personalitati/iacob-zebedeu|Iacob]] și [[personalitati/ioan-evanghelistul|Ioan]] — toți pescari pe Marea Galileii.
 
 ### Vindecarea demonizatului în sinagogă (Marcu 1:21-28)
 Prima minune narată de Marcu are loc în sinagoga din Capernaum. Duhul necurat strigă: „Ce ai cu noi, Iisuse Nazarinene? Ai venit să ne pierzi? Te știu cine ești: Sfântul lui Dumnezeu!" Iisus îl ceartă și demonul iese.
@@ -31,7 +31,7 @@ Iisus intră în casa lui Petru și o vindecă pe soacra acestuia de friguri. Ac
 Patru oameni coboară un paralitic prin acoperișul casei unde predica Iisus. „Fiule, iertate sunt păcatele tale!" — prima declarație explicită a puterii de a ierta păcatele.
 
 ### Chemarea lui Matei de la vamă (Matei 9:9)
-[[personalitati:matei-evanghelistul|Matei]] stătea la vamă la Capernaum când Hristos i-a zis: „Urmează-Mi!" Matei a lăsat totul și L-a urmat.
+[[personalitati/matei-evanghelistul|Matei]] stătea la vamă la Capernaum când Hristos i-a zis: „Urmează-Mi!" Matei a lăsat totul și L-a urmat.
 
 ### Vindecarea slugii centurionului (Matei 8:5-13)
 Centurionul roman din Capernaum Îi cere lui Iisus vindecarea slugii sale: „Doamne, nu sunt vrednic să intri sub acoperișul meu, ci numai zi cu cuvântul și se va vindeca sluga mea." Iisus Se minunează de credința lui — cea mai mare credință găsită în Israel.
@@ -52,16 +52,16 @@ Discursul euharistic — „Eu sunt Pâinea vieții" — rostit în sinagoga din
 
 ## Personalități legate de acest loc
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 Locuia la Capernaum cu familia sa. Casa lui Petru a fost transformată în loc de cult încă din sec. I și a fost identificată arheologic.
 
-### [[personalitati:andrei-apostolul|Sfântul Apostol Andrei]]
+### [[personalitati/andrei-apostolul|Sfântul Apostol Andrei]]
 Fratele lui Petru, locuia și el la Capernaum. Chemat din Capernaum să devină apostol.
 
-### [[personalitati:matei-evanghelistul|Sfântul Evanghelist Matei]]
+### [[personalitati/matei-evanghelistul|Sfântul Evanghelist Matei]]
 Vameș la Capernaum, chemat de Hristos cu cuvintele „Urmează-Mi!" direct de la vamă.
 
-### [[personalitati:iacob-zebedeu|Sfântul Apostol Iacob]] și [[personalitati:ioan-evanghelistul|Sfântul Apostol Ioan]]
+### [[personalitati/iacob-zebedeu|Sfântul Apostol Iacob]] și [[personalitati/ioan-evanghelistul|Sfântul Apostol Ioan]]
 Fiii lui Zebedeu, pescari din Capernaum sau din apropiere, chemați de Hristos pe malul mării.
 
 ## Versete cheie

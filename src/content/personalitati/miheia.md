@@ -56,19 +56,19 @@ Miheia 4:1-3 este aproape identic cu Isaia 2:2-4 — viziunea neamurilor urcând
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:isaia|Profetul Isaia]] (sec. VIII î.Hr.)
+### [[personalitati/isaia|Profetul Isaia]] (sec. VIII î.Hr.)
 Cel mai important contemporan al lui Miheia. Amândoi au profețit în Iuda în aceeași perioadă, sub aceiași regi. Isaia era de origine nobilă și profețea la curtea regală, în timp ce Miheia era glasul omului de rând. Împreună, ei acopereau întreaga societate a lui Iuda cu mesajul lui Dumnezeu.
 
-### [[personalitati:iona|Profetul Iona]] (sec. VIII î.Hr.)
+### [[personalitati/iona|Profetul Iona]] (sec. VIII î.Hr.)
 Contemporan cu Miheia, Iona a profețit în Regatul de Nord și a fost trimis la Ninive. Ambii profeți vestesc suveranitatea universală a lui Dumnezeu — Miheia prezicând nașterea Mesiei în Betleem, iar Iona demonstrând mila lui Dumnezeu față de neamuri.
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Deși a profețit cu aproximativ un secol după Miheia, Ieremia 26:18-19 mărturisește că profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe regele Iezechia să se smerească, iar Domnul a cruțat cetatea. Miheia este astfel un model invocat de Ieremia în apărarea propriei sale profeții.
 
 ### Regele Iezechia (c. 715-686 î.Hr.)
 Unul dintre cei mai evlavioși regi ai lui Iuda. Profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe Iezechia să caute fața Domnului, iar Domnul a cruțat cetatea (cf. Ieremia 26:18-19).
 
-### [[personalitati:osea|Profetul Osea]] (sec. VIII î.Hr.)
+### [[personalitati/osea|Profetul Osea]] (sec. VIII î.Hr.)
 Contemporan cu Miheia, Osea a profețit în Regatul de Nord al lui Israel. Ca și Miheia, Osea a cerut milă și cunoașterea lui Dumnezeu mai presus de jertfe: „Milă voiesc, iar nu jertfă" (Osea 6:6), ecou al cuvintelor lui Miheia 6:8.
 
 ### Regele Ahaz (c. 735-715 î.Hr.)

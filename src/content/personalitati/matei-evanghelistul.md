@@ -73,13 +73,13 @@ Menționează tradiții despre viața ascetică a lui Matei după convertire, sp
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:filip-apostolul|Sfântul Apostol Filip]]
+### [[personalitati/filip-apostolul|Sfântul Apostol Filip]]
 Coleg apostol, chemat de Hristos la scurt timp înainte sau după Matei. Ambii au răspuns imediat chemării lui Hristos și și-au dedicat viața propovăduirii Evangheliei. Filip apare în Evanghelia lui Matei în lista celor doisprezece (Matei 10:3).
 
-### [[personalitati:bartolomeu|Sfântul Apostol Bartolomeu (Natanael)]]
+### [[personalitati/bartolomeu|Sfântul Apostol Bartolomeu (Natanael)]]
 Coleg apostol, menționat de Matei în lista celor doisprezece (Matei 10:3). Tradiția leagă pe Bartolomeu de Evanghelia lui Matei prin relatarea lui Eusebiu despre o copie a Evangheliei dusă de Bartolomeu în India.
 
-### [[personalitati:toma|Sfântul Apostol Toma]]
+### [[personalitati/toma|Sfântul Apostol Toma]]
 Coleg apostol, menționat în Evanghelia după Matei (10:3). Ca și Matei, Toma a predicat în regiuni îndepărtate — India — și a suferit mucenicia departe de Palestina. Amândoi au dat mărturie despre Hristos până la moarte.
 
 ### Apostolul Petru (murit c. 64-67 d.Hr.)
@@ -111,13 +111,13 @@ Chemarea lui Matei este una dintre cele mai puternice ilustrări ale harului dum
 Evanghelia după Matei este esențială pentru înțelegerea continuității dintre Vechiul și Noul Testament. Prin cele peste 60 de citări ale Profeților Vechi-Testamentari și formula „ca să se împlinească ce s-a zis prin proorocul...", Matei demonstrează că Hristos nu desființează Legea, ci o împlinește (Matei 5:17).
 
 ### Predica de pe Munte — constituția Împărăției
-Capitolele 5-7 din Evanghelia după Matei conțin Predica de pe Munte, considerată de Sfinții Părinți „constituția" Împărăției cerurilor. Fericirile, care deschid Predica, au devenit temelia spiritualității și eticii creștine ortodoxe. Hristos Se arată ca noul [[personalitati:moise|Moise]], dând Legea cea Nouă de pe munte, precum Moise a primit Legea pe Sinai.
+Capitolele 5-7 din Evanghelia după Matei conțin Predica de pe Munte, considerată de Sfinții Părinți „constituția" Împărăției cerurilor. Fericirile, care deschid Predica, au devenit temelia spiritualității și eticii creștine ortodoxe. Hristos Se arată ca noul [[personalitati/moise|Moise]], dând Legea cea Nouă de pe munte, precum Moise a primit Legea pe Sinai.
 
 ### Genealogia lui Hristos — teologia istoriei mântuirii
 Genealogia de la începutul Evangheliei (1:1-17) nu este un simplu registru genealogic, ci o teologie a istoriei mântuirii. Matei arată că întreaga istorie a lui Israel — de la Avraam prin David până la Robirea Babilonului — converge spre nașterea lui Hristos, împlinirea tuturor făgăduințelor.
 
 ### „Milă voiesc, iar nu jertfă" — teologia milei
-Cuvintele rostite de Hristos la ospățul din casa lui Matei — citând pe profetul [[personalitati:osea|Osea]] (6:6) — exprimă un principiu central al teologiei ortodoxe: Dumnezeu caută inima înfrântă și milostivă, nu ritualismul exterior. Această învățătură este fundamentală pentru înțelegerea pocăinței în tradiția ortodoxă.
+Cuvintele rostite de Hristos la ospățul din casa lui Matei — citând pe profetul [[personalitati/osea|Osea]] (6:6) — exprimă un principiu central al teologiei ortodoxe: Dumnezeu caută inima înfrântă și milostivă, nu ritualismul exterior. Această învățătură este fundamentală pentru înțelegerea pocăinței în tradiția ortodoxă.
 
 ### Marea poruncă misionară
 Ultimele versete ale Evangheliei (28:19-20) conțin porunca misionară adresată tuturor Apostolilor: „Mergând, învățați toate neamurile, botezându-le în numele Tatălui și al Fiului și al Sfântului Duh." Această formulă trinitară baptismală rămâne fundamentul Tainei Botezului în Biserica Ortodoxă.

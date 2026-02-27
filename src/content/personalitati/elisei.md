@@ -55,7 +55,7 @@ Hristos Însuși îl menționează pe Elisei: „Și mulți leproși erau în Is
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ilie|Sfântul Proroc Ilie Tesviteanul]]
+### [[personalitati/ilie|Sfântul Proroc Ilie Tesviteanul]]
 Învățătorul și părintele său duhovnicesc, care l-a chemat la slujirea profetică și de la care a primit îndoitul duh. Relația lor este modelul uceniciei profetice în Vechiul Testament.
 
 ### Ghehazi

@@ -7,7 +7,7 @@ order: 42
 
 ## Bio
 
-Sfântul Proroc Anania (în ebraică: חֲנַנְיָה, „Dumnezeu este milostiv"), redenumit Șadrac (Șadrak) de babilonieni, a fost unul dintre cei trei tineri iudei de neam nobil deportați în Babilon împreună cu [[personalitati:daniel|Profetul Daniel]] în prima deportare (605 î.Hr.). Împreună cu [[personalitati:azaria|Azaria]] (Abed-Nego) și Misail (Meșac), Anania a fost educat la curtea regelui Nebucadnețar, dar a refuzat să se spurce cu mâncarea și idolii babilonieni.
+Sfântul Proroc Anania (în ebraică: חֲנַנְיָה, „Dumnezeu este milostiv"), redenumit Șadrac (Șadrak) de babilonieni, a fost unul dintre cei trei tineri iudei de neam nobil deportați în Babilon împreună cu [[personalitati/daniel|Profetul Daniel]] în prima deportare (605 î.Hr.). Împreună cu [[personalitati/azaria|Azaria]] (Abed-Nego) și Misail (Meșac), Anania a fost educat la curtea regelui Nebucadnețar, dar a refuzat să se spurce cu mâncarea și idolii babilonieni.
 
 Episodul central al vieții sale este cuptorul de foc (Daniel 3): când Nebucadnețar a ridicat un chip de aur imens și a poruncit tuturor să i se închine, cei trei tineri au refuzat categoric. Aruncați în cuptorul încinit de șapte ori mai tare decât de obicei, ei au fost păziți de un al patrulea chip — „ca un fiu al zeilor" — și au ieșit nevătămați, fără ca măcar hainele lor să miroasă a foc.
 
@@ -43,10 +43,10 @@ Text deuterocanonic prezent în Septuaginta și în canonul ortodox, absent din 
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:daniel|Sfântul Proroc Daniel]]
+### [[personalitati/daniel|Sfântul Proroc Daniel]]
 Prietenul și tovarășul lor de deportare. Daniel nu este menționat în episodul cuptorului de foc — posibil era în altă parte a imperiului. Dar cei patru tineri formează un grup inseparabil de credință în exilul babilonian.
 
-### [[personalitati:azaria|Sfântul Proroc Azaria (Abed-Nego)]]
+### [[personalitati/azaria|Sfântul Proroc Azaria (Abed-Nego)]]
 Tovarăș în cuptorul de foc. Împreună cu Anania și Misail, formează triada tinereții credincioase care refuză compromisul cu idolatria.
 
 ### Misail (Meșac)
@@ -55,7 +55,7 @@ Al treilea tânăr din cuptor. Numele ebraic Mîšā'ēl înseamnă „Cine este
 ### Regele Nebucadnețar (605-562 î.Hr.)
 Cel care a poruncit închinarea la chipul de aur și aruncarea în cuptor, dar care, văzând minunea, mărturisește pe Dumnezeu: „Niciun alt dumnezeu nu poate să izbăvească în acest chip!" (Daniel 3:29).
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan. Ieremia a profețit distrugerea Ierusalimului și exilul, pe care tinerii l-au trăit direct. Credincioșia lor în exil împlinește chemarea lui Ieremia la perseverență în credință.
 
 ## Versete cheie

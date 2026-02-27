@@ -60,13 +60,13 @@ Referința istorică la activitatea profetică a lui Iona în Israel, confirmân
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:avdie|Profetul Avdie]]
+### [[personalitati/avdie|Profetul Avdie]]
 Ambii profeți sunt trimiși cu un mesaj adresat neamurilor, nu lui Israel. Avdie vestește judecata asupra Edomului, iar Iona asupra Ninivei. Împreună, ei arată că suveranitatea lui Dumnezeu se extinde asupra tuturor popoarelor.
 
-### [[personalitati:naum|Profetul Naum]] (sec. VII î.Hr.)
+### [[personalitati/naum|Profetul Naum]] (sec. VII î.Hr.)
 Naum profețește distrugerea Ninivei la aproximativ un secol după Iona. Dacă ninivitenii lui Iona s-au pocăit și au fost cruțați, generațiile următoare au revenit la păcat, iar judecata vestită de Naum s-a împlinit în 612 î.Hr. Cei doi profeți formează o pereche complementară: milă și judecată.
 
-### [[personalitati:miheia|Profetul Miheia]] (sec. VIII î.Hr.)
+### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan cu Iona, Miheia a profețit în Iuda în aceeași perioadă. Ambii profeți vestesc suveranitatea universală a lui Dumnezeu — Miheia prezicând nașterea Mesiei în Betleem, iar Iona demonstrând mila lui Dumnezeu față de păgâni.
 
 ### Regele Ieroboam al II-lea (793-753 î.Hr.)

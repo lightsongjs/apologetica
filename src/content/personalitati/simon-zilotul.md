@@ -13,7 +13,7 @@ Supranumele său indică fie că a fost membru al mișcării Zeloților — o fa
 
 O tradiție ortodoxă importantă identifică pe Simon Zilotul cu mirele de la Nunta din Cana Galileii (Ioan 2:1-11), unde Hristos a săvârșit prima Sa minune, prefăcând apa în vin. Potrivit acestei tradiții, Simon, uimit de minune, a lăsat totul și L-a urmat pe Hristos. Această identificare explică și supranumele „Zilotul" — din momentul în care a văzut puterea lui Hristos, a ars de zel pentru Evanghelie.
 
-După Cincizecime, Simon a propovăduit Evanghelia în Egipt, Africa de Nord, Mauritania și Britania, conform diverselor tradiții. Tradiția cea mai răspândită în Ortodoxie spune că a predicat apoi în Persia, unde a suferit mucenicia împreună cu [[personalitati:iuda-tadeu|Sfântul Apostol Iuda Tadeu]], fiind tăiat cu fierăstrăul. Biserica Ortodoxă îl prăznuiește pe 10 mai.
+După Cincizecime, Simon a propovăduit Evanghelia în Egipt, Africa de Nord, Mauritania și Britania, conform diverselor tradiții. Tradiția cea mai răspândită în Ortodoxie spune că a predicat apoi în Persia, unde a suferit mucenicia împreună cu [[personalitati/iuda-tadeu|Sfântul Apostol Iuda Tadeu]], fiind tăiat cu fierăstrăul. Biserica Ortodoxă îl prăznuiește pe 10 mai.
 
 ## Timeline
 
@@ -24,7 +24,7 @@ Simon trăiește în Galileea sau Iudeea, fie ca membru al mișcării Zeloților
 Conform tradiției ortodoxe, Simon este mirele la nunta unde Hristos săvârșește prima minune. Maica Domnului îi spune lui Iisus „Nu mai au vin", iar Hristos preface apa în vin. Cutremurat de această minune, Simon hotărăște să-L urmeze pe Hristos.
 
 ### Chemarea în ceata Apostolilor (c. 30 d.Hr.)
-Este ales de Hristos între cei doisprezece Apostoli. Apare în toate cele patru liste apostolice din Noul Testament (Matei 10:4; Marcu 3:18; Luca 6:15; Faptele Apostolilor 1:13), de obicei alături de [[personalitati:iuda-tadeu|Iuda Tadeu]].
+Este ales de Hristos între cei doisprezece Apostoli. Apare în toate cele patru liste apostolice din Noul Testament (Matei 10:4; Marcu 3:18; Luca 6:15; Faptele Apostolilor 1:13), de obicei alături de [[personalitati/iuda-tadeu|Iuda Tadeu]].
 
 ### Propovăduirea alături de Hristos (c. 30-33 d.Hr.)
 Participă la viața publică a Mântuitorului, la minunile Sale, la Patimile, Învierea și Înălțarea Domnului. Este prezent în foișorul de sus la Pogorârea Duhului Sfânt (Faptele Apostolilor 1:13).
@@ -36,10 +36,10 @@ Primește Duhul Sfânt în ziua Cincizecimii și începe propovăduirea Evanghel
 Tradiția consemnează că Simon a propovăduit în Egipt, Cirenaica și Mauritania, aducând la credința în Hristos mulți dintre locuitorii acestor ținuturi. Unele tradiții menționează și o misiune în Britania.
 
 ### Misiunea în Persia (c. 60-70 d.Hr.)
-Simon se deplasează în Persia (Imperiul Part), unde se întâlnește cu [[personalitati:iuda-tadeu|Apostolul Iuda Tadeu]]. Cei doi propovăduiesc împreună Evanghelia, convertind mulți persani la credința creștină și înfruntând pe vrăjitorii Zaroes și Arfaxat.
+Simon se deplasează în Persia (Imperiul Part), unde se întâlnește cu [[personalitati/iuda-tadeu|Apostolul Iuda Tadeu]]. Cei doi propovăduiesc împreună Evanghelia, convertind mulți persani la credința creștină și înfruntând pe vrăjitorii Zaroes și Arfaxat.
 
 ### Mucenicia în Persia (c. 65-70 d.Hr.)
-Împreună cu [[personalitati:iuda-tadeu|Iuda Tadeu]], Simon suferă mucenicia în Persia. Conform tradiției cele mai răspândite, Simon a fost tăiat cu fierăstrăul, iar Iuda Tadeu a fost ucis cu toporul. Cei doi sunt prăznuiți adesea împreună în calendarul liturgic.
+Împreună cu [[personalitati/iuda-tadeu|Iuda Tadeu]], Simon suferă mucenicia în Persia. Conform tradiției cele mai răspândite, Simon a fost tăiat cu fierăstrăul, iar Iuda Tadeu a fost ucis cu toporul. Cei doi sunt prăznuiți adesea împreună în calendarul liturgic.
 
 ## Surse și scrieri
 
@@ -63,13 +63,13 @@ Conține slujba Sfântului Simon Zilotul cu tropare, condac și canon, celebrân
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:iuda-tadeu|Sfântul Apostol Iuda Tadeu]]
+### [[personalitati/iuda-tadeu|Sfântul Apostol Iuda Tadeu]]
 Cel mai apropiat tovarăș apostolic al lui Simon. Cei doi apar alături în listele apostolice și, conform tradiției, au propovăduit și au suferit mucenicia împreună în Persia. Legătura lor spirituală este celebrată în calendarul liturgic, unde sunt adesea pomeniți în aceeași zi.
 
-### [[personalitati:iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]]
+### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]]
 Contemporan apostolic și, conform unor tradiții, rudă a Domnului. Iacob a condus Biserica din Ierusalim ca prim episcop, iar Simon a fost parte a comunității apostolice de acolo înainte de plecarea în misiune. Unele tradiții îl identifică pe Simon Zilotul cu Simon, fiul lui Cleopa, care i-a succedat lui Iacob ca episcop al Ierusalimului.
 
-### [[personalitati:matia|Sfântul Apostol Matia]]
+### [[personalitati/matia|Sfântul Apostol Matia]]
 Coleg apostol, ales prin sorți după Înălțarea Domnului. Matia a fost martor al acelorași evenimente ca și Simon, din botezul lui Ioan până la Înălțare, și a făcut parte din aceeași comunitate apostolică din Ierusalim.
 
 ### Maica Domnului
@@ -104,7 +104,7 @@ Identificarea lui Simon cu mirele de la Cana leagă viața sa de prima minune a 
 Propovăduirea lui Simon în Egipt, Africa de Nord, Britania și Persia demonstrează caracterul universal al misiunii apostolice. Evanghelia nu a fost destinată doar iudeilor sau doar lumii greco-romane, ci „până la marginile pământului" (Faptele Apostolilor 1:8).
 
 ### Mărturia comună și mucenicia
-Mucenicia sa împreună cu [[personalitati:iuda-tadeu|Iuda Tadeu]] în Persia ilustrează principiul evanghelic al mărturiei comune: „Unde sunt doi sau trei adunați în numele Meu, acolo sunt și Eu în mijlocul lor" (Matei 18:20). Apostolii nu au propovăduit în izolare, ci în comuniune frățească.
+Mucenicia sa împreună cu [[personalitati/iuda-tadeu|Iuda Tadeu]] în Persia ilustrează principiul evanghelic al mărturiei comune: „Unde sunt doi sau trei adunați în numele Meu, acolo sunt și Eu în mijlocul lor" (Matei 18:20). Apostolii nu au propovăduit în izolare, ci în comuniune frățească.
 
 ### Prezență apostolică în Persia
 Misiunea lui Simon și a lui Iuda Tadeu în Persia a pus bazele creștinismului persan, care va deveni Biserica Răsăritului. Această tradiție apostolică demonstrează că prezența creștină în Iran și Mesopotamia nu este o „importare" occidentală, ci datează din epoca apostolică.

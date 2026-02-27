@@ -21,15 +21,15 @@ Regele David a cucerit cetatea iebusită și a făcut-o capitala regatului unit 
 
 ### Construirea Templului de către Solomon (cca. 960 î.Hr.)
 
-[[personalitati:samuel|Samuel]] a uns pe David rege, iar fiul acestuia, Solomon, a ridicat Templul Domnului pe Muntele Moria, locul unde Avraam fusese gata să-l jertfească pe Isaac. Templul a devenit centrul cultului și al prezenței divine, locul unde slava lui Dumnezeu cobora în chip de nor.
+[[personalitati/samuel|Samuel]] a uns pe David rege, iar fiul acestuia, Solomon, a ridicat Templul Domnului pe Muntele Moria, locul unde Avraam fusese gata să-l jertfească pe Isaac. Templul a devenit centrul cultului și al prezenței divine, locul unde slava lui Dumnezeu cobora în chip de nor.
 
 ### Distrugerea Primului Templu (586 î.Hr.)
 
-Profetul [[personalitati:ieremia|Ieremia]] a avertizat poporul despre distrugerea ce va veni din cauza necredinței și a idolatriei. Babilonienii, conduși de Nabucodonosor, au distrus Templul și au dus poporul în robie. Plângerile lui Ieremia descriu durerea pierderii cetății sfinte.
+Profetul [[personalitati/ieremia|Ieremia]] a avertizat poporul despre distrugerea ce va veni din cauza necredinței și a idolatriei. Babilonienii, conduși de Nabucodonosor, au distrus Templul și au dus poporul în robie. Plângerile lui Ieremia descriu durerea pierderii cetății sfinte.
 
 ### Reconstruirea și Al Doilea Templu (516 î.Hr.)
 
-După întoarcerea din robia babiloniană, sub conducerea lui Zorobabel și cu îndemnul profeților [[personalitati:agheu|Agheu]] și [[personalitati:zaharia|Zaharia]], Templul a fost reconstruit. Deși mai modest decât cel al lui Solomon, acest al doilea Templu a reprezentat restaurarea legăturii dintre Dumnezeu și poporul Său.
+După întoarcerea din robia babiloniană, sub conducerea lui Zorobabel și cu îndemnul profeților [[personalitati/agheu|Agheu]] și [[personalitati/zaharia|Zaharia]], Templul a fost reconstruit. Deși mai modest decât cel al lui Solomon, acest al doilea Templu a reprezentat restaurarea legăturii dintre Dumnezeu și poporul Său.
 
 ### Intrarea Domnului în Ierusalim (Duminica Floriilor)
 
@@ -45,7 +45,7 @@ Din Sfântul Mormânt, aflat în Ierusalim, Hristos a înviat a treia zi, biruin
 
 ### Cincizecimea — Pogorârea Sfântului Duh
 
-La cincizeci de zile după Înviere, în Ierusalim, Duhul Sfânt S-a pogorât asupra Apostolilor sub formă de limbi de foc. [[personalitati:petru|Apostolul Petru]] a rostit prima predică creștină, iar trei mii de suflete s-au botezat în acea zi. Astfel, Ierusalimul este locul nașterii Bisericii.
+La cincizeci de zile după Înviere, în Ierusalim, Duhul Sfânt S-a pogorât asupra Apostolilor sub formă de limbi de foc. [[personalitati/petru|Apostolul Petru]] a rostit prima predică creștină, iar trei mii de suflete s-au botezat în acea zi. Astfel, Ierusalimul este locul nașterii Bisericii.
 
 ## Surse scripturistice
 
@@ -59,49 +59,49 @@ Solomon zidește Templul Domnului în Ierusalim, după planul arătat de Dumneze
 
 ### Isaia 2:2-4
 
-Profetul [[personalitati:isaia|Isaia]] vestește că „în zilele cele de apoi, muntele Casei Domnului va fi întărit peste toate munțile", iar neamurile vor veni la Ierusalim să învețe căile Domnului.
+Profetul [[personalitati/isaia|Isaia]] vestește că „în zilele cele de apoi, muntele Casei Domnului va fi întărit peste toate munțile", iar neamurile vor veni la Ierusalim să învețe căile Domnului.
 
 ### Ieremia 7:1-15
 
-[[personalitati:ieremia|Ieremia]] avertizează poporul că Templul nu le este garanție de siguranță dacă nu se pocăiesc și nu se întorc la Dumnezeu cu inima.
+[[personalitati/ieremia|Ieremia]] avertizează poporul că Templul nu le este garanție de siguranță dacă nu se pocăiesc și nu se întorc la Dumnezeu cu inima.
 
 ### Iezechiel 37:26-28
 
-Profetul [[personalitati:iezechiel|Iezechiel]] vestește refacerea Ierusalimului și prezența veșnică a lui Dumnezeu în mijlocul poporului Său.
+Profetul [[personalitati/iezechiel|Iezechiel]] vestește refacerea Ierusalimului și prezența veșnică a lui Dumnezeu în mijlocul poporului Său.
 
 ### Zaharia 9:9
 
-[[personalitati:zaharia|Zaharia]] profețește intrarea Mesiei în Ierusalim: „Bucură-te foarte, fiica Sionului! Împăratul tău vine la tine drept și biruitor, smerit și călare pe asin."
+[[personalitati/zaharia|Zaharia]] profețește intrarea Mesiei în Ierusalim: „Bucură-te foarte, fiica Sionului! Împăratul tău vine la tine drept și biruitor, smerit și călare pe asin."
 
 ### Fapte 2:1-41
 
-Pogorârea Duhului Sfânt în ziua Cincizecimii și nașterea Bisericii prin predica [[personalitati:petru|Sfântului Apostol Petru]] în Ierusalim.
+Pogorârea Duhului Sfânt în ziua Cincizecimii și nașterea Bisericii prin predica [[personalitati/petru|Sfântului Apostol Petru]] în Ierusalim.
 
 ## Personalități legate de acest loc
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 
 Apostolul Petru a fost martor al Patimilor, Învierii și Înălțării Domnului în Ierusalim. El a condus prima comunitate creștină din Ierusalim și a rostit prima predică apostolică în ziua Cincizecimii.
 
-### [[personalitati:pavel|Sfântul Apostol Pavel]]
+### [[personalitati/pavel|Sfântul Apostol Pavel]]
 
 Pavel a venit la Ierusalim pentru Sinodul Apostolic (cca. 49 d.Hr.) și a fost arestat în Templu. Experiența sa în Ierusalim a marcat profund misiunea sa către neamuri.
 
-### [[personalitati:iacob-zebedeu|Sfântul Apostol Iacob, fiul lui Zevedeu]]
+### [[personalitati/iacob-zebedeu|Sfântul Apostol Iacob, fiul lui Zevedeu]]
 
 Iacob a fost primul apostol martirizat, fiind ucis de Irod Agripa I în Ierusalim (Fapte 12:2), devenind astfel primul martir dintre cei doisprezece.
 
-### [[personalitati:isaia|Sfântul Profet Isaia]]
+### [[personalitati/isaia|Sfântul Profet Isaia]]
 
 Isaia a prorocit în Ierusalim în timpul regilor Ozia, Iotam, Ahaz și Iezechia, vestind atât judecata asupra cetății, cât și slava ei viitoare ca centru al mântuirii universale.
 
-### [[personalitati:ieremia|Sfântul Profet Ieremia]]
+### [[personalitati/ieremia|Sfântul Profet Ieremia]]
 
 Ieremia a plâns pentru Ierusalim și a avertizat poporul despre distrugerea ce avea să vină. Plângerile sale rămân una dintre cele mai profunde expresii ale durerii pentru cetatea sfântă pierdută.
 
-### [[personalitati:daniel|Sfântul Profet Daniel]]
+### [[personalitati/daniel|Sfântul Profet Daniel]]
 
-[[personalitati:daniel|Daniel]], deși dus în robie la Babilon, se ruga întors spre Ierusalim de trei ori pe zi. Profeția sa despre cele „șaptezeci de săptămâni" (Daniel 9:24-27) vestește venirea lui Mesia în Ierusalim.
+[[personalitati/daniel|Daniel]], deși dus în robie la Babilon, se ruga întors spre Ierusalim de trei ori pe zi. Profeția sa despre cele „șaptezeci de săptămâni" (Daniel 9:24-27) vestește venirea lui Mesia în Ierusalim.
 
 ## Versete cheie
 

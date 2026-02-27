@@ -63,19 +63,19 @@ Poporul spune că este zadarnic să slujești lui Dumnezeu. Dumnezeu răspunde c
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ilie|Sfântul Proroc Ilie Tesviteanul]] (sec. IX î.Hr.)
+### [[personalitati/ilie|Sfântul Proroc Ilie Tesviteanul]] (sec. IX î.Hr.)
 Deși au trăit la secole distanță, Maleahi și Ilie sunt legați prin profeția finală a Vechiului Testament: „Iată, Eu vă trimit pe Ilie proorocul" (3:23/4:5). Maleahi vestește revenirea lui Ilie înainte de Ziua Domnului, iar Hristos confirmă că această profeție s-a împlinit parțial în Sfântul Ioan Botezătorul (Matei 11:14, 17:12) și se va împlini deplin înainte de a Doua Venire.
 
-### [[personalitati:agheu|Profetul Agheu]] (sec. VI î.Hr.)
+### [[personalitati/agheu|Profetul Agheu]] (sec. VI î.Hr.)
 Agheu profetizase reconstrucția Templului cu aproape un secol înainte, promițând că „slava acestui din urmă Templu va fi mai mare decât a celui dintâi" (Agheu 2:9). Maleahi, profetizând în Templul deja reconstruit, vestește că în acest Templu va veni „Solul Legământului" — împlinind promisiunea lui Agheu.
 
-### [[personalitati:zaharia|Profetul Zaharia]] (sec. VI î.Hr.)
+### [[personalitati/zaharia|Profetul Zaharia]] (sec. VI î.Hr.)
 Contemporanul lui Agheu, care a profetizat cu un secol înainte de Maleahi. Profețiile mesianice ale lui Zaharia (regele pe asin, cele 30 de arginți, cel străpuns) și cele ale lui Maleahi (Solul Legământului, Ilie) se completează reciproc, formând împreună imaginea cea mai detaliată a venirii lui Mesia din profeții minori.
 
 ### Neemia (guvernatorul lui Iuda, sec. V î.Hr.)
 Contemporan cu Maleahi, Neemia s-a confruntat cu aceleași probleme: căsătoriile mixte, neglijarea zeciuielilor, profanarea Sabatului. Reformele sale administrative completează mesajul profetic al lui Maleahi.
 
-### [[personalitati:ioil|Profetul Ioil]] (datare incertă)
+### [[personalitati/ioil|Profetul Ioil]] (datare incertă)
 Dacă Ioil este datat în perioada post-exilică, ar fi un contemporan apropiat al lui Maleahi. Amândoi profețesc despre „Ziua Domnului" și despre pregătirea pentru venirea ei. Ioil vestește revărsarea Duhului Sfânt, iar Maleahi vestește trimiterea lui Ilie — ambele profeții pregătesc calea Noului Legământ.
 
 ### Ezdra scribul (sec. V î.Hr.)

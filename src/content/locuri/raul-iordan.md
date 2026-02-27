@@ -11,25 +11,25 @@ Râul Iordan este cel mai important curs de apă din istoria biblică și din vi
 
 Din perspectivă ortodoxă, Iordanul este legat în primul rând de Botezul Domnului — Teofania (Boboteaza), una dintre cele mai mari sărbători ale Bisericii. Când Hristos a intrat în apele Iordanului pentru a fi botezat de Ioan, nu apele l-au sfințit pe El, ci El a sfințit apele. Sfântul Ioan Gură de Aur explică: „Hristos nu S-a botezat pentru că avea nevoie de curățire, ci pentru a sfinti apele și a deschide calea Botezului pentru noi toți." La Bobotează, în toate bisericile ortodoxe se sfințește apa, în amintirea sfințirii Iordanului.
 
-Dar istoria sfântă a Iordanului începe cu mult înainte de Botezul Domnului. Sub conducerea lui [[personalitati:iisus-navi|Iisus Navi]], poporul Israel a traversat miraculos Iordanul pe uscat, intrând în Pământul Făgăduinței. [[personalitati:ilie|Profetul Ilie]] a despărțit apele Iordanului cu cojocul său, iar [[personalitati:elisei|Profetul Elisei]] a repetat această minune și l-a vindecat pe Neeman Sirianul de lepră în aceleași ape. Toate aceste evenimente sunt văzute de Sfinții Părinți ca prefigurări ale Botezului creștin.
+Dar istoria sfântă a Iordanului începe cu mult înainte de Botezul Domnului. Sub conducerea lui [[personalitati/iisus-navi|Iisus Navi]], poporul Israel a traversat miraculos Iordanul pe uscat, intrând în Pământul Făgăduinței. [[personalitati/ilie|Profetul Ilie]] a despărțit apele Iordanului cu cojocul său, iar [[personalitati/elisei|Profetul Elisei]] a repetat această minune și l-a vindecat pe Neeman Sirianul de lepră în aceleași ape. Toate aceste evenimente sunt văzute de Sfinții Părinți ca prefigurări ale Botezului creștin.
 
 ## Evenimente biblice
 
 ### Traversarea Iordanului sub Iisus Navi (cca. 1400 î.Hr.)
 
-[[personalitati:iisus-navi|Iisus Navi]], succesorul lui Moise, a condus poporul Israel prin Iordan pe uscat. Preoții care purtau Chivotul Legământului au pășit în apă, iar râul s-a oprit din curs, ridicându-se „ca un perete" (Iosua 3:16). Poporul a traversat pe uscat, iar din albia râului au fost luate douăsprezece pietre ca memorial. Sfinții Părinți văd în această trecere un prototip al Botezului creștin — trecerea din robia păcatului în libertatea Pământului Făgăduinței duhovnicești.
+[[personalitati/iisus-navi|Iisus Navi]], succesorul lui Moise, a condus poporul Israel prin Iordan pe uscat. Preoții care purtau Chivotul Legământului au pășit în apă, iar râul s-a oprit din curs, ridicându-se „ca un perete" (Iosua 3:16). Poporul a traversat pe uscat, iar din albia râului au fost luate douăsprezece pietre ca memorial. Sfinții Părinți văd în această trecere un prototip al Botezului creștin — trecerea din robia păcatului în libertatea Pământului Făgăduinței duhovnicești.
 
 ### Ilie desparte apele Iordanului (cca. 850 î.Hr.)
 
-Înainte de răpirea sa la cer, [[personalitati:ilie|Profetul Ilie]] a lovit apele Iordanului cu cojocul său, iar acestea s-au despărțit, permițându-le lui și lui Elisei să treacă pe uscat (4 Regi 2:8). Acest act de putere profetică reafirmă sfințenia apelor Iordanului și prefigurează puterea harului divin asupra naturii.
+Înainte de răpirea sa la cer, [[personalitati/ilie|Profetul Ilie]] a lovit apele Iordanului cu cojocul său, iar acestea s-au despărțit, permițându-le lui și lui Elisei să treacă pe uscat (4 Regi 2:8). Acest act de putere profetică reafirmă sfințenia apelor Iordanului și prefigurează puterea harului divin asupra naturii.
 
 ### Elisei desparte apele și vindecă pe Neeman (cca. 850-840 î.Hr.)
 
-După răpirea lui Ilie, [[personalitati:elisei|Profetul Elisei]] a lovit și el apele Iordanului cu cojocul lui Ilie, zicând: „Unde este Domnul Dumnezeul lui Ilie?" — și apele s-au despărțit (4 Regi 2:14). Mai târziu, Elisei l-a trimis pe Neeman, comandantul armatei siriene, bolnav de lepră, să se scufunde de șapte ori în Iordan. Neeman s-a supus, „și trupul lui s-a curățit ca trupul unui copil mic" (4 Regi 5:14). Sfinții Părinți văd în vindecarea lui Neeman o prefigurare clară a Botezului — curățirea de lepra păcatului prin scufundarea în apă sfințită.
+După răpirea lui Ilie, [[personalitati/elisei|Profetul Elisei]] a lovit și el apele Iordanului cu cojocul lui Ilie, zicând: „Unde este Domnul Dumnezeul lui Ilie?" — și apele s-au despărțit (4 Regi 2:14). Mai târziu, Elisei l-a trimis pe Neeman, comandantul armatei siriene, bolnav de lepră, să se scufunde de șapte ori în Iordan. Neeman s-a supus, „și trupul lui s-a curățit ca trupul unui copil mic" (4 Regi 5:14). Sfinții Părinți văd în vindecarea lui Neeman o prefigurare clară a Botezului — curățirea de lepra păcatului prin scufundarea în apă sfințită.
 
 ### Securea de fier plutitoare (cca. 840 î.Hr.)
 
-Tot la Iordan, [[personalitati:elisei|Elisei]] a făcut minunea securii de fier care a plutit la suprafața apei (4 Regi 6:1-7), arătând că puterea lui Dumnezeu schimbă legile naturii pentru cei credincioși.
+Tot la Iordan, [[personalitati/elisei|Elisei]] a făcut minunea securii de fier care a plutit la suprafața apei (4 Regi 6:1-7), arătând că puterea lui Dumnezeu schimbă legile naturii pentru cei credincioși.
 
 ### Botezul Domnului — Teofania (cca. 30 d.Hr.)
 
@@ -43,15 +43,15 @@ Sfântul Ioan Botezătorul, Înaintemergătorul Domnului, a predicat și a botez
 
 ### Iosua 3:14-17
 
-Traversarea miraculoasă a Iordanului de către poporul Israel sub conducerea lui [[personalitati:iisus-navi|Iisus Navi]], cu oprirea apelor în fața Chivotului Legământului.
+Traversarea miraculoasă a Iordanului de către poporul Israel sub conducerea lui [[personalitati/iisus-navi|Iisus Navi]], cu oprirea apelor în fața Chivotului Legământului.
 
 ### 4 Regi 2:6-14
 
-[[personalitati:ilie|Ilie]] și apoi [[personalitati:elisei|Elisei]] despart apele Iordanului cu cojocul profetic — manifestare a puterii lui Dumnezeu transmisă prin slujitorii Săi.
+[[personalitati/ilie|Ilie]] și apoi [[personalitati/elisei|Elisei]] despart apele Iordanului cu cojocul profetic — manifestare a puterii lui Dumnezeu transmisă prin slujitorii Săi.
 
 ### 4 Regi 5:1-14
 
-Vindecarea lui Neeman Sirianul de lepră prin scufundarea de șapte ori în Iordan, la porunca profetului [[personalitati:elisei|Elisei]].
+Vindecarea lui Neeman Sirianul de lepră prin scufundarea de șapte ori în Iordan, la porunca profetului [[personalitati/elisei|Elisei]].
 
 ### Matei 3:13-17
 
@@ -67,15 +67,15 @@ Sfântul Evanghelist Luca adaugă că Iisus Se ruga în momentul Botezului, iar 
 
 ## Personalități legate de acest loc
 
-### [[personalitati:iisus-navi|Sfântul Iisus Navi]]
+### [[personalitati/iisus-navi|Sfântul Iisus Navi]]
 
 Iisus Navi (Iosua) a condus poporul Israel prin Iordan pe uscat, repetând minunea trecerii Mării Roșii sub Moise. Sfinții Părinți văd în numele și faptele lui Iisus Navi o prefigurare a lui Iisus Hristos — precum Iisus Navi a condus poporul prin Iordan în Pământul Făgăduinței, tot astfel Hristos, prin Botez, ne conduce în Împărăția Cerurilor.
 
-### [[personalitati:ilie|Sfântul Profet Ilie]]
+### [[personalitati/ilie|Sfântul Profet Ilie]]
 
 Ilie Tesviteanul a despărțit apele Iordanului cu cojocul său, iar de pe malul Iordanului a fost răpit la cer într-un car de foc. Prezența sa la Iordan leagă acest loc de cele mai puternice manifestări ale puterii profetice din Vechiul Testament.
 
-### [[personalitati:elisei|Sfântul Profet Elisei]]
+### [[personalitati/elisei|Sfântul Profet Elisei]]
 
 Elisei, ucenicul lui Ilie, a primit duhul îndoit al învățătorului său la Iordan. Aici a despărțit apele, a vindecat pe Neeman de lepră și a făcut securea de fier să plutească. Minunile sale la Iordan sunt considerate de Sfinții Părinți ca prefigurări ale Tainei Botezului.
 

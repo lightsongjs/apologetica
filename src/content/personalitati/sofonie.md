@@ -45,19 +45,19 @@ După judecată, Sofonie vestește restaurarea Ierusalimului și bucuria lui Dum
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan cu Sofonie, chemat la profeție în anul 627 î.Hr. Amândoi au predicat în Iuda în timpul domniei lui Iosia, vestind judecata lui Dumnezeu și chemând poporul la pocăință.
 
-### [[personalitati:avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
+### [[personalitati/avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
 Contemporan cu Sofonie și Ieremia. A pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Avacum 2:4).
 
 ### Regele Iosia (640-609 î.Hr.)
 Ultimul rege drept al lui Iuda, sub a cărui domnie Sofonie a profețit. Reforma religioasă a lui Iosia poate fi văzută ca un răspuns la mesajul profeților din timpul său, inclusiv Sofonie.
 
-### [[personalitati:isaia|Profetul Isaia]] (sec. VIII î.Hr.)
+### [[personalitati/isaia|Profetul Isaia]] (sec. VIII î.Hr.)
 Strămoșul spiritual al lui Sofonie. Isaia a profețit cu un secol mai devreme, dar tema „Zilei Domnului" și a judecății urmate de restaurare este comună ambilor profeți.
 
-### [[personalitati:naum|Profetul Naum]] (sec. VII î.Hr.)
+### [[personalitati/naum|Profetul Naum]] (sec. VII î.Hr.)
 Contemporan cu Sofonie, Naum profețește și el distrugerea Ninivei și a Imperiului Asirian. Amândoi au trăit în perioada de declin a Asiriei și au vestit judecata lui Dumnezeu asupra neamurilor opresoarelor.
 
 ## Versete cheie din epistolele sale

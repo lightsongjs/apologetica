@@ -11,7 +11,7 @@ Muntele Moria este una dintre colinele pe care se află Ierusalimul, identificat
 
 În teologia ortodoxă, Muntele Moria concentrează în sine două dintre cele mai importante teme ale întregii Scripturi: jertfa și templul. Jertfa lui Isaac (Akeda) este interpretată unanim de Sfinții Părinți ca prefigurare a Jertfei lui Hristos pe Cruce: precum Avraam și-a adus fiul la jertfă, astfel Dumnezeu Tatăl L-a dat pe Fiul Său Unul-Născut pentru mântuirea lumii. Iar Templul lui Solomon, zidit pe acest munte, este prototipul tuturor lăcașurilor de cult creștine — locul prezenței lui Dumnezeu în mijlocul poporului Său. Distrugerea Templului, profețită de Domnul Iisus Hristos (Matei 24:2), marchează trecerea de la cultul vechi la cel nou, de la jertfele de animale la Jertfa unică și veșnică a Mielului lui Dumnezeu.
 
-Muntele Moria este, de asemenea, legat de viziunile prorocilor: [[personalitati:isaia|Isaia]] a prorocit despre „muntele Casei Domnului" care se va ridica deasupra tuturor munților (Isaia 2:2-3), [[personalitati:ieremia|Ieremia]] a plâns distrugerea Templului, iar [[personalitati:daniel|Daniel]] a profețit despre venirea „Unsului" și despre distrugerea cetății și a locului sfânt (Daniel 9:24-26). Pentru creștinii ortodocși, toate aceste prorocii s-au împlinit în Hristos, Care este Templul cel adevărat (Ioan 2:19-21).
+Muntele Moria este, de asemenea, legat de viziunile prorocilor: [[personalitati/isaia|Isaia]] a prorocit despre „muntele Casei Domnului" care se va ridica deasupra tuturor munților (Isaia 2:2-3), [[personalitati/ieremia|Ieremia]] a plâns distrugerea Templului, iar [[personalitati/daniel|Daniel]] a profețit despre venirea „Unsului" și despre distrugerea cetății și a locului sfânt (Daniel 9:24-26). Pentru creștinii ortodocși, toate aceste prorocii s-au împlinit în Hristos, Care este Templul cel adevărat (Ioan 2:19-21).
 
 ## Evenimente biblice
 
@@ -25,7 +25,7 @@ Regele Solomon a zidit Templul Domnului pe Muntele Moria, pe locul pe care David
 
 ### Prorociile despre Templu și distrugerea sa
 
-[[personalitati:ieremia|Prorocul Ieremia]] a avertizat poporul că Templul nu era un talisman de protecție automată: „Nu vă puneți nădejdea în cuvinte mincinoase, zicând: «Templul Domnului, Templul Domnului, Templul Domnului este acesta!»" (Ieremia 7:4). [[personalitati:iezechiel|Prorocul Iezechiel]] a avut viziunea slavei lui Dumnezeu părăsind Templul (Iezechiel 10:18-19), iar [[personalitati:daniel|Prorocul Daniel]] a profețit distrugerea cetății și a locului sfânt (Daniel 9:26). Primul Templu a fost distrus de Nabucodonosor în 586 î.Hr., al doilea Templu a fost reconstruit sub Zorobabel și extins de Irod cel Mare, iar apoi distrus definitiv de romani în anul 70 d.Hr., împlinind prorocia Mântuitorului: „Nu va rămâne aici piatră pe piatră care să nu se risipească" (Matei 24:2).
+[[personalitati/ieremia|Prorocul Ieremia]] a avertizat poporul că Templul nu era un talisman de protecție automată: „Nu vă puneți nădejdea în cuvinte mincinoase, zicând: «Templul Domnului, Templul Domnului, Templul Domnului este acesta!»" (Ieremia 7:4). [[personalitati/iezechiel|Prorocul Iezechiel]] a avut viziunea slavei lui Dumnezeu părăsind Templul (Iezechiel 10:18-19), iar [[personalitati/daniel|Prorocul Daniel]] a profețit distrugerea cetății și a locului sfânt (Daniel 9:26). Primul Templu a fost distrus de Nabucodonosor în 586 î.Hr., al doilea Templu a fost reconstruit sub Zorobabel și extins de Irod cel Mare, iar apoi distrus definitiv de romani în anul 70 d.Hr., împlinind prorocia Mântuitorului: „Nu va rămâne aici piatră pe piatră care să nu se risipească" (Matei 24:2).
 
 ### Curățirea Templului de către Mântuitorul
 
@@ -47,13 +47,13 @@ Prorocia celor șaptezeci de săptămâni, care vestește venirea „Unsului" (M
 
 ## Personalități legate de acest loc
 
-### [[personalitati:daniel|Sfântul Proroc Daniel]]
+### [[personalitati/daniel|Sfântul Proroc Daniel]]
 Daniel a profețit în mod explicit despre soarta Muntelui Moria și a Templului. Prorocia celor șaptezeci de săptămâni (Daniel 9) a fost interpretată de Sfinții Părinți ca o cronologie mesianică precisă, vestind venirea lui Hristos și sfârșitul cultului veterotestamentar. Daniel, deși în robie la Babilon, se ruga cu fața spre Ierusalim și spre Templu (Daniel 6:10), mărturisind legătura indisolubilă a omului credincios cu locul prezenței lui Dumnezeu. Biserica îl prăznuiește pe 17 decembrie.
 
-### [[personalitati:isaia|Sfântul Proroc Isaia]]
+### [[personalitati/isaia|Sfântul Proroc Isaia]]
 Isaia, „evanghelistul Vechiului Testament", a avut viziunea slavei lui Dumnezeu în Templu: „Am văzut pe Domnul stând pe un tron înalt și ridicat, și poalele hainelor Lui umpleau Templul" (Isaia 6:1). Tot el a profețit că Muntele Casei Domnului se va ridica deasupra tuturor munților și toate neamurile vor veni la el (Isaia 2:2-3). Aceste viziuni au fost împlinite prin Biserica lui Hristos, noul Templu duhovnicesc. Biserica îl prăznuiește pe 9 mai.
 
-### [[personalitati:ieremia|Sfântul Proroc Ieremia]]
+### [[personalitati/ieremia|Sfântul Proroc Ieremia]]
 Ieremia, „prorocul lacrimilor", a trăit drama distrugerii primului Templu de către Nabucodonosor și a fost martorul căderii Ierusalimului. El a avertizat poporul că prezența Templului nu garantează protecție divină fără pocăință și dreptate (Ieremia 7:1-15). Tradiția spune că Ieremia a ascuns Chivotul Legământului într-o peșteră pe Muntele Nebo înainte de distrugerea Templului (2 Macabei 2:4-8). Plângerile lui Ieremia sunt citite în Săptămâna Patimilor în tradiția ortodoxă. Biserica îl prăznuiește pe 1 mai.
 
 ### Regele Solomon

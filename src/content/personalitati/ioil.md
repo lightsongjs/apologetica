@@ -57,7 +57,7 @@ Ioil se adresează direct preoților și slujitorilor Templului, chemându-i la 
 ### Profetul Abdia (datare incertă)
 Profet minor asociat uneori cu aceeași perioadă ca Ioil. Amândoi vorbesc despre judecata asupra neamurilor, dar Ioil extinde viziunea la o dimensiune universală și escatologică.
 
-### [[personalitati:maleahi|Profetul Maleahi]] (sec. V î.Hr.)
+### [[personalitati/maleahi|Profetul Maleahi]] (sec. V î.Hr.)
 Dacă Ioil este datat în perioada post-exilică, Maleahi ar fi un contemporan apropiat. Amândoi profețesc despre „Ziua Domnului" și despre pregătirea pentru venirea ei.
 
 ## Versete cheie din epistolele sale

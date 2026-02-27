@@ -66,13 +66,13 @@ Laudă lui Matia (Encomion), un discurs pangiric care compilează tradițiile de
 ### Apostolul Petru (murit c. 64-67 d.Hr.)
 Cel care a propus și a prezidat procesul de alegere a lui Matia. Petru a formulat criteriile apostolice și a condus rugăciunea comunității, demonstrând rolul său de conducător al celorlalți Apostoli. Matia a fost astfel ales sub autoritatea celui dintâi dintre Apostoli.
 
-### [[personalitati:iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]]
+### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob, fiul lui Alfeu]]
 Primul episcop al Ierusalimului, care a condus comunitatea apostolică din care Matia făcea parte. Matia a propovăduit sub îndrumarea lui Iacob în primii ani, în Iudeea și Ierusalim, înainte de plecarea în misiune la distanță.
 
-### [[personalitati:simon-zilotul|Sfântul Apostol Simon Zilotul]]
+### [[personalitati/simon-zilotul|Sfântul Apostol Simon Zilotul]]
 Coleg apostol, împreună cu care Matia a primit Duhul Sfânt la Cincizecime. Amândoi fac parte din grupul Apostolilor mai puțin documentați în Scriptură, dar nu mai puțin importanți în misiunea Bisericii.
 
-### [[personalitati:iuda-tadeu|Sfântul Apostol Iuda Tadeu]]
+### [[personalitati/iuda-tadeu|Sfântul Apostol Iuda Tadeu]]
 Coleg apostol și „frate al Domnului". Ca și Matia, Iuda Tadeu a propovăduit în regiunile estice ale lumii antice, contribuind la răspândirea creștinismului dincolo de granițele Imperiului Roman.
 
 ### Iosif Barsaba (Iustus)

@@ -16,7 +16,7 @@ Localitățile din jurul Mării Galileii — Capernaum, Betsaida, Magdala, Tabgh
 ## Evenimente biblice
 
 ### Chemarea primilor apostoli (c. 27 d.Hr.)
-„Pe când umbla pe lângă Marea Galileii, a văzut pe doi frați, pe Simon, ce se numea [[personalitati:petru|Petru]], și pe [[personalitati:andrei-apostolul|Andrei]]... aruncând mreaja în mare, căci erau pescari. Și le-a zis: Veniți după Mine și vă voi face pescari de oameni" (Matei 4:18-19). Apoi pe [[personalitati:iacob-zebedeu|Iacob]] și [[personalitati:ioan-evanghelistul|Ioan]], fiii lui Zebedeu.
+„Pe când umbla pe lângă Marea Galileii, a văzut pe doi frați, pe Simon, ce se numea [[personalitati/petru|Petru]], și pe [[personalitati/andrei-apostolul|Andrei]]... aruncând mreaja în mare, căci erau pescari. Și le-a zis: Veniți după Mine și vă voi face pescari de oameni" (Matei 4:18-19). Apoi pe [[personalitati/iacob-zebedeu|Iacob]] și [[personalitati/ioan-evanghelistul|Ioan]], fiii lui Zebedeu.
 
 ### Predica din corabie (Marcu 4:1-2)
 Mulțimea era atât de mare încât Iisus intră într-o corabie și predică de pe apă — „toată mulțimea stătea pe țărm." Pildele Împărăției sunt rostite de pe Marea Galileii.
@@ -25,7 +25,7 @@ Mulțimea era atât de mare încât Iisus intră într-o corabie și predică de
 Iisus doarme în corabie în timpul unei furtuni teribile. Ucenicii Îl trezesc: „Doamne, scapă-ne, că pierim!" „Și sculându-Se, a certat vânturile și marea, și s-a făcut liniște mare." Ucenicii se miră: „Cine este Acesta, că și vânturile și marea Îl ascultă?"
 
 ### Umblarea pe apă (Matei 14:22-33)
-Noaptea, Iisus vine spre ucenici umblând pe mare. [[personalitati:petru|Petru]] cere să vină pe apă, merge câțiva pași, apoi se înfricoșează și începe să se scufunde: „Doamne, scapă-mă!" Iisus îl prinde: „Puțin credinciosule, pentru ce te-ai îndoit?"
+Noaptea, Iisus vine spre ucenici umblând pe mare. [[personalitati/petru|Petru]] cere să vină pe apă, merge câțiva pași, apoi se înfricoșează și începe să se scufunde: „Doamne, scapă-mă!" Iisus îl prinde: „Puțin credinciosule, pentru ce te-ai îndoit?"
 
 ### Pescuirea miraculoasă (Luca 5:1-11)
 Petru pescuise toată noaptea fără rezultat. Iisus îi spune: „Aruncă mrejele." Petru ascultă „după cuvântul Tău" — și prind atâți pești încât se rupeau mrejele și corăbiile se afundau. Petru cade în genunchi: „Ieși de la mine, Doamne, că sunt om păcătos!"
@@ -49,16 +49,16 @@ Ultima arătare detaliată a lui Hristos Înviat.
 
 ## Personalități legate de acest loc
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 Pescar pe Marea Galileii, chemat de la mrejă. Umblă pe apă, se scufundă, e prins de Hristos. La ultima arătare, se aruncă în mare spre Domnul.
 
-### [[personalitati:andrei-apostolul|Sfântul Apostol Andrei]]
+### [[personalitati/andrei-apostolul|Sfântul Apostol Andrei]]
 Fratele lui Petru, pescar pe Marea Galileii, chemat împreună cu el.
 
-### [[personalitati:iacob-zebedeu|Sfântul Apostol Iacob]] și [[personalitati:ioan-evanghelistul|Sfântul Apostol Ioan]]
+### [[personalitati/iacob-zebedeu|Sfântul Apostol Iacob]] și [[personalitati/ioan-evanghelistul|Sfântul Apostol Ioan]]
 Fiii lui Zebedeu, pescari din Betsaida sau Capernaum, chemați de pe mal.
 
-### [[personalitati:matei-evanghelistul|Sfântul Evanghelist Matei]]
+### [[personalitati/matei-evanghelistul|Sfântul Evanghelist Matei]]
 Vameș la Capernaum, pe malul lacului. Evanghelia sa conține cele mai multe episoade de pe Marea Galileii.
 
 ## Versete cheie

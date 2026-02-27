@@ -13,15 +13,21 @@ export async function getStaticPaths() {
 }
 
 const { personalitate } = Astro.props;
-const { name, title, image } = personalitate.data;
-const body = resolveWikiLinks(personalitate.body);
+const { name, title, image} = personalitate.data;
+// Normalize line endings to \n (convert \r\n to \n)
+const body = resolveWikiLinks(personalitate.body).replace(/\r\n/g, '\n');
 
-// Parse sections
+// Parse sections - split by ## and parse
 const sections: Record<string, string> = {};
-const sectionRegex = /## (.+?)\n([\s\S]*?)(?=\n## |\n---|$)/g;
-let match;
-while ((match = sectionRegex.exec(body)) !== null) {
-  sections[match[1].trim()] = match[2].trim();
+const parts = body.split(/^## /gm);
+for (let i = 1; i < parts.length; i++) {
+  const part = parts[i];
+  const firstNewline = part.indexOf('\n');
+  if (firstNewline > 0) {
+    const title = part.substring(0, firstNewline).trim();
+    const content = part.substring(firstNewline + 1).trim();
+    sections[title] = content;
+  }
 }
 
 // Helper to parse timeline entries
@@ -50,47 +56,64 @@ function parseTimeline(content: string) {
 // Helper to parse list items with bold titles
 function parseListItems(content: string) {
   const items: Array<{ title: string; description: string; link?: string }> = [];
-  const lines = content.split('\n\n');
 
-  for (const block of lines) {
-    const titleMatch = block.match(/^\*\*(.+?)\*\*/);
-    if (titleMatch) {
-      const title = titleMatch[1];
-      const description = block.replace(/^\*\*(.+?)\*\*[^\n]*\n?/, '').trim();
+  // First, split by ### subsections
+  const subsections = content.split(/^### /gm);
+
+  for (let i = 0; i < subsections.length; i++) {
+    const subsection = subsections[i];
+
+    // If this is a subsection (starts with a title), extract the title as the first item
+    if (i > 0) {
+      const firstNewline = subsection.indexOf('\n');
+      if (firstNewline > 0) {
+        const subsectionTitle = subsection.substring(0, firstNewline).trim();
+        const subsectionContent = subsection.substring(firstNewline + 1).trim();
+
+        // Extract link from title if present (for display, but don't use it to wrap the whole card)
+        const linkMatch = subsectionTitle.match(/\[([^\]]+)\]\(([^)]+)\)/);
+        const cleanTitle = linkMatch ? linkMatch[1] : subsectionTitle;
+        const link = linkMatch ? linkMatch[2] : undefined;
+
+        // Only add the subsection as an item if it doesn't have **bold** children
+        // (we'll parse those separately)
+        if (!subsectionContent.includes('\n**')) {
+          items.push({ title: cleanTitle, description: subsectionContent, link });
+        }
+      }
+    }
+
+    // Now find all **bold** items in this section/subsection
+    const boldItemRegex = /\*\*([^\*]+?)\*\*\n([^\n*]*(?:\n(?!\*\*)[^\n*]*)*)/g;
+    let match;
+    while ((match = boldItemRegex.exec(subsection)) !== null) {
+      const title = match[1].trim();
+      const description = match[2].trim();
 
       // Extract link from title if present
       const linkMatch = title.match(/\[([^\]]+)\]\(([^)]+)\)/);
       const cleanTitle = linkMatch ? linkMatch[1] : title;
       const link = linkMatch ? linkMatch[2] : undefined;
 
-      items.push({ title: cleanTitle, description, link });
-    } else if (block.startsWith('###')) {
-      const titleMatch = block.match(/^### (.+?)\n/);
-      if (titleMatch) {
-        const rawTitle = titleMatch[1];
-        const description = block.replace(/^### (.+?)\n/, '').trim();
-
-        // Extract link from title if present
-        const linkMatch = rawTitle.match(/\[([^\]]+)\]\(([^)]+)\)/);
-        const cleanTitle = linkMatch ? linkMatch[1] : rawTitle;
-        const link = linkMatch ? linkMatch[2] : undefined;
-
+      if (cleanTitle && description) {
         items.push({ title: cleanTitle, description, link });
       }
     }
   }
+
   return items;
 }
 
 // Helper to parse scripture verses
 function parseVerses(content: string) {
   const verses: Array<{ ref: string; text: string }> = [];
-  const verseRegex = /\*\*(.+?)\*\* — [""](.+?)[""]?$/gm;
+  // Match both regular quotes and Romanian quotes („")
+  const verseRegex = /\*\*(.+?)\*\* — ["""„](.+?)[""""]?$/gm;
   let match;
   while ((match = verseRegex.exec(content)) !== null) {
     verses.push({
       ref: match[1].trim(),
-      text: match[2].trim().replace(/[""]$/g, '')
+      text: match[2].trim().replace(/[""""]$/g, '')
     });
   }
   return verses;
@@ -167,31 +190,23 @@ const significance = sections['Semnificație teologică și istorică'] ? parseL
           <h2 class="text-xl font-bold">Surse și scrieri</h2>
         </div>
         <div class="space-y-3">
-          {sources.map(item => {
-            const CardWrapper = item.link ? 'a' : 'div';
-            return (
-              <CardWrapper
-                {...(item.link ? { href: item.link } : {})}
-                class:list={[
-                  "bg-white p-4 rounded-xl border border-gray-200 block",
-                  item.link && "group hover:border-primary/40 transition-all shadow-sm hover:shadow-md"
-                ]}
-              >
-                <div class="flex items-start gap-3">
-                  <div class="flex-1">
-                    <h4 class:list={[
-                      "font-bold text-gray-900 mb-1",
-                      item.link && "group-hover:text-primary transition-colors"
-                    ]}>{item.title}</h4>
-                    <div class="text-sm text-gray-600 prose prose-slate prose-sm max-w-none" set:html={marked(item.description)} />
-                  </div>
-                  {item.link && (
-                    <span class="material-symbols-outlined text-primary/30 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0">chevron_right</span>
+          {sources.map(item => (
+            <div class="bg-white p-4 rounded-xl border border-gray-200 group hover:border-primary/40 transition-all shadow-sm hover:shadow-md">
+              <div class="flex items-start gap-3">
+                <div class="flex-1">
+                  {item.link ? (
+                    <a href={item.link} class="font-bold text-gray-900 mb-1 hover:text-primary transition-colors block">{item.title}</a>
+                  ) : (
+                    <h4 class="font-bold text-gray-900 mb-1">{item.title}</h4>
                   )}
+                  <div class="text-sm text-gray-600 prose prose-slate prose-sm max-w-none" set:html={marked(item.description)} />
                 </div>
-              </CardWrapper>
-            );
-          })}
+                {item.link && (
+                  <a href={item.link} class="material-symbols-outlined text-primary/30 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0">chevron_right</a>
+                )}
+              </div>
+            </div>
+          ))}
         </div>
       </section>
     )}
@@ -204,31 +219,23 @@ const significance = sections['Semnificație teologică și istorică'] ? parseL
           <h2 class="text-xl font-bold">Contemporani</h2>
         </div>
         <div class="space-y-3">
-          {contemporaries.map(item => {
-            const CardWrapper = item.link ? 'a' : 'div';
-            return (
-              <CardWrapper
-                {...(item.link ? { href: item.link } : {})}
-                class:list={[
-                  "bg-white p-4 rounded-xl border border-gray-200 block",
-                  item.link && "group hover:border-primary/40 transition-all shadow-sm hover:shadow-md"
-                ]}
-              >
-                <div class="flex items-start gap-3">
-                  <div class="flex-1">
-                    <h4 class:list={[
-                      "font-bold text-gray-900 mb-1",
-                      item.link && "group-hover:text-primary transition-colors"
-                    ]}>{item.title}</h4>
-                    <div class="text-sm text-gray-600 prose prose-slate prose-sm max-w-none" set:html={marked(item.description)} />
-                  </div>
-                  {item.link && (
-                    <span class="material-symbols-outlined text-primary/30 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0">chevron_right</span>
+          {contemporaries.map(item => (
+            <div class="bg-white p-4 rounded-xl border border-gray-200 group hover:border-primary/40 transition-all shadow-sm hover:shadow-md">
+              <div class="flex items-start gap-3">
+                <div class="flex-1">
+                  {item.link ? (
+                    <a href={item.link} class="font-bold text-gray-900 mb-1 hover:text-primary transition-colors block">{item.title}</a>
+                  ) : (
+                    <h4 class="font-bold text-gray-900 mb-1">{item.title}</h4>
                   )}
+                  <div class="text-sm text-gray-600 prose prose-slate prose-sm max-w-none" set:html={marked(item.description)} />
                 </div>
-              </CardWrapper>
-            );
-          })}
+                {item.link && (
+                  <a href={item.link} class="material-symbols-outlined text-primary/30 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0">chevron_right</a>
+                )}
+              </div>
+            </div>
+          ))}
         </div>
       </section>
     )}
@@ -259,31 +266,23 @@ const significance = sections['Semnificație teologică și istorică'] ? parseL
           <h2 class="text-xl font-bold">Semnificație</h2>
         </div>
         <div class="space-y-4">
-          {significance.map(item => {
-            const CardWrapper = item.link ? 'a' : 'div';
-            return (
-              <CardWrapper
-                {...(item.link ? { href: item.link } : {})}
-                class:list={[
-                  "bg-gray-50 p-4 rounded-xl block",
-                  item.link && "group hover:bg-primary/5 transition-all"
-                ]}
-              >
-                <div class="flex items-start gap-3">
-                  <div class="flex-1">
-                    <h4 class:list={[
-                      "font-bold text-sm uppercase tracking-wider text-primary mb-1",
-                      item.link && "group-hover:text-primary transition-colors"
-                    ]}>{item.title}</h4>
-                    <div class="text-sm leading-relaxed prose prose-slate prose-sm max-w-none" set:html={marked(item.description)} />
-                  </div>
-                  {item.link && (
-                    <span class="material-symbols-outlined text-primary/30 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0">chevron_right</span>
+          {significance.map(item => (
+            <div class="bg-gray-50 p-4 rounded-xl group hover:bg-primary/5 transition-all">
+              <div class="flex items-start gap-3">
+                <div class="flex-1">
+                  {item.link ? (
+                    <a href={item.link} class="font-bold text-sm uppercase tracking-wider text-primary mb-1 hover:text-primary transition-colors block">{item.title}</a>
+                  ) : (
+                    <h4 class="font-bold text-sm uppercase tracking-wider text-primary mb-1">{item.title}</h4>
                   )}
+                  <div class="text-sm leading-relaxed prose prose-slate prose-sm max-w-none" set:html={marked(item.description)} />
                 </div>
-              </CardWrapper>
-            );
-          })}
+                {item.link && (
+                  <a href={item.link} class="material-symbols-outlined text-primary/30 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0">chevron_right</a>
+                )}
+              </div>
+            </div>
+          ))}
         </div>
       </section>
     )}

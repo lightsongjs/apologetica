@@ -52,7 +52,7 @@ Elogiul lui Iisus Navi: „Mare între frații săi a fost Iisus al lui Navi, ur
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:moise|Sfântul Proroc Moise]]
+### [[personalitati/moise|Sfântul Proroc Moise]]
 Învățătorul și predecesorul lui Iisus Navi, care l-a ales, l-a format și l-a hirotonit ca succesor. Relația lor este un model al transmiterii autorității în succesiune.
 
 ### Caleb, fiul lui Iefone

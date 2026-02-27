@@ -21,27 +21,27 @@ Regele Solomon a dus la împlinire dorința tatălui său David, construind Temp
 
 ### Profeția lui Isaia în Templu (cca. 740 î.Hr.)
 
-[[personalitati:isaia|Profetul Isaia]] a avut vedenia chemării sale în Templu, când a văzut pe Domnul șezând pe tron înalt, înconjurat de serafimi care cântau „Sfânt, Sfânt, Sfânt Domnul Savaot!" (Isaia 6:1-3). Această viziune stă la baza Trisaghionului din Liturghia ortodoxă.
+[[personalitati/isaia|Profetul Isaia]] a avut vedenia chemării sale în Templu, când a văzut pe Domnul șezând pe tron înalt, înconjurat de serafimi care cântau „Sfânt, Sfânt, Sfânt Domnul Savaot!" (Isaia 6:1-3). Această viziune stă la baza Trisaghionului din Liturghia ortodoxă.
 
 ### Avertismentele lui Ieremia (cca. 627-586 î.Hr.)
 
-[[personalitati:ieremia|Profetul Ieremia]] a stat la poarta Templului și a predicat pocăința, avertizând că Dumnezeu nu va proteja Templul dacă poporul persistă în idolatrie și nedreptate. „Nu vă încredeți în cuvinte mincinoase, zicând: Templul Domnului, Templul Domnului, Templul Domnului este acesta!" (Ieremia 7:4).
+[[personalitati/ieremia|Profetul Ieremia]] a stat la poarta Templului și a predicat pocăința, avertizând că Dumnezeu nu va proteja Templul dacă poporul persistă în idolatrie și nedreptate. „Nu vă încredeți în cuvinte mincinoase, zicând: Templul Domnului, Templul Domnului, Templul Domnului este acesta!" (Ieremia 7:4).
 
 ### Distrugerea Primului Templu (586 î.Hr.)
 
-Armatele babiloniene conduse de Nabucodonosor au distrus Templul lui Solomon, arzându-l cu foc. [[personalitati:iezechiel|Profetul Iezechiel]], aflat deja în robie, a avut vedenia slavei Domnului părăsind Templul (Iezechiel 10:18-19), semnificând retragerea prezenței divine din cauza păcatelor poporului.
+Armatele babiloniene conduse de Nabucodonosor au distrus Templul lui Solomon, arzându-l cu foc. [[personalitati/iezechiel|Profetul Iezechiel]], aflat deja în robie, a avut vedenia slavei Domnului părăsind Templul (Iezechiel 10:18-19), semnificând retragerea prezenței divine din cauza păcatelor poporului.
 
 ### Reconstrucția sub îndemnul profeților (520-516 î.Hr.)
 
-După întoarcerea din robie, poporul, descurajat de greutăți, a abandonat lucrarea de reconstrucție. [[personalitati:agheu|Profetul Agheu]] i-a mustrat: „Este oare vremea să locuiți voi în casele voastre cele căptușite, când casa aceasta stă în ruină?" (Agheu 1:4). Împreună cu [[personalitati:zaharia|Profetul Zaharia]], care a vestit că „slava acestei case de pe urmă va fi mai mare decât a celei dintâi" (Agheu 2:9), au reînsufletit poporul pentru a duce reconstrucția la bun sfârșit.
+După întoarcerea din robie, poporul, descurajat de greutăți, a abandonat lucrarea de reconstrucție. [[personalitati/agheu|Profetul Agheu]] i-a mustrat: „Este oare vremea să locuiți voi în casele voastre cele căptușite, când casa aceasta stă în ruină?" (Agheu 1:4). Împreună cu [[personalitati/zaharia|Profetul Zaharia]], care a vestit că „slava acestei case de pe urmă va fi mai mare decât a celei dintâi" (Agheu 2:9), au reînsufletit poporul pentru a duce reconstrucția la bun sfârșit.
 
 ### Vedenia Templului nou la Iezechiel (cca. 573 î.Hr.)
 
-[[personalitati:iezechiel|Profetul Iezechiel]] a primit o vedenie grandioasă a unui Templu nou, cu dimensiuni precise și cu un râu de apă vie izvorând de sub pragul lui (Iezechiel 40-47). Sfinții Părinți interpretează această vedenie ca prefigurare a Bisericii și a harului Duhului Sfânt.
+[[personalitati/iezechiel|Profetul Iezechiel]] a primit o vedenie grandioasă a unui Templu nou, cu dimensiuni precise și cu un râu de apă vie izvorând de sub pragul lui (Iezechiel 40-47). Sfinții Părinți interpretează această vedenie ca prefigurare a Bisericii și a harului Duhului Sfânt.
 
 ### Profeția lui Daniel despre Templu
 
-[[personalitati:daniel|Profetul Daniel]], aflat în robia babiloniană, a profețit despre cele „șaptezeci de săptămâni" (Daniel 9:24-27), vestind atât reconstrucția Ierusalimului și a Templului, cât și venirea „Unsului" — Mesia — și ulterior o nouă distrugere.
+[[personalitati/daniel|Profetul Daniel]], aflat în robia babiloniană, a profețit despre cele „șaptezeci de săptămâni" (Daniel 9:24-27), vestind atât reconstrucția Ierusalimului și a Templului, cât și venirea „Unsului" — Mesia — și ulterior o nouă distrugere.
 
 ### Curățirea Templului de către Hristos
 
@@ -63,15 +63,15 @@ Descrierea detaliată a construirii Templului de către Solomon — dimensiuni, 
 
 ### Isaia 6:1-8
 
-Vedenia [[personalitati:isaia|Profetului Isaia]] în Templu, unde vede pe Domnul înconjurat de serafimi — fundamentul teologiei liturgice ortodoxe.
+Vedenia [[personalitati/isaia|Profetului Isaia]] în Templu, unde vede pe Domnul înconjurat de serafimi — fundamentul teologiei liturgice ortodoxe.
 
 ### Ieremia 7:1-15
 
-[[personalitati:ieremia|Ieremia]] avertizează la poarta Templului că sfințenia locului nu protejează un popor nepocăit.
+[[personalitati/ieremia|Ieremia]] avertizează la poarta Templului că sfințenia locului nu protejează un popor nepocăit.
 
 ### Iezechiel 10:1-22
 
-[[personalitati:iezechiel|Iezechiel]] vede slava Domnului părăsind Templul, pregătind distrugerea acestuia de către babilonieni.
+[[personalitati/iezechiel|Iezechiel]] vede slava Domnului părăsind Templul, pregătind distrugerea acestuia de către babilonieni.
 
 ### Iezechiel 47:1-12
 
@@ -79,39 +79,39 @@ Vedenia râului de apă vie izvorând din Templu — prefigurare a harului Duhul
 
 ### Daniel 9:24-27
 
-[[personalitati:daniel|Daniel]] profețește cele „șaptezeci de săptămâni", vestind atât reconstrucția, cât și distrugerea finală a Templului și venirea lui Mesia.
+[[personalitati/daniel|Daniel]] profețește cele „șaptezeci de săptămâni", vestind atât reconstrucția, cât și distrugerea finală a Templului și venirea lui Mesia.
 
 ### Agheu 2:1-9
 
-[[personalitati:agheu|Agheu]] încurajează poporul pentru reconstrucție, vestind că slava celui de-al doilea Templu o va întrece pe cea a primului.
+[[personalitati/agheu|Agheu]] încurajează poporul pentru reconstrucție, vestind că slava celui de-al doilea Templu o va întrece pe cea a primului.
 
 ### Zaharia 4:6-10
 
-[[personalitati:zaharia|Zaharia]] vestește că reconstrucția se va face „nu prin putere, nici prin tărie, ci prin Duhul Meu, zice Domnul Savaot".
+[[personalitati/zaharia|Zaharia]] vestește că reconstrucția se va face „nu prin putere, nici prin tărie, ci prin Duhul Meu, zice Domnul Savaot".
 
 ## Personalități legate de acest loc
 
-### [[personalitati:isaia|Sfântul Profet Isaia]]
+### [[personalitati/isaia|Sfântul Profet Isaia]]
 
 Isaia a primit chemarea profetică în Templu, prin vedenia slavei Domnului. Prorocirile sale despre Templu ca loc de închinare pentru toate neamurile (Isaia 56:7) au fost citate de Hristos Însuși la curățirea Templului.
 
-### [[personalitati:ieremia|Sfântul Profet Ieremia]]
+### [[personalitati/ieremia|Sfântul Profet Ieremia]]
 
 Ieremia a prorocit la Templu timp de decenii, avertizând asupra distrugerii ce va veni. A fost persecutat de preoți și de popor pentru mesajul său, dar profețiile sale s-au împlinit întocmai la căderea Ierusalimului.
 
-### [[personalitati:iezechiel|Sfântul Profet Iezechiel]]
+### [[personalitati/iezechiel|Sfântul Profet Iezechiel]]
 
 Iezechiel, preot și profet, a avut vedenii extraordinare legate de Templu — atât plecarea slavei divine din Templul vechi, cât și viziunea unui Templu nou, eshatologic, din care izvorăsc ape vindecătoare.
 
-### [[personalitati:daniel|Sfântul Profet Daniel]]
+### [[personalitati/daniel|Sfântul Profet Daniel]]
 
 Daniel a profețit cronologia precisă a evenimentelor legate de Templu — reconstrucția, venirea Mesiei și distrugerea finală — într-una dintre cele mai remarcabile profeții mesianice din Vechiul Testament.
 
-### [[personalitati:agheu|Sfântul Profet Agheu]]
+### [[personalitati/agheu|Sfântul Profet Agheu]]
 
 Agheu a fost trimis de Dumnezeu special pentru a îndemna poporul la reconstrucția Templului, după întoarcerea din robia babiloniană. Mesajul său scurt dar puternic a reînsufletit zelul poporului.
 
-### [[personalitati:zaharia|Sfântul Profet Zaharia]]
+### [[personalitati/zaharia|Sfântul Profet Zaharia]]
 
 Contemporan cu Agheu, Zaharia a profețit despre slava viitoare a Templului și despre venirea lui Mesia — „Regele blând", care va intra în Ierusalim și va aduce pace tuturor neamurilor.
 

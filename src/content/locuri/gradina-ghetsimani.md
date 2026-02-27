@@ -16,13 +16,13 @@ Ghetsimani este locul agoniei lui Iisus Hristos înainte de Patimi — cea mai i
 ## Evenimente biblice
 
 ### Agonia în grădină (Joia nopții de Vineri)
-Iisus vine cu ucenicii după Cina cea de Taină. Ia cu Sine pe [[personalitati:petru|Petru]], [[personalitati:iacob-zebedeu|Iacob]] și [[personalitati:ioan-evanghelistul|Ioan]] și le zice: „Întristat este sufletul Meu până la moarte. Rămâneți aici și vegheați cu Mine" (Matei 26:38). Se depărtează și cade cu fața la pământ: „Părintele Meu, de este cu putință, treacă de la Mine paharul acesta! Însă nu cum voiesc Eu, ci cum voiești Tu." Se roagă de trei ori. Un înger Îl întărește (Luca 22:43). Sudoarea Lui devine „ca picăturile de sânge care cădeau pe pământ" (Luca 22:44). Ucenicii adorm de trei ori.
+Iisus vine cu ucenicii după Cina cea de Taină. Ia cu Sine pe [[personalitati/petru|Petru]], [[personalitati/iacob-zebedeu|Iacob]] și [[personalitati/ioan-evanghelistul|Ioan]] și le zice: „Întristat este sufletul Meu până la moarte. Rămâneți aici și vegheați cu Mine" (Matei 26:38). Se depărtează și cade cu fața la pământ: „Părintele Meu, de este cu putință, treacă de la Mine paharul acesta! Însă nu cum voiesc Eu, ci cum voiești Tu." Se roagă de trei ori. Un înger Îl întărește (Luca 22:43). Sudoarea Lui devine „ca picăturile de sânge care cădeau pe pământ" (Luca 22:44). Ucenicii adorm de trei ori.
 
 ### Trădarea și arestarea
 Iuda vine cu o ceată de ostași și slujitori ai mai-marilor preoților. „Și venind îndată la Iisus, a zis: Bucură-Te, Învățătorule! Și L-a sărutat" (Matei 26:49). Iisus răspunde: „Prietene, pentru ce ai venit?" Petru scoate sabia și taie urechea robului Malhus. Iisus o vindecă și spune: „Întoarce sabia ta la locul ei" (Matei 26:52). Apoi: „Au pe care-L căutați?" — „Pe Iisus Nazarineanul." — „Eu sunt." Și ei au căzut la pământ (Ioan 18:6). Toți ucenicii fug.
 
 ### Tânărul care fuge gol (Marcu 14:51-52)
-[[personalitati:marcu-evanghelistul|Marcu]] consemnează un detaliu unic: un tânăr (probabil Marcu însuși) urmărea pe Iisus învelit într-o pânză de in. Ostașii îl prind, dar el fuge gol, lăsând pânza.
+[[personalitati/marcu-evanghelistul|Marcu]] consemnează un detaliu unic: un tânăr (probabil Marcu însuși) urmărea pe Iisus învelit într-o pânză de in. Ostașii îl prind, dar el fuge gol, lăsând pânza.
 
 ## Surse scripturistice
 
@@ -40,16 +40,16 @@ Doar Ioan menționează declarația „Eu sunt" (ἐγώ εἰμι) și căderea
 
 ## Personalități legate de acest loc
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 Cel care adoarme de trei ori, apoi scoate sabia. Iisus îi spune: „Nu poți veghea un ceas cu Mine?" Contrastul dintre zelul lui Petru și slăbiciunea sa umană.
 
-### [[personalitati:iacob-zebedeu|Sfântul Apostol Iacob]]
+### [[personalitati/iacob-zebedeu|Sfântul Apostol Iacob]]
 Unul din cei trei martori ai agoniei. Cel care ceruse „să stea de-a dreapta" lui Iisus — acum vede ce înseamnă „paharul" pe care promisese că-l va bea.
 
-### [[personalitati:ioan-evanghelistul|Sfântul Apostol Ioan]]
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol Ioan]]
 Al treilea martor. Evanghelia sa adaugă dimensiunea teologică: „Eu sunt" face oștașii să cadă — chiar în momentul arestării, Hristos arată că Se predă voluntar.
 
-### [[personalitati:marcu-evanghelistul|Sfântul Evanghelist Marcu]]
+### [[personalitati/marcu-evanghelistul|Sfântul Evanghelist Marcu]]
 Probabil „tânărul care fugea gol" — martor al arestării, care a păstrat acest detaliu unic în Evanghelia sa.
 
 ## Versete cheie

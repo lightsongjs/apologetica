@@ -9,7 +9,7 @@ order: 18
 
 Cana Galileii (în greacă: Κανᾶ τῆς Γαλιλαίας) este satul din Galilea unde Iisus Hristos a săvârșit prima Sa minune — prefacerea apei în vin la o nuntă (Ioan 2:1-11). Localizarea exactă este disputată: fie Kafr Kanna (tradiția actuală), fie Khirbet Qana, la nord de Nazaret.
 
-Cana este menționată doar în Evanghelia după [[personalitati:ioan-evanghelistul|Ioan]], care o leagă de trei evenimente: nunta (Ioan 2:1-11), vindecarea fiului unui slujitor regal din Capernaum (Ioan 4:46-54) și originea lui [[personalitati:bartolomeu|Natanael/Bartolomeu]] (Ioan 21:2). Tradiția ortodoxă identifică pe [[personalitati:simon-zilotul|Simon Zilotul]] ca mirele de la nunta din Cana.
+Cana este menționată doar în Evanghelia după [[personalitati/ioan-evanghelistul|Ioan]], care o leagă de trei evenimente: nunta (Ioan 2:1-11), vindecarea fiului unui slujitor regal din Capernaum (Ioan 4:46-54) și originea lui [[personalitati/bartolomeu|Natanael/Bartolomeu]] (Ioan 21:2). Tradiția ortodoxă identifică pe [[personalitati/simon-zilotul|Simon Zilotul]] ca mirele de la nunta din Cana.
 
 Nunta din Cana are o semnificație teologică imensă: este prima manifestare publică a slavei lui Hristos, binecuvântarea căsătoriei, prefigurarea Euharistiei (apa devine vin, vinul va deveni Sânge) și icoana ospățului mesianic. Maica Domnului apare aici în rolul ei de mijlocitoare: „Faceți orice vă va spune El!" (Ioan 2:5).
 
@@ -24,26 +24,26 @@ A doua minune din Cana: un slujitor regal din Capernaum vine la Cana și Îl roa
 ## Surse scripturistice
 
 ### Ioan 2:1-11 — Nunta din Cana
-Narațiunea completă a primei minuni. Singurul evanghelist care o consemnează este [[personalitati:ioan-evanghelistul|Ioan]].
+Narațiunea completă a primei minuni. Singurul evanghelist care o consemnează este [[personalitati/ioan-evanghelistul|Ioan]].
 
 ### Ioan 4:46-54 — A doua minune
 Vindecarea de la distanță — credința fără vedere.
 
 ### Ioan 21:2
-Natanael ([[personalitati:bartolomeu|Bartolomeu]]) este identificat ca fiind „din Cana Galileii".
+Natanael ([[personalitati/bartolomeu|Bartolomeu]]) este identificat ca fiind „din Cana Galileii".
 
 ## Personalități legate de acest loc
 
 ### Maica Domnului
 Prezentă la nuntă, ea este cea care observă lipsa vinului și mijlocește: „Faceți orice vă va spune El!" (Ioan 2:5) — cuvinte care definesc rolul mariologic în teologia ortodoxă.
 
-### [[personalitati:ioan-evanghelistul|Sfântul Apostol Ioan]]
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol Ioan]]
 Singurul evanghelist care relatează nunta din Cana. Probabil a fost prezent personal, ca ucenic proaspăt chemat.
 
-### [[personalitati:bartolomeu|Sfântul Apostol Bartolomeu (Natanael)]]
+### [[personalitati/bartolomeu|Sfântul Apostol Bartolomeu (Natanael)]]
 Originar din Cana Galileii. Cel despre care Iisus a zis: „Iată, cu adevărat, israelit în care nu este vicleșug!" (Ioan 1:47).
 
-### [[personalitati:simon-zilotul|Sfântul Apostol Simon Zilotul]]
+### [[personalitati/simon-zilotul|Sfântul Apostol Simon Zilotul]]
 Tradiția ortodoxă îl identifică pe Simon Zilotul cu mirele de la nunta din Cana. După ce a văzut minunea, ar fi lăsat totul și L-a urmat pe Hristos.
 
 ## Versete cheie

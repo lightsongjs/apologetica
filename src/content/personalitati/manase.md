@@ -56,7 +56,7 @@ Rugăciunea se încheie cu versul memorabil: „Căci numărul nisipurilor mări
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:isaia|Profetul Isaia]] († c. 687 î.Hr.)
+### [[personalitati/isaia|Profetul Isaia]] († c. 687 î.Hr.)
 Conform tradiției iudaice (Talmud, Ascensiunea lui Isaia), profetul Isaia a fost martirizat de Manase, fiind tăiat în două cu un ferăstrău de lemn. Referința din Evrei 11:37 la „tăiați cu ferăstrăul" este văzută ca aluzie la acest martir.
 
 ### Regele Ezechia (726-697 î.Hr.)
@@ -68,7 +68,7 @@ Fiul lui Manase, care a domnit doar doi ani. Spre deosebire de tatăl său, Amon
 ### Regele Iosia (640-609 î.Hr.)
 Nepotul lui Manase, ultimul mare reformator al lui Iuda. A început domnia la 8 ani și a condus cea mai radicală reformă religioasă din istoria regatului.
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-585 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-585 î.Hr.)
 S-ar fi născut în timpul târzii domnii a lui Manase sau sub Amon. A predicat într-o perioadă când păcatele lui Manase erau încă proaspete în memoria colectivă.
 
 ## Versete cheie
@@ -103,4 +103,4 @@ Cu toate acestea, 2 Regilor subliniază că păcatele lui Manase au avut conseci
 Biserica îl prezintă pe Manase ca exemplu de speranță pentru toți păcătoșii. Dacă Manase, care a comis cele mai teribile fărădelegi, a putut fi iertat, atunci niciun om nu trebuie să dispere de mântuire. Pocăința sinceră deschide ușa îndurării divine pentru oricine.
 
 ### Liturghia pocăinței
-Rugăciunea sa rămâne vie în cultul ortodox, reamintindu-ne că Dumnezeu „nu voiește moartea păcătosului, ci să se întoarcă și să fie viu" ([[personalitati:iezechiel|Iezechiel]] 33:11). Manase este dovada vie a acestui adevăr.
+Rugăciunea sa rămâne vie în cultul ortodox, reamintindu-ne că Dumnezeu „nu voiește moartea păcătosului, ci să se întoarcă și să fie viu" ([[personalitati/iezechiel|Iezechiel]] 33:11). Manase este dovada vie a acestui adevăr.

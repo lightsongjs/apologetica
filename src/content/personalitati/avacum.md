@@ -54,13 +54,13 @@ Tradiția ortodoxă și Septuaginta includ o narațiune în care Avacum este tra
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan cu Avacum, Ieremia a predicat în aceeași perioadă în Iuda. Ambii profeți au vestit judecata babiloniană, dar abordările lor sunt diferite: Ieremia plânge pentru popor și cheamă la pocăință, în timp ce Avacum dialoghează direct cu Dumnezeu, cerând explicații pentru suferința celor drepți.
 
-### [[personalitati:sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
+### [[personalitati/sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
 Contemporan cu Avacum, a profețit în Iuda în timpul domniei lui Iosia. Sofonie vestește „Ziua Domnului" ca judecată universală, în timp ce Avacum se concentrează pe paradoxul folosirii unui popor nedrept ca instrument al judecății divine.
 
-### [[personalitati:daniel|Profetul Daniel]] (sec. VI î.Hr.)
+### [[personalitati/daniel|Profetul Daniel]] (sec. VI î.Hr.)
 Conform tradiției ortodoxe (Bel și Balaurul), Avacum a fost transportat miraculos de un înger pentru a-i duce mâncare lui Daniel în groapa cu lei. Această legătură liturgică și narativă unește cei doi profeți în tradiția Bisericii.
 
 ### Regele Ioiachim (609-598 î.Hr.)

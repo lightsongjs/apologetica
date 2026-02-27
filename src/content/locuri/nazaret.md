@@ -9,7 +9,7 @@ order: 19
 
 Nazaret (în ebraică: נָצְרַת, în greacă: Ναζαρέτ) este satul din Galilea de Jos unde Fecioara Maria a primit Buna Vestire de la Arhanghelul Gavriil și unde Iisus Hristos a crescut din copilărie până la începutul slujirii publice. De la Nazaret vine numele „Nazarinean" (Ναζωραῖος) — „Iisus Nazarineanul", cum scria pe Cruce (Ioan 19:19).
 
-În vremea lui Iisus, Nazaretul era un sat mic și obscur, cu o reputație proastă. Natanael/[[personalitati:bartolomeu|Bartolomeu]] întreabă ironic: „Din Nazaret poate fi ceva bun?" (Ioan 1:46). Tocmai în această obscuritate se ascunde misterul Întrupării: Dumnezeu nu alege locurile mari, ci pe cele smerite.
+În vremea lui Iisus, Nazaretul era un sat mic și obscur, cu o reputație proastă. Natanael/[[personalitati/bartolomeu|Bartolomeu]] întreabă ironic: „Din Nazaret poate fi ceva bun?" (Ioan 1:46). Tocmai în această obscuritate se ascunde misterul Întrupării: Dumnezeu nu alege locurile mari, ci pe cele smerite.
 
 La Nazaret a avut loc Buna Vestire — momentul în care Fecioara Maria a răspuns „Fie mie după cuvântul tău!" (Luca 1:38) și Fiul lui Dumnezeu S-a întrupat. Tot la Nazaret, Iisus a crescut „cu înțelepciune și cu vârstă și cu har la Dumnezeu și la oameni" (Luca 2:52). Și tot la Nazaret a fost respins de concetățenii Săi, care au vrut să-L arunce de pe stâncă (Luca 4:29).
 
@@ -25,7 +25,7 @@ După întoarcerea din Egipt, Sfânta Familie se stabilește la Nazaret. Iisus c
 La vârsta de 12 ani, Iisus rămâne în Templul din Ierusalim, discutând cu învățătorii Legii. Când Maria și Iosif Îl găsesc, El răspunde: „De ce Mă căutați? Nu știați că în cele ale Tatălui Meu trebuie să fiu?" (Luca 2:49). Apoi Se întoarce la Nazaret și „le era supus" (Luca 2:51).
 
 ### Respingerea la Nazaret (Luca 4:16-30)
-La începutul slujirii publice, Iisus Se întoarce la Nazaret și intră în sinagogă. Citește din [[personalitati:isaia|Isaia]] 61:1-2: „Duhul Domnului este peste Mine, pentru că M-a uns..." și declară: „Astăzi s-a împlinit Scriptura aceasta." Concetățenii Săi se mânie: „Nu este Acesta fiul lui Iosif?" (Luca 4:22) și încearcă să-L arunce de pe stâncă. Iisus trece prin mijlocul lor.
+La începutul slujirii publice, Iisus Se întoarce la Nazaret și intră în sinagogă. Citește din [[personalitati/isaia|Isaia]] 61:1-2: „Duhul Domnului este peste Mine, pentru că M-a uns..." și declară: „Astăzi s-a împlinit Scriptura aceasta." Concetățenii Săi se mânie: „Nu este Acesta fiul lui Iosif?" (Luca 4:22) și încearcă să-L arunce de pe stâncă. Iisus trece prin mijlocul lor.
 
 ## Surse scripturistice
 
@@ -49,10 +49,10 @@ Locuia la Nazaret când a primit Buna Vestire. A crescut pe Pruncul Iisus în ca
 ### Sfântul Iosif
 Logodnicul Fecioarei Maria, tâmplar din Nazaret. A protejat și crescut pe Iisus ca tată legal.
 
-### [[personalitati:bartolomeu|Sfântul Apostol Bartolomeu (Natanael)]]
+### [[personalitati/bartolomeu|Sfântul Apostol Bartolomeu (Natanael)]]
 Cel care a întrebat: „Din Nazaret poate fi ceva bun?" — și care a primit răspunsul cel mai frumos: „Vino și vezi!" (Ioan 1:46).
 
-### [[personalitati:isaia|Sfântul Proroc Isaia]]
+### [[personalitati/isaia|Sfântul Proroc Isaia]]
 Profeția din Isaia 61:1-2, citită de Iisus în sinagoga din Nazaret, este textul programatic al slujirii Sale.
 
 ## Versete cheie

@@ -47,14 +47,14 @@ Motivul judecății: Edomul a stat deoparte când străinii au cucerit Ierusalim
 „Ziua Domnului" se apropie pentru toate neamurile. Israel va fi restaurat și va stăpâni Edomul. Cartea se încheie cu declarația triumfală: „Și Împărăția va fi a Domnului" (Avdie 1:21).
 
 ### Paralele cu alte scrieri profetice
-Avdie 1:1-9 prezintă paralele izbitoare cu [[personalitati:ieremia|Ieremia]] 49:7-22 (profeția împotriva Edomului). Ambii profeți folosesc imagini similare — vulturul, stâncile, prietenii trădători — ceea ce sugerează fie o sursă profetică comună, fie influență reciprocă.
+Avdie 1:1-9 prezintă paralele izbitoare cu [[personalitati/ieremia|Ieremia]] 49:7-22 (profeția împotriva Edomului). Ambii profeți folosesc imagini similare — vulturul, stâncile, prietenii trădători — ceea ce sugerează fie o sursă profetică comună, fie influență reciprocă.
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Dacă datăm pe Avdie în sec. VI î.Hr., el este contemporan cu Ieremia. Ambii profeți au trăit tragedia căderii Ierusalimului și au profețit împotriva Edomului. Ieremia 49:7-22 conține profeții similare cu cele din Avdie, ceea ce sugerează o legătură profundă între cei doi profeți.
 
-### [[personalitati:iona|Profetul Iona]] (sec. VIII î.Hr.)
+### [[personalitati/iona|Profetul Iona]] (sec. VIII î.Hr.)
 Dacă plasăm pe Avdie mai devreme în istorie, el ar fi fost un contemporan apropiat al lui Iona. În timp ce Iona vestește judecata asupra Ninivei (Asiria), Avdie se concentrează pe Edom — ambii profeți fiind trimiși cu un mesaj adresat neamurilor, nu lui Israel.
 
 ### Profetul Obadia din timpul lui Ahab

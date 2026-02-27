@@ -58,10 +58,10 @@ Amos este menționat indirect printre profeții care au vestit judecata și rest
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:osea|Profetul Osea]] (sec. VIII î.Hr.)
+### [[personalitati/osea|Profetul Osea]] (sec. VIII î.Hr.)
 Contemporan cu Amos, a profețit și el în Regatul de Nord în timpul lui Ieroboam al II-lea. Amândoi au denunțat corupția lui Israel, dar din perspective complementare: Amos prin prisma dreptății sociale, Osea prin prisma dragostei rănite a lui Dumnezeu. Împreună, cei doi profeți oferă o imagine completă a relației dintre Dumnezeu și Israel.
 
-### [[personalitati:isaia|Profetul Isaia]] (sec. VIII î.Hr.)
+### [[personalitati/isaia|Profetul Isaia]] (sec. VIII î.Hr.)
 Contemporan mai tânăr, a profețit în Regatul de Sud (Iuda). Isaia continuă și dezvoltă temele dreptății sociale inițiate de Amos, dar le integrează într-o viziune mesianică mai amplă. Amândoi cer dreptate pentru sărmani și văduve ca expresie a credinței autentice.
 
 ### Regele Ieroboam al II-lea (c. 786-746 î.Hr.)

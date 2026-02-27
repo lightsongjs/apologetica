@@ -9,7 +9,7 @@ order: 22
 
 Damascul (în ebraică: דַּמֶּשֶׂק, în greacă: Δαμασκός) este unul dintre cele mai vechi orașe locuitorite continuu din lume, situat în oaza fertilă de la poalele Muntelui Hermon, în Siria. În istoria biblică, Damascul apare din timpurile patriarhilor — Eliezer, slujitorul lui Avraam, era din Damasc (Facerea 15:2).
 
-Pentru creștinism, Damascul este locul convertirii lui Saul/[[personalitati:pavel|Pavel]] — poate cel mai important eveniment din istoria Bisericii după Învierea și Cincizecimea. Pe drumul Damascului, Hristos Cel Înviat i Se arată lui Saul în lumină orbitoare, transformând cel mai mare persecutor al Bisericii în cel mai mare apostol al ei.
+Pentru creștinism, Damascul este locul convertirii lui Saul/[[personalitati/pavel|Pavel]] — poate cel mai important eveniment din istoria Bisericii după Învierea și Cincizecimea. Pe drumul Damascului, Hristos Cel Înviat i Se arată lui Saul în lumină orbitoare, transformând cel mai mare persecutor al Bisericii în cel mai mare apostol al ei.
 
 La Damasc, Anania îl botează pe Pavel, redându-i vederea. Tot la Damasc, Pavel începe să predice în sinagogi că Iisus este Fiul lui Dumnezeu (Faptele Apostolilor 9:20), uimind pe toți. Și tot din Damasc Pavel este coborât noaptea într-un coș pe zid, fugind de complotul iudeilor (Faptele Apostolilor 9:25; 2 Corinteni 11:33).
 
@@ -19,7 +19,7 @@ La Damasc, Anania îl botează pe Pavel, redându-i vederea. Tot la Damasc, Pave
 Prima mențiune biblică: Avraam spune că moștenitorul casei sale este „Eliezer din Damasc" (Facerea 15:2). Damascul apare astfel din primele pagini ale istoriei mântuirii.
 
 ### Războaiele lui David și ale regilor
-David cucerește Damascul și pune garnizoană (2 Regi 8:5-6). Mai târziu, Damascul devine capitala regatului aramean, dușman frecvent al lui Israel. [[personalitati:elisei|Elisei]] vine la Damasc și profețește lui Hazael (2 Regi 8:7-15). [[personalitati:isaia|Isaia]] profețește căderea Damascului (Isaia 17:1).
+David cucerește Damascul și pune garnizoană (2 Regi 8:5-6). Mai târziu, Damascul devine capitala regatului aramean, dușman frecvent al lui Israel. [[personalitati/elisei|Elisei]] vine la Damasc și profețește lui Hazael (2 Regi 8:7-15). [[personalitati/isaia|Isaia]] profețește căderea Damascului (Isaia 17:1).
 
 ### Convertirea lui Saul pe drumul Damascului (c. 36 d.Hr.)
 Saul, „suflând amenințare și ucidere împotriva ucenicilor Domnului" (Faptele Apostolilor 9:1), merge spre Damasc cu scrisori de la marii preoți. Pe drum, „deodată a strălucit împrejurul lui o lumină din cer. Și căzând la pământ, a auzit un glas zicându-i: Saule, Saule, de ce Mă prigonești?" (Faptele Apostolilor 9:3-4). Orbește trei zile.
@@ -49,13 +49,13 @@ Fuga din Damasc: „În Damasc, dregătorul regelui Areta păzea cetatea... și 
 
 ## Personalități legate de acest loc
 
-### [[personalitati:pavel|Sfântul Apostol Pavel]]
+### [[personalitati/pavel|Sfântul Apostol Pavel]]
 Convertit pe drumul Damascului, botezat în Damasc, predicator în sinagogile Damascului, fugit din Damasc. Acest oraș este locul nașterii sale spirituale.
 
 ### Anania din Damasc
 Ucenicul căruia Dumnezeu i-a poruncit să meargă la Pavel. Anania ezită: „Doamne, am auzit de la mulți despre omul acesta, câte rele a făcut sfinților Tăi în Ierusalim." Dar se supune și îl botează pe persecutor. Un act de curaj și ascultare extraordinar.
 
-### [[personalitati:elisei|Sfântul Proroc Elisei]]
+### [[personalitati/elisei|Sfântul Proroc Elisei]]
 A vizitat Damascul și a profețit lui Hazael că va deveni rege al Siriei (2 Regi 8:7-15).
 
 ## Versete cheie

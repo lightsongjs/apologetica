@@ -11,7 +11,7 @@ Muntele Măslinilor (în ebraică: הַר הַזֵּיתִים — Har haZeitim;
 
 Muntele Măslinilor este legat de cele mai profunde momente ale vieții lui Hristos: aici Se retrăgea în rugăciune, de aici a intrat triumfal în Ierusalim în Duminica Floriilor, aici a rostit discursul escatologic despre sfârșitul lumii, la poalele sale a suferit agonia din Ghetsimani, și de pe vârful său S-a înălțat la cer.
 
-În Vechiul Testament, [[personalitati:iezechiel|Iezechiel]] vede slava Domnului părăsind Templul și oprindu-se pe Muntele Măslinilor (Iezechiel 11:23). [[personalitati:zaharia|Zaharia]] profețește: „Picioarele Lui vor sta în ziua aceea pe Muntele Măslinilor" (Zaharia 14:4). David fuge de Abesalom urcând Muntele Măslinilor plângând (2 Regi 15:30).
+În Vechiul Testament, [[personalitati/iezechiel|Iezechiel]] vede slava Domnului părăsind Templul și oprindu-se pe Muntele Măslinilor (Iezechiel 11:23). [[personalitati/zaharia|Zaharia]] profețește: „Picioarele Lui vor sta în ziua aceea pe Muntele Măslinilor" (Zaharia 14:4). David fuge de Abesalom urcând Muntele Măslinilor plângând (2 Regi 15:30).
 
 ## Evenimente biblice
 
@@ -19,13 +19,13 @@ Muntele Măslinilor este legat de cele mai profunde momente ale vieții lui Hris
 „Iar David urca pe suișul Muntelui Măslinilor, plângând pe când mergea, cu capul acoperit și cu picioarele goale" (2 Regi 15:30) — prefigurare a lui Hristos care urcă același munte spre Patimile Sale.
 
 ### Slava Domnului pe Muntele Măslinilor (Iezechiel 11:23)
-[[personalitati:iezechiel|Iezechiel]] vede în viziune slava lui Dumnezeu părăsind Templul și oprindu-se pe Muntele Măslinilor — prefigurare a Înălțării lui Hristos de pe același munte.
+[[personalitati/iezechiel|Iezechiel]] vede în viziune slava lui Dumnezeu părăsind Templul și oprindu-se pe Muntele Măslinilor — prefigurare a Înălțării lui Hristos de pe același munte.
 
 ### Intrarea triumfală în Ierusalim — Duminica Floriilor
 Iisus coboară de pe Muntele Măslinilor pe un mânz de asină. „Și apropiindu-Se, când a văzut cetatea, a plâns pentru ea" (Luca 19:41). Mulțimile strigă: „Osana! Binecuvântat este Cel ce vine întru numele Domnului!" (Marcu 11:9).
 
 ### Discursul escatologic (Matei 24-25)
-Pe Muntele Măslinilor, [[personalitati:petru|Petru]], [[personalitati:iacob-zebedeu|Iacob]], [[personalitati:ioan-evanghelistul|Ioan]] și Andrei Îl întreabă pe Iisus: „Spune-ne, când vor fi acestea?" Iisus rostește discursul despre sfârșitul lumii, parusia, cele zece fecioare, talantele și Judecata de Apoi.
+Pe Muntele Măslinilor, [[personalitati/petru|Petru]], [[personalitati/iacob-zebedeu|Iacob]], [[personalitati/ioan-evanghelistul|Ioan]] și Andrei Îl întreabă pe Iisus: „Spune-ne, când vor fi acestea?" Iisus rostește discursul despre sfârșitul lumii, parusia, cele zece fecioare, talantele și Judecata de Apoi.
 
 ### Înălțarea Domnului (40 de zile după Înviere)
 „Și i-a dus afară până spre Betania și, ridicându-Și mâinile, i-a binecuvântat. Și pe când îi binecuvânta, S-a despărțit de ei și S-a înălțat la cer" (Luca 24:50-51). „Și privind ei pe când El Se înălța, iată doi bărbați au stat lângă ei, în haine albe, și au zis: Bărbați galileeni, de ce stați privind la cer? Acest Iisus, Care S-a înălțat de la voi la cer, astfel va și veni" (Faptele Apostolilor 1:10-11).
@@ -46,16 +46,16 @@ Slava Domnului se oprește pe Muntele Măslinilor.
 
 ## Personalități legate de acest loc
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 Martor al Înălțării. Prezent la discursul escatologic.
 
-### [[personalitati:ioan-evanghelistul|Sfântul Apostol Ioan]]
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol Ioan]]
 Martor al Înălțării și al discursului escatologic.
 
-### [[personalitati:iezechiel|Sfântul Proroc Iezechiel]]
+### [[personalitati/iezechiel|Sfântul Proroc Iezechiel]]
 A văzut în viziune slava Domnului oprită pe Muntele Măslinilor.
 
-### [[personalitati:zaharia|Sfântul Proroc Zaharia]]
+### [[personalitati/zaharia|Sfântul Proroc Zaharia]]
 A profețit că „picioarele Lui vor sta pe Muntele Măslinilor" — profeție împlinită la Înălțare.
 
 ## Versete cheie

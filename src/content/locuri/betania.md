@@ -53,9 +53,9 @@ Prietenul lui Hristos, mort și înviat. Tradiția spune că Lazăr a trăit în
 Sora lui Lazăr, cea care a ales „partea cea bună" (Luca 10:42) și care L-a uns pe Hristos cu mir. Model al contemplației.
 
 ### Marta din Betania
-Sora lui Lazăr, model al slujirii active. Mărturisirea ei — „Cred că Tu ești Hristosul, Fiul lui Dumnezeu" (Ioan 11:27) — rivalizează cu cea a lui [[personalitati:petru|Petru]].
+Sora lui Lazăr, model al slujirii active. Mărturisirea ei — „Cred că Tu ești Hristosul, Fiul lui Dumnezeu" (Ioan 11:27) — rivalizează cu cea a lui [[personalitati/petru|Petru]].
 
-### [[personalitati:petru|Sfântul Apostol Petru]] și apostolii
+### [[personalitati/petru|Sfântul Apostol Petru]] și apostolii
 Martori ai Înălțării lui Hristos din zona Betaniei.
 
 ## Versete cheie

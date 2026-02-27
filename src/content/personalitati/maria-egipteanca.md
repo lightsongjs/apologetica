@@ -41,7 +41,7 @@ Zosima revine după un an și îi aduce Sfânta Împărtășanie la malul Iordan
 ## Surse și scrieri
 
 ### Viața Sfintei Maria Egipteanca — Sfântul Sofronie al Ierusalimului
-Textul hagiografic complet, scris în sec. VII, este cel mai important și mai detaliat izvor. Este citit integral în Joia din Săptămâna a V-a a Postului Mare, la Denia Canonului Mare, împreună cu Marele Canon al Sfântului [[personalitati:andrei-criteanul|Andrei Criteanul]].
+Textul hagiografic complet, scris în sec. VII, este cel mai important și mai detaliat izvor. Este citit integral în Joia din Săptămâna a V-a a Postului Mare, la Denia Canonului Mare, împreună cu Marele Canon al Sfântului [[personalitati/andrei-criteanul|Andrei Criteanul]].
 
 ### Marele Canon al Sfântului Andrei Criteanul
 Troparul Sfintei Maria Egipteanca este intercalat în Canonul cel Mare, legând experiența pocăinței cosmice a canonului de exemplul concret al Mariei.
@@ -51,7 +51,7 @@ Cărțile liturgice ale Postului Mare conțin multiple referințe la Sfânta Mar
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:andrei-criteanul|Sfântul Andrei Criteanul]] (c. 660-740)
+### [[personalitati/andrei-criteanul|Sfântul Andrei Criteanul]] (c. 660-740)
 Autorul Marelui Canon, cu care viața Sfintei Maria este citită împreună în cultul ortodox. Andrei a integrat modelul pocăinței Mariei în cea mai mare operă imnografică a Bisericii.
 
 ### Avva Zosima

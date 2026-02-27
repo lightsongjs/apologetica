@@ -7,11 +7,11 @@ order: 25
 
 ## Descriere
 
-Roma (în latină: Roma, în greacă: Ρώμη), capitala Imperiului Roman și cel mai mare oraș al lumii antice, este locul unde [[personalitati:petru|Sfântul Apostol Petru]] și [[personalitati:pavel|Sfântul Apostol Pavel]] au fost martirizați în timpul persecuției lui Nero (c. 64-67 d.Hr.). Sângele celor doi „Corifei ai Apostolilor" sfințește acest oraș și îl face unul dintre cele mai importante centre ale creștinătății.
+Roma (în latină: Roma, în greacă: Ρώμη), capitala Imperiului Roman și cel mai mare oraș al lumii antice, este locul unde [[personalitati/petru|Sfântul Apostol Petru]] și [[personalitati/pavel|Sfântul Apostol Pavel]] au fost martirizați în timpul persecuției lui Nero (c. 64-67 d.Hr.). Sângele celor doi „Corifei ai Apostolilor" sfințește acest oraș și îl face unul dintre cele mai importante centre ale creștinătății.
 
-La Roma, [[personalitati:pavel|Pavel]] a petrecut doi ani în arest domiciliar (c. 60-62 d.Hr.), predicând liber tuturor celor ce veneau la el (Faptele Apostolilor 28:30-31). De aici a scris epistolele „din captivitate": Efeseni, Filipeni, Coloseni și Filimon. Epistola către Romani — cea mai sistematică operă teologică a Noului Testament — a fost scrisă pentru comunitatea creștină de aici.
+La Roma, [[personalitati/pavel|Pavel]] a petrecut doi ani în arest domiciliar (c. 60-62 d.Hr.), predicând liber tuturor celor ce veneau la el (Faptele Apostolilor 28:30-31). De aici a scris epistolele „din captivitate": Efeseni, Filipeni, Coloseni și Filimon. Epistola către Romani — cea mai sistematică operă teologică a Noului Testament — a fost scrisă pentru comunitatea creștină de aici.
 
-[[personalitati:petru|Petru]] a condus comunitatea din Roma în ultimii ani ai vieții sale. Tradiția, confirmată de Clement al Romei (c. 96 d.Hr.) și de [[personalitati:irineu|Irineu]], spune că Petru a fost răstignit cu capul în jos la Roma, iar Pavel a fost decapitat pe Via Ostiensis. [[personalitati:marcu-evanghelistul|Evanghelia după Marcu]] a fost scrisă la Roma, pe baza predicilor lui Petru.
+[[personalitati/petru|Petru]] a condus comunitatea din Roma în ultimii ani ai vieții sale. Tradiția, confirmată de Clement al Romei (c. 96 d.Hr.) și de [[personalitati/irineu|Irineu]], spune că Petru a fost răstignit cu capul în jos la Roma, iar Pavel a fost decapitat pe Via Ostiensis. [[personalitati/marcu-evanghelistul|Evanghelia după Marcu]] a fost scrisă la Roma, pe baza predicilor lui Petru.
 
 ## Evenimente biblice
 
@@ -25,10 +25,10 @@ De la Roma, Pavel scrie Efeseni, Filipeni, Coloseni, Filimon — epistole care c
 După incendierea Romei (64 d.Hr.), Nero aruncă vina pe creștini. Urmează prima persecuție sistematică. Tacitus relatează despre creștini „îmbrăcați în piei de animale și sfâșiați de câini", „răstigniți" sau „aprinși ca torțe în grădinile lui Nero".
 
 ### Martiriul lui Petru și Pavel (c. 64-67 d.Hr.)
-[[personalitati:petru|Petru]] este răstignit cu capul în jos pe Colina Vaticanului — conform tradiției, el însuși a cerut aceasta, considerându-se nevrednic să moară ca Domnul său. [[personalitati:pavel|Pavel]], ca cetățean roman, este decapitat pe Via Ostiensis. Biserica îi prăznuiește pe amândoi la 29 iunie.
+[[personalitati/petru|Petru]] este răstignit cu capul în jos pe Colina Vaticanului — conform tradiției, el însuși a cerut aceasta, considerându-se nevrednic să moară ca Domnul său. [[personalitati/pavel|Pavel]], ca cetățean roman, este decapitat pe Via Ostiensis. Biserica îi prăznuiește pe amândoi la 29 iunie.
 
 ### Marcu scrie Evanghelia la Roma (c. 55-65 d.Hr.)
-[[personalitati:marcu-evanghelistul|Marcu]], ucenicul lui Petru, scrie Evanghelia la Roma, pe baza predicilor apostolului, la cererea comunității creștine romane.
+[[personalitati/marcu-evanghelistul|Marcu]], ucenicul lui Petru, scrie Evanghelia la Roma, pe baza predicilor apostolului, la cererea comunității creștine romane.
 
 ## Surse scripturistice
 
@@ -46,19 +46,19 @@ Ultima epistolă a lui Pavel, scrisă din a doua captivitate romană: „M-am lu
 
 ## Personalități legate de acest loc
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 Primul episcop al Romei conform tradiției. Martirizat pe Colina Vaticanului.
 
-### [[personalitati:pavel|Sfântul Apostol Pavel]]
+### [[personalitati/pavel|Sfântul Apostol Pavel]]
 Autor al Epistolei către Romani, prizonier la Roma, martirizat pe Via Ostiensis.
 
-### [[personalitati:marcu-evanghelistul|Sfântul Evanghelist Marcu]]
+### [[personalitati/marcu-evanghelistul|Sfântul Evanghelist Marcu]]
 A scris Evanghelia la Roma, pe baza predicilor lui Petru.
 
-### [[personalitati:luca-evanghelistul|Sfântul Evanghelist Luca]]
+### [[personalitati/luca-evanghelistul|Sfântul Evanghelist Luca]]
 L-a însoțit pe Pavel la Roma. „Numai Luca este cu mine" (2 Timotei 4:11).
 
-### [[personalitati:ignatie-teoforul|Sfântul Ignatie Teoforul]]
+### [[personalitati/ignatie-teoforul|Sfântul Ignatie Teoforul]]
 Adus la Roma pentru a fi aruncat fiarelor. A scris pe drum Epistola către Romani: „Sunt grâul lui Dumnezeu și voi fi măcinat de dinții fiarelor."
 
 ## Versete cheie

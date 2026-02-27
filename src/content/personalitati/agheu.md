@@ -57,7 +57,7 @@ Confirmarea istorică a activității lui Agheu: „Proorocii Agheu și Zaharia,
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:zaharia|Profetul Zaharia]] (sec. VI î.Hr.)
+### [[personalitati/zaharia|Profetul Zaharia]] (sec. VI î.Hr.)
 Contemporan cu Agheu, a profețit în aceeași perioadă și cu același scop: încurajarea reconstrucției Templului. Zaharia a început să profețească la doar două luni după Agheu (octombrie 520 î.Hr.) și mesajele lor se completează reciproc — Agheu se concentrează pe urgența practică a reconstrucției, iar Zaharia pe viziunile mesianice și escatologice.
 
 ### Zorobabel (guvernatorul lui Iuda)
@@ -66,7 +66,7 @@ Nepotul regelui Ioiachin, din neamul lui David, conducătorul politic al comunit
 ### Iosua, fiul lui Ioțadac (marele preot)
 Primul mare preot al celui de-al doilea Templu, partenerul lui Zorobabel în conducerea comunității. Agheu i se adresează direct, alături de Zorobabel, în toate profețiile sale.
 
-### [[personalitati:maleahi|Profetul Maleahi]] (sec. V î.Hr.)
+### [[personalitati/maleahi|Profetul Maleahi]] (sec. V î.Hr.)
 Ultimul profet al Vechiului Testament, care a profetizat la aproape un secol după Agheu, în Templul deja reconstruit. Maleahi vestește că în acest Templu va veni „Solul Legământului" (Maleahi 3:1) — împlinind promisiunea lui Agheu despre slava mai mare a celui de-al doilea Templu.
 
 ### Regele Darius I Hystaspes (522-486 î.Hr.)

@@ -9,7 +9,7 @@ order: 8
 
 Betleemul, situat la aproximativ opt kilometri sud de Ierusalim, este unul dintre cele mai sfinte locuri din lumea creștină — orașul în care S-a născut Mântuitorul Iisus Hristos. Numele său ebraic, „Bet Lehem", înseamnă „Casa Pâinii", o prefigurare profetică remarcabilă, căci aici S-a născut Cel care avea să Se numească „Pâinea Vieții" (Ioan 6:35). În tradiția ortodoxă, Betleemul este indisolubil legat de taina Întrupării — momentul în care Dumnezeu Cel veșnic a intrat în istorie, luând trup omenesc din Fecioara Maria.
 
-Istoria Betleemului în Sfânta Scriptură începe cu patriarhii. Aici a fost îngropată Rahela, soția lui Iacov, care a murit la nașterea lui Beniamin (Facerea 35:19). Apoi, în vremea Judecătorilor, Betleemul a fost scena povestirii Rutei, moabiteanca care, prin credința ei, a intrat în genealogia lui Hristos. Mai târziu, aici s-a născut regele David, uns de [[personalitati:samuel|Profetul Samuel]], și aici s-a împlinit profeția lui [[personalitati:miheia|Miheia]] despre nașterea Mesiei.
+Istoria Betleemului în Sfânta Scriptură începe cu patriarhii. Aici a fost îngropată Rahela, soția lui Iacov, care a murit la nașterea lui Beniamin (Facerea 35:19). Apoi, în vremea Judecătorilor, Betleemul a fost scena povestirii Rutei, moabiteanca care, prin credința ei, a intrat în genealogia lui Hristos. Mai târziu, aici s-a născut regele David, uns de [[personalitati/samuel|Profetul Samuel]], și aici s-a împlinit profeția lui [[personalitati/miheia|Miheia]] despre nașterea Mesiei.
 
 Biserica Nașterii Domnului din Betleem, construită inițial de Sfântul Împărat Constantin cel Mare în secolul al IV-lea, este cea mai veche biserică creștină aflată în uz continuu. Peștera Nașterii, situată sub altar, este marcată de o stea de argint cu paisprezece colțuri, simbolizând cele paisprezece generații enumerate în genealogia lui Hristos de la Avraam la David. Patriarhia Ortodoxă a Ierusalimului are grijă de o parte semnificativă a acestui sfânt locaș.
 
@@ -25,11 +25,11 @@ Rut, moabiteanca, a venit la Betleem împreună cu soacra ei Noemi, mărturisind
 
 ### Ungerea lui David de către Samuel (cca. 1025 î.Hr.)
 
-Dumnezeu l-a trimis pe [[personalitati:samuel|Profetul Samuel]] la Betleem, în casa lui Iesei, pentru a unge pe noul rege al lui Israel. Samuel a uns pe cel mai mic dintre fiii lui Iesei — David, „cel cu ochi frumoși" — și „Duhul Domnului s-a pogorât asupra lui David din ziua aceea" (1 Regi 16:13). Astfel, Betleemul a devenit „Cetatea lui David", un titlu care va primi o semnificație mesianică profundă.
+Dumnezeu l-a trimis pe [[personalitati/samuel|Profetul Samuel]] la Betleem, în casa lui Iesei, pentru a unge pe noul rege al lui Israel. Samuel a uns pe cel mai mic dintre fiii lui Iesei — David, „cel cu ochi frumoși" — și „Duhul Domnului s-a pogorât asupra lui David din ziua aceea" (1 Regi 16:13). Astfel, Betleemul a devenit „Cetatea lui David", un titlu care va primi o semnificație mesianică profundă.
 
 ### Profeția lui Miheia (cca. 735 î.Hr.)
 
-[[personalitati:miheia|Profetul Miheia]] a rostit una dintre cele mai precise profeții mesianice: „Și tu, Betleeme Efrata, deși ești mic între miile lui Iuda, din tine va ieși Stăpânitor în Israel, iar obârșia Lui este din început, din zilele veșniciei" (Miheia 5:1). Această profeție, veche de peste șapte secole înainte de Hristos, a indicat cu exactitate locul Nașterii Mesiei.
+[[personalitati/miheia|Profetul Miheia]] a rostit una dintre cele mai precise profeții mesianice: „Și tu, Betleeme Efrata, deși ești mic între miile lui Iuda, din tine va ieși Stăpânitor în Israel, iar obârșia Lui este din început, din zilele veșniciei" (Miheia 5:1). Această profeție, veche de peste șapte secole înainte de Hristos, a indicat cu exactitate locul Nașterii Mesiei.
 
 ### Nașterea Domnului Iisus Hristos
 
@@ -55,11 +55,11 @@ Sosirea Rutei și a Noemiei la Betleem, căsătoria cu Booz și nașterea lui Ob
 
 ### 1 Regi 16:1-13
 
-[[personalitati:samuel|Samuel]] este trimis de Dumnezeu la Betleem, în casa lui Iesei, pentru a unge pe David ca rege al lui Israel.
+[[personalitati/samuel|Samuel]] este trimis de Dumnezeu la Betleem, în casa lui Iesei, pentru a unge pe David ca rege al lui Israel.
 
 ### Miheia 5:1 (5:2 în unele traduceri)
 
-[[personalitati:miheia|Miheia]] profețește că din Betleem va ieși Conducătorul lui Israel, a cărui obârșie este din veșnicie — cea mai precisă profeție despre locul Nașterii lui Mesia.
+[[personalitati/miheia|Miheia]] profețește că din Betleem va ieși Conducătorul lui Israel, a cărui obârșie este din veșnicie — cea mai precisă profeție despre locul Nașterii lui Mesia.
 
 ### Matei 2:1-12
 
@@ -71,13 +71,13 @@ Recensământul lui Augustus, nașterea lui Hristos în iesle, vestirea păstori
 
 ## Personalități legate de acest loc
 
-### [[personalitati:samuel|Sfântul Profet Samuel]]
+### [[personalitati/samuel|Sfântul Profet Samuel]]
 
 Samuel a fost trimis de Dumnezeu la Betleem pentru a unge pe David rege, alegând pe cel mai mic dintre fiii lui Iesei. Prin acest act, Samuel a înscris Betleemul în istoria mântuirii ca „Cetatea lui David", din care avea să Se nască Mesia.
 
-### [[personalitati:miheia|Sfântul Profet Miheia]]
+### [[personalitati/miheia|Sfântul Profet Miheia]]
 
-Miheia, contemporan cu [[personalitati:isaia|Isaia]], a rostit profeția despre Betleem ca loc al nașterii Mesiei. Profeția sa a fost atât de cunoscută, încât atunci când Irod a întrebat pe cărturari unde trebuia să Se nască Hristosul, aceștia au citat imediat cuvintele lui Miheia.
+Miheia, contemporan cu [[personalitati/isaia|Isaia]], a rostit profeția despre Betleem ca loc al nașterii Mesiei. Profeția sa a fost atât de cunoscută, încât atunci când Irod a întrebat pe cărturari unde trebuia să Se nască Hristosul, aceștia au citat imediat cuvintele lui Miheia.
 
 ## Versete cheie
 

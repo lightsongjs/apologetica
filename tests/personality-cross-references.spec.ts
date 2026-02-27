@@ -14,17 +14,17 @@ function loadAllPersonalities() {
   });
 }
 
-/** Extract all [[personalitati:slug|...]] wiki-links from content */
+/** Extract all [[personalitati/slug|...]] wiki-links from content */
 function extractWikiLinks(content: string): Array<{ slug: string; display: string }> {
   const links: Array<{ slug: string; display: string }> = [];
-  // With display text: [[personalitati:slug|display]]
-  const withDisplay = /\[\[personalitati:([^\]|]+)\|([^\]]+)\]\]/g;
+  // With display text: [[personalitati/slug|display]]
+  const withDisplay = /\[\[personalitati\/([^\]|]+)\|([^\]]+)\]\]/g;
   let match;
   while ((match = withDisplay.exec(content)) !== null) {
     links.push({ slug: match[1], display: match[2] });
   }
-  // Without display text: [[personalitati:slug]]
-  const withoutDisplay = /\[\[personalitati:([^\]|]+)\]\]/g;
+  // Without display text: [[personalitati/slug]]
+  const withoutDisplay = /\[\[personalitati\/([^\]|]+)\]\]/g;
   while ((match = withoutDisplay.exec(content)) !== null) {
     // Skip if already captured by the with-display regex
     if (!links.some(l => l.slug === match[1])) {
@@ -36,15 +36,19 @@ function extractWikiLinks(content: string): Array<{ slug: string; display: strin
 
 /** Extract the "Contemporani și rude spirituale" section content */
 function extractContemporariesSection(content: string): string {
+  // Normalize line endings first
+  const normalized = content.replace(/\r\n/g, '\n');
   const sectionRegex = /## Contemporani și rude spirituale\n([\s\S]*?)(?=\n## |\n---|$)/;
-  const match = content.match(sectionRegex);
+  const match = normalized.match(sectionRegex);
   return match ? match[1] : '';
 }
 
 /** Extract the "Surse și scrieri" section content */
 function extractSourcesSection(content: string): string {
+  // Normalize line endings first
+  const normalized = content.replace(/\r\n/g, '\n');
   const sectionRegex = /## Surse și scrieri\n([\s\S]*?)(?=\n## |\n---|$)/;
-  const match = content.match(sectionRegex);
+  const match = normalized.match(sectionRegex);
   return match ? match[1] : '';
 }
 
@@ -66,7 +70,7 @@ test.describe('Personality cross-references', () => {
     expect(missing, `Missing personality files:\n${missing.join('\n')}`).toHaveLength(0);
   });
 
-  test('every wiki-link in Contemporani must be reciprocal', () => {
+  test('every wiki-link in Contemporani must be reciprocal (anywhere in file)', () => {
     const missingReciprocal: string[] = [];
 
     for (const { slug, content } of personalities) {
@@ -92,6 +96,46 @@ test.describe('Personality cross-references', () => {
     expect(
       missingReciprocal,
       `Missing reciprocal links:\n${missingReciprocal.join('\n')}`
+    ).toHaveLength(0);
+  });
+
+  test('Contemporani links must be reciprocal IN THE CONTEMPORANI SECTION', () => {
+    const missingReciprocal: string[] = [];
+
+    for (const { slug, content } of personalities) {
+      const section = extractContemporariesSection(content);
+      const links = extractWikiLinks(section);
+
+      for (const link of links) {
+        // Find the target file
+        const target = personalities.find(p => p.slug === link.slug);
+        if (!target) continue; // Covered by the "file must exist" test
+
+        // Check if the target links back to this file IN THEIR CONTEMPORANI SECTION
+        const targetContemporariesSection = extractContemporariesSection(target.content);
+        const targetContemporariesLinks = extractWikiLinks(targetContemporariesSection);
+        const linksBackInContemporaries = targetContemporariesLinks.some(l => l.slug === slug);
+
+        if (!linksBackInContemporaries) {
+          // Check if target links back somewhere else (for better error message)
+          const targetAllLinks = extractWikiLinks(target.content);
+          const linksBackAnywhere = targetAllLinks.some(l => l.slug === slug);
+
+          if (linksBackAnywhere) {
+            missingReciprocal.push(
+              `${slug} → ${link.slug} in Contemporani, but ${link.slug} links back to ${slug} OUTSIDE Contemporani section (should be IN Contemporani)`
+            );
+          } else {
+            missingReciprocal.push(
+              `${slug} → ${link.slug} in Contemporani, but ${link.slug} does NOT link back to ${slug} at all`
+            );
+          }
+        }
+      }
+    }
+    expect(
+      missingReciprocal,
+      `Missing reciprocal Contemporani links:\n${missingReciprocal.join('\n')}`
     ).toHaveLength(0);
   });
 

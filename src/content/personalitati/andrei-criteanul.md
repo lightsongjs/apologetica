@@ -61,9 +61,6 @@ A lăsat o colecție de omilii pentru marile sărbători, caracterizate prin elo
 **Lauda Maicii Domnului**
 Omilii dedicate venerării Theotokos, reflectând devotamentul său profund față de Maica Domnului.
 
-### Viața [[personalitati:maria-egipteanca|Sfintei Maria Egipteanca]]
-I se atribuie redactarea sau cel puțin popularizarea narațiunii despre Sfânta Maria Egipteanca, care este citită în timpul cântării Marelui Canon în Joia din Săptămâna a V-a a Postului Mare.
-
 ## Contemporani și rude spirituale
 
 ### Sfântul Ioan Damaschin (c. 675-749)
@@ -83,6 +80,9 @@ Frate adoptiv al Sfântului Ioan Damaschin și el însuși un mare imnograf. Îm
 
 ### Sfântul Gherman, Patriarhul Constantinopolului (634-740)
 Patriarh în timpul carierei lui Andrei, apărător al icoanelor și coleg în lupta împotriva primelor tendințe iconoclaste.
+
+### [[personalitati/maria-egipteanca|Sfânta Maria Egipteanca]] (†c. 421)
+Deși Maria a trăit cu secole înainte de Andrei, el i se atribuie redactarea sau popularizarea narațiunii despre viața sa, care este citită în timpul cântării Marelui Canon în Joia din Săptămâna a V-a a Postului Mare.
 
 ## Versete cheie din epistolele sale
 

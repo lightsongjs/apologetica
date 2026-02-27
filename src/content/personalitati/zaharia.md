@@ -60,13 +60,13 @@ Confirmarea istorică: „Profeții Agheu și Zaharia au profetizat iudeilor" ș
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:agheu|Profetul Agheu]] (sec. VI î.Hr.)
+### [[personalitati/agheu|Profetul Agheu]] (sec. VI î.Hr.)
 Contemporan și coleg în slujirea profetică, Agheu a profețit cu două luni înainte de Zaharia și s-a concentrat pe urgența practică a reconstrucției Templului. Zaharia completează mesajul lui Agheu cu viziuni despre semnificația spirituală și mesianică a Templului restaurat.
 
-### [[personalitati:maleahi|Profetul Maleahi]] (sec. V î.Hr.)
+### [[personalitati/maleahi|Profetul Maleahi]] (sec. V î.Hr.)
 Ultimul profet al Vechiului Testament, care a activat la aproape un secol după Zaharia, în Templul reconstruit. Profețiile mesianice ale lui Zaharia (regele pe asin, cele 30 de arginți, cel străpuns) și cele ale lui Maleahi (Solul Legământului, Ilie, jertfa curată) se completează reciproc, formând împreună imaginea cea mai detaliată a venirii lui Mesia din profeții minori.
 
-### [[personalitati:iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
+### [[personalitati/iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
 Deși Iezechiel a profețit cu câteva decenii mai devreme, viziunea sa despre Templul ceresc (Iezechiel 40-48) este un preludiu spiritual la preocuparea lui Zaharia pentru reconstrucția și semnificația Templului. Ambii au fost preoți-profeți.
 
 ### Zorobabel (guvernatorul lui Iuda)

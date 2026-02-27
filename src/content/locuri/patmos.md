@@ -7,7 +7,7 @@ order: 23
 
 ## Descriere
 
-Patmos (în greacă: Πάτμος) este o mică insulă stâncoasă din Marea Egee, în arhipelagul Dodecanez, cu o suprafață de doar 34 km². Romanii o foloseau ca loc de exil pentru prizonieri politici. Aici a fost exilat [[personalitati:ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] sub împăratul Domițian (c. 95 d.Hr.), și aici a primit viziunile Apocalipsei — ultima carte a Noului Testament.
+Patmos (în greacă: Πάτμος) este o mică insulă stâncoasă din Marea Egee, în arhipelagul Dodecanez, cu o suprafață de doar 34 km². Romanii o foloseau ca loc de exil pentru prizonieri politici. Aici a fost exilat [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] sub împăratul Domițian (c. 95 d.Hr.), și aici a primit viziunile Apocalipsei — ultima carte a Noului Testament.
 
 Peștera Apocalipsei (Σπήλαιο της Αποκαλύψεως), situată pe versantul muntelui între portul Skala și Hora (Chora), este locul tradițional unde Ioan a primit revelațiile. O fisură în stâncă indică locul unde apostolul își odihnea capul, iar o altă fisură este considerată locul prin care vocea divină i-a vorbit.
 
@@ -16,7 +16,7 @@ Patmos este numită „Ierusalimul Egeei" și este unul dintre cele mai importan
 ## Evenimente biblice
 
 ### Exilul Sfântului Ioan (c. 95 d.Hr.)
-Sub persecuția împăratului Domițian, [[personalitati:ioan-evanghelistul|Ioan]] este exilat pe Patmos. „Eu, Ioan... am fost în insula ce se cheamă Patmos, pentru cuvântul lui Dumnezeu și pentru mărturia lui Iisus Hristos" (Apocalipsa 1:9).
+Sub persecuția împăratului Domițian, [[personalitati/ioan-evanghelistul|Ioan]] este exilat pe Patmos. „Eu, Ioan... am fost în insula ce se cheamă Patmos, pentru cuvântul lui Dumnezeu și pentru mărturia lui Iisus Hristos" (Apocalipsa 1:9).
 
 ### Revelația în „Ziua Domnului" (c. 95 d.Hr.)
 „Am fost în duh, în Ziua Domnului, și am auzit în urma mea glas mare, ca de trâmbiță, care zicea: Ce vezi, scrie în carte și trimite celor șapte Biserici" (Apocalipsa 1:10-11). Ioan vede pe Hristos Cel Glorificat, primește mesajele pentru cele șapte Biserici din Asia Mică, apoi viziunile cosmice ale judecății și biruinței finale.
@@ -37,10 +37,10 @@ Efes, Smyrna, Pergam, Tiatira, Sardes, Filadelfia, Laodiceea.
 
 ## Personalități legate de acest loc
 
-### [[personalitati:ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]]
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]]
 Autorul Apocalipsei, exilat pe Patmos. Tradiția spune că, după moartea lui Domițian (96 d.Hr.), Ioan s-a întors la Efes unde a trăit până la moarte naturală.
 
-### [[personalitati:policarp|Sfântul Policarp de Smyrna]]
+### [[personalitati/policarp|Sfântul Policarp de Smyrna]]
 Ucenic al lui Ioan. Smyrna este una dintre cele șapte Biserici cărora le scrie Ioan — singura care primește doar laude: „Fii credincios până la moarte și îți voi da cununa vieții" (Apocalipsa 2:10).
 
 ## Versete cheie

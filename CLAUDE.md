@@ -15,7 +15,7 @@ npx playwright test tests/personality-cross-references.spec.ts
 ```
 
 This test checks that:
-- Every `[[personalitati:slug]]` wiki-link points to an existing `.md` file
+- Every `[[personalitati/slug]]` wiki-link points to an existing `.md` file
 - Every link in Contemporani is reciprocal (if A links to B, B must link back to A)
 - Every link in Surse is reciprocal
 - Any personality name mentioned in plain text that has a matching `.md` file is flagged (must use a wiki-link instead)
@@ -71,7 +71,7 @@ order: 1
 Textul principal al răspunsului. Poate conține:
 - Subtitluri `### Subtitlu`
 - **Bold**, *italic*, liste
-- Wiki-links: [[slug-tema|Text afișat]] sau [[slug-tema]]
+- Wiki-links: `[[teme/slug|Text afișat]]`, `[[personalitati/slug]]`, `[[locuri/slug]]`
 
 ## Versete cheie
 
@@ -113,14 +113,25 @@ Wiki-links către alte teme sunt și ele acceptate în corpul fișierelor temă.
 
 ## Wiki-links
 
-Syntax Obsidian-style, resolved before Markdown rendering in conversations:
+Obsidian-compatible folder-based syntax, resolved at build-time before Markdown rendering:
 
-- `[[slug|display text]]` → `[display text](/teme/slug)`
-- `[[slug]]` → `[slug](/teme/slug)`
+**Teme (theological themes):**
+- `[[teme/slug|display text]]` → `[display text](/teme/slug)`
+- `[[teme/slug]]` → `[slug](/teme/slug)`
 
-The slug must match a filename (without `.md`) in `src/content/teme/`.
+**Personalități (personalities):**
+- `[[personalitati/slug|display text]]` → `[display text](/personalitati/slug)`
+- `[[personalitati/slug]]` → `[slug](/personalitati/slug)`
 
-Implementation: `src/lib/wiki-links.ts` — applied to "Răspunsul ortodox" and "Argumente suplimentare" sections.
+**Locuri (biblical places):**
+- `[[locuri/slug|display text]]` → `[display text](/locuri/slug)`
+- `[[locuri/slug]]` → `[slug](/locuri/slug)`
+
+The slug must match a filename (without `.md`) in the respective collection folder (`src/content/teme/`, `src/content/personalitati/`, `src/content/locuri/`).
+
+**Editor compatibility**: Using folder-based paths (`collection/slug`) instead of colon separators enables direct file navigation in Obsidian and LazyVim (via `gf` or Telescope). The `/` syntax is compatible with Windows filesystems and standard markdown editors.
+
+Implementation: `src/lib/wiki-links.ts` — applied to conversation responses, personality pages, theme pages, and place pages.
 
 ---
 

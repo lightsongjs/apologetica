@@ -49,13 +49,13 @@ Osea este citat de mai multe ori în Noul Testament. Matei 2:15 citează „Din 
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:isaia|Profetul Isaia]] (sec. VIII î.Hr.)
+### [[personalitati/isaia|Profetul Isaia]] (sec. VIII î.Hr.)
 Contemporan cu Osea, a profețit în Regatul de Sud (Iuda) în aceeași perioadă. Amândoi au trăit amenințarea asiriană, dar dintr-o perspectivă diferită: Osea în Israelul de Nord condamnat la pieire, Isaia în Iuda care va supraviețui. Isaia a pus accentul pe sfințenia lui Dumnezeu, Osea pe dragostea Lui.
 
-### [[personalitati:amos|Profetul Amos]] (sec. VIII î.Hr.)
+### [[personalitati/amos|Profetul Amos]] (sec. VIII î.Hr.)
 Contemporan cu Osea, a profețit și el în Regatul de Nord în timpul lui Ieroboam al II-lea. Amândoi au denunțat nedreptatea socială și corupția religioasă a lui Israel, dar din perspective complementare: Amos prin prisma dreptății divine, Osea prin prisma dragostei rănite a lui Dumnezeu.
 
-### [[personalitati:miheia|Profetul Miheia]] (sec. VIII î.Hr.)
+### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan mai tânăr, a profețit în Iuda în aceeași perioadă. Miheia a prezis nașterea lui Mesia în Betleem (Miheia 5:2) și, ca și Osea, a cerut „milă, nu jertfă" (Miheia 6:8).
 
 ## Versete cheie din epistolele sale

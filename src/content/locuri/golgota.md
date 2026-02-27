@@ -21,7 +21,7 @@ Iisus este dus la Golgota purtând Crucea. „Și L-au răstignit, și au împă
 ### Cele șapte cuvinte de pe Cruce
 1. „Părinte, iartă-le lor, că nu știu ce fac" (Luca 23:34)
 2. „Adevărat grăiesc ție, astăzi vei fi cu Mine în Rai" — tâlharului pocăit (Luca 23:43)
-3. „Femeie, iată fiul tău!" / „Iată mama ta!" — către Maria și [[personalitati:ioan-evanghelistul|Ioan]] (Ioan 19:26-27)
+3. „Femeie, iată fiul tău!" / „Iată mama ta!" — către Maria și [[personalitati/ioan-evanghelistul|Ioan]] (Ioan 19:26-27)
 4. „Eli, Eli, lama sabahtani?" — „Dumnezeul Meu, Dumnezeul Meu, de ce M-ai părăsit?" (Matei 27:46)
 5. „Mi-e sete" (Ioan 19:28)
 6. „Săvârșitu-s-a!" (Ioan 19:30)
@@ -46,13 +46,13 @@ Cele patru narațiuni ale Răstignirii — fiecare cu detalii unice.
 
 ## Personalități legate de acest loc
 
-### [[personalitati:ioan-evanghelistul|Sfântul Apostol Ioan]]
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol Ioan]]
 Singurul apostol prezent la Cruce. Primește grija Maicii Domnului: „Iată mama ta!" (Ioan 19:27).
 
 ### Maica Domnului
 Stă lângă Cruce în durere negrăită. Împlinirea profeției lui Simeon: „Și prin sufletul tău va trece sabie" (Luca 2:35).
 
-### [[personalitati:isaia|Sfântul Proroc Isaia]]
+### [[personalitati/isaia|Sfântul Proroc Isaia]]
 Profetul Robului Suferind (Isaia 53) — cea mai detaliată profeție veterotestamentară a Patimilor.
 
 ### Tâlharul cel bun

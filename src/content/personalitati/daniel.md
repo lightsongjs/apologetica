@@ -51,10 +51,10 @@ Profeție cronologică: 70 de „săptămâni" (490 de ani) de la porunca de a r
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan mai în vârstă, a rămas în Ierusalim și apoi în Egipt, în timp ce Daniel era la curtea babiloniană. Amândoi au trăit căderea Ierusalimului din 586 î.Hr., dar din perspective diferite — Ieremia ca martor direct, Daniel din exil.
 
-### [[personalitati:iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
+### [[personalitati/iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
 Contemporan în exilul babilonian. Iezechiel îl menționează pe Daniel ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14), deși Daniel era încă în viață.
 
 ### Regele Nebucadnețar (605-562 î.Hr.)
@@ -63,10 +63,10 @@ Cel mai puternic rege al Babilonului. Daniel i-a interpretat visele și l-a sfă
 ### Regele Cirus cel Mare (559-530 î.Hr.)
 Fondatorul Imperiului Persan, care a cucerit Babilonul și a eliberat iudeii să se întoarcă în Iuda (Edictul din 538 î.Hr.). Daniel a continuat să slujească sub el.
 
-### [[personalitati:anania|Anania]], [[personalitati:azaria|Azaria]] și Misail
+### [[personalitati/anania|Anania]], [[personalitati/azaria|Azaria]] și Misail
 Cei trei tineri iudei, prietenii lui Daniel, aruncați în cuptorul de foc. Cântarea lor din cuptorul de foc este parte a cultului ortodox (Cântarea a 7-a și a 8-a din canon).
 
-### [[personalitati:avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
+### [[personalitati/avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
 Conform tradiției ortodoxe din suplimentul deuterocanonic „Bel și Balaurul", Avacum a fost transportat miraculos de un înger din Iudeea în Babilon pentru a-i duce mâncare lui Daniel în groapa cu lei — legătură narativă și liturgică unică între cei doi profeți.
 
 ## Versete cheie din epistolele sale

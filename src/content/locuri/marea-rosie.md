@@ -9,7 +9,7 @@ order: 4
 
 Marea Roșie (în ebraică: Yam Suf — „Marea Trestiilor") este brațul de apă care desparte continentul african de Peninsula Arabică, extinzându-se pe aproximativ 2.250 de kilometri în lungime. Locul exact al trecerii poporului Israel prin Marea Roșie a fost dezbătut de-a lungul secolelor, diferite tradiții identificându-l cu Golful Suez, cu zona lacurilor amare din Istmul Suez sau cu Golful Aqaba. Indiferent de localizarea precisă, evenimentul trecerii prin Marea Roșie este unul dintre cele mai importante momente din istoria mântuirii, marcat liturgic în fiecare an la Paștile evreiesc și reinterpretat sacramental în Taina Botezului creștin.
 
-Trecerea prin Marea Roșie este actul fondator al poporului Israel ca popor liber și al legământului său cu Dumnezeu. Sub conducerea lui [[personalitati:moise|Moise]], poporul a ieșit din robia Egiptului și a traversat marea pe uscat, în timp ce apele, despărțite prin puterea lui Dumnezeu, s-au prăbușit apoi asupra armatei lui Faraon care îi urmărea (Ieșirea 14). Acest eveniment este celebrat în Cântarea lui Moise (Ieșirea 15), unul dintre cele mai vechi și mai frumoase imnuri din Sfânta Scriptură, care se cântă și astăzi în cadrul slujbelor ortodoxe — Cântarea întâia a Canonului fiind inspirată direct din acest text.
+Trecerea prin Marea Roșie este actul fondator al poporului Israel ca popor liber și al legământului său cu Dumnezeu. Sub conducerea lui [[personalitati/moise|Moise]], poporul a ieșit din robia Egiptului și a traversat marea pe uscat, în timp ce apele, despărțite prin puterea lui Dumnezeu, s-au prăbușit apoi asupra armatei lui Faraon care îi urmărea (Ieșirea 14). Acest eveniment este celebrat în Cântarea lui Moise (Ieșirea 15), unul dintre cele mai vechi și mai frumoase imnuri din Sfânta Scriptură, care se cântă și astăzi în cadrul slujbelor ortodoxe — Cântarea întâia a Canonului fiind inspirată direct din acest text.
 
 În teologia ortodoxă, trecerea prin Marea Roșie este tipologia fundamentală a Tainei Sfântului Botez. Precum poporul Israel a trecut prin apă din robie la libertate, din Egipt spre Pământul Făgăduinței, astfel creștinul trece prin apa Botezului din robia păcatului la libertatea fiilor lui Dumnezeu, din moarte la viață. Sfântul Apostol Pavel face explicit această legătură: „Toți în Moise au fost botezați, în nor și în mare" (1 Corinteni 10:2). Apele care au înecat armata lui Faraon prefigurează apele Botezului care îngroapă omul cel vechi al păcatului.
 
@@ -17,11 +17,11 @@ Trecerea prin Marea Roșie este actul fondator al poporului Israel ca popor libe
 
 ### Ieșirea din Egipt și trecerea prin Marea Roșie (cca. sec. XV î.Hr.)
 
-După cele zece urgii care au lovit Egiptul, Faraon a îngăduit în cele din urmă poporului Israel să plece. Dumnezeu i-a condus pe un drum ocolit, prin pustie, spre Marea Roșie, ca nu cumva, văzând războiul, să se întoarcă în Egipt (Ieșirea 13:17-18). Dumnezeu mergea înaintea lor în stâlp de nor ziua și în stâlp de foc noaptea (Ieșirea 13:21). Când Faraon și-a schimbat părerea și a pornit în urmărire cu carele sale de război, poporul s-a aflat prins între armata egipteană și mare. [[personalitati:moise|Moise]] le-a spus: „Nu vă temeți! Stați și veți vedea mântuirea pe care Domnul v-o va da astăzi" (Ieșirea 14:13). La porunca lui Dumnezeu, Moise și-a întins toiagul peste mare, iar Domnul a împins apele printr-un vânt puternic de răsărit, toată noaptea, făcând marea uscat. Poporul a trecut printre doi pereți de apă, iar când armata egipteană a intrat în urmărire, apele s-au întors și au acoperit carele, călăreții și toată oastea lui Faraon (Ieșirea 14:21-28).
+După cele zece urgii care au lovit Egiptul, Faraon a îngăduit în cele din urmă poporului Israel să plece. Dumnezeu i-a condus pe un drum ocolit, prin pustie, spre Marea Roșie, ca nu cumva, văzând războiul, să se întoarcă în Egipt (Ieșirea 13:17-18). Dumnezeu mergea înaintea lor în stâlp de nor ziua și în stâlp de foc noaptea (Ieșirea 13:21). Când Faraon și-a schimbat părerea și a pornit în urmărire cu carele sale de război, poporul s-a aflat prins între armata egipteană și mare. [[personalitati/moise|Moise]] le-a spus: „Nu vă temeți! Stați și veți vedea mântuirea pe care Domnul v-o va da astăzi" (Ieșirea 14:13). La porunca lui Dumnezeu, Moise și-a întins toiagul peste mare, iar Domnul a împins apele printr-un vânt puternic de răsărit, toată noaptea, făcând marea uscat. Poporul a trecut printre doi pereți de apă, iar când armata egipteană a intrat în urmărire, apele s-au întors și au acoperit carele, călăreții și toată oastea lui Faraon (Ieșirea 14:21-28).
 
 ### Cântarea lui Moise și a Mariei
 
-După trecerea prin mare, [[personalitati:moise|Moise]] și fiii lui Israel au cântat Domnului cântarea de biruință: „Să cântăm Domnului, căci cu slavă S-a preaslăvit; pe cal și pe călăreț i-a aruncat în mare. Tăria mea și lauda mea este Domnul, și mi-a fost mie spre mântuire" (Ieșirea 15:1-2). Această cântare, cunoscută sub numele de „Cântarea Mării" sau „Cântarea lui Moise", este cel mai vechi imn de laudă cunoscut din Sfânta Scriptură. Maria, sora lui Moise, a luat timpanul în mână și a condus toate femeile într-un dans de bucurie (Ieșirea 15:20-21). În cultul ortodox, Cântarea lui Moise este Cântarea întâia a Canonului liturgic, cântată zilnic la Utrenie, iar în noaptea Învierii, textul „Pe cal și pe călăreț i-a aruncat în mare" răsună cu o semnificație pascală profundă.
+După trecerea prin mare, [[personalitati/moise|Moise]] și fiii lui Israel au cântat Domnului cântarea de biruință: „Să cântăm Domnului, căci cu slavă S-a preaslăvit; pe cal și pe călăreț i-a aruncat în mare. Tăria mea și lauda mea este Domnul, și mi-a fost mie spre mântuire" (Ieșirea 15:1-2). Această cântare, cunoscută sub numele de „Cântarea Mării" sau „Cântarea lui Moise", este cel mai vechi imn de laudă cunoscut din Sfânta Scriptură. Maria, sora lui Moise, a luat timpanul în mână și a condus toate femeile într-un dans de bucurie (Ieșirea 15:20-21). În cultul ortodox, Cântarea lui Moise este Cântarea întâia a Canonului liturgic, cântată zilnic la Utrenie, iar în noaptea Învierii, textul „Pe cal și pe călăreț i-a aruncat în mare" răsună cu o semnificație pascală profundă.
 
 ### Murmurarea poporului la apa amară de la Mara
 
@@ -29,7 +29,7 @@ La trei zile după trecerea prin mare, poporul a ajuns la Mara, unde apa era ama
 
 ### Cântarea proorocească a lui Moise din Deuteronom
 
-Spre sfârșitul vieții sale, [[personalitati:moise|Moise]] a rostit o a doua cântare (Deuteronomul 32), care cuprinde o retrospectivă a istoriei poporului Israel și o profeție despre viitor. Această cântare este Cântarea a doua a Canonului liturgic ortodox, cântată la Utrenie, completând astfel legătura liturgică cu evenimentele de la Marea Roșie.
+Spre sfârșitul vieții sale, [[personalitati/moise|Moise]] a rostit o a doua cântare (Deuteronomul 32), care cuprinde o retrospectivă a istoriei poporului Israel și o profeție despre viitor. Această cântare este Cântarea a doua a Canonului liturgic ortodox, cântată la Utrenie, completând astfel legătura liturgică cu evenimentele de la Marea Roșie.
 
 ## Surse scripturistice
 
@@ -50,7 +50,7 @@ Trecerea prin Marea Roșie este citată ca exemplu de credință: „Prin credin
 
 ## Personalități legate de acest loc
 
-### [[personalitati:moise|Sfântul Proroc Moise]]
+### [[personalitati/moise|Sfântul Proroc Moise]]
 Moise este conducătorul și mijlocitorul poporului Israel în momentul trecerii prin Marea Roșie. El este cel care, la porunca lui Dumnezeu, și-a întins toiagul peste mare, despărțind apele. Încrederea sa în Dumnezeu, în ciuda împrejurărilor disperate — cu armata egipteană în spate și marea în față — este un model de credință neclintită. Moise este autorul Cântării de biruință (Ieșirea 15), care stă la baza imnografiei ortodoxe. În tradiția liturgică, Moise este pomenit ca prototip al lui Hristos, Care conduce poporul Său din robia păcatului la libertatea Împărăției cerurilor. Biserica Ortodoxă îl prăznuiește pe 4 septembrie.
 
 ### Maria, sora lui Moise

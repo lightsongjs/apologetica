@@ -7,7 +7,7 @@ order: 17
 
 ## Bio
 
-Sfântul Proroc Samuel (în ebraică: שְׁמוּאֵל, „Dumnezeu a auzit / cerut de la Dumnezeu") a fost ultimul judecător al lui Israel și primul dintre marii profeți după [[personalitati:moise|Moise]]. Născut ca rod al rugăciunii stăruitoare a mamei sale Ana, Samuel a fost închinat lui Dumnezeu de la naștere și crescut în Cortul Mărturiei de la Șilo, sub îndrumarea preotului Eli.
+Sfântul Proroc Samuel (în ebraică: שְׁמוּאֵל, „Dumnezeu a auzit / cerut de la Dumnezeu") a fost ultimul judecător al lui Israel și primul dintre marii profeți după [[personalitati/moise|Moise]]. Născut ca rod al rugăciunii stăruitoare a mamei sale Ana, Samuel a fost închinat lui Dumnezeu de la naștere și crescut în Cortul Mărturiei de la Șilo, sub îndrumarea preotului Eli.
 
 Samuel a fost chemat de Dumnezeu încă din copilărie, într-o noapte memorabilă când Domnul i-a vorbit de trei ori, iar copilul a răspuns: „Vorbește, Doamne, că robul Tău ascultă" (1 Regi 3:10). A devenit profet, judecător, preot și conducător al întregului Israel într-o perioadă de criză profundă — de la pierderea Chivotului Legământului în mâna filistenilor până la instaurarea monarhiei.
 
@@ -67,7 +67,7 @@ Primul rege al lui Israel, uns de Samuel din porunca lui Dumnezeu. Început prom
 ### Regele David
 Tânărul păstor din Betleem, ales de Dumnezeu și uns de Samuel ca viitor rege al lui Israel. „Bărbat după inima lui Dumnezeu" (1 Regi 13:14), David devine regele-profet care prefigurează pe Hristos.
 
-### [[personalitati:moise|Sfântul Proroc Moise]]
+### [[personalitati/moise|Sfântul Proroc Moise]]
 Predecesorul spiritual al lui Samuel în rolul de mijlocitor și conducător al poporului. Samuel este considerat al doilea mare mijlocitor al lui Israel după Moise — amândoi au stat între Dumnezeu și popor, purtându-le cauza (Psalmul 98:6).
 
 ## Versete cheie

@@ -27,8 +27,8 @@ Isaia îl sfătuiește pe regele Iezechia să nu se teamă de Sanherib al Asirie
 ### Scrierile despre Robul suferind (perioadă incertă)
 Cele patru „Cântări ale Robului" (Isaia 42, 49, 50, 52-53) descriu cu precizie uimitoare patimile, moartea și învierea lui Hristos, scrise cu secole înainte.
 
-### Martiriul (tradiție, sub [[personalitati:manase|Manase]], c. 686 î.Hr.)
-Tradiția iudaică și creștină spune că Isaia a fost tăiat cu fierăstrăul de lemn din porunca regelui [[personalitati:manase|Manase]]. Epistola către Evrei 11:37 face posibil aluzie la acest eveniment.
+### Martiriul (tradiție, sub [[personalitati/manase|Manase]], c. 686 î.Hr.)
+Tradiția iudaică și creștină spune că Isaia a fost tăiat cu fierăstrăul de lemn din porunca regelui [[personalitati/manase|Manase]]. Epistola către Evrei 11:37 face posibil aluzie la acest eveniment.
 
 ## Surse și scrieri
 
@@ -57,16 +57,19 @@ Cea mai detaliată profeție despre patimile lui Hristos din tot Vechiul Testame
 ### Regele Iezechia (c. 715-686 î.Hr.)
 Unul dintre cei mai evlavioși regi ai lui Iuda. Isaia l-a sfătuit în timpul invaziei asiriene și i-a transmis vindecarea de la Dumnezeu când era bolnav de moarte (Isaia 38).
 
-### [[personalitati:miheia|Profetul Miheia]] (sec. VIII î.Hr.)
+### [[personalitati/manase|Regele Manase]] (697-642 î.Hr.)
+Fiul lui Iezechia, care a domnit după el și, conform tradiției, l-a martirizat pe Isaia, tăindu-l cu fierăstrăul de lemn. Contrastul între evlavia lui Iezechia și idolatria lui Manase este dramatic - iar Isaia a plătit cu viața pentru credincioșia sa profetică.
+
+### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan cu Isaia, a profețit în aceeași perioadă. Miheia a prezis nașterea lui Mesia în Betleem (Miheia 5:2).
 
-### [[personalitati:osea|Profetul Osea]] (sec. VIII î.Hr.)
+### [[personalitati/osea|Profetul Osea]] (sec. VIII î.Hr.)
 A profețit în Regatul de Nord (Israel) în aceeași perioadă. Mesajul său s-a concentrat pe dragostea fidelă a lui Dumnezeu față de poporul Său necredincios.
 
-### [[personalitati:amos|Profetul Amos]] (sec. VIII î.Hr.)
+### [[personalitati/amos|Profetul Amos]] (sec. VIII î.Hr.)
 Păstor din Tecoa, chemat de Dumnezeu să profețească în Regatul de Nord în timpul lui Ieroboam al II-lea. Contemporan cu Isaia, Amos a ridicat glasul cel mai puternic al Vechiului Testament în apărarea dreptății sociale, cerând: „Curgă judecata ca apa!" (Amos 5:24).
 
-### [[personalitati:sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
+### [[personalitati/sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
 Profet mai tânăr, a continuat tema „Zilei Domnului" inaugurată de Isaia. Sofonie a profețit în timpul lui Iosia, vestind judecata universală dar și restaurarea unui „rest smerit" — dezvoltând viziunea lui Isaia despre rămășița credincioasă a lui Israel.
 
 ## Versete cheie din epistolele sale

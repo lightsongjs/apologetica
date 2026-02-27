@@ -52,7 +52,7 @@ Elogiul lui Ilie în cartea deuterocanonică: „Atunci s-a sculat Ilie, prooroc
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:elisei|Sfântul Proroc Elisei]]
+### [[personalitati/elisei|Sfântul Proroc Elisei]]
 Ucenicul și urmașul lui Ilie, care a primit „îndoit duhul" lui Ilie la ridicarea acestuia la cer. A continuat și amplificat lucrarea profetică a învățătorului său.
 
 ### Regele Ahab (c. 874-853 î.Hr.)
@@ -64,7 +64,7 @@ Prințesă feniciană, soția lui Ahab, care a impus cultul lui Baal în Israel 
 ### Sfântul Proroc Obadia (majordomul lui Ahab)
 Slujitorul temător de Dumnezeu al lui Ahab, care a ascuns 100 de profeți ai Domnului în peșteri, hrănindu-i cu pâine și apă, în timp ce Izabela îi persecuta (3 Regi 18:3-4).
 
-### [[personalitati:maleahi|Profetul Maleahi]] (sec. V î.Hr.)
+### [[personalitati/maleahi|Profetul Maleahi]] (sec. V î.Hr.)
 Deși au trăit la secole distanță, ultimele cuvinte ale Vechiului Testament (Maleahi 3:23-24/4:5-6) vestesc revenirea lui Ilie: „Iată, Eu vă trimit pe Ilie proorocul, înainte de a veni ziua Domnului cea mare și înfricoșătoare." Hristos confirmă împlinirea parțială prin Sfântul Ioan Botezătorul (Matei 11:14).
 
 ## Versete cheie
@@ -83,7 +83,7 @@ Deși au trăit la secole distanță, ultimele cuvinte ale Vechiului Testament (
 Ilie este arhetipul zelului profetic — râvna totală pentru Dumnezeul cel Viu în fața idolatriei. Cuvintele sale „Cu râvnă am râvnit pentru Domnul Savaot" (3 Regi 19:10) definesc spiritul profetic.
 
 ### Schimbarea la Față
-Ilie apare alături de [[personalitati:moise|Moise]] la Schimbarea la Față pe Muntele Tabor (Matei 17:3), reprezentând Profeții, în timp ce Moise reprezintă Legea — amândoi mărturisind dumnezeirea lui Hristos.
+Ilie apare alături de [[personalitati/moise|Moise]] la Schimbarea la Față pe Muntele Tabor (Matei 17:3), reprezentând Profeții, în timp ce Moise reprezintă Legea — amândoi mărturisind dumnezeirea lui Hristos.
 
 ### Înaintemergătorul celei de-a doua veniri
 Tradiția ortodoxă, bazată pe Maleahi 4:5 și Apocalipsa 11, învață că Ilie va reveni înainte de a Doua Venire a lui Hristos, pentru a pregăti poporul și a mărturisi adevărul.

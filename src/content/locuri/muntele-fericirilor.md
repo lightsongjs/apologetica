@@ -11,7 +11,7 @@ Muntele Fericirilor (în latină: Mons Beatitudinum) este colina din Galilea und
 
 Localizarea tradițională este o colină blândă pe malul de nord-vest al Mării Galileii, între Capernaum și Ghenizaret. De pe acest loc se deschide o panoramă largă asupra lacului și a colinelor din jur — un amfiteatru natural perfect pentru o mulțime de ascultători.
 
-Predica de pe Munte cuprinde Fericirile (Matei 5:3-12), rugăciunea „Tatăl nostru" (Matei 6:9-13), porunca iubirii vrăjmașilor (Matei 5:44), învățătura despre milostenie, post și rugăciune, și „Regula de aur": „Toate câte voiți să vă facă vouă oamenii, faceți-le și voi lor" (Matei 7:12). În teologia ortodoxă, Predica de pe Munte este noua Lege, dată de noul [[personalitati:moise|Moise]] — Hristos — pe noul Sinai.
+Predica de pe Munte cuprinde Fericirile (Matei 5:3-12), rugăciunea „Tatăl nostru" (Matei 6:9-13), porunca iubirii vrăjmașilor (Matei 5:44), învățătura despre milostenie, post și rugăciune, și „Regula de aur": „Toate câte voiți să vă facă vouă oamenii, faceți-le și voi lor" (Matei 7:12). În teologia ortodoxă, Predica de pe Munte este noua Lege, dată de noul [[personalitati/moise|Moise]] — Hristos — pe noul Sinai.
 
 ## Evenimente biblice
 
@@ -19,7 +19,7 @@ Predica de pe Munte cuprinde Fericirile (Matei 5:3-12), rugăciunea „Tatăl no
 Iisus urcă pe munte, se așază — gestul rabinului care predică cu autoritate — și deschide gura: „Fericiți cei săraci cu duhul, că a lor este Împărăția cerurilor" (Matei 5:3). Urmează cele nouă Fericiri, apoi învățături despre Lege, milostenie, rugăciune, post, grija pentru ziua de mâine, judecarea aproapelui. Predica se încheie cu parabola celor două case — cea pe stâncă și cea pe nisip.
 
 ### Alegerea celor doisprezece apostoli (Luca 6:12-16)
-Evanghelia după [[personalitati:luca-evanghelistul|Luca]] plasează alegerea celor doisprezece apostoli tot pe munte, înainte de „Predica din câmpie" (Luca 6:17-49) — varianta lucană a Predicii de pe Munte. Iisus Se roagă toată noaptea pe munte, apoi coboară și îi alege pe cei doisprezece.
+Evanghelia după [[personalitati/luca-evanghelistul|Luca]] plasează alegerea celor doisprezece apostoli tot pe munte, înainte de „Predica din câmpie" (Luca 6:17-49) — varianta lucană a Predicii de pe Munte. Iisus Se roagă toată noaptea pe munte, apoi coboară și îi alege pe cei doisprezece.
 
 ### Înmulțirea pâinilor (în apropierea muntelui)
 Tradiția asociază zona din jurul Muntelui Fericirilor cu înmulțirea pâinilor pentru cele cinci mii (Matei 14:13-21), deși localizarea exactă este la Tabgha, la poalele colinei.
@@ -27,20 +27,20 @@ Tradiția asociază zona din jurul Muntelui Fericirilor cu înmulțirea pâinilo
 ## Surse scripturistice
 
 ### Matei 5-7 — Predica de pe Munte
-Cel mai lung discurs al lui Iisus în Evanghelii. [[personalitati:matei-evanghelistul|Matei]] organizează învățăturile tematic, prezentând pe Hristos ca noul Legislator care împlinește și desăvârșește Legea lui Moise.
+Cel mai lung discurs al lui Iisus în Evanghelii. [[personalitati/matei-evanghelistul|Matei]] organizează învățăturile tematic, prezentând pe Hristos ca noul Legislator care împlinește și desăvârșește Legea lui Moise.
 
 ### Luca 6:17-49 — Predica din câmpie
 Versiunea mai scurtă a Predicii, cu doar patru Fericiri și patru „Vai". Luca subliniază dimensiunea socială: „Fericiți cei săraci... Vai vouă, bogaților!"
 
 ## Personalități legate de acest loc
 
-### [[personalitati:matei-evanghelistul|Sfântul Evanghelist Matei]]
+### [[personalitati/matei-evanghelistul|Sfântul Evanghelist Matei]]
 Autorul narațiunii celei mai ample a Predicii de pe Munte. Matei prezintă pe Hristos ca noul Moise: precum Moise a dat Legea pe Sinai, Hristos dă noua Lege pe Muntele Fericirilor.
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 Unul dintre apostolii care au ascultat Predica de pe Munte și care au primit chemarea în această zonă a Galileii.
 
-### [[personalitati:moise|Sfântul Proroc Moise]]
+### [[personalitati/moise|Sfântul Proroc Moise]]
 Predica de pe Munte este în relație tipologică directă cu darea Legii pe Sinai. Hristos nu desființează Legea, ci o desăvârșește: „N-am venit să stric, ci să împlinesc" (Matei 5:17).
 
 ## Versete cheie

@@ -9,7 +9,7 @@ order: 45
 
 Sfântul Apostol Barnaba (în greacă: Βαρνάβας, din aramaică: בר נביא — „fiul mângâierii / fiul profeției"), pe numele său adevărat Iosif, era un levit din Cipru. Apostolii i-au dat numele Barnaba — „fiul mângâierii" (Faptele Apostolilor 4:36) — pentru darul său de a încuraja și a consola pe ceilalți.
 
-Barnaba este una dintre cele mai importante figuri ale Bisericii primare, deși nu făcea parte din cei doisprezece apostoli. A fost primul care l-a primit pe [[personalitati:pavel|Saul/Pavel]] după convertire, când toți ceilalți se temeau de el, și l-a introdus pe Pavel în comunitatea apostolilor din Ierusalim (Faptele Apostolilor 9:27). Fără curajul și discernământul lui Barnaba, istoria misiunii pauline — și poate a întregului creștinism — ar fi fost diferită.
+Barnaba este una dintre cele mai importante figuri ale Bisericii primare, deși nu făcea parte din cei doisprezece apostoli. A fost primul care l-a primit pe [[personalitati/pavel|Saul/Pavel]] după convertire, când toți ceilalți se temeau de el, și l-a introdus pe Pavel în comunitatea apostolilor din Ierusalim (Faptele Apostolilor 9:27). Fără curajul și discernământul lui Barnaba, istoria misiunii pauline — și poate a întregului creștinism — ar fi fost diferită.
 
 Împreună cu Pavel, a întreprins prima călătorie misionară (c. 46-48 d.Hr.), propovăduind în Cipru, Antiohia Pisidiei, Iconia, Listra și Derbe. A fost delegat al Bisericii din Ierusalim la Antiohia, unde l-a căutat pe Pavel la Tars și l-a adus acolo să slujească împreună (Faptele Apostolilor 11:25-26). A participat la Sinodul Apostolic din Ierusalim (c. 49 d.Hr.).
 
@@ -60,16 +60,19 @@ Text din perioada apostolică, inclus în unele manuscrise ale Noului Testament 
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:pavel|Sfântul Apostol Pavel]]
+### [[personalitati/pavel|Sfântul Apostol Pavel]]
 Colegul de misiune și cel mai important partener apostolic. Barnaba a fost cel care l-a descoperit pe Pavel pentru Biserică, l-a garantat, l-a adus la Antiohia și a pornit cu el în prima călătorie misionară. Despărțirea lor a fost dureroasă, dar providențială — a dus la două echipe misionare în loc de una.
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 Barnaba a lucrat cu Petru la Ierusalim și la Antiohia. La incidentul din Antiohia (Galateni 2:11-13), Barnaba a fost influențat de atitudinea lui Petru de a se retrage de la masa cu cei din neamuri.
 
-### [[personalitati:marcu-evanghelistul|Ioan Marcu (Sfântul Evanghelist Marcu)]]
+### [[personalitati/marcu-evanghelistul|Ioan Marcu (Sfântul Evanghelist Marcu)]]
 Vărul lui Barnaba (Coloseni 4:10). Barnaba l-a luat pe Marcu în prima călătorie misionară și l-a apărat când Pavel a vrut să-l respingă. Sub îndrumarea lui Barnaba, Marcu s-a maturizat spiritual și a devenit autorul celei de-a doua Evanghelii.
 
-### [[personalitati:iacob-alfeu|Sfântul Apostol Iacob]]
+### [[personalitati/luca-evanghelistul|Sfântul Evanghelist Luca]]
+Autorul Faptelor Apostolilor, în care consemnează rolul crucial al lui Barnaba în primirea lui Pavel și în prima călătorie misionară. Luca scrie despre Barnaba cu respect și admirație, evidențiind generozitatea și discernământul său.
+
+### [[personalitati/iacob-alfeu|Sfântul Apostol Iacob]]
 La Sinodul din Ierusalim, Iacob, episcopul Ierusalimului, a conlucrat cu Barnaba și Pavel pentru a stabili libertatea neamurilor față de Legea mozaică (Faptele Apostolilor 15).
 
 ## Versete cheie

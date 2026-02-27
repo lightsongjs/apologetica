@@ -51,19 +51,22 @@ Cel mai important text al cărții: „Iată vin zile, zice Domnul, când voi î
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
+### [[personalitati/iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
 Contemporan mai tânăr, deportat în Babilon în 597 î.Hr. Iezechiel a profețit printre exilați, în timp ce Ieremia rămânea în Iuda. Amândoi au vestit distrugerea Templului și restaurarea viitoare.
 
-### [[personalitati:sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
+### [[personalitati/sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
 Contemporan cu Ieremia, a profețit în Iuda în timpul domniei lui Iosia. Mesajul său central este „Ziua Domnului" — o zi de judecată universală, dar și de restaurare pentru cei smeriți. Amândoi au predicat chemând poporul la pocăință.
 
-### [[personalitati:daniel|Profetul Daniel]] (sec. VI î.Hr.)
+### [[personalitati/daniel|Profetul Daniel]] (sec. VI î.Hr.)
 Contemporan mai tânăr, deportat în Babilon în 605 î.Hr. Daniel a slujit la curtea regilor babilonieni și a primit viziuni apocaliptice despre cursul istoriei universale, în timp ce Ieremia profețea în Iuda și apoi în Egipt.
 
-### [[personalitati:manase|Regele Manase]] (697-642 î.Hr.)
+### [[personalitati/anania|Sfântul Proroc Anania]] și [[personalitati/azaria|Sfântul Proroc Azaria]]
+Tovarăși ai lui Daniel în exilul babilonian. Ieremia a profețit exilul pe care acești tineri credincioși l-au trăit direct. Credincioșia lor în cuptor împlinește chemarea lui Ieremia la perseverență în credință chiar și în mijlocul judecății.
+
+### [[personalitati/manase|Regele Manase]] (697-642 î.Hr.)
 Ieremia s-ar fi născut în timpul târziei domnii a lui Manase sau sub fiul acestuia, Amon. Păcatele lui Manase — idolatria extremă și vărsarea de sânge nevinovat — erau încă proaspete în memoria colectivă și au contribuit la căderea finală a Ierusalimului pe care Ieremia a profețit-o.
 
-### [[personalitati:avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
+### [[personalitati/avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
 Contemporan cu Ieremia, a pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Avacum 2:4).
 
 ### Regele Iosia (640-609 î.Hr.)
@@ -72,13 +75,13 @@ Ultimul rege drept al lui Iuda. Ieremia a susținut reforma sa religioasă și l
 ### Baruh, scribul lui Ieremia
 Secretarul și prietenul fidel al lui Ieremia. A scris sub dictare profețiile lui Ieremia pe un sul (Ieremia 36) și l-a însoțit pe profet în Egipt.
 
-### [[personalitati:avdie|Profetul Avdie]] (sec. VI sau IX î.Hr.)
+### [[personalitati/avdie|Profetul Avdie]] (sec. VI sau IX î.Hr.)
 Dacă datăm pe Avdie în sec. VI î.Hr., el este contemporan cu Ieremia. Amândoi au trăit tragedia căderii Ierusalimului și au profețit împotriva Edomului. Ieremia 49:7-22 și Cartea lui Avdie conțin profeții similare, ceea ce sugerează o legătură profundă între cei doi profeți.
 
-### [[personalitati:naum|Profetul Naum]] (sec. VII î.Hr.)
+### [[personalitati/naum|Profetul Naum]] (sec. VII î.Hr.)
 Contemporan mai în vârstă sau de aceeași generație. Naum a vestit căderea Ninivei (612 î.Hr.), un eveniment major în viața lui Ieremia, care a confirmat mesajul profetic despre dreptatea lui Dumnezeu față de neamurile opresoarelor.
 
-### [[personalitati:miheia|Profetul Miheia]] (sec. VIII î.Hr.)
+### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Predecesor cu un secol al lui Ieremia. Ieremia însuși invocă profeția lui Miheia în propria sa apărare (Ieremia 26:18-19), arătând că Miheia a profețit distrugerea Ierusalimului sub regele Iezechia, iar poporul nu l-a ucis, ci s-a pocăit.
 
 ## Versete cheie din epistolele sale

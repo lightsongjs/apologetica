@@ -58,7 +58,7 @@ Testament poetic rostit înaintea morții, profetizând soarta poporului Israel.
 ### Aaron
 Fratele mai mare al lui Moise, primul Arhiereu al lui Israel. A fost glasul lui Moise înaintea faraonului și a slujit ca preot la Cortul Mărturiei.
 
-### [[personalitati:iisus-navi|Iisus Navi (Iosua)]]
+### [[personalitati/iisus-navi|Iisus Navi (Iosua)]]
 Ucenicul și urmașul lui Moise, care a condus poporul în Pământul Făgăduinței. A fost ales de Moise și hirotonit prin punerea mâinilor (Deuteronom 34:9).
 
 ### Miriam (Maria)
@@ -67,7 +67,7 @@ Sora lui Moise și a lui Aaron, proorocița care a condus cântarea femeilor dup
 ### Ietro (Raguel)
 Socrul lui Moise, preotul din Madian. L-a sfătuit pe Moise să numească judecători peste popor pentru a ușura povara conducerii (Ieșirea 18).
 
-### [[personalitati:samuel|Sfântul Proroc Samuel]] (sec. XI î.Hr.)
+### [[personalitati/samuel|Sfântul Proroc Samuel]] (sec. XI î.Hr.)
 Ultimul judecător și primul mare profet după Moise. Samuel a continuat rolul lui Moise de mijlocitor între Dumnezeu și popor, judecând pe Israel și chemându-l la pocăință. Psalmul 98:6 îi menționează pe Moise și Samuel împreună ca mari mijlocitori ai lui Israel.
 
 ## Versete cheie

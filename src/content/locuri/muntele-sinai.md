@@ -17,19 +17,19 @@ De asemenea, Muntele Sinai este locul unde Sfântul Proroc Ilie s-a retras fugin
 
 ### Rugul Aprins (cca. sec. XV î.Hr.)
 
-În timp ce păștea oile socrului său Ietro, [[personalitati:moise|Moise]] a văzut un rug care ardea fără a se mistui. Apropiindu-se, a auzit glasul lui Dumnezeu care i-a poruncit să-și scoată încălțămintea, căci locul pe care stătea era pământ sfânt (Ieșirea 3:1-6). Aici Dumnezeu i-a descoperit lui Moise Numele Său: „Eu sunt Cel ce sunt" (Ieșirea 3:14), trimițându-l să elibereze poporul Israel din robia egipteană. În teologia ortodoxă, rugul aprins este o preînchipuire a Maicii Domnului — cea care a purtat focul Dumnezeirii fără a fi mistuită. De aceea, icoana „Rugul Aprins" al Maicii Domnului este una dintre cele mai venerate în tradiția ortodoxă.
+În timp ce păștea oile socrului său Ietro, [[personalitati/moise|Moise]] a văzut un rug care ardea fără a se mistui. Apropiindu-se, a auzit glasul lui Dumnezeu care i-a poruncit să-și scoată încălțămintea, căci locul pe care stătea era pământ sfânt (Ieșirea 3:1-6). Aici Dumnezeu i-a descoperit lui Moise Numele Său: „Eu sunt Cel ce sunt" (Ieșirea 3:14), trimițându-l să elibereze poporul Israel din robia egipteană. În teologia ortodoxă, rugul aprins este o preînchipuire a Maicii Domnului — cea care a purtat focul Dumnezeirii fără a fi mistuită. De aceea, icoana „Rugul Aprins" al Maicii Domnului este una dintre cele mai venerate în tradiția ortodoxă.
 
 ### Darea Legii și Legământul de pe Sinai (cca. sec. XV î.Hr.)
 
-La cincizeci de zile după ieșirea din Egipt, poporul Israel a ajuns la poalele Muntelui Sinai. [[personalitati:moise|Moise]] a urcat pe munte și a stat patruzeci de zile și patruzeci de nopți în prezența lui Dumnezeu (Ieșirea 24:18). Muntele era învăluit în nori, fum, fulgere și tunete, iar poporul a fost oprit să se apropie sub pedeapsa morții (Ieșirea 19:12-13). Dumnezeu a dat cele Zece Porunci, scrise pe două table de piatră „cu degetul lui Dumnezeu" (Ieșirea 31:18), precum și Legea rituală și civilă care forma baza legământului dintre Dumnezeu și poporul ales. Cele patruzeci de zile ale lui Moise pe munte prefigurează cele patruzeci de zile ale Postului Mare din tradiția ortodoxă.
+La cincizeci de zile după ieșirea din Egipt, poporul Israel a ajuns la poalele Muntelui Sinai. [[personalitati/moise|Moise]] a urcat pe munte și a stat patruzeci de zile și patruzeci de nopți în prezența lui Dumnezeu (Ieșirea 24:18). Muntele era învăluit în nori, fum, fulgere și tunete, iar poporul a fost oprit să se apropie sub pedeapsa morții (Ieșirea 19:12-13). Dumnezeu a dat cele Zece Porunci, scrise pe două table de piatră „cu degetul lui Dumnezeu" (Ieșirea 31:18), precum și Legea rituală și civilă care forma baza legământului dintre Dumnezeu și poporul ales. Cele patruzeci de zile ale lui Moise pe munte prefigurează cele patruzeci de zile ale Postului Mare din tradiția ortodoxă.
 
 ### Vițelul de aur și înnoirea Legământului
 
-În timpul absenței lui Moise, poporul, nerăbdător, a cerut lui Aaron să facă un idol — un vițel de aur — pe care l-a adorat (Ieșirea 32). Coborând de pe munte și văzând idolatria, [[personalitati:moise|Moise]] a sfărâmat tablele Legii. După pedepsirea vinovaților și pocăința poporului, Moise a urcat din nou pe munte, unde Dumnezeu a scris din nou poruncile pe table noi (Ieșirea 34). Acest episod arată atât slăbiciunea firii omenești, cât și nesfârșita milostivire a lui Dumnezeu, care reînnoiește legământul cu cei care se pocăiesc.
+În timpul absenței lui Moise, poporul, nerăbdător, a cerut lui Aaron să facă un idol — un vițel de aur — pe care l-a adorat (Ieșirea 32). Coborând de pe munte și văzând idolatria, [[personalitati/moise|Moise]] a sfărâmat tablele Legii. După pedepsirea vinovaților și pocăința poporului, Moise a urcat din nou pe munte, unde Dumnezeu a scris din nou poruncile pe table noi (Ieșirea 34). Acest episod arată atât slăbiciunea firii omenești, cât și nesfârșita milostivire a lui Dumnezeu, care reînnoiește legământul cu cei care se pocăiesc.
 
 ### Sfântul Proroc Ilie pe Muntele Horeb (cca. sec. IX î.Hr.)
 
-După biruința asupra prorocilor lui Baal pe Muntele Carmel, [[personalitati:ilie|Sfântul Proroc Ilie]] a fugit de amenințările reginei Izabela și a călătorit patruzeci de zile și patruzeci de nopți până la Muntele Horeb (3 Regi 19:8). Aici s-a ascuns într-o peșteră și a auzit glasul Domnului. Dumnezeu nu era în vânt puternic, nici în cutremur, nici în foc, ci în „glasul unei adieri de vânt lin" (3 Regi 19:12). Această teofanie este una dintre cele mai profunde revelații biblice despre natura lui Dumnezeu, fundamentală pentru tradiția isihastă a rugăciunii în liniște.
+După biruința asupra prorocilor lui Baal pe Muntele Carmel, [[personalitati/ilie|Sfântul Proroc Ilie]] a fugit de amenințările reginei Izabela și a călătorit patruzeci de zile și patruzeci de nopți până la Muntele Horeb (3 Regi 19:8). Aici s-a ascuns într-o peșteră și a auzit glasul Domnului. Dumnezeu nu era în vânt puternic, nici în cutremur, nici în foc, ci în „glasul unei adieri de vânt lin" (3 Regi 19:12). Această teofanie este una dintre cele mai profunde revelații biblice despre natura lui Dumnezeu, fundamentală pentru tradiția isihastă a rugăciunii în liniște.
 
 ## Surse scripturistice
 
@@ -47,10 +47,10 @@ Fuga lui Ilie la Horeb și revelația în „adiere de vânt lin". Dumnezeu îl 
 
 ## Personalități legate de acest loc
 
-### [[personalitati:moise|Sfântul Proroc Moise]]
+### [[personalitati/moise|Sfântul Proroc Moise]]
 Moise este figura centrală a evenimentelor de pe Sinai. Aici a fost chemat de Dumnezeu prin rugul aprins, aici a primit Legea și cele Zece Porunci, aici a văzut slava lui Dumnezeu „din spate", iar fața lui a strălucit de lumina necreată. Biserica Ortodoxă îl prăznuiește pe 4 septembrie și îl consideră proorocul cel mai mare al Vechiului Testament, prefigurare a lui Hristos ca Dătător al Legii celei Noi.
 
-### [[personalitati:ilie|Sfântul Proroc Ilie]]
+### [[personalitati/ilie|Sfântul Proroc Ilie]]
 Ilie a refăcut drumul lui Moise spre Sinai/Horeb, într-un pelerinaj de patruzeci de zile, recapitulând simbolic exodul. Aici a primit o nouă revelație a lui Dumnezeu — nu în manifestări exterioare puternice, ci în liniștea adâncă a inimii. Experiența lui Ilie pe Horeb este un moment fondator al tradiției contemplative ortodoxe. Biserica îl prăznuiește pe 20 iulie.
 
 ## Versete cheie

@@ -66,13 +66,16 @@ Menționează că Iacob a fost ales episcop al Ierusalimului de Petru, Iacob și
 ### Apostolul Pavel (murit c. 64-67 d.Hr.)
 Pavel l-a vizitat pe Iacob la Ierusalim de mai multe ori (Galateni 1:19; 2:9; Faptele Apostolilor 21:18). Deși au existat tensiuni privind raportul dintre Lege și har, cei doi au ajuns la un acord fundamental la Sinodul din Ierusalim. Iacob l-a primit pe Pavel cu bucurie la ultima sa vizită la Ierusalim.
 
-### [[personalitati:iuda-tadeu|Sfântul Apostol Iuda Tadeu]]
+### [[personalitati/barnaba|Sfântul Barnaba]]
+La Sinodul din Ierusalim (c. 49 d.Hr.), Iacob a conlucrat cu Barnaba și Pavel pentru a stabili libertatea neamurilor față de Legea mozaică (Faptele Apostolilor 15). Decizia lui Iacob a fost crucială pentru misiunea lui Barnaba către neamuri.
+
+### [[personalitati/iuda-tadeu|Sfântul Apostol Iuda Tadeu]]
 Fratele lui Iacob (Iuda 1:1), apostol și autor al Epistolei lui Iuda. Amândoi sunt pomeniți împreună în tradiția ortodoxă ca „frați ai Domnului" și au propovăduit credința cu aceeași râvnă apostolică.
 
-### [[personalitati:simon-zilotul|Sfântul Apostol Simon Zilotul]]
+### [[personalitati/simon-zilotul|Sfântul Apostol Simon Zilotul]]
 Contemporan apostolic, menționat în listele celor doisprezece alături de Iacob. Unele tradiții îl identifică pe Simon Zilotul cu Simon, un alt „frate al Domnului", care ar fi succedat lui Iacob ca episcop al Ierusalimului.
 
-### [[personalitati:matia|Sfântul Apostol Matia]]
+### [[personalitati/matia|Sfântul Apostol Matia]]
 Cel ales prin sorți să ia locul lui Iuda Iscarioteanul, Matia a fost martor al întregii activități a Mântuitorului, ca și Iacob, și a făcut parte din comunitatea apostolică a Ierusalimului condusă de acesta.
 
 ## Versete cheie

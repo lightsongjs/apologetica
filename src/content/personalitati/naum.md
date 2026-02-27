@@ -9,7 +9,7 @@ order: 24
 
 Sfântul Proroc Naum (în ebraică: נַחוּם, „mângâiere / consolare") a fost un profet din Elcoș, a cărui localizare exactă rămâne incertă — unii o plasează în Galileea, alții în Iudeea, iar alții chiar în Mesopotamia, printre exilații israeliți. A profețit în sec. VII î.Hr., între 663 și 612 î.Hr.
 
-Cartea lui Naum este în întregime dedicată unui singur subiect: căderea Ninivei, capitala Imperiului Asirian. Dacă [[personalitati:iona|Profetul Iona]] fusese trimis la Ninive cu un mesaj de pocăință și cetatea fusese cruțată, Naum vestește acum judecata finală și ireversibilă. Pocăința ninivitilor din timpul lui Iona nu a durat; generațiile următoare au revenit la cruzime, la idolatrie și la opresiunea popoarelor cucerite.
+Cartea lui Naum este în întregime dedicată unui singur subiect: căderea Ninivei, capitala Imperiului Asirian. Dacă [[personalitati/iona|Profetul Iona]] fusese trimis la Ninive cu un mesaj de pocăință și cetatea fusese cruțată, Naum vestește acum judecata finală și ireversibilă. Pocăința ninivitilor din timpul lui Iona nu a durat; generațiile următoare au revenit la cruzime, la idolatrie și la opresiunea popoarelor cucerite.
 
 Naum este un poet de excepție. Cartea sa este considerată una dintre cele mai puternice și mai expresive scrieri poetice ale Vechiului Testament, cu imagini vivide ale asediului și distrugerii Ninivei. Numele său — „mângâiere" — este semnificativ: vestea căderii Asiriei era o mângâiere imensă pentru toate popoarele oprimate de cel mai crud imperiu al antichității.
 
@@ -48,13 +48,13 @@ Ninive este numită „cetatea sângeroasă, toată plină de minciună și de j
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:iona|Profetul Iona]] (sec. VIII î.Hr.)
+### [[personalitati/iona|Profetul Iona]] (sec. VIII î.Hr.)
 Predecesorul spiritual al lui Naum în ceea ce privește Ninive. Iona a vestit judecata, ninivitenii s-au pocăit și au fost cruțați. Naum vine cu aproximativ un secol mai târziu și vestește judecata finală, pentru că pocăința nu a durat. Cei doi profeți formează o pereche teologică: mila lui Dumnezeu și dreptatea Sa sunt deopotrivă reale.
 
-### [[personalitati:sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
+### [[personalitati/sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
 Contemporan cu Naum. Sofonie profețește și el distrugerea Ninivei: „Va întinde mâna și asupra miazănoaptei și va nimici Asiria; va preface Ninive într-un loc pustiu" (Sofonie 2:13). Ambii profeți au trăit în perioada de declin a Asiriei și au vestit judecata ei finală.
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan mai tânăr. Ieremia a început să profețească în 627 î.Hr., posibil în aceeași perioadă cu Naum. Căderea Ninivei (612 î.Hr.) a fost un eveniment major în timpul vieții ambilor profeți, confirmând mesajul lor despre dreptatea divină.
 
 ### Profetul Habacuc (sec. VII î.Hr.)

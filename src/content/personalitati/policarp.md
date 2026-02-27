@@ -33,14 +33,14 @@ La vârsta de 86 de ani, în timpul persecuțiilor, este arestat și adus în ar
 ## Surse și scrieri
 
 ### Epistola către Filipeni
-Singura lucrare autentică care a supraviețuit, scrisă către Biserica din Filipi după martiriul lui [[personalitati:ignatie-teoforul|Ignatie Teoforul]]. Conține învățături practice despre credință, dragoste, răbdare și conduită morală. Citează abundent din Scriptură și din epistolele lui Ignatie, demonstrând respectul său pentru tradiția apostolică.
+Singura lucrare autentică care a supraviețuit, scrisă către Biserica din Filipi după martiriul lui [[personalitati/ignatie-teoforul|Ignatie Teoforul]]. Conține învățături practice despre credință, dragoste, răbdare și conduită morală. Citează abundent din Scriptură și din epistolele lui Ignatie, demonstrând respectul său pentru tradiția apostolică.
 
 ### Martyrium Polycarpi (Martiriul Sfântului Policarp)
 Cea mai veche relatare detaliată a martirajului unui creștin, scrisă de Biserica din Smyrna ca o scrisoare circulară către alte biserici. Descrie cu viu colorit ultimele ore ale lui Policarp și curajul său în fața morții.
 
 ### Mărturii despre el
 
-**[[personalitati:irineu|Irineu de Lyon]]** (c. 130-202)
+**[[personalitati/irineu|Irineu de Lyon]]** (c. 130-202)
 Ca fost ucenic al lui Policarp, Irineu oferă informații prețioase despre viața și învățătura sa. În „Adversus Haereses" și în scrisorile sale către Florinus și Victor, Irineu îl descrie pe Policarp ca pe un martor viu al tradiției apostolice.
 
 **Eusebiu de Cezareea** (c. 260-339)
@@ -54,19 +54,19 @@ Menționează că Policarp a fost numit episcop de către Apostolul Ioan însuș
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (c. 6-100 d.Hr.)
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (c. 6-100 d.Hr.)
 Învățătorul direct al lui Policarp, ultimul Apostol supraviețuitor. Ioan l-a format spiritual pe Policarp și, conform tradiției, l-a hirotonit ca episcop al Smirnei. Această relație directă face din Policarp un martor privilegiat al învățăturii apostolice.
 
-### [[personalitati:pavel|Sfântul Apostol Pavel]] (†c. 64-67)
+### [[personalitati/pavel|Sfântul Apostol Pavel]] (†c. 64-67)
 Policarp citează frecvent din epistolele lui Pavel în propria sa Epistolă către Filipeni, demonstrând profundul respect față de teologia paulină. Comunitatea din Filipi, căreia Policarp îi scrie, fusese întemeiată de Pavel.
 
-### [[personalitati:ignatie-teoforul|Sfântul Ignatie Teoforul]] (murit c. 107-110)
+### [[personalitati/ignatie-teoforul|Sfântul Ignatie Teoforul]] (murit c. 107-110)
 Prieten apropiat și corespundent al lui Policarp. Ignatie i-a dedicat una din cele șapte epistole sale, oferindu-i sfaturi pastorale. Policarp l-a întâlnit pe Ignatie în drumul acestuia spre martiriu și a adunat epistolele sale pentru a le transmite mai departe.
 
 ### Papias de Hierapolis (c. 60-130)
 Coleg episcop în Asia Mică și, ca Policarp, ucenic al generației apostolice. Amândoi au fost martori ai tradiției orale apostolice și au contribuit la transmiterea ei.
 
-### [[personalitati:irineu|Irineu de Lyon]] (c. 130-202)
+### [[personalitati/irineu|Irineu de Lyon]] (c. 130-202)
 Cel mai important ucenic al lui Policarp, care va deveni el însuși unul dintre cei mai mari teologi ai Bisericii primare. Irineu l-a ascultat pe Policarp predicând în tinerețea sa la Smyrna și va transmite învățătura primită în scrierile sale împotriva ereziilor.
 
 ### Marcion și Valentinian (sec. II)

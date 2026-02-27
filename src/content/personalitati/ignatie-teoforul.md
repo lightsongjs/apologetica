@@ -60,11 +60,8 @@ Scrisoare personală către prietenul său Sfântul Policarp, episcop al Smirnei
 **Actele Martirice ale Sfântului Ignatie**
 Relatează călătoria sa spre Roma și martiriul. Există mai multe versiuni: una greacă, una latină și una siriacă.
 
-**[[personalitati:policarp|Policarp de Smyrna]]**
+**[[personalitati/policarp|Policarp de Smyrna]]**
 În epistola sa către Filipeni, Policarp îl menționează pe Ignatie cu mare respect și citează din scrierile sale.
-
-**[[personalitati:irineu|Irineu de Lyon]]** (c. 130-202)
-Îl citează pe Ignatie în scrierile sale despre apostolicitate și succesiune apostolică.
 
 **Origen** (c. 185-253)
 Face referire la martiriul lui Ignatie în lucrările sale.
@@ -74,7 +71,7 @@ Face referire la martiriul lui Ignatie în lucrările sale.
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:policarp|Sfântul Policarp de Smyrna]] (c. 69-155)
+### [[personalitati/policarp|Sfântul Policarp de Smyrna]] (c. 69-155)
 Prietenul apropiat al lui Ignatie, destinatarul unei din epistolele sale. Policarp a fost ucenic al Apostolului Ioan și el însuși a devenit mucenic. Cei doi au corespondat și s-au întâlnit pe durmul lui Ignatie spre Roma.
 
 ### Clement al Romei (murit c. 99)
@@ -85,14 +82,17 @@ Episcop în Asia Mică și autor creștin timpuriu care a adunat spusele Apostol
 
 ### Apostolii pe care i-ar fi cunoscut
 
-### [[personalitati:ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (murit c. 100)
+### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (murit c. 100)
 Tradiția spune că Ignatie l-ar fi cunoscut personal pe Ioan în Efes sau Antiohia. Ioan ar fi trăit până în jurul anului 100 d.Hr.
 
-### [[personalitati:petru|Sfântul Apostol Petru]] (†c. 64-68) și [[personalitati:pavel|Sfântul Apostol Pavel]] (†c. 64-67)
+### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68) și [[personalitati/pavel|Sfântul Apostol Pavel]] (†c. 64-67)
 Deși este incert, se crede că Ignatie i-ar fi cunoscut pe cei doi Apostoli, care au predicat la Antiohia și Roma înainte de martiriul lor. Petru a fost primul episcop al Antiohiei, iar Ignatie i-a continuat tradiția.
 
-### [[personalitati:andrei-apostolul|Sfântul Apostol Andrei]] (†c. 60-70)
-Fratele lui [[personalitati:petru|Petru]], care a predicat în regiuni învecinate cu Antiohia. Deși nu există mărturii directe ale unei legături personale, Andrei a contribuit la răspândirea credinței în aceleași ținuturi unde Ignatie a păstorit.
+### [[personalitati/andrei-apostolul|Sfântul Apostol Andrei]] (†c. 60-70)
+Fratele lui [[personalitati/petru|Petru]], care a predicat în regiuni învecinate cu Antiohia. Deși nu există mărturii directe ale unei legături personale, Andrei a contribuit la răspândirea credinței în aceleași ținuturi unde Ignatie a păstorit.
+
+### [[personalitati/irineu|Sfântul Irineu de Lyon]] (c. 130-202)
+Deși Irineu s-a născut după martiriul lui Ignatie, el îl citează în scrierile sale despre apostolicitate și succesiune apostolică, conectând astfel tradiția ignatiană cu Biserica din secolul al doilea.
 
 ## Versete cheie din epistolele sale
 

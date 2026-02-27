@@ -54,13 +54,13 @@ Viziunea unui Templu perfect, cu un râu de viață care curge de sub prag — p
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
+### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan mai în vârstă, a rămas în Ierusalim în timp ce Iezechiel era în exil. Amândoi au profețit distrugerea Templului, dar din locuri diferite.
 
-### [[personalitati:daniel|Profetul Daniel]] (sec. VI î.Hr.)
+### [[personalitati/daniel|Profetul Daniel]] (sec. VI î.Hr.)
 Contemporan în exilul babilonian, deși la curtea regală, nu printre exilați. Iezechiel îl menționează ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14).
 
-### [[personalitati:zaharia|Profetul Zaharia]] (sec. VI î.Hr.)
+### [[personalitati/zaharia|Profetul Zaharia]] (sec. VI î.Hr.)
 Profet post-exilic care a continuat preocuparea lui Iezechiel pentru Templu și semnificația sa. Viziunea Templului ceresc a lui Iezechiel (cap. 40-48) este un preludiu spiritual al mesajului lui Zaharia despre reconstrucția și slava celui de-al doilea Templu. Ambii au fost preoți-profeți.
 
 ### Regele Ioiachin (exilat 597 î.Hr.)

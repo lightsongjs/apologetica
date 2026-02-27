@@ -7,7 +7,7 @@ order: 47
 
 ## Bio
 
-Sfântul Apostol și Evanghelist Luca (în greacă: Λουκᾶς, formă prescurtată a lui Λουκανός) a fost medic de profesie (Coloseni 4:14), originar probabil din Antiohia Siriei, și singurul autor neevreu din Noul Testament. [[personalitati:pavel|Sfântul Apostol Pavel]] îl numește „Luca, doctorul cel iubit" (Coloseni 4:14) și „împreună-lucrătorul meu" (Filimon 24).
+Sfântul Apostol și Evanghelist Luca (în greacă: Λουκᾶς, formă prescurtată a lui Λουκανός) a fost medic de profesie (Coloseni 4:14), originar probabil din Antiohia Siriei, și singurul autor neevreu din Noul Testament. [[personalitati/pavel|Sfântul Apostol Pavel]] îl numește „Luca, doctorul cel iubit" (Coloseni 4:14) și „împreună-lucrătorul meu" (Filimon 24).
 
 Luca este autorul a două cărți care formează împreună aproape o treime din Noul Testament: Evanghelia după Luca și Faptele Apostolilor — o operă unică în două volume care povestește istoria mântuirii de la nașterea lui Ioan Botezătorul până la propovăduirea lui Pavel la Roma.
 
@@ -65,16 +65,16 @@ Biserica Ortodoxă atribuie lui Luca primele icoane ale Maicii Domnului, pictate
 
 ## Contemporani și rude spirituale
 
-### [[personalitati:pavel|Sfântul Apostol Pavel]]
+### [[personalitati/pavel|Sfântul Apostol Pavel]]
 Cel mai important om din viața lui Luca. „Doctorul cel iubit" (Coloseni 4:14) l-a însoțit pe Pavel în călătorii, în captivitate, în naufragiu, și a fost ultimul care a rămas alături de el: „Numai Luca este cu mine" (2 Timotei 4:11).
 
-### [[personalitati:petru|Sfântul Apostol Petru]]
+### [[personalitati/petru|Sfântul Apostol Petru]]
 Predicile lui Petru din Faptele Apostolilor sunt consemnate de Luca cu mare grijă. Petru este figura centrală a primei jumătăți a Faptelor (cap. 1-12), așa cum Pavel este figura centrală a celei de-a doua (cap. 13-28).
 
-### [[personalitati:marcu-evanghelistul|Sfântul Evanghelist Marcu]]
+### [[personalitati/marcu-evanghelistul|Sfântul Evanghelist Marcu]]
 Co-evanghelist. Luca a folosit Evanghelia lui Marcu ca sursă, preluând structura narativă, dar adăugând material propriu (Sursa L) și material comun cu Matei (Sursa Q). Cei doi evangheliști s-au și cunoscut personal, ambii fiind în cercul lui Pavel.
 
-### [[personalitati:barnaba|Sfântul Apostol Barnaba]]
+### [[personalitati/barnaba|Sfântul Apostol Barnaba]]
 Menționat de Luca în Faptele Apostolilor cu respect și admirație. Luca povestește rolul crucial al lui Barnaba în primirea lui Pavel și în prima călătorie misionară.
 
 ## Versete cheie
