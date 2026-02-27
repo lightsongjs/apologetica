@@ -125,7 +125,7 @@
 - [x] Nazaret (Nazareth)
 - [x] Capernaum (Capernaum)
 - [x] Betania (Bethany)
-- [ ] Betfaghe (Bethphage)
+- [x] Betfaghe (Bethphage)
 - [ ] Betsaida (Bethsaida)
 - [ ] Corazin (Chorazin)
 - [ ] Nain (Nain)
