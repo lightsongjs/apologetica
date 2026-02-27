@@ -24,8 +24,8 @@
 ## 1. Personalities
 
 ### Core Figures
-- [ ] Iisus Hristos (Jesus Christ)
-- [ ] Maria (Virgin Mary, mother of Jesus)
+- [x] Iisus Hristos (Jesus Christ)
+- [x] Maria (Virgin Mary, mother of Jesus)
 - [ ] Iosif (Joseph, husband of Mary)
 
 ### The Twelve Apostles
