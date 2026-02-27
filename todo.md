@@ -88,7 +88,7 @@
 - [ ] Femeia cananeeancă (Canaanite woman)
 - [ ] Văduvă din Nain (Widow of Nain)
 - [ ] Leprosul samaritean (Samaritan leper)
-- [ ] Slăbănogul de la Betesda (Paralytic at Bethesda)
+- [ ] Slăbănogul de la Betezda (Paralytic at Bethesda)
 - [ ] Orbul de la naștere (Man born blind)
 
 ### Old Testament Figures Mentioned
@@ -156,8 +156,8 @@
 - [x] Ghetsimani (Gethsemane)
 - [x] Templul (The Temple)
 - [ ] Curtea Neamurilor (Court of the Gentiles - trivial, covered by Templul)
-- [ ] Iazul Betesda (Pool of Bethesda)
-- [ ] Iazul Siloam (Pool of Siloam)
+- [ ] Betezda (Pool of Bethesda)
+- [ ] Siloam (Pool of Siloam)
 - [ ] Calea Suferințelor (Via Dolorosa - trivial, covered by Golgota/Ierusalim)
 - [ ] Cămara de Sus (Upper Room/Cenacle)
 - [ ] Grădina lui Iosif (Joseph's Garden/Tomb - trivial, covered by Golgota)
@@ -175,6 +175,4 @@
 - [ ] Emaus (Emmaus)
 
 ### Other Specific Locations
-- [ ] Iazul Betesda (Pool of Bethesda)
-- [ ] Iazul Siloam (Pool of Siloam)
-- [ ] Cămara de Sus (Upper Room/Cenacle)
+(These have been moved to "Locations in/near Jerusalem" section above to avoid duplication)
