@@ -88,7 +88,7 @@
 - [ ] Femeia cananeeancă (Canaanite woman)
 - [ ] Văduvă din Nain (Widow of Nain)
 - [ ] Leprosul samaritean (Samaritan leper)
-- [ ] Slăbănogul de la Betezda (Paralytic at Bethesda)
+- [x] Slăbănogul de la Betezda (Paralytic at Bethesda)
 - [x] Orbul de la naștere (Man born blind)
 
 ### Old Testament Figures Mentioned
