@@ -68,7 +68,7 @@
 - [x] Iosif din Arimateea (Joseph of Arimathea)
 - [ ] Gamaliel (Gamaliel)
 - [x] Simeon (Simeon in the Temple)
-- [ ] Ana profetisa (Anna the prophetess)
+- [x] Ana profetisa (Anna the prophetess)
 
 ### Roman Officials
 - [x] Pilat din Pont (Pontius Pilate)

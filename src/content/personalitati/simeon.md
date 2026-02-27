@@ -54,6 +54,9 @@ Pruncul pe Care L-a luat în brațe și L-a recunoscut ca „mântuirea" și „
 ### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
 Cea căreia i-a profetizat: „Prin sufletul tău va trece sabie" — profeție împlinită la Cruce.
 
+### [[personalitati/ana-profetisa|Sfânta Proorocița Ana]] (sec. I)
+Împreună-mărturisitoare la Întâmpinarea Domnului. A lăudat pe Dumnezeu și a vestit despre Prunc tuturor celor ce așteptau mântuirea (Luca 2:38).
+
 ### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
 Prezent la Întâmpinare alături de Maria. „Iosif și mama Lui se mirau de cele ce se grăiau despre El" (Luca 2:33).
 

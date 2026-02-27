@@ -116,6 +116,9 @@ Soția lui Huza, administratorul casei lui Irod, mironosiță care L-a urmat și
 ### [[personalitati/suzana|Sfânta Mironosiță Suzana]] (sec. I)
 Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 
+### [[personalitati/ana-profetisa|Sfânta Proorocița Ana]] (sec. I)
+Proorocița din Templu care L-a recunoscut pe Prunc la Întâmpinare și a vestit despre El tuturor celor ce așteptau mântuirea (Luca 2:38).
+
 ### [[personalitati/ana-arhiereul|Ana Arhiereul]] (mare preot, c. 6-15)
 Fostul mare preot care L-a interogat în noaptea arestării, înainte de a-L trimite la ginerele său [[personalitati/caiafa|Caiafa]].
 
