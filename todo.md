@@ -72,8 +72,8 @@
 
 ### Roman Officials
 - [x] Pilat din Pont (Pontius Pilate)
-- [ ] Irod Antipa (Herod Antipas)
-- [ ] Irod cel Mare (Herod the Great)
+- [x] Irod Antipa (Herod Antipas)
+- [x] Irod cel Mare (Herod the Great)
 - [ ] Irodiada (Herodias)
 - [ ] Irodul Filip (Herod Philip)
 - [ ] Arhelau (Archelaus)
