@@ -127,7 +127,7 @@
 - [x] Betania (Bethany)
 - [x] Betfaghe (Bethphage)
 - [x] Betsaida (Bethsaida)
-- [ ] Corazin (Chorazin)
+- [x] Corazin (Chorazin)
 - [ ] Nain (Nain)
 - [x] Cana din Galileea (Cana of Galilee)
 - [ ] Arimateea (Arimathea)
