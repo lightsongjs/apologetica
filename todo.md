@@ -1,5 +1,26 @@
 # Gospel Content Pipeline
 
+## Instructions
+
+**CRITICAL WORKFLOW:**
+1. Create ONE card at a time (either personality or place)
+2. Run the validation test immediately after creating each card:
+   ```bash
+   npx playwright test tests/personality-cross-references.spec.ts
+   ```
+3. Fix any errors before proceeding to the next card
+4. Mark the item as complete in this file with `[x]`
+5. Commit and push after each successful card creation
+6. Repeat for the next item
+
+**Notes:**
+- Items already marked `[x]` have existing cards in the codebase
+- Some trivial items have been removed (e.g., "Road to Emmaus" when Emmaus town exists)
+- Follow CLAUDE.md theological guidelines (Eastern Orthodox perspective only)
+- Skip image creation (use placeholder paths)
+
+---
+
 ## 1. Personalities
 
 ### Core Figures
@@ -8,22 +29,22 @@
 - [ ] Iosif (Joseph, husband of Mary)
 
 ### The Twelve Apostles
-- [ ] Petru / Simon Petru (Peter/Simon Peter)
-- [ ] Andrei (Andrew)
-- [ ] Iacov fiul lui Zebedei (James son of Zebedee)
-- [ ] Ioan fiul lui Zebedei (John son of Zebedee)
-- [ ] Filip (Philip)
-- [ ] Bartolomeu / Natanael (Bartholomew/Nathanael)
-- [ ] Matei (Matthew/Levi)
-- [ ] Toma (Thomas)
-- [ ] Iacov fiul lui Alfeu (James son of Alphaeus)
-- [ ] Iuda Tadeu (Jude/Thaddaeus)
-- [ ] Simon Zilotul (Simon the Zealot)
+- [x] Petru / Simon Petru (Peter/Simon Peter)
+- [x] Andrei (Andrew)
+- [x] Iacov fiul lui Zebedei (James son of Zebedee)
+- [x] Ioan fiul lui Zebedei (John son of Zebedee)
+- [x] Filip (Philip)
+- [x] Bartolomeu / Natanael (Bartholomew/Nathanael)
+- [x] Matei (Matthew/Levi)
+- [x] Toma (Thomas)
+- [x] Iacov fiul lui Alfeu (James son of Alphaeus)
+- [x] Iuda Tadeu (Jude/Thaddaeus)
+- [x] Simon Zilotul (Simon the Zealot)
 - [ ] Iuda Iscarioteanul (Judas Iscariot)
 
 ### Family of Jesus
 - [ ] Elisabeta (Elizabeth, mother of John the Baptist)
-- [ ] Zaharia (Zechariah, father of John the Baptist)
+- [x] Zaharia (Zechariah, father of John the Baptist)
 - [ ] Ioan Botezătorul (John the Baptist)
 - [ ] Iacov (James, brother of Jesus)
 - [ ] Iose (Joses, brother of Jesus)
@@ -38,7 +59,7 @@
 - [ ] Suzana (Susanna)
 - [ ] Marta (Martha of Bethany)
 - [ ] Maria din Betania (Mary of Bethany)
-- [ ] Samarineanca (Samaritan Woman at the well)
+- [x] Samarineanca (Samaritan Woman at the well)
 
 ### Jewish Religious Leaders
 - [ ] Caiafa (Caiaphas, high priest)
@@ -74,15 +95,15 @@
 - [ ] Avraam (Abraham)
 - [ ] Isaac (Isaac)
 - [ ] Iacov patriarhul (Jacob)
-- [ ] Moise (Moses)
-- [ ] Ilie (Elijah)
-- [ ] Elisei (Elisha)
+- [x] Moise (Moses)
+- [x] Ilie (Elijah)
+- [x] Elisei (Elisha)
 - [ ] David (David)
 - [ ] Solomon (Solomon)
-- [ ] Isaia (Isaiah)
-- [ ] Ieremia (Jeremiah)
-- [ ] Daniel (Daniel)
-- [ ] Iona (Jonah)
+- [x] Isaia (Isaiah)
+- [x] Ieremia (Jeremiah)
+- [x] Daniel (Daniel)
+- [x] Iona (Jonah)
 - [ ] Abel (Abel)
 - [ ] Noe (Noah)
 
@@ -99,16 +120,16 @@
 ## 2. Places
 
 ### Major Cities & Towns
-- [ ] Ierusalim (Jerusalem)
-- [ ] Betleem (Bethlehem)
-- [ ] Nazaret (Nazareth)
-- [ ] Capernaum (Capernaum)
-- [ ] Betania (Bethany)
+- [x] Ierusalim (Jerusalem)
+- [x] Betleem (Bethlehem)
+- [x] Nazaret (Nazareth)
+- [x] Capernaum (Capernaum)
+- [x] Betania (Bethany)
 - [ ] Betfaghe (Bethphage)
 - [ ] Betsaida (Bethsaida)
 - [ ] Corazin (Chorazin)
 - [ ] Nain (Nain)
-- [ ] Cana din Galileea (Cana of Galilee)
+- [x] Cana din Galileea (Cana of Galilee)
 - [ ] Arimateea (Arimathea)
 - [ ] Efraim (Ephraim)
 - [ ] Sihar (Sychar)
@@ -123,24 +144,24 @@
 - [ ] Idumea (Idumea)
 
 ### Geographic Features
-- [ ] Marea Galileii (Sea of Galilee)
-- [ ] Muntele Tabor (Mount Tabor)
-- [ ] Muntele Măslinilor (Mount of Olives)
-- [ ] Râul Iordan (Jordan River)
+- [x] Marea Galileii (Sea of Galilee)
+- [x] Muntele Tabor (Mount Tabor)
+- [x] Muntele Măslinilor (Mount of Olives)
+- [x] Râul Iordan (Jordan River)
 - [ ] Muntele Ispitei (Mount of Temptation/Wilderness)
 - [ ] Marea Moartă (Dead Sea)
 
 ### Locations in/near Jerusalem
-- [ ] Golgota (Golgotha)
-- [ ] Ghetsimani (Gethsemane)
-- [ ] Templul (The Temple)
-- [ ] Curtea Neamurilor (Court of the Gentiles)
+- [x] Golgota (Golgotha)
+- [x] Ghetsimani (Gethsemane)
+- [x] Templul (The Temple)
+- [ ] Curtea Neamurilor (Court of the Gentiles - trivial, covered by Templul)
 - [ ] Iazul Betesda (Pool of Bethesda)
 - [ ] Iazul Siloam (Pool of Siloam)
-- [ ] Calea Suferințelor (Via Dolorosa)
+- [ ] Calea Suferințelor (Via Dolorosa - trivial, covered by Golgota/Ierusalim)
 - [ ] Cămara de Sus (Upper Room/Cenacle)
-- [ ] Grădina lui Iosif (Joseph's Garden/Tomb)
-- [ ] Mormântul Gol (Empty Tomb)
+- [ ] Grădina lui Iosif (Joseph's Garden/Tomb - trivial, covered by Golgota)
+- [ ] Mormântul Gol (Empty Tomb - trivial, covered by Golgota)
 
 ### Foreign/Gentile Territories
 - [ ] Tir (Tyre)
@@ -151,11 +172,9 @@
 - [ ] Egipt (Egypt)
 
 ### Roads & Paths
-- [ ] Drumul Ierihonului (Road to Jericho)
-- [ ] Drumul Emausului (Road to Emmaus)
 - [ ] Emaus (Emmaus)
 
 ### Other Specific Locations
-- [ ] Sinagoga din Capernaum (Synagogue at Capernaum)
-- [ ] Casa lui Petru (Peter's house)
-- [ ] Câmpul Păstorilor (Shepherd's Field, Bethlehem)
+- [ ] Iazul Betesda (Pool of Bethesda)
+- [ ] Iazul Siloam (Pool of Siloam)
+- [ ] Cămara de Sus (Upper Room/Cenacle)
