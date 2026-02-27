@@ -77,6 +77,9 @@ Mama sa, din fiicele lui Aaron, cea care l-a ascuns de soldații lui Irod în pu
 ### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
 Rudenia mamei sale. Vizita Fecioarei la Elisabeta este momentul primei întâlniri — încă de dinainte de naștere — între Înaintemergătorul și Hristos.
 
+### [[personalitati/irodiada|Irodiada]] (sec. I)
+Soția lui [[personalitati/irod-antipa|Irod Antipa]], care a uneltit uciderea sa prin vicleșugul dansului fiicei sale (Marcu 6:19-28).
+
 ### [[personalitati/andrei-apostolul|Sfântul Apostol Andrei]] (†c. 60-70)
 Ucenic al lui Ioan Botezătorul înainte de a fi chemat de Hristos. La cuvintele „Iată Mielul lui Dumnezeu!", Andrei L-a urmat pe Hristos (Ioan 1:35-40).
 

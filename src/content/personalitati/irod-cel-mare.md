@@ -56,6 +56,12 @@ Cel care a salvat Pruncul și pe Maria fugind în Egipt la avertizarea îngerulu
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia, Preotul]] (†sec. I d.Hr.)
 Conform tradiției, ucis în Templu de soldații lui Irod pentru că a refuzat să dezvăluie locul pruncului [[personalitati/ioan-botezatorul|Ioan]].
 
+### [[personalitati/irodiada|Irodiada]] (sec. I)
+Nepoata sa, care a moștenit cruzimea familiei și a uneltit uciderea Botezătorului.
+
+### [[personalitati/irod-antipa|Irod Antipa]] (†39 d.Hr.)
+Fiul său, care a moștenit tetrarhia Galileii și Pereii.
+
 ## Versete cheie
 
 - **Matei 2:1-2** — „Iar dacă S-a născut Iisus în Betleemul Iudeii, în zilele regelui Irod, iată magii de la Răsărit au venit în Ierusalim, întrebând: Unde este regele Iudeilor, Cel ce S-a născut?"

@@ -74,7 +74,7 @@
 - [x] Pilat din Pont (Pontius Pilate)
 - [x] Irod Antipa (Herod Antipas)
 - [x] Irod cel Mare (Herod the Great)
-- [ ] Irodiada (Herodias)
+- [x] Irodiada (Herodias)
 - [ ] Irodul Filip (Herod Philip)
 - [ ] Arhelau (Archelaus)
 - [ ] Centurionul de la Capernaum (Centurion at Capernaum)
