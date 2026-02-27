@@ -67,7 +67,7 @@ Confirmă tradiția răstignirii cu capul în jos.
 ## Contemporani și rude spirituale
 
 ### [[personalitati/andrei-apostolul|Sfântul Apostol Andrei]] (†c. 60-70)
-Fratele mai mare (sau mai mic, după unele tradiții) al lui Petru. Andrei l-a adus pe Simon la Iisus (Ioan 1:40-42). Amândoi au fost pescari pe Marea Galileii și ucenici ai Sfântului Ioan Botezătorul înainte de a-L urma pe Hristos.
+Fratele mai mare (sau mai mic, după unele tradiții) al lui Petru. Andrei l-a adus pe Simon la Iisus (Ioan 1:40-42). Amândoi au fost pescari pe Marea Galileii și ucenici ai [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]] înainte de a-L urma pe Hristos.
 
 ### [[personalitati/pavel|Sfântul Apostol Pavel]] (†c. 64-67)
 Coleg apostol, cu care a avut atât momente de comuniune (Sinodul din Ierusalim, Galateni 2:9), cât și de confruntare fraternă (Galateni 2:11-14). Amândoi au propovăduit la Roma și au fost martirizați acolo în aceeași perioadă, fiind prăznuiți împreună la 29 iunie.

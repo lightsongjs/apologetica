@@ -64,10 +64,10 @@ Condacul și icosul Nașterii Maicii Domnului (8 septembrie) și al Sfinților I
 Soția sa, din seminția lui Levi, cu care a împărtășit anii de sterilitate, rugăciune și nădejde. Împreună au născut pe Fecioara Maria și au adus-o la Templu.
 
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia]] (†sec. I d.Hr.)
-Preotul Templului, soțul [[personalitati/elisabeta|Elisabetei]], care era rudă cu Fecioara Maria. Cei doi soți au trecut prin aceeași încercare a sterilității, primind în cele din urmă pe Sfântul Ioan Botezătorul.
+Preotul Templului, soțul [[personalitati/elisabeta|Elisabetei]], care era rudă cu Fecioara Maria. Cei doi soți au trecut prin aceeași încercare a sterilității, primind în cele din urmă pe [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]].
 
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)
-Rudă a Fecioarei Maria (Luca 1:36), mama Sfântului Ioan Botezătorul. Legătura de rudenie dintre Maria și Elisabeta leagă cele două familii în planul mântuirii.
+Rudă a Fecioarei Maria (Luca 1:36), mama [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]]. Legătura de rudenie dintre Maria și Elisabeta leagă cele două familii în planul mântuirii.
 
 ## Versete cheie
 

@@ -65,7 +65,7 @@ Prințesă feniciană, soția lui Ahab, care a impus cultul lui Baal în Israel 
 Slujitorul temător de Dumnezeu al lui Ahab, care a ascuns 100 de profeți ai Domnului în peșteri, hrănindu-i cu pâine și apă, în timp ce Izabela îi persecuta (3 Regi 18:3-4).
 
 ### [[personalitati/maleahi|Profetul Maleahi]] (sec. V î.Hr.)
-Deși au trăit la secole distanță, ultimele cuvinte ale Vechiului Testament (Maleahi 3:23-24/4:5-6) vestesc revenirea lui Ilie: „Iată, Eu vă trimit pe Ilie proorocul, înainte de a veni ziua Domnului cea mare și înfricoșătoare." Hristos confirmă împlinirea parțială prin Sfântul Ioan Botezătorul (Matei 11:14).
+Deși au trăit la secole distanță, ultimele cuvinte ale Vechiului Testament (Maleahi 3:23-24/4:5-6) vestesc revenirea lui Ilie: „Iată, Eu vă trimit pe Ilie proorocul, înainte de a veni ziua Domnului cea mare și înfricoșătoare." Hristos confirmă împlinirea parțială prin [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]] (Matei 11:14).
 
 ## Versete cheie
 

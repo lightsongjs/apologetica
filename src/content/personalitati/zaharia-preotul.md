@@ -63,7 +63,7 @@ Troparul Sfântului Zaharia (5 septembrie) îl cinstește ca „preot al Celui P
 ## Contemporani și rude spirituale
 
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)
-Soția sa, din fiicele lui Aaron, cu care a împărtășit sterilitatea, rugăciunea și bucuria nașterii lui Ioan Botezătorul. Elisabeta este cea care, plină de Duh Sfânt, a recunoscut pe Maica Domnului: „Binecuvântată ești tu între femei!" (Luca 1:42).
+Soția sa, din fiicele lui Aaron, cu care a împărtășit sterilitatea, rugăciunea și bucuria nașterii lui [[personalitati/ioan-botezatorul|Ioan Botezătorul]]. Elisabeta este cea care, plină de Duh Sfânt, a recunoscut pe Maica Domnului: „Binecuvântată ești tu între femei!" (Luca 1:42).
 
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
 Tatăl Fecioarei Maria. Amândoi au trecut prin aceeași încercare a sterilității și au primit vestiri îngerești. Familiile lor sunt legate prin rudenia dintre Fecioara Maria și Elisabeta.

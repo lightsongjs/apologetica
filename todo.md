@@ -40,7 +40,7 @@
 - [x] Iacov fiul lui Alfeu (James son of Alphaeus)
 - [x] Iuda Tadeu (Jude/Thaddaeus)
 - [x] Simon Zilotul (Simon the Zealot)
-- [ ] Iuda Iscarioteanul (Judas Iscariot)
+- [x] Iuda Iscarioteanul (Judas Iscariot)
 
 ### Family of Jesus
 - [x] Elisabeta (Elizabeth, mother of John the Baptist)

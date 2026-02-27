@@ -64,7 +64,7 @@ Poporul spune că este zadarnic să slujești lui Dumnezeu. Dumnezeu răspunde c
 ## Contemporani și rude spirituale
 
 ### [[personalitati/ilie|Sfântul Proroc Ilie Tesviteanul]] (sec. IX î.Hr.)
-Deși au trăit la secole distanță, Maleahi și Ilie sunt legați prin profeția finală a Vechiului Testament: „Iată, Eu vă trimit pe Ilie proorocul" (3:23/4:5). Maleahi vestește revenirea lui Ilie înainte de Ziua Domnului, iar Hristos confirmă că această profeție s-a împlinit parțial în Sfântul Ioan Botezătorul (Matei 11:14, 17:12) și se va împlini deplin înainte de a Doua Venire.
+Deși au trăit la secole distanță, Maleahi și Ilie sunt legați prin profeția finală a Vechiului Testament: „Iată, Eu vă trimit pe Ilie proorocul" (3:23/4:5). Maleahi vestește revenirea lui Ilie înainte de Ziua Domnului, iar Hristos confirmă că această profeție s-a împlinit parțial în [[personalitati/ioan-botezatorul|Sfântul Ioan Botezătorul]] (Matei 11:14, 17:12) și se va împlini deplin înainte de a Doua Venire.
 
 ### [[personalitati/agheu|Profetul Agheu]] (sec. VI î.Hr.)
 Agheu profetizase reconstrucția Templului cu aproape un secol înainte, promițând că „slava acestui din urmă Templu va fi mai mare decât a celui dintâi" (Agheu 2:9). Maleahi, profetizând în Templul deja reconstruit, vestește că în acest Templu va veni „Solul Legământului" — împlinind promisiunea lui Agheu.

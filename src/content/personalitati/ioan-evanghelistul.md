@@ -87,7 +87,7 @@ Cel mai apropiat coleg de apostolat. Împreună formau cercul interior al celor 
 Ioan este unul dintre „stâlpii" Bisericii menționați de Pavel (Galateni 2:9). I-a dat lui Pavel „dreapta de părtășie" la Ierusalim, recunoscând misiunea sa către neamuri.
 
 ### [[personalitati/andrei-apostolul|Sfântul Apostol Andrei]] (†c. 60-70)
-Coleg de ucenicie la Ioan Botezătorul. Andrei și Ioan au fost primii doi ucenici care L-au urmat pe Hristos (Ioan 1:35-40), petrecând o zi întreagă cu El.
+Coleg de ucenicie la [[personalitati/ioan-botezatorul|Ioan Botezătorul]]. Andrei și Ioan au fost primii doi ucenici care L-au urmat pe Hristos (Ioan 1:35-40), petrecând o zi întreagă cu El.
 
 ### [[personalitati/policarp|Sfântul Policarp de Smyrna]] (c. 69-155)
 Ucenic direct al lui Ioan la Efes, format spiritual de apostol. Conform tradiției, Ioan însuși l-a hirotonit pe Policarp ca episcop al Smirnei. Prin Policarp, învățătura ioaneică s-a transmis lui [[personalitati/irineu|Irineu]] și, prin el, întregii Biserici.

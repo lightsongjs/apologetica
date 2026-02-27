@@ -91,10 +91,10 @@ Tatăl ei, din seminția lui Iuda, din neamul lui David.
 Mama ei, din seminția lui Levi.
 
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)
-Rudenia ei (Luca 1:36), mama Sfântului Ioan Botezătorul. Întâlnirea dintre Maria și Elisabeta este una dintre cele mai importante scene ale Evangheliei — două mame purtând în pântece pe Mântuitorul și pe Înaintemergătorul Său.
+Rudenia ei (Luca 1:36), mama [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]]. Întâlnirea dintre Maria și Elisabeta este una dintre cele mai importante scene ale Evangheliei — două mame purtând în pântece pe Mântuitorul și pe Înaintemergătorul Său.
 
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia, Preotul]] (†sec. I d.Hr.)
-Soțul Elisabetei, tatăl Sfântului Ioan Botezătorul. Preot la Templu, cel care a primit vestirea nașterii Înaintemergătorului.
+Soțul Elisabetei, tatăl [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]]. Preot la Templu, cel care a primit vestirea nașterii Înaintemergătorului.
 
 ### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
 Ucenicul căruia Hristos i-a încredințat-o pe Maica Sa de pe Cruce. Conform tradiției, Ioan a îngrijit-o pe Maica Domnului până la Adormirea ei.

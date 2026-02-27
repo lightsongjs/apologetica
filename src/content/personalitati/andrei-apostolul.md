@@ -76,7 +76,7 @@ Confirma tradiția propovăduirii lui Andrei pe teritoriul actual al României (
 Fratele său, pe care l-a adus la Hristos. Legătura lor frățească și apostolică este una dintre cele mai importante din Noul Testament. Andrei l-a precedat pe Petru în ucenicia lui Hristos.
 
 ### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
-Coleg de ucenicie la Ioan Botezătorul. Andrei și Ioan au fost cei doi ucenici care L-au urmat primii pe Hristos (Ioan 1:35-40), petrecând o zi întreagă cu El. Momentul acesta fondator al creștinismului i-a unit pentru totdeauna.
+Coleg de ucenicie la [[personalitati/ioan-botezatorul|Ioan Botezătorul]]. Andrei și Ioan au fost cei doi ucenici care L-au urmat primii pe Hristos (Ioan 1:35-40), petrecând o zi întreagă cu El. Momentul acesta fondator al creștinismului i-a unit pentru totdeauna.
 
 ### [[personalitati/iacob-zebedeu|Sfântul Apostol Iacob, fiul lui Zebedeu]] (†44)
 Fratele lui [[personalitati/ioan-evanghelistul|Ioan]], coleg de pescuit pe Marea Galileii. Andrei, Petru, Iacob și Ioan erau parteneri de afaceri (Luca 5:10) înainte de a fi chemați la apostolat.

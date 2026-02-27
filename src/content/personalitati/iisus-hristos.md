@@ -87,10 +87,10 @@ Bunicul după trup al Mântuitorului, tatăl Preasfintei Născătoare de Dumneze
 Bunica după trup a Mântuitorului, mama Fecioarei Maria.
 
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia, Preotul]] (†sec. I d.Hr.)
-Tatăl Sfântului Ioan Botezătorul. A primit vestirea nașterii Înaintemergătorului de la Arhanghelul Gavriil și a rostit cântarea Benedictus, profetizând despre mântuirea care vine prin Hristos.
+Tatăl [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]]. A primit vestirea nașterii Înaintemergătorului de la Arhanghelul Gavriil și a rostit cântarea Benedictus, profetizând despre mântuirea care vine prin Hristos.
 
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)
-Mama Sfântului Ioan Botezătorul, rudă a Fecioarei Maria. Prima care a mărturisit public, prin Duhul Sfânt, Întruparea: „De unde mie aceasta, ca să vină la mine Maica Domnului meu?" (Luca 1:43).
+Mama [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]], rudă a Fecioarei Maria. Prima care a mărturisit public, prin Duhul Sfânt, Întruparea: „De unde mie aceasta, ca să vină la mine Maica Domnului meu?" (Luca 1:43).
 
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeu al apostolilor, cel care a mărturisit: „Tu ești Hristosul, Fiul Dumnezeului Celui viu" (Matei 16:16). Hristos i-a încredințat cheile Împărăției cerurilor.
