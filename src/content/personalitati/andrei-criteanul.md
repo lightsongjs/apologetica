@@ -63,8 +63,8 @@ Omilii dedicate venerării Theotokos, reflectând devotamentul său profund faț
 
 ## Contemporani și rude spirituale
 
-### Sfântul Ioan Damaschin (c. 675-749)
-Conațional și contemporan apropiat, probabil s-au cunoscut personal la Damasc sau la Lavra Sfântului Sava. Amândoi au fost mari apărători ai icoanelor și teologi în limba greacă în timpul dominației arabe.
+### [[personalitati/ioan-damaschin|Sfântul Ioan Damaschin]] (c. 675-749)
+Frate adoptiv, crescut împreună la Damasc. Amândoi au fost formați de monahul Cosma și amândoi au devenit mari imnografi și apărători ai icoanelor. Ioan — autorul Canonului Paștilor și al „Expunerii exacte a credinței ortodoxe" — și Andrei sunt coloanele imnografiei bizantine.
 
 ### Sfântul Sofronie al Ierusalimului (c. 560-638)
 Deși Sofronie a murit înainte ca Andrei să ajungă la maturitate, operele sale liturgice și teologice l-au influențat pe tânărul Andrei în timpul șederii sale la Ierusalim.
@@ -76,7 +76,7 @@ Contemporan și probabil prieten, amândoi au fost apărători ai venerării ico
 A domnit în perioada în care Andrei a fost activ la Constantinopol și a participat la Sinodul Quinisext convocat de împărat.
 
 ### Sfântul Cosma de Maiuma (c. 675-752)
-Frate adoptiv al Sfântului Ioan Damaschin și el însuși un mare imnograf. Împreună cu Andrei și Ioan, a format triumviratul marilor imnografi ai secolului VIII.
+Frate adoptiv al Sfântului [[personalitati/ioan-damaschin|Ioan Damaschin]] și el însuși un mare imnograf. Împreună cu Andrei și Ioan, a format triumviratul marilor imnografi ai secolului VIII.
 
 ### Sfântul Gherman, Patriarhul Constantinopolului (634-740)
 Patriarh în timpul carierei lui Andrei, apărător al icoanelor și coleg în lupta împotriva primelor tendințe iconoclaste.
@@ -97,7 +97,7 @@ Deși Maria a trăit cu secole înainte de Andrei, el i se atribuie redactarea s
 ## Semnificație teologică și istorică
 
 ### Maestru al imnografiei bizantine
-Andrei este considerat unul dintre cei mai mari imnografi ai Bisericii Ortodoxe, alături de Romani Melodul și Ioan Damaschin. Operele sale au stabilit standarde înalte pentru poezia liturgică bizantină.
+Andrei este considerat unul dintre cei mai mari imnografi ai Bisericii Ortodoxe, alături de Romani Melodul și [[personalitati/ioan-damaschin|Ioan Damaschin]]. Operele sale au stabilit standarde înalte pentru poezia liturgică bizantină.
 
 ### Teologia pocăinței
 Marele Canon este expresia supremă a teologiei ortodoxe a pocăinței - nu ca vinovăție psihologică, ci ca întoarcere umilă și plină de nădejde către Dumnezeu Cel milostiv.

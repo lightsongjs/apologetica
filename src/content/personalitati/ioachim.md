@@ -55,7 +55,7 @@ Text latin care preia și extinde narațiunea Protoevangheliei, adăugând detal
 Condacul și icosul Nașterii Maicii Domnului (8 septembrie) și al Sfinților Ioachim și Ana (9 septembrie) conțin referințe teologice bogate la rolul lui Ioachim în istoria mântuirii.
 
 ### Sfinții Părinți
-**Sfântul Ioan Damaschin** — în „Cuvânt la Nașterea Preasfintei Născătoare de Dumnezeu" dezvoltă teologic semnificația nașterii Mariei din Ioachim și Ana.
+**Sfântul [[personalitati/ioan-damaschin|Ioan Damaschin]]** — în „Cuvânt la Nașterea Preasfintei Născătoare de Dumnezeu" dezvoltă teologic semnificația nașterii Mariei din Ioachim și Ana.
 **Sfântul Andrei Criteanul** — în omiliile sale la Nașterea Maicii Domnului laudă credința și răbdarea Sfinților Ioachim și Ana.
 
 ## Contemporani și rude spirituale

@@ -52,7 +52,7 @@ Preia și dezvoltă narațiunea Protoevangheliei, adăugând detalii despre copi
 Troparul Nașterii Maicii Domnului (8 septembrie): „Nașterea ta, Născătoare de Dumnezeu Fecioară, bucurie a vestit la toată lumea, că din tine a răsărit Soarele dreptății, Hristos Dumnezeul nostru."
 
 ### Sfinții Părinți
-**Sfântul Ioan Damaschin** — în cele trei „Cuvântări la Nașterea Preasfintei Născătoare de Dumnezeu" laudă pe Ana ca „pământ binecuvântat" din care a crescut „floarea cea neveștejită."
+**Sfântul [[personalitati/ioan-damaschin|Ioan Damaschin]]** — în cele trei „Cuvântări la Nașterea Preasfintei Născătoare de Dumnezeu" laudă pe Ana ca „pământ binecuvântat" din care a crescut „floarea cea neveștejită."
 **Sfântul Andrei Criteanul** — în omiliile sale o numește pe Ana „maică a Maicii Domnului" și evidențiază credința ei.
 
 ## Contemporani și rude spirituale

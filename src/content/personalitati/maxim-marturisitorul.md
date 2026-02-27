@@ -84,6 +84,9 @@ Principala sursă teologică a lui Maxim. Ambigua sunt în esență un comentari
 ### [[personalitati/atanasie-cel-mare|Sfântul Atanasie cel Mare]] (c. 296-373)
 Predecesorul spiritual în apărarea hristologiei ortodoxe. Atanasie a apărat dumnezeirea Fiului contra arianismului; Maxim a apărat umanitatea deplină a lui Hristos (inclusiv voința umană) contra monotelismului.
 
+### [[personalitati/ioan-damaschin|Sfântul Ioan Damaschin]] (c. 675-749)
+Moștenitorul teologic al lui Maxim. „Expunerea exactă a credinței ortodoxe" a Damaschinului sintetizează și sistematizează hristologia lui Maxim, transmițând-o generațiilor următoare.
+
 ### Împăratul Constans al II-lea (630-668)
 Împăratul care a impus monotelismul prin Typos-ul imperial și l-a persecutat pe Maxim. Istoria i-a dat dreptate lui Maxim, nu împăratului.
 
