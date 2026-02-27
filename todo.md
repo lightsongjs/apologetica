@@ -46,7 +46,7 @@
 - [x] Elisabeta (Elizabeth, mother of John the Baptist)
 - [x] Zaharia (Zechariah, father of John the Baptist)
 - [x] Ioan Botezătorul (John the Baptist)
-- [ ] Iacov (James, brother of Jesus)
+- [x] Iacov (James, brother of Jesus)
 - [ ] Iose (Joses, brother of Jesus)
 - [ ] Iuda (Jude, brother of Jesus)
 - [ ] Simon (Simon, brother of Jesus)
