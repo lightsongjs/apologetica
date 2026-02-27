@@ -172,7 +172,7 @@
 - [x] Egipt (Egypt)
 
 ### Roads & Paths
-- [ ] Emaus (Emmaus)
+- [x] Emaus (Emmaus)
 
 ### Other Specific Locations
 (These have been moved to "Locations in/near Jerusalem" section above to avoid duplication)
