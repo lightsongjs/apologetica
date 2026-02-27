@@ -84,7 +84,7 @@ Fratele mai mare (sau mai mic, după unele tradiții) al lui Petru. Andrei l-a a
 Coleg apostol, cu care a avut atât momente de comuniune (Sinodul din Ierusalim, Galateni 2:9), cât și de confruntare fraternă (Galateni 2:11-14). Amândoi au propovăduit la Roma și au fost martirizați acolo în aceeași perioadă, fiind prăznuiți împreună la 29 iunie.
 
 ### [[personalitati/iacob-zebedeu|Sfântul Apostol Iacob, fiul lui Zebedeu]] (†44)
-Membru al cercului interior al celor trei Apostoli, alături de Petru și [[personalitati/ioan-evanghelistul|Ioan]]. Au fost împreună la Schimbarea la Față, la învierea fiicei lui Iair și în Grădina Ghetsimani.
+Membru al cercului interior al celor trei Apostoli, alături de Petru și [[personalitati/ioan-evanghelistul|Ioan]]. Au fost împreună la Schimbarea la Față, la învierea fiicei mai-marelui sinagogii (Marcu 5:37) și în Grădina Ghetsimani.
 
 ### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
 Al treilea membru al cercului interior. „Ucenicul pe care-l iubea Iisus" a alergat împreună cu Petru la mormântul gol în dimineața Învierii (Ioan 20:3-8). Petru și Ioan au lucrat împreună în primii ani ai Bisericii (Faptele Apostolilor 3-4).

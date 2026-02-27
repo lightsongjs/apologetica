@@ -75,6 +75,9 @@ Rudă a Sfintei Ana sau a Fecioarei Maria (Luca 1:36). Elisabeta a trecut prin a
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia]] (†sec. I d.Hr.)
 Soțul Elisabetei, preot la Templu. Prin legătura de rudenie, familiile celor doi drepți au fost unite în planul mântuirii.
 
+### [[personalitati/eli|Eli]]
+Marele Preot de la Șilo, căruia Ana cea din Vechiul Testament — prefigurarea Sfintei Ana — i-a încredințat pe pruncul [[personalitati/samuel|Samuel]]. Așa cum Ana cea veche l-a adus copilul la Templu sub grija lui Eli, tot astfel Sfânta Ana a adus-o pe Fecioara Maria la Templu.
+
 ## Versete cheie
 
 - **1 Regi 1:10-11** — „Și era ea amărâtă în sufletul ei și s-a rugat Domnului și a plâns amarnic. Și a făcut făgăduință, zicând: Doamne Savaot, de vei căuta la mâhnirea roabei Tale..." — tipul veterotestamentar al rugăciunii Sfintei Ana.

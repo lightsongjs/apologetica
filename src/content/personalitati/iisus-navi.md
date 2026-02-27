@@ -64,6 +64,9 @@ Fiul lui Aaron, Arhiereul care a slujit alături de Iisus Navi în conducerea po
 ### Rahav
 Femeia din Ierihon care i-a ascuns pe iscoadele lui Israel, mărturisind credința în Dumnezeul lui Israel. A fost cruțată la cucerirea cetății și apare în genealogia Mântuitorului (Matei 1:5).
 
+### [[personalitati/otniel|Otniel]]
+Primul Judecător al lui Israel, fiul lui Chenaz, fratele lui Caleb. A luptat sub conducerea lui Iisus Navi la cucerirea Canaanului și a cucerit cetatea Chiriat-Sefer (Iosua 15:17). După moartea lui Iisus Navi, a fost ridicat de Dumnezeu ca eliberator al poporului.
+
 ### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
 În cuvântarea sa din fața Sinedriului (Faptele Apostolilor 7:45), Ștefan menționează pe Iisus Navi ca cel care a introdus Cortul Mărturiei în Pământul Făgăduinței, continuând istoria mântuirii de la Moise la cucerirea Canaanului.
 

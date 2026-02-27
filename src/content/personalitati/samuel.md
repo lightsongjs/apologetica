@@ -70,6 +70,21 @@ Tânărul păstor din Betleem, ales de Dumnezeu și uns de Samuel ca viitor rege
 ### [[personalitati/moise|Sfântul Proroc Moise]]
 Predecesorul spiritual al lui Samuel în rolul de mijlocitor și conducător al poporului. Samuel este considerat al doilea mare mijlocitor al lui Israel după Moise — amândoi au stat între Dumnezeu și popor, purtându-le cauza (Psalmul 98:6).
 
+### [[personalitati/ana|Sfânta Ana]]
+Mama lui Samuel, care l-a dobândit prin rugăciune stăruitoare și l-a închinat lui Dumnezeu la Cortul din Șilo (1 Regi 1:27-28). Cântarea ei de laudă (1 Regi 2:1-10) prefigurează Cântarea Născătoarei de Dumnezeu.
+
+### [[personalitati/eli|Eli]]
+Marele Preot de la Șilo, care l-a crescut pe Samuel de mic copil. Eli a discernut chemarea lui Dumnezeu către Samuel și l-a învățat cum să răspundă (1 Regi 3:9).
+
+### [[personalitati/ghedeon|Ghedeon]]
+Judecătorul care a eliberat Israelul de madianiți cu doar 300 de oameni. Samuel îl menționează în cuvântarea sa de despărțire ca dovadă a puterii mântuitoare a lui Dumnezeu (1 Regi 12:11).
+
+### [[personalitati/ieftae|Ieftae]]
+Judecătorul galaaditul care a eliberat Israelul de amoniți. Samuel îl menționează alături de Ghedeon în cuvântarea sa de la Mițpa (1 Regi 12:11).
+
+### [[personalitati/samson|Samson]]
+Ultimul mare Judecător dinaintea lui Samuel, nazireu din seminția lui Dan, care a luptat contra filistenilor. Samuel a preluat conducerea spirituală a Israelului după epoca lui Samson.
+
 ## Versete cheie
 
 **1 Regi 3:9-10** — „Vorbește, Doamne, că robul Tău ascultă."
