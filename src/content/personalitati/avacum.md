@@ -3,6 +3,7 @@ name: "Sfântul Proroc Avacum"
 title: "Profet minor, sec. VII î.Hr."
 image: "/images/personalitati/avacum.jpg"
 order: 25
+tip: "profet"
 ---
 
 ## Bio
@@ -63,8 +64,11 @@ Contemporan cu Avacum, a profețit în Iuda în timpul domniei lui Iosia. Sofoni
 ### [[personalitati/daniel|Profetul Daniel]] (sec. VI î.Hr.)
 Conform tradiției ortodoxe (Bel și Balaurul), Avacum a fost transportat miraculos de un înger pentru a-i duce mâncare lui Daniel în groapa cu lei. Această legătură liturgică și narativă unește cei doi profeți în tradiția Bisericii.
 
-### Regele Ioiachim (609-598 î.Hr.)
+### [[personalitati/ioiachim|Regele Ioiachim]] (609-598 î.Hr.)
 Probabil regele sub care Avacum a profețit cea mai mare parte a mesajului său. Ioiachim a fost un rege nedrept, care oprimea poporul și ignora cuvântul lui Dumnezeu — exact ceea ce Avacum denunță în prima sa plângere.
+
+### [[personalitati/iosia|Regele Iosia]] (640-609 î.Hr.)
+Avacum a prorocit probabil și în timpul domniei lui Iosia, ultimul rege drept al lui Iuda.
 
 ## Versete cheie din epistolele sale
 

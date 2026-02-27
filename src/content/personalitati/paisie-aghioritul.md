@@ -3,6 +3,7 @@ name: "Sfântul Cuvios Paisie Aghioritul"
 title: "Cuvios, monah athonit și duhovnic al lumii, 1924-1994"
 image: "/images/personalitati/paisie-aghioritul.jpg"
 order: 110
+tip: "cuvios"
 ---
 
 ## Bio

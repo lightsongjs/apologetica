@@ -3,6 +3,7 @@ name: "Sfânta Fotini cea Mare"
 title: "Samarineanca de la fântână, Întocmai cu Apostolii"
 image: "/images/personalitati/sfanta-fotini.jpg"
 order: 11
+tip: "mucenic"
 ---
 
 ## Bio

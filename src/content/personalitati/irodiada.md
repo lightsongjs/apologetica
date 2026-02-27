@@ -3,6 +3,7 @@ name: "Irodiada"
 title: "Soția lui Irod Antipa, sec. I d.Hr."
 image: "/images/personalitati/irodiada.jpg"
 order: 83
+tip: "personaj-biblic"
 ---
 
 ## Bio

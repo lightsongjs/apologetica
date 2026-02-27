@@ -3,6 +3,7 @@ name: "Sfântul Drept Zaharia"
 title: "Preot, tatăl Sfântului Ioan Botezătorul, †sec. I d.Hr."
 image: "/images/personalitati/zaharia-preotul.jpg"
 order: 50
+tip: "sfant"
 ---
 
 ## Bio

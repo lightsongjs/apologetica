@@ -3,6 +3,7 @@ name: "Sfântul Proroc Daniel"
 title: "Profet major, sec. VI î.Hr."
 image: "/images/personalitati/daniel.jpg"
 order: 8
+tip: "profet"
 ---
 
 ## Bio
@@ -59,6 +60,15 @@ Contemporan mai în vârstă, a rămas în Ierusalim și apoi în Egipt, în tim
 
 ### [[personalitati/iezechiel|Profetul Iezechiel]] (sec. VI î.Hr.)
 Contemporan în exilul babilonian. Iezechiel îl menționează pe Daniel ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14), deși Daniel era încă în viață.
+
+### [[personalitati/ioiachim|Regele Ioiachim]] (609-598 î.Hr.)
+Regele lui Iuda în al treilea an al căruia Daniel a fost deportat la Babilon (Daniel 1:1).
+
+### [[personalitati/iosia|Regele Iosia]] (640-609 î.Hr.)
+Ultimul mare rege drept al lui Iuda, în timpul căruia s-a născut probabil Daniel, primind o educație în Legea Domnului.
+
+### [[personalitati/sedechia|Regele Sedechia]] (597-586 î.Hr.)
+Ultimul rege al lui Iuda. Daniel se afla deja la Babilon în timpul lui Sedechia, în slujba curții babiloniene.
 
 ### Regele Nebucadnețar (605-562 î.Hr.)
 Cel mai puternic rege al Babilonului. Daniel i-a interpretat visele și l-a sfătuit. Nebucadnețar ajunge să recunoască puterea Dumnezeului lui Israel (Daniel 4:37).

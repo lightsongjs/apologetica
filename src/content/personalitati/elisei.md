@@ -3,6 +3,7 @@ name: "Sfântul Proroc Elisei"
 title: "Proroc și făcător de minuni, sec. IX î.Hr."
 image: "/images/personalitati/elisei.jpg"
 order: 16
+tip: "profet"
 ---
 
 ## Bio
@@ -64,7 +65,34 @@ Slujitorul lui Elisei, care l-a însoțit în multe minuni, dar a căzut prin l�
 ### Neeman Sirianul
 Comandantul armatei Siriei, vindecat de lepră prin cuvântul lui Elisei. Convertirea lui este un semn al universalității harului divin, invocat de Hristos Însuși (Luca 4:27).
 
-### Regele Ioas al lui Israel (c. 798-782 î.Hr.)
+### [[personalitati/ahab|Regele Ahab]] (c. 874-853 î.Hr.)
+Regele sub care Elisei a fost chemat la slujirea profetică de către [[personalitati/ilie|Ilie]] (3 Regi 19:19-21).
+
+### [[personalitati/ahazia-al-lui-israel|Regele Ahazia al lui Israel]] (c. 853-852 î.Hr.)
+Fiul lui Ahab, sub care Elisei a continuat lucrarea profetică a lui [[personalitati/ilie|Ilie]].
+
+### [[personalitati/ioram-al-lui-israel|Regele Ioram al lui Israel]] (c. 852-841 î.Hr.)
+Regele sub care Elisei a săvârșit cele mai multe minuni. Relație ambivalentă — Ioram îl căuta pe Elisei în criză, dar și voia să-l ucidă.
+
+### [[personalitati/iehu|Regele Iehu]] (c. 841-814 î.Hr.)
+Regele pe care Elisei l-a uns indirect, prin tânărul profet trimis la Ramot-Ghilead (4 Regi 9:1-6), pentru a nimici casa lui [[personalitati/ahab|Ahab]].
+
+### [[personalitati/ioahaz-al-lui-israel|Regele Ioahaz al lui Israel]] (c. 814-798 î.Hr.)
+Fiul lui Iehu, sub care Israelul a suferit opresiunea siriană. Elisei era încă în viață în această perioadă.
+
+### [[personalitati/ioas-al-lui-israel|Regele Ioas al lui Israel]] (c. 798-782 î.Hr.)
+Ultimul rege cu care Elisei a interacționat. La patul de moarte, Elisei l-a sfătuit și i-a profetizat biruință asupra sirienilor (4 Regi 13:14-19).
+
+### [[personalitati/iosafat|Regele Iosafat al lui Iuda]] (c. 870-848 î.Hr.)
+Elisei l-a respectat pe Iosafat. Când regii au cerut cuvânt de la Dumnezeu, Elisei a spus: „Pe viața Domnului Savaot, dacă n-aș avea în vedere pe Iosafat, nici nu m-aș uita la tine" (4 Regi 3:14).
+
+### [[personalitati/ahazia-al-lui-iuda|Regele Ahazia al lui Iuda]] (c. 841 î.Hr.)
+Elisei a trimis un fiu de profet să-l ungă pe Iehu ca rege peste Israel, declanșând judecata care l-a ucis și pe Ahazia al lui Iuda.
+
+### [[personalitati/ioas-al-lui-iuda|Regele Ioas al lui Iuda]] (c. 835-796 î.Hr.)
+Contemporan al lui Elisei, rege salvat ca prunc de la masacrul Ataliei.
+
+### [[personalitati/ioas-al-lui-israel|Regele Ioas al lui Israel]] (c. 798-782 î.Hr.)
 Ultimul rege cu care Elisei a interacționat. La patul de moarte, Elisei l-a sfătuit și i-a profetizat biruință asupra sirienilor (4 Regi 13:14-19).
 
 ## Versete cheie

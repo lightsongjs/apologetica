@@ -3,6 +3,7 @@ name: "Sfântul Proroc Moise"
 title: "Proroc și Legiuitor, sec. XIII î.Hr."
 image: "/images/personalitati/moise.jpg"
 order: 13
+tip: "profet"
 ---
 
 ## Bio

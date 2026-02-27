@@ -3,6 +3,7 @@ name: "Sfânta Perpetua din Cartagina"
 title: "Mucenicǎ, †7 martie 203"
 image: "/images/personalitati/perpetua-din-cartagina.jpg"
 order: 138
+tip: "mucenic"
 ---
 
 ## Bio

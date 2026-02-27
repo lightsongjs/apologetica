@@ -3,6 +3,7 @@ name: "Sfântul Efrem Sirul"
 title: "Cuvios, imnograf și teolog, Arpa Duhului Sfânt, c. 306-373"
 image: "/images/personalitati/efrem-sirul.jpg"
 order: 123
+tip: "parinte"
 ---
 
 ## Bio

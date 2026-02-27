@@ -3,6 +3,7 @@ name: "Regele Solomon"
 title: "Regele înțelept al lui Israel, c. 990-931 î.Hr."
 image: "/images/personalitati/solomon.jpg"
 order: 73
+tip: "rege"
 ---
 
 ## Bio
@@ -55,6 +56,12 @@ Narațiunea istorică: ungerea, înțelepciunea, Templul, căderea.
 
 ### [[personalitati/david|Sfântul Proroc și Rege David]] (c. 1040-970 î.Hr.)
 Tatăl său, care a pregătit materialele pentru Templu și i-a transmis porunca de a-l zidi.
+
+### [[personalitati/roboam|Regele Roboam]] (c. 931-913 î.Hr.)
+Fiul lui Solomon, sub care regatul s-a scindat din cauza idolatriei lui Solomon. Roboam a păstrat doar seminția lui Iuda.
+
+### [[personalitati/ieroboam|Regele Ieroboam I]] (c. 931-910 î.Hr.)
+Slujitorul lui Solomon care a primit profeția lui Ahia despre stăpânirea peste zece seminții. Solomon a căutat să-l ucidă, iar Ieroboam a fugit în Egipt. După moartea lui Solomon, a devenit primul rege al Regatului de Nord.
 
 ### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
 În cuvântarea sa din fața Sinedriului (Faptele Apostolilor 7:47), Ștefan menționează că „Solomon I-a zidit Lui casă", dar subliniază imediat că „Cel Preaînalt nu locuiește în temple făcute de mâini" — arătând că Templul lui Solomon, oricât de măreț, nu putea cuprinde pe Dumnezeu.

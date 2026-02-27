@@ -3,6 +3,7 @@ name: "Sfântul Apostol Iacob"
 title: "Fratele Domnului, primul episcop al Ierusalimului, †62 d.Hr."
 image: "/images/personalitati/iacob-fratele-domnului.jpg"
 order: 57
+tip: "apostol"
 ---
 
 ## Bio

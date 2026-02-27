@@ -3,6 +3,7 @@ name: "Sfântul Iisus Navi"
 title: "Conducătorul lui Israel, sec. XIII-XII î.Hr."
 image: "/images/personalitati/iisus-navi.jpg"
 order: 15
+tip: "conducator"
 ---
 
 ## Bio

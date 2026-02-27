@@ -3,6 +3,7 @@ name: "Sfântul Maxim Mărturisitorul"
 title: "Cuvios și Mărturisitor, teolog al Întrupării, c. 580-662"
 image: "/images/personalitati/maxim-marturisitorul.jpg"
 order: 118
+tip: "parinte"
 ---
 
 ## Bio

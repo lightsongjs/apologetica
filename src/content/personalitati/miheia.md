@@ -3,6 +3,7 @@ name: "Sfântul Proroc Miheia"
 title: "Profet minor, sec. VIII î.Hr."
 image: "/images/personalitati/miheia.jpg"
 order: 23
+tip: "profet"
 ---
 
 ## Bio
@@ -65,14 +66,20 @@ Contemporan cu Miheia, Iona a profețit în Regatul de Nord și a fost trimis la
 ### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Deși a profețit cu aproximativ un secol după Miheia, Ieremia 26:18-19 mărturisește că profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe regele Iezechia să se smerească, iar Domnul a cruțat cetatea. Miheia este astfel un model invocat de Ieremia în apărarea propriei sale profeții.
 
-### Regele Iezechia (c. 715-686 î.Hr.)
-Unul dintre cei mai evlavioși regi ai lui Iuda. Profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe Iezechia să caute fața Domnului, iar Domnul a cruțat cetatea (cf. Ieremia 26:18-19).
+### [[personalitati/ezechia|Regele Ezechia]] (c. 726-697 î.Hr.)
+Unul dintre cei mai evlavioși regi ai lui Iuda. Profeția lui Miheia despre distrugerea Ierusalimului l-a determinat pe Ezechia să caute fața Domnului, iar Domnul a cruțat cetatea (cf. Ieremia 26:18-19).
 
 ### [[personalitati/osea|Profetul Osea]] (sec. VIII î.Hr.)
-Contemporan cu Miheia, Osea a profețit în Regatul de Nord al lui Israel. Ca și Miheia, Osea a cerut milă și cunoașterea lui Dumnezeu mai presus de jertfe: „Milă voiesc, iar nu jertfă" (Osea 6:6), ecou al cuvintelor lui Miheia 6:8.
+Contemporan cu Miheia, a profețit în Regatul de Nord al lui Israel. Ca și Miheia, a cerut milă și cunoașterea lui Dumnezeu mai presus de jertfe: „Milă voiesc, iar nu jertfă" (cap. 6:6), ecou al cuvintelor lui Miheia 6:8.
 
-### Regele Ahaz (c. 735-715 î.Hr.)
+### [[personalitati/iotam|Regele Iotam]] (c. 740-736 î.Hr.)
+Rege drept al lui Iuda, în timpul căruia Miheia a prorocit (Miheia 1:1).
+
+### [[personalitati/ahaz|Regele Ahaz]] (c. 736-726 î.Hr.)
 Rege necredincios al lui Iuda, care a introdus cultul idolilor și i-a trecut pe fiii săi prin foc. Miheia a profețit și în timpul lui Ahaz, denunțând idolatria și nedreptatea.
+
+### [[personalitati/ahab|Regele Ahab]] (c. 874-853 î.Hr.)
+Miheia condamnă retrospectiv „hotărârile lui [[personalitati/omri|Omri]] și faptele casei lui Ahab" (Miheia 6:16), a căror influență a corupt și pe Iuda.
 
 ## Versete cheie
 

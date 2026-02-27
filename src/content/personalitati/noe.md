@@ -3,6 +3,7 @@ name: "Sfântul Patriarh Noe"
 title: "Dreptul care a construit corabia, ante-diluvian"
 image: "/images/personalitati/noe.jpg"
 order: 70
+tip: "patriarh"
 ---
 
 ## Bio

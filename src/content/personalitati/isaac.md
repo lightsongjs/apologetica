@@ -3,6 +3,7 @@ name: "Sfântul Patriarh Isaac"
 title: "Fiul făgăduinței, c. 2000-1800 î.Hr."
 image: "/images/personalitati/isaac.jpg"
 order: 84
+tip: "patriarh"
 ---
 
 ## Bio

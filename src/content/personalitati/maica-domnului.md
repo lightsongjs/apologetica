@@ -3,6 +3,7 @@ name: "Preasfânta Născătoare de Dumnezeu"
 title: "Fecioara Maria, Maica Domnului"
 image: "/images/personalitati/maica-domnului.jpg"
 order: 53
+tip: "nascatoare"
 ---
 
 ## Bio

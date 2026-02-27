@@ -3,6 +3,7 @@ name: "Anania și Safira"
 title: "Soți din comunitatea primară care au mințit pe Duhul Sfânt, sec. I d.Hr."
 image: "/images/personalitati/anania-si-safira.jpg"
 order: 131
+tip: "personaj-biblic"
 ---
 
 ## Bio

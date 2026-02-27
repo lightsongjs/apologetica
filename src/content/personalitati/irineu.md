@@ -3,6 +3,7 @@ name: "Sfântul Irineu de Lyon"
 title: "Episcop al Lyonului, Teolog și Apologet"
 image: "/images/personalitati/irineu.jpg"
 order: 3
+tip: "parinte"
 ---
 
 ## Bio

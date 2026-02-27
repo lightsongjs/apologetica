@@ -3,6 +3,7 @@ name: "Slăbănogul de la Betezda"
 title: "Vindecat de Hristos după 38 de ani de boală, sec. I d.Hr."
 image: "/images/personalitati/slabanogul-de-la-betezda.jpg"
 order: 94
+tip: "personaj-biblic"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Sfânta Dreaptă Ana"
 title: "Mama Preasfintei Născătoare de Dumnezeu, sec. I î.Hr."
 image: "/images/personalitati/ana.jpg"
 order: 49
+tip: "sfant"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Iuda Iscarioteanul"
 title: "Apostol căzut, trădătorul Domnului, †c. 30 d.Hr."
 image: "/images/personalitati/iuda-iscarioteanul.jpg"
 order: 55
+tip: "personaj-biblic"
 ---
 
 ## Bio

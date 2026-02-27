@@ -3,6 +3,7 @@ name: "Sfântul Proroc Amos"
 title: "Profet minor, sec. VIII î.Hr."
 image: "/images/personalitati/amos.jpg"
 order: 20
+tip: "profet"
 ---
 
 ## Bio
@@ -59,13 +60,19 @@ Amos este menționat indirect printre profeții care au vestit judecata și rest
 ## Contemporani și rude spirituale
 
 ### [[personalitati/osea|Profetul Osea]] (sec. VIII î.Hr.)
-Contemporan cu Amos, a profețit și el în Regatul de Nord în timpul lui Ieroboam al II-lea. Amândoi au denunțat corupția lui Israel, dar din perspective complementare: Amos prin prisma dreptății sociale, Osea prin prisma dragostei rănite a lui Dumnezeu. Împreună, cei doi profeți oferă o imagine completă a relației dintre Dumnezeu și Israel.
+Contemporan cu Amos, a profețit și el în Regatul de Nord în timpul lui Ieroboam al II-lea. Amândoi au denunțat corupția lui Israel, dar din perspective complementare: Amos prin prisma dreptății sociale, iar acesta prin prisma dragostei rănite a lui Dumnezeu. Împreună, cei doi profeți oferă o imagine completă a relației dintre Dumnezeu și Israel.
 
 ### [[personalitati/isaia|Profetul Isaia]] (sec. VIII î.Hr.)
 Contemporan mai tânăr, a profețit în Regatul de Sud (Iuda). Isaia continuă și dezvoltă temele dreptății sociale inițiate de Amos, dar le integrează într-o viziune mesianică mai amplă. Amândoi cer dreptate pentru sărmani și văduve ca expresie a credinței autentice.
 
-### Regele Ieroboam al II-lea (c. 786-746 î.Hr.)
+### [[personalitati/ieroboam-al-doilea|Regele Ieroboam al II-lea]] (c. 782-753 î.Hr.)
 Regele sub a cărui domnie Amos a profețit. Domnia sa a fost o perioadă de maximă expansiune teritorială și prosperitate economică a lui Israel, dar prosperitatea exterioară masca o profundă corupție morală și socială.
+
+### [[personalitati/menahem|Regele Menahem]] (c. 753-743 î.Hr.)
+Rege brutal al Nordului, sub care profețiile lui Amos despre judecata asupra Israelului au început să se împlinească.
+
+### [[personalitati/ozia|Regele Ozia al lui Iuda]] (c. 767-740 î.Hr.)
+Amos a prorocit „în zilele lui Ozia, regele lui Iuda" (Amos 1:1).
 
 ### Amația, preotul din Betel
 Preotul oficial al sanctuarului regal din Betel, care l-a confruntat pe Amos și i-a cerut să plece. Reprezintă religia instituționalizată care servește puterea politică și refuză glasul profetic.

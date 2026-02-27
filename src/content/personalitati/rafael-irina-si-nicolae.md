@@ -3,6 +3,7 @@ name: "Sfinții Rafael, Irina și Nicolae"
 title: "Neomucenici din Lesbos, †1463"
 image: "/images/personalitati/rafael-irina-si-nicolae.jpg"
 order: 136
+tip: "mucenic"
 ---
 
 ## Bio

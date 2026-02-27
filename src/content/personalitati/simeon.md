@@ -3,6 +3,7 @@ name: "Sfântul Drept Simeon"
 title: "Primitorul de Dumnezeu, sec. I"
 image: "/images/personalitati/simeon.jpg"
 order: 67
+tip: "sfant"
 ---
 
 ## Bio

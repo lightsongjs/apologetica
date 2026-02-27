@@ -3,6 +3,7 @@ name: "Sfântul Grigorie Dialogul"
 title: "Papa al Romei, autorul Liturghiei Darurilor Mai Înainte Sfințite, c. 540-604"
 image: "/images/personalitati/grigorie-dialogul.jpg"
 order: 117
+tip: "parinte"
 ---
 
 ## Bio

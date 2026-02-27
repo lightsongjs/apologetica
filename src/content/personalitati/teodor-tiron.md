@@ -3,6 +3,7 @@ name: "Sfântul Teodor Tiron"
 title: "Mare Mucenic, sec. III-IV d.Hr."
 image: "/images/personalitati/teodor-tiron.jpg"
 order: 12
+tip: "mucenic"
 ---
 
 ## Bio
@@ -50,7 +51,7 @@ Slujba Sfântului Teodor Tiron cu canon special, tropare și condac, celebrând 
 ## Contemporani și rude spirituale
 
 ### Sfânta Eusebia
-Femeia evlavioasă din Amasia care a recuperat trupul Sfântului Teodor de pe rug și l-a îngropat cu cinste. Prin grija ei, moaștele mucenicului au fost păstrate.
+Femeia evlavioasă din cetatea Amaseia care a recuperat trupul Sfântului Teodor de pe rug și l-a îngropat cu cinste. Prin grija ei, moaștele mucenicului au fost păstrate.
 
 ### Sfântul Grigorie de Nyssa (c. 335-395)
 Părintele Capadocian care a compus un cuvânt festiv despre Sfântul Teodor, contribuind la răspândirea cultului său în întreaga Biserică.

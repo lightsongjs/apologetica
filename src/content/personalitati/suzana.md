@@ -3,6 +3,7 @@ name: "Sfânta Mironosiță Suzana"
 title: "Ucenică a lui Hristos, sec. I d.Hr."
 image: "/images/personalitati/suzana.jpg"
 order: 80
+tip: "sfant"
 ---
 
 ## Bio

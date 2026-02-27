@@ -3,6 +3,7 @@ name: "Sfânta Proorocită Debora"
 title: "Proorocită și Judecător al lui Israel, sec. XII î.Hr."
 image: "/images/personalitati/debora.jpg"
 order: 143
+tip: "judecator"
 ---
 
 ## Bio

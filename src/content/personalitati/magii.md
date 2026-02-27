@@ -3,6 +3,7 @@ name: "Magii de la Răsărit"
 title: "Înțelepții care s-au închinat Pruncului, sec. I d.Hr."
 image: "/images/personalitati/magii.jpg"
 order: 92
+tip: "personaj-biblic"
 ---
 
 ## Bio

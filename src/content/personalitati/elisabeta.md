@@ -3,6 +3,7 @@ name: "Sfânta Dreaptă Elisabeta"
 title: "Mama Sfântului Ioan Botezătorul, †sec. I d.Hr."
 image: "/images/personalitati/elisabeta.jpg"
 order: 51
+tip: "sfant"
 ---
 
 ## Bio
@@ -25,7 +26,7 @@ Este prăznuită la 5 septembrie, împreună cu Sfântul Zaharia.
 Elisabeta era din „fiicele lui Aaron" (Luca 1:5) — aparținea direct neamului preoțesc. Prin căsătoria cu preotul Zaharia, ambii soți erau din linie preoțească.
 
 ### Căsătoria cu Zaharia
-S-a căsătorit cu [[personalitati/zaharia-preotul|Zaharia]], preot din ceata lui Abia. Duceau o viață exemplară, „drepți înaintea lui Dumnezeu" (Luca 1:6).
+S-a căsătorit cu [[personalitati/zaharia-preotul|Zaharia]], preot din ceata preoțească a lui Avia. Duceau o viață exemplară, „drepți înaintea lui Dumnezeu" (Luca 1:6).
 
 ### Sterilitatea și rugăciunea
 Ani îndelungați fără copii. Elisabeta purta „ocara între oameni" (Luca 1:25) cu smerenie, continuând să se roage alături de soțul ei.
@@ -63,7 +64,7 @@ Stihirile și canonul praznicului de la 5 septembrie laudă pe Elisabeta ca „m
 ## Contemporani și rude spirituale
 
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia]] (†sec. I d.Hr.)
-Soțul ei, preot din ceata lui Abia. Au împărtășit sterilitatea, credința și bucuria nașterii lui Ioan. El a primit vestirea îngerească, iar Elisabeta a primit confirmarea prin Duhul Sfânt la vizita Mariei.
+Soțul ei, preot din ceata preoțească a lui Avia. Au împărtășit sterilitatea, credința și bucuria nașterii lui Ioan. El a primit vestirea îngerească, iar Elisabeta a primit confirmarea prin Duhul Sfânt la vizita Mariei.
 
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Cel pe Care l-a recunoscut în pântecele Fecioarei la Vizitație, când pruncul Ioan a săltat de bucurie. Elisabeta a rostit prima mărturisire a Maternității divine: „Maica Domnului meu" (Luca 1:43).

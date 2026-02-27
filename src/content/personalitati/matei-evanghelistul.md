@@ -3,6 +3,7 @@ name: "Sfântul Apostol și Evanghelist Matei"
 title: "Apostol, Evanghelist, †sec. I d.Hr."
 image: "/images/personalitati/matei-evanghelistul.jpg"
 order: 36
+tip: "apostol"
 ---
 
 ## Bio

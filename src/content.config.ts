@@ -25,6 +25,7 @@ const personalitati = defineCollection({
     title: z.string(),
     image: z.string(),
     order: z.number(),
+    tip: z.string().optional(),
   }),
 });
 

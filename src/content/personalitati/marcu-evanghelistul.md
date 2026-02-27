@@ -3,6 +3,7 @@ name: "Sfântul Apostol și Evanghelist Marcu"
 title: "Apostol, Evanghelist, †c. 68 d.Hr."
 image: "/images/personalitati/marcu-evanghelistul.jpg"
 order: 46
+tip: "evanghelist"
 ---
 
 ## Bio

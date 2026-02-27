@@ -3,6 +3,7 @@ name: "Sfântul Apostol Iacob, fiul lui Alfeu"
 title: "Apostol, †c. 62 d.Hr."
 image: "/images/personalitati/iacob-alfeu.jpg"
 order: 38
+tip: "apostol"
 ---
 
 ## Bio

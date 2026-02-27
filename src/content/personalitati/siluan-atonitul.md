@@ -3,6 +3,7 @@ name: "Sfântul Cuvios Siluan Atonitul"
 title: "Cuvios, monah athonit, 1866-1938"
 image: "/images/personalitati/siluan-atonitul.jpg"
 order: 107
+tip: "cuvios"
 ---
 
 ## Bio

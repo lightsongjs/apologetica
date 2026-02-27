@@ -3,6 +3,7 @@ name: "Sfântul Proroc Ilie Tesviteanul"
 title: "Proroc de foc, sec. IX î.Hr."
 image: "/images/personalitati/ilie.jpg"
 order: 14
+tip: "profet"
 ---
 
 ## Bio
@@ -55,8 +56,23 @@ Elogiul lui Ilie în cartea deuterocanonică: „Atunci s-a sculat Ilie, prooroc
 ### [[personalitati/elisei|Sfântul Proroc Elisei]]
 Ucenicul și urmașul lui Ilie, care a primit „îndoit duhul" lui Ilie la ridicarea acestuia la cer. A continuat și amplificat lucrarea profetică a învățătorului său.
 
-### Regele Ahab (c. 874-853 î.Hr.)
+### [[personalitati/ahab|Regele Ahab]] (c. 874-853 î.Hr.)
 Regele lui Israel care a introdus cultul lui Baal sub influența soției sale Izabela. Ilie l-a confruntat direct, mustându-l pentru idolatrie și nedreptate.
+
+### [[personalitati/ahazia-al-lui-israel|Regele Ahazia al lui Israel]] (c. 853-852 î.Hr.)
+Fiul lui Ahab, căruia Ilie i-a vestit moartea când a trimis soli la Baal-Zebub. A chemat foc din cer asupra soldaților trimiși să-l prindă (4 Regi 1).
+
+### [[personalitati/ioram-al-lui-israel|Regele Ioram al lui Israel]] (c. 852-841 î.Hr.)
+Fiul lui Ahab, sub care profeția lui Ilie împotriva casei lui Ahab s-a împlinit prin uciderea lui Ioram de către [[personalitati/iehu|Iehu]] pe ogorul lui Nabot.
+
+### [[personalitati/iehu|Regele Iehu]] (c. 841-814 î.Hr.)
+Executorul judecății profetice a lui Ilie asupra casei lui Ahab. Dumnezeu poruncise lui Ilie pe Horeb să-l ungă pe Iehu rege (3 Regi 19:16), misiune îndeplinită prin [[personalitati/elisei|Elisei]].
+
+### [[personalitati/iosafat|Regele Iosafat al lui Iuda]] (c. 870-848 î.Hr.)
+Rege drept al lui Iuda, contemporan al lui Ilie, care a însoțit pe Ahab la Ramot-Galaad.
+
+### [[personalitati/ioram-al-lui-iuda|Regele Ioram al lui Iuda]] (c. 848-841 î.Hr.)
+Rege rău al lui Iuda, căruia Ilie i-a trimis o scrisoare de judecată (2 Paralipomena 21:12-15) — ultimul act profetic consemnat al lui Ilie.
 
 ### Regina Izabela
 Prințesă feniciană, soția lui Ahab, care a impus cultul lui Baal în Israel și i-a ucis pe profeții Domnului. A fost cea mai înverșunată dușmană a lui Ilie.

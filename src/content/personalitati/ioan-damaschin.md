@@ -3,6 +3,7 @@ name: "Sfântul Ioan Damaschin"
 title: "Cuvios, teolog și imnograf, ultimul mare Părinte al Răsăritului, c. 675-749"
 image: "/images/personalitati/ioan-damaschin.jpg"
 order: 119
+tip: "parinte"
 ---
 
 ## Bio

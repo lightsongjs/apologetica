@@ -3,6 +3,7 @@ name: "Regele Manase"
 title: "Rege al lui Iuda, sec. VII î.Hr."
 image: "/images/personalitati/manase.jpg"
 order: 9
+tip: "rege"
 ---
 
 ## Bio
@@ -59,13 +60,13 @@ Rugăciunea se încheie cu versul memorabil: „Căci numărul nisipurilor mări
 ### [[personalitati/isaia|Profetul Isaia]] († c. 687 î.Hr.)
 Conform tradiției iudaice (Talmud, Ascensiunea lui Isaia), profetul Isaia a fost martirizat de Manase, fiind tăiat în două cu un ferăstrău de lemn. Referința din Evrei 11:37 la „tăiați cu ferăstrăul" este văzută ca aluzie la acest martir.
 
-### Regele Ezechia (726-697 î.Hr.)
+### [[personalitati/ezechia|Regele Ezechia]] (726-697 î.Hr.)
 Tatăl lui Manase, unul dintre cei mai evlavioși regi ai lui Iuda, care a purificat templul și a înlăturat idolii. Contrastul între tată și fiu este izbitor - un memento că evlavia părinților nu garantează credința copiilor.
 
-### Regele Amon (642-640 î.Hr.)
+### [[personalitati/amon|Regele Amon]] (642-640 î.Hr.)
 Fiul lui Manase, care a domnit doar doi ani. Spre deosebire de tatăl său, Amon „nu s-a smerit înaintea Domnului" și a continuat în idolatrie, fiind asasinat de servitorii săi.
 
-### Regele Iosia (640-609 î.Hr.)
+### [[personalitati/iosia|Regele Iosia]] (640-609 î.Hr.)
 Nepotul lui Manase, ultimul mare reformator al lui Iuda. A început domnia la 8 ani și a condus cea mai radicală reformă religioasă din istoria regatului.
 
 ### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-585 î.Hr.)

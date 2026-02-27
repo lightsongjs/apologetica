@@ -3,6 +3,7 @@ name: "Sfântul Apostol și Evanghelist Ioan"
 title: "Apostol, Evanghelist, Teolog, †c. 100 d.Hr."
 image: "/images/personalitati/ioan-evanghelistul.jpg"
 order: 31
+tip: "apostol"
 ---
 
 ## Bio

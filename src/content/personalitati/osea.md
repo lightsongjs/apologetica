@@ -3,6 +3,7 @@ name: "Sfântul Proroc Osea"
 title: "Profet minor, sec. VIII î.Hr."
 image: "/images/personalitati/osea.jpg"
 order: 18
+tip: "profet"
 ---
 
 ## Bio
@@ -55,8 +56,32 @@ Contemporan cu Osea, a profețit în Regatul de Sud (Iuda) în aceeași perioad�
 ### [[personalitati/amos|Profetul Amos]] (sec. VIII î.Hr.)
 Contemporan cu Osea, a profețit și el în Regatul de Nord în timpul lui Ieroboam al II-lea. Amândoi au denunțat nedreptatea socială și corupția religioasă a lui Israel, dar din perspective complementare: Amos prin prisma dreptății divine, Osea prin prisma dragostei rănite a lui Dumnezeu.
 
+### [[personalitati/ieroboam-al-doilea|Regele Ieroboam al II-lea]] (c. 782-753 î.Hr.)
+Regele sub care Osea a început să profețească (Osea 1:1). Perioada de maximă prosperitate, dar și de maximă corupție spirituală a Israelului.
+
+### [[personalitati/iehu|Regele Iehu]] (c. 841-814 î.Hr.)
+Osea condamnă retrospectiv violența excesivă a lui Iehu: „Încă puțin și voi pedepsi casa lui Iehu pentru sângele din Izreel" (Osea 1:4).
+
+### [[personalitati/zaharia-al-lui-israel|Regele Zaharia al lui Israel]] (c. 753 î.Hr.)
+Ultimul rege din dinastia lui Iehu, asasinat după șase luni. Osea profețește în această perioadă de instabilitate.
+
+### [[personalitati/menahem|Regele Menahem]] (c. 753-743 î.Hr.)
+Rege brutal al Nordului, contemporan cu Osea. Exemplu al violenței și decăderii pe care Osea le denunță.
+
+### [[personalitati/pecah|Regele Pecah]] (c. 742-732 î.Hr.)
+Rege al Nordului care s-a aliat cu Siria împotriva Iudei. Osea condamnă alianțele politice ca formă de necredință (Osea 7:11).
+
+### [[personalitati/osea-regele|Regele Osea]] (c. 732-722 î.Hr.)
+Ultimul rege al Israelului, omonim cu profetul dar persoană diferită. Sub el s-au împlinit profețiile lui Osea despre căderea Samariei.
+
 ### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan mai tânăr, a profețit în Iuda în aceeași perioadă. Miheia a prezis nașterea lui Mesia în Betleem (Miheia 5:2) și, ca și Osea, a cerut „milă, nu jertfă" (Miheia 6:8).
+
+### [[personalitati/ozia|Regele Ozia al lui Iuda]] (c. 767-740 î.Hr.)
+Osea a prorocit „în zilele lui Ozia, regele lui Iuda" (Osea 1:1).
+
+### [[personalitati/ezechia|Regele Ezechia]] (c. 726-697 î.Hr.)
+Rege drept al lui Iuda, contemporan al lui Osea. Osea a prorocit și în zilele lui Ezechia (Osea 1:1).
 
 ## Versete cheie din epistolele sale
 

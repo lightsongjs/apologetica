@@ -3,6 +3,7 @@ name: "Sfântul Ioan Casian"
 title: "Cuvios, întemeietor al monahismului apusean, c. 360-435 d.Hr."
 image: "/images/personalitati/ioan-casian.jpg"
 order: 105
+tip: "cuvios"
 ---
 
 ## Bio

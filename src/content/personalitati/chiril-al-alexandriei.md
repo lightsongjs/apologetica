@@ -3,6 +3,7 @@ name: "Sfântul Chiril al Alexandriei"
 title: "Arhiepiscop al Alexandriei, teologul Întrupării, c. 376-444"
 image: "/images/personalitati/chiril-al-alexandriei.jpg"
 order: 126
+tip: "parinte"
 ---
 
 ## Bio

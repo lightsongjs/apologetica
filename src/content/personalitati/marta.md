@@ -3,6 +3,7 @@ name: "Sfânta Mironosiță Marta"
 title: "Din Betania, sora lui Lazăr, sec. I d.Hr."
 image: "/images/personalitati/marta.jpg"
 order: 59
+tip: "sfant"
 ---
 
 ## Bio

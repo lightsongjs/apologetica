@@ -3,6 +3,7 @@ name: "Sfântul Proroc și Rege David"
 title: "Regele lui Israel, Psalmistul, c. 1040-970 î.Hr."
 image: "/images/personalitati/david.jpg"
 order: 65
+tip: "rege"
 ---
 
 ## Bio
@@ -73,6 +74,9 @@ Genealogia lui David, organizarea cultului, pregătirea Templului.
 ### [[personalitati/samuel|Sfântul Proroc Samuel]] (sec. XI î.Hr.)
 Cel care l-a uns pe David rege, alegându-l pe cel mai mic dintre fii: „Omul privește la înfățișare, dar Domnul privește la inimă."
 
+### [[personalitati/saul|Regele Saul]] (c. 1050-1010 î.Hr.)
+Primul rege al lui Israel. David a fost muzicianul, războinicul și ginerele lui Saul, dar și proscrisul pe care Saul l-a urmărit. David nu și-a ridicat niciodată mâna asupra „unsului Domnului."
+
 ### [[personalitati/isaia|Sfântul Proroc Isaia]] (sec. VIII î.Hr.)
 Profetizează despre „Odrasla lui Iesei" (Isaia 11:1) și despre Regele din neamul lui David — profeții mesianice care continuă Legământul davidic.
 
@@ -81,6 +85,12 @@ Legislatorul prin care a venit Legea. David completează pe Moise: dacă Moise a
 
 ### [[personalitati/solomon|Regele Solomon]] (c. 970-931 î.Hr.)
 Fiul și moștenitorul lui David, cel care a zidit Templul Domnului pe care David l-a pregătit. Solomon a primit înțelepciunea, dar nu și credincioșia tatălui său.
+
+### [[personalitati/ieroboam|Regele Ieroboam I]] (c. 931-910 î.Hr.)
+Primul rege al Regatului de Nord, care a rupt cele zece seminții de la casa lui David. Ieroboam a primit o promisiune condiționată similară cu Legământul davidic, dar nu a păzit-o.
+
+### [[personalitati/atalia|Atalia]] (c. 841-835 î.Hr.)
+Cea mai mare amenințare la adresa dinastiei davidice. A ucis toată sămânța regală, dar Dumnezeu a păstrat pe micul Ioas, salvând linia mesianică.
 
 ### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
 În cuvântarea din fața Sinedriului (Faptele Apostolilor 7:45-46), Ștefan evocă pe David ca cel care „a aflat har înaintea lui Dumnezeu și a cerut să găsească locuință Dumnezeului lui Iacob" — subliniind dorința lui David de a zidi un Templu pentru Domnul.

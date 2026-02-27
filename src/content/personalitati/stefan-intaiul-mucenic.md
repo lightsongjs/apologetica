@@ -3,6 +3,7 @@ name: "Sfântul Ștefan, Întâiul Mucenic"
 title: "Arhidiacon, primul mucenic creștin, †c. 34 d.Hr."
 image: "/images/personalitati/stefan-intaiul-mucenic.jpg"
 order: 135
+tip: "mucenic"
 ---
 
 ## Bio
@@ -48,7 +49,7 @@ Cea mai amplă sinteză a istoriei mântuirii din Noul Testament — de la [[per
 ## Contemporani și rude spirituale
 
 ### [[personalitati/pavel|Sfântul Apostol Pavel]]
-Prezent la uciderea lui Ștefan ca tânăr fariseu. „Și erau păzite veșmintele la picioarele unui tânăr, numit Saul" (7:58). Tradiția vede în rugăciunea lui Ștefan pentru ucigașii săi o sămânță a convertirii lui Pavel: „Dacă Ștefan nu s-ar fi rugat, Biserică n-ar fi avut pe Pavel" (Fericitul Augustin).
+Prezent la uciderea lui Ștefan ca tânăr fariseu din Tars. „Și erau păzite veșmintele la picioarele unui tânăr" (7:58). Tradiția vede în rugăciunea lui Ștefan pentru ucigașii săi o sămânță a convertirii lui [[personalitati/pavel|Pavel]]: „Dacă Ștefan nu s-ar fi rugat, Biserică n-ar fi avut pe Pavel" (Fericitul Augustin).
 
 ### [[personalitati/filip-diaconul|Sfântul Filip Diaconul]]
 Coleg diacon, al doilea dintre cei șapte. După uciderea lui Ștefan, Filip a plecat în Samaria și a continuat propovăduirea — din persecuție a ieșit misiune.

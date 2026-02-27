@@ -3,6 +3,7 @@ name: "Abdon"
 title: "Judecător al lui Israel, sec. XII î.Hr."
 image: "/images/personalitati/abdon.jpg"
 order: 151
+tip: "judecator"
 ---
 
 ## Bio

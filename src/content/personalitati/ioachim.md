@@ -3,6 +3,7 @@ name: "Sfântul Drept Ioachim"
 title: "Tatăl Preasfintei Născătoare de Dumnezeu, sec. I î.Hr."
 image: "/images/personalitati/ioachim.jpg"
 order: 48
+tip: "sfant"
 ---
 
 ## Bio

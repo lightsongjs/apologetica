@@ -3,6 +3,7 @@ name: "Ghedeon"
 title: "Judecător al lui Israel, sec. XII î.Hr."
 image: "/images/personalitati/ghedeon.jpg"
 order: 145
+tip: "judecator"
 ---
 
 ## Bio

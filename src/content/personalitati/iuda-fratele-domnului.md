@@ -3,6 +3,7 @@ name: "Sfântul Apostol Iuda"
 title: "Fratele Domnului, autorul Epistolei lui Iuda, sec. I d.Hr."
 image: "/images/personalitati/iuda-fratele-domnului.jpg"
 order: 75
+tip: "personaj-biblic"
 ---
 
 ## Bio

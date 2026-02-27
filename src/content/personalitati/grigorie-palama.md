@@ -3,6 +3,7 @@ name: "Sfântul Grigorie Palama"
 title: "Arhiepiscop al Tesalonicului, teologul luminii necreate, 1296-1359"
 image: "/images/personalitati/grigorie-palama.jpg"
 order: 116
+tip: "parinte"
 ---
 
 ## Bio

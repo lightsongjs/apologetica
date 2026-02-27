@@ -3,6 +3,7 @@ name: "Femeia cu scurgere de sânge"
 title: "Vindecată de Hristos prin atingerea hainei Sale, sec. I d.Hr."
 image: "/images/personalitati/femeia-cu-scurgere-de-sange.jpg"
 order: 95
+tip: "personaj-biblic"
 ---
 
 ## Bio

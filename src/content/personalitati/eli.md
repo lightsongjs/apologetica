@@ -3,6 +3,7 @@ name: "Eli"
 title: "Mare Preot și Judecător al lui Israel, sec. XI î.Hr."
 image: "/images/personalitati/eli.jpg"
 order: 153
+tip: "judecator"
 ---
 
 ## Bio

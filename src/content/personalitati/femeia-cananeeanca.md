@@ -3,6 +3,7 @@ name: "Femeia cananeeancă"
 title: "Mama care a cerut vindecarea fiicei sale, sec. I d.Hr."
 image: "/images/personalitati/femeia-cananeeanca.jpg"
 order: 97
+tip: "personaj-biblic"
 ---
 
 ## Bio

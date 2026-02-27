@@ -3,6 +3,7 @@ name: "Ana Arhiereul"
 title: "Fost mare preot al Ierusalimului, c. 6-15 d.Hr."
 image: "/images/personalitati/ana-arhiereul.jpg"
 order: 81
+tip: "personaj-biblic"
 ---
 
 ## Bio

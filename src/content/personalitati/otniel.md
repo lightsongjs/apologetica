@@ -3,6 +3,7 @@ name: "Otniel"
 title: "Primul Judecător al lui Israel, sec. XIV î.Hr."
 image: "/images/personalitati/otniel.jpg"
 order: 140
+tip: "judecator"
 ---
 
 ## Bio

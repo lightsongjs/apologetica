@@ -3,6 +3,7 @@ name: "Elon"
 title: "Judecător al lui Israel, sec. XII î.Hr."
 image: "/images/personalitati/elon.jpg"
 order: 150
+tip: "judecator"
 ---
 
 ## Bio

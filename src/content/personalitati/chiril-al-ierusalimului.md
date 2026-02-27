@@ -3,6 +3,7 @@ name: "Sfântul Chiril al Ierusalimului"
 title: "Arhiepiscop al Ierusalimului, autorul Catehezelor, c. 313-386"
 image: "/images/personalitati/chiril-al-ierusalimului.jpg"
 order: 127
+tip: "parinte"
 ---
 
 ## Bio

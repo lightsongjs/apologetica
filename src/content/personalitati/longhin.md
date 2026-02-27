@@ -3,6 +3,7 @@ name: "Sfântul Longhin Sutașul"
 title: "Ofițerul roman care a mărturisit la Răstignire, sec. I d.Hr."
 image: "/images/personalitati/longhin.jpg"
 order: 100
+tip: "mucenic"
 ---
 
 ## Bio

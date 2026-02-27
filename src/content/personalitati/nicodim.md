@@ -3,6 +3,7 @@ name: "Sfântul Nicodim"
 title: "Fariseu, ucenic tainic al Domnului, sec. I d.Hr."
 image: "/images/personalitati/nicodim.jpg"
 order: 60
+tip: "sfant"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Sfântul Proroc Ioil"
 title: "Profet minor, sec. IX sau V î.Hr."
 image: "/images/personalitati/ioil.jpg"
 order: 19
+tip: "profet"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Sfântul Efrem cel Nou"
 title: "Cuvios mucenic de la Nea Makri, †1426"
 image: "/images/personalitati/efrem-cel-nou.jpg"
 order: 137
+tip: "mucenic"
 ---
 
 ## Bio

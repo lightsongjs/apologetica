@@ -3,6 +3,7 @@ name: "Sfântul Apostol Iacob, fiul lui Zebedeu"
 title: "Apostol, †44 d.Hr."
 image: "/images/personalitati/iacob-zebedeu.jpg"
 order: 33
+tip: "apostol"
 ---
 
 ## Bio

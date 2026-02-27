@@ -3,6 +3,7 @@ name: "Sfântul Simeon Noul Teolog"
 title: "Cuvios, misticul luminii și al lacrimilor, 949-1022"
 image: "/images/personalitati/simeon-noul-teolog.jpg"
 order: 120
+tip: "parinte"
 ---
 
 ## Bio

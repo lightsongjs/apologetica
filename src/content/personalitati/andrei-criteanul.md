@@ -3,6 +3,7 @@ name: "Sfântul Andrei Criteanul"
 title: "Arhiepiscop al Cretei, Imnograf"
 image: "/images/personalitati/andrei-criteanul.jpg"
 order: 4
+tip: "cuvios"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Iose"
 title: "Fratele Domnului, sec. I d.Hr."
 image: "/images/personalitati/iose.jpg"
 order: 74
+tip: "personaj-biblic"
 ---
 
 ## Bio

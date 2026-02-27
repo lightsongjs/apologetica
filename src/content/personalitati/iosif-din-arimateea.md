@@ -3,6 +3,7 @@ name: "Sfântul Iosif din Arimateea"
 title: "Sfetnic de cinste, ucenic tainic al Domnului, sec. I d.Hr."
 image: "/images/personalitati/iosif-din-arimateea.jpg"
 order: 61
+tip: "sfant"
 ---
 
 ## Bio

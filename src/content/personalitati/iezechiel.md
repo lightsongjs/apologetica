@@ -3,6 +3,7 @@ name: "Sfântul Proroc Iezechiel"
 title: "Profet major, sec. VI î.Hr."
 image: "/images/personalitati/iezechiel.jpg"
 order: 7
+tip: "profet"
 ---
 
 ## Bio
@@ -63,8 +64,11 @@ Contemporan în exilul babilonian, deși la curtea regală, nu printre exilați.
 ### [[personalitati/zaharia|Profetul Zaharia]] (sec. VI î.Hr.)
 Profet post-exilic care a continuat preocuparea lui Iezechiel pentru Templu și semnificația sa. Viziunea Templului ceresc a lui Iezechiel (cap. 40-48) este un preludiu spiritual al mesajului lui Zaharia despre reconstrucția și slava celui de-al doilea Templu. Ambii au fost preoți-profeți.
 
-### Regele Ioiachin (exilat 597 î.Hr.)
+### [[personalitati/iehonia|Regele Iehonia (Ioiachin)]] (exilat 597 î.Hr.)
 Ultimul rege legitim al lui Iuda, deportat împreună cu Iezechiel. Exilații datau evenimentele „în anii robiei regelui Ioiachin".
+
+### [[personalitati/sedechia|Regele Sedechia]] (597-586 î.Hr.)
+Ultimul rege al lui Iuda. Iezechiel a prorocit despre soarta sa: „Îl voi duce la Babilon, dar n-o va vedea" (Iezechiel 12:13).
 
 ## Versete cheie din epistolele sale
 

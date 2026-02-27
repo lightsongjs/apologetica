@@ -3,6 +3,7 @@ name: "Sfântul Patriarh Avraam"
 title: "Părintele credincioșilor, c. 2000-1825 î.Hr."
 image: "/images/personalitati/avraam.jpg"
 order: 64
+tip: "patriarh"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Cuviosul Zosima"
 title: "Monah din Palestina, părintele duhovnicesc al Sfintei Maria Egipteanca, sec. V"
 image: "/images/personalitati/zosima.jpg"
 order: 128
+tip: "cuvios"
 ---
 
 ## Bio

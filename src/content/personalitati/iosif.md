@@ -3,6 +3,7 @@ name: "Sfântul Drept Iosif"
 title: "Logodnicul Fecioarei Maria, sec. I"
 image: "/images/personalitati/iosif.jpg"
 order: 54
+tip: "patriarh"
 ---
 
 ## Bio

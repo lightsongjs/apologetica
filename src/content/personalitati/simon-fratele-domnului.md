@@ -3,6 +3,7 @@ name: "Sfântul Simon, fratele Domnului"
 title: "Fratele Domnului, al doilea episcop al Ierusalimului, †107 d.Hr."
 image: "/images/personalitati/simon-fratele-domnului.jpg"
 order: 76
+tip: "personaj-biblic"
 ---
 
 ## Bio

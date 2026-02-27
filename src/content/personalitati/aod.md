@@ -3,6 +3,7 @@ name: "Aod"
 title: "Judecător al lui Israel, sec. XIV î.Hr."
 image: "/images/personalitati/aod.jpg"
 order: 141
+tip: "judecator"
 ---
 
 ## Bio

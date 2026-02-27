@@ -3,6 +3,7 @@ name: "Sfântul Patriarh Iacov"
 title: "Israel, tatăl celor douăsprezece seminții, c. 1800 î.Hr."
 image: "/images/personalitati/iacov-patriarhul.jpg"
 order: 85
+tip: "patriarh"
 ---
 
 ## Bio

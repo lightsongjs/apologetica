@@ -3,6 +3,7 @@ name: "Sfântul Proroc Ieremia"
 title: "Profet major, sec. VII-VI î.Hr."
 image: "/images/personalitati/ieremia.jpg"
 order: 6
+tip: "profet"
 ---
 
 ## Bio
@@ -67,13 +68,25 @@ Contemporan mai tânăr, deportat în Babilon în 605 î.Hr. Daniel a slujit la 
 Tovarăși ai lui Daniel în exilul babilonian. Ieremia a profețit exilul pe care acești tineri credincioși l-au trăit direct. Credincioșia lor în cuptor împlinește chemarea lui Ieremia la perseverență în credință chiar și în mijlocul judecății.
 
 ### [[personalitati/manase|Regele Manase]] (697-642 î.Hr.)
-Ieremia s-ar fi născut în timpul târziei domnii a lui Manase sau sub fiul acestuia, Amon. Păcatele lui Manase — idolatria extremă și vărsarea de sânge nevinovat — erau încă proaspete în memoria colectivă și au contribuit la căderea finală a Ierusalimului pe care Ieremia a profețit-o.
+Ieremia s-ar fi născut în timpul târziei domnii a lui Manase sau sub fiul acestuia, [[personalitati/amon|Amon]]. Păcatele lui Manase — idolatria extremă și vărsarea de sânge nevinovat — erau încă proaspete în memoria colectivă și au contribuit la căderea finală a Ierusalimului pe care Ieremia a profețit-o.
 
 ### [[personalitati/avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
 Contemporan cu Ieremia, a pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Avacum 2:4).
 
-### Regele Iosia (640-609 î.Hr.)
+### [[personalitati/iosia|Regele Iosia]] (640-609 î.Hr.)
 Ultimul rege drept al lui Iuda. Ieremia a susținut reforma sa religioasă și l-a plâns după moartea sa la Meghiddo.
+
+### [[personalitati/ioahaz-al-lui-iuda|Regele Ioahaz]] (609 î.Hr.)
+Fiul lui Iosia, detrronat de faraonul Neco după doar trei luni. Ieremia a prorocit că nu se va mai întoarce din exilul egiptean (Ieremia 22:10-12).
+
+### [[personalitati/ioiachim|Regele Ioiachim]] (609-598 î.Hr.)
+Rege rău care a ars sulul profețiilor lui Ieremia (Ieremia 36). Ieremia l-a condamnat pentru nedreptate și exploatarea poporului.
+
+### [[personalitati/iehonia|Regele Iehonia]] (598-597 î.Hr.)
+Fiul lui Ioiachim, deportat la Babilon după doar trei luni. Ieremia a prorocit că „chiar dacă Conia ar fi pecetea de pe mâna dreaptă a Mea, tot te-aș smulge" (Ieremia 22:24).
+
+### [[personalitati/sedechia|Regele Sedechia]] (597-586 î.Hr.)
+Ultimul rege al lui Iuda, care l-a consultat pe Ieremia în taină dar nu a avut curajul să asculte. Sub el a căzut Ierusalimul (586 î.Hr.).
 
 ### Baruh, scribul lui Ieremia
 Secretarul și prietenul fidel al lui Ieremia. A scris sub dictare profețiile lui Ieremia pe un sul (Ieremia 36) și l-a însoțit pe profet în Egipt.

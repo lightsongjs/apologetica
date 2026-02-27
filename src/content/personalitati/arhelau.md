@@ -3,6 +3,7 @@ name: "Arhelau"
 title: "Etnarh al Iudeii, 4 î.Hr. - 6 d.Hr."
 image: "/images/personalitati/arhelau.jpg"
 order: 102
+tip: "rege"
 ---
 
 ## Bio

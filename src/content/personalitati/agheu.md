@@ -3,6 +3,7 @@ name: "Sfântul Proroc Agheu"
 title: "Profet minor, sec. VI î.Hr."
 image: "/images/personalitati/agheu.jpg"
 order: 26
+tip: "profet"
 ---
 
 ## Bio

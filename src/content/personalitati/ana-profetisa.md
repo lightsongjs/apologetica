@@ -3,6 +3,7 @@ name: "Sfânta Proorocița Ana"
 title: "Proorocița din Templu, sec. I î.Hr./d.Hr."
 image: "/images/personalitati/ana-profetisa.jpg"
 order: 82
+tip: "profet"
 ---
 
 ## Bio

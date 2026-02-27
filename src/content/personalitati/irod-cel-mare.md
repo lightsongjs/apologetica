@@ -3,6 +3,7 @@ name: "Irod cel Mare"
 title: "Regele Iudeii, c. 73-4 î.Hr."
 image: "/images/personalitati/irod-cel-mare.jpg"
 order: 68
+tip: "rege"
 ---
 
 ## Bio

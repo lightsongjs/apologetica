@@ -3,6 +3,7 @@ name: "Sfântul Proroc Azaria"
 title: "Unul dintre cei trei tineri din cuptor, sec. VI î.Hr."
 image: "/images/personalitati/azaria.jpg"
 order: 43
+tip: "profet"
 ---
 
 ## Bio

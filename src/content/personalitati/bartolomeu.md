@@ -3,6 +3,7 @@ name: "Sfântul Apostol Bartolomeu (Natanael)"
 title: "Apostol, †sec. I d.Hr."
 image: "/images/personalitati/bartolomeu.jpg"
 order: 35
+tip: "apostol"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Sfântul Proroc Samuel"
 title: "Profet și Judecător, sec. XI î.Hr."
 image: "/images/personalitati/samuel.jpg"
 order: 17
+tip: "judecator"
 ---
 
 ## Bio
@@ -61,7 +62,7 @@ Femeia de rugăciune al cărei imn profetic (1 Regi 2:1-10) prefigurează Cânta
 ### Preotul Eli
 Părintele duhovnicesc al lui Samuel, care l-a crescut în Cortul din Șilo. Deși om evlavios, Eli nu și-a disciplinat fiii, iar casa sa a fost pedepsită de Dumnezeu.
 
-### Regele Saul
+### [[personalitati/saul|Regele Saul]]
 Primul rege al lui Israel, uns de Samuel din porunca lui Dumnezeu. Început promițător, dar lepădat pentru neascultare repetată. Relația tragică dintre Samuel și Saul ilustrează tensiunea dintre autoritatea profetică și cea regală.
 
 ### [[personalitati/david|Sfântul Proroc și Rege David]] (c. 1040-970 î.Hr.)

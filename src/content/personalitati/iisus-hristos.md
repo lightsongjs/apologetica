@@ -3,6 +3,7 @@ name: "Domnul nostru Iisus Hristos"
 title: "Fiul lui Dumnezeu, Mântuitorul lumii"
 image: "/images/personalitati/iisus-hristos.jpg"
 order: 52
+tip: "Dumnezeu-Om"
 ---
 
 ## Bio

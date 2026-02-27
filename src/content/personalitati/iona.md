@@ -3,6 +3,7 @@ name: "Sfântul Proroc Iona"
 title: "Profet minor, sec. VIII î.Hr."
 image: "/images/personalitati/iona.jpg"
 order: 22
+tip: "profet"
 ---
 
 ## Bio
@@ -69,7 +70,7 @@ Naum profețește distrugerea Ninivei la aproximativ un secol după Iona. Dacă 
 ### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan cu Iona, Miheia a profețit în Iuda în aceeași perioadă. Ambii profeți vestesc suveranitatea universală a lui Dumnezeu — Miheia prezicând nașterea Mesiei în Betleem, iar Iona demonstrând mila lui Dumnezeu față de păgâni.
 
-### Regele Ieroboam al II-lea (793-753 î.Hr.)
+### [[personalitati/ieroboam-al-doilea|Regele Ieroboam al II-lea]] (c. 782-753 î.Hr.)
 Regele lui Israel sub care Iona a activat. Deși Ieroboam „a făcut rău în ochii Domnului" (4 Regi 14:24), Dumnezeu a extins totuși granițele lui Israel prin profeția lui Iona — un alt semn al milei divine care transcende meritul uman.
 
 ## Versete cheie

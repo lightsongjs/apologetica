@@ -3,6 +3,7 @@ name: "Sfântul Apostol Filip"
 title: "Apostol, †c. 80 d.Hr."
 image: "/images/personalitati/filip-apostolul.jpg"
 order: 34
+tip: "apostol"
 ---
 
 ## Bio

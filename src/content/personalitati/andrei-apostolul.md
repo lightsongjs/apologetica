@@ -3,6 +3,7 @@ name: "Sfântul Apostol Andrei"
 title: "Apostol, Cel Întâi Chemat, †c. 60-70 d.Hr."
 image: "/images/personalitati/andrei-apostolul.jpg"
 order: 32
+tip: "apostol"
 ---
 
 ## Bio

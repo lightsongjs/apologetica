@@ -3,6 +3,7 @@ name: "Caiafa"
 title: "Mare preot al Ierusalimului, c. 18-36 d.Hr."
 image: "/images/personalitati/caiafa.jpg"
 order: 71
+tip: "personaj-biblic"
 ---
 
 ## Bio

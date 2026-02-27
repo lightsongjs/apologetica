@@ -3,6 +3,7 @@ name: "Sfântul Cuvios Antonie cel Mare"
 title: "Părintele monahismului, c. 251-356 d.Hr."
 image: "/images/personalitati/antonie-cel-mare.jpg"
 order: 111
+tip: "cuvios"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Sfântul Apostol Iuda Tadeu"
 title: "Apostol, †sec. I d.Hr."
 image: "/images/personalitati/iuda-tadeu.jpg"
 order: 40
+tip: "apostol"
 ---
 
 ## Bio

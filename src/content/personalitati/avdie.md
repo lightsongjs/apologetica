@@ -3,6 +3,7 @@ name: "Sfântul Proroc Avdie"
 title: "Profet minor, sec. VI sau IX î.Hr."
 image: "/images/personalitati/avdie.jpg"
 order: 21
+tip: "profet"
 ---
 
 ## Bio
@@ -57,8 +58,8 @@ Dacă datăm pe Avdie în sec. VI î.Hr., el este contemporan cu Ieremia. Ambii 
 ### [[personalitati/iona|Profetul Iona]] (sec. VIII î.Hr.)
 Dacă plasăm pe Avdie mai devreme în istorie, el ar fi fost un contemporan apropiat al lui Iona. În timp ce Iona vestește judecata asupra Ninivei (Asiria), Avdie se concentrează pe Edom — ambii profeți fiind trimiși cu un mesaj adresat neamurilor, nu lui Israel.
 
-### Profetul Obadia din timpul lui Ahab
-Unii Sfinți Părinți îl identifică pe Avdie cu majordomul regelui Ahab pe nume Obadia, care a ascuns 100 de profeți ai Domnului în peșteri (3 Regi 18:3-4). Deși identificarea rămâne incertă, ea reflectă tradiția unui slujitor al lui Dumnezeu curajos în vremuri de persecuție.
+### Profetul Obadia din timpul lui [[personalitati/ahab|Ahab]]
+Unii Sfinți Părinți îl identifică pe Avdie cu majordomul regelui [[personalitati/ahab|Ahab]] pe nume Obadia, care a ascuns 100 de profeți ai Domnului în peșteri (3 Regi 18:3-4). Deși identificarea rămâne incertă, ea reflectă tradiția unui slujitor al lui Dumnezeu curajos în vremuri de persecuție.
 
 ## Versete cheie
 

@@ -3,6 +3,7 @@ name: "Sfântul Apostol Toma"
 title: "Apostol, †c. 72 d.Hr."
 image: "/images/personalitati/toma.jpg"
 order: 37
+tip: "apostol"
 ---
 
 ## Bio

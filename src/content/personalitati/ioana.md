@@ -3,6 +3,7 @@ name: "Sfânta Mironosiță Ioana"
 title: "Soția lui Huza, mironosiță, sec. I d.Hr."
 image: "/images/personalitati/ioana.jpg"
 order: 79
+tip: "sfant"
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Ponțiu Pilat"
 title: "Procuratorul Iudeii, c. 26-36 d.Hr."
 image: "/images/personalitati/pilat.jpg"
 order: 63
+tip: "personaj-biblic"
 ---
 
 ## Bio
