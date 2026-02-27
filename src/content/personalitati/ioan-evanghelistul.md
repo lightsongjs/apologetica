@@ -9,7 +9,7 @@ order: 31
 
 Sfântul Apostol și Evanghelist Ioan (în greacă: Ἰωάννης, „Dumnezeu este milostiv"), fiul lui Zebedeu și al Salomeei, fratele lui [[personalitati/iacob-zebedeu|Iacob]], este „ucenicul pe care-l iubea Iisus" (Ioan 13:23) — cel care a stat la pieptul Domnului la Cina cea de Taină și singurul apostol prezent la picioarele Crucii.
 
-Supranumit „Teologul" (ὁ Θεολόγος) în tradiția ortodoxă — unul dintre cele doar trei persoane care poartă acest titlu în Biserică, alături de Sfântul Grigorie de Nazianz și Sfântul Simeon Noul Teolog —, Ioan a scris Evanghelia cea mai profund teologică, trei epistole sobornicești și Apocalipsa (Revelația). Evanghelia sa se deschide cu proclamația supremă a dumnezeirii lui Hristos: „La început era Cuvântul, și Cuvântul era la Dumnezeu, și Dumnezeu era Cuvântul" (Ioan 1:1).
+Supranumit „Teologul" (ὁ Θεολόγος) în tradiția ortodoxă — unul dintre cele doar trei persoane care poartă acest titlu în Biserică, alături de Sfântul Grigorie de Nazianz și Sfântul [[personalitati/simeon-noul-teolog|Simeon Noul Teolog]] —, Ioan a scris Evanghelia cea mai profund teologică, trei epistole sobornicești și Apocalipsa (Revelația). Evanghelia sa se deschide cu proclamația supremă a dumnezeirii lui Hristos: „La început era Cuvântul, și Cuvântul era la Dumnezeu, și Dumnezeu era Cuvântul" (Ioan 1:1).
 
 Pescar din Betsaida, chemat de Hristos împreună cu fratele său [[personalitati/iacob-zebedeu|Iacob]] de pe malul Mării Galileii, Ioan a făcut parte din cercul interior al celor trei apostoli — alături de [[personalitati/petru|Petru]] și [[personalitati/iacob-zebedeu|Iacob]] — fiind martor al celor mai intime momente din viața Mântuitorului: Schimbarea la Față pe Tabor, învierea fiicei lui Iair și agonia din Grădina Ghetsimani.
 

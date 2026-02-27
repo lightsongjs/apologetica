@@ -70,6 +70,9 @@ Scrisori teologice și polemice, precum și tratate mai scurte despre rugăciune
 ### Sfântul Grigorie Sinaitul (c. 1260-1346)
 Mare isihast și duhovnic, care a reînviat practica rugăciunii lui Iisus pe Muntele Athos. Grigorie Palama a fost moștenitorul și apărătorul teologic al tradiției pe care Sinaitul o reînnorise practic.
 
+### [[personalitati/simeon-noul-teolog|Sfântul Simeon Noul Teolog]] (949-1022)
+Precursorul spiritual al lui Palama. Experiențele luminii necreate descrise de Simeon cu două secole și jumătate înainte sunt mărturiile directe ale tradiției pe care Palama o va apăra dogmatic prin distincția ființă-energii.
+
 ### Varlaam de Calabria (c. 1290-1348)
 Călugăr grec din sudul Italiei, format în scolastica occidentală, care a atacat practica isihaștilor. Condamnat de sinoadele din 1341 și 1351, a trecut la catolicism și a devenit episcop.
 

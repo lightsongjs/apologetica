@@ -49,4 +49,4 @@ Cel Care i S-a arătat pe drumul Emausului, tâlcuindu-i Scripturile și făcân
 Ucenicii nu L-au recunoscut pe Hristos din tâlcuirea Scripturilor, ci la „frângerea pâinii" (Luca 24:35). Aceasta este o referință euharistică: Hristos Se face cunoscut în Sfânta Euharistie. Liturghia ortodoxă reproduce această structură: mai întâi Liturghia Cuvântului (tâlcuirea Scripturilor), apoi Liturghia Euharistică (frângerea pâinii).
 
 ### „Au nu ardea în noi inima noastră?"
-Cuvintele lui Cleopa descriu experiența prezenței lui Hristos: o ardere a inimii, o iluminare interioară care precede recunoașterea. Sfinții Părinți (Sfântul Simeon Noul Teolog) numesc această experiență „simțirea harului" — semnul prezenței lui Dumnezeu în rugăciune.
+Cuvintele lui Cleopa descriu experiența prezenței lui Hristos: o ardere a inimii, o iluminare interioară care precede recunoașterea. Sfinții Părinți (Sfântul [[personalitati/simeon-noul-teolog|Simeon Noul Teolog]]) numesc această experiență „simțirea harului" — semnul prezenței lui Dumnezeu în rugăciune.
