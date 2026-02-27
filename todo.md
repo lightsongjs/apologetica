@@ -62,7 +62,7 @@
 - [x] Samarineanca (Samaritan Woman at the well)
 
 ### Jewish Religious Leaders
-- [ ] Caiafa (Caiaphas, high priest)
+- [x] Caiafa (Caiaphas, high priest)
 - [ ] Ana (Annas, former high priest)
 - [x] Nicodim (Nicodemus, Pharisee)
 - [x] Iosif din Arimateea (Joseph of Arimathea)
@@ -83,7 +83,7 @@
 ### People Jesus Healed/Encountered
 - [x] Lazăr din Betania (Lazarus of Bethany)
 - [ ] Bartimeu (Bartimaeus, blind beggar)
-- [ ] Zaheu (Zacchaeus)
+- [x] Zaheu (Zacchaeus)
 - [ ] Femeia cu scurgere de sânge (Woman with hemorrhage)
 - [ ] Femeia cananeeancă (Canaanite woman)
 - [ ] Văduvă din Nain (Widow of Nain)
@@ -99,13 +99,13 @@
 - [x] Ilie (Elijah)
 - [x] Elisei (Elisha)
 - [x] David (David)
-- [ ] Solomon (Solomon)
+- [x] Solomon (Solomon)
 - [x] Isaia (Isaiah)
 - [x] Ieremia (Jeremiah)
 - [x] Daniel (Daniel)
 - [x] Iona (Jonah)
 - [ ] Abel (Abel)
-- [ ] Noe (Noah)
+- [x] Noe (Noah)
 
 ### Other Named Figures
 - [ ] Barabas (Barabbas)
