@@ -85,9 +85,9 @@
 - [x] Bartimeu (Bartimaeus, blind beggar)
 - [x] Zaheu (Zacchaeus)
 - [x] Femeia cu scurgere de sânge (Woman with hemorrhage)
-- [ ] Femeia cananeeancă (Canaanite woman)
+- [x] Femeia cananeeancă (Canaanite woman)
 - [x] Văduvă din Nain (Widow of Nain)
-- [ ] Leprosul samaritean (Samaritan leper)
+- [x] Leprosul samaritean (Samaritan leper)
 - [x] Slăbănogul de la Betezda (Paralytic at Bethesda)
 - [x] Orbul de la naștere (Man born blind)
 

@@ -119,6 +119,12 @@ Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
+### [[personalitati/femeia-cananeeanca|Femeia cananeeancă]] (sec. I)
+Mama păgână a cărei credință a biruit aparentul refuz: „O, femeie, mare este credința ta!" (Matei 15:28).
+
+### [[personalitati/leprosul-samaritean|Leprosul samaritean]] (sec. I)
+Singurul din zece leproși vindecați care s-a întors să mulțumească: „Credința ta te-a mântuit" (Luca 17:19).
+
 ### [[personalitati/femeia-cu-scurgere-de-sange|Femeia cu scurgere de sânge]] (sec. I)
 Cea vindecată prin atingerea hainei Sale: „Fiică, credința ta te-a mântuit" (Marcu 5:34).
 
