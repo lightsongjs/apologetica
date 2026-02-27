@@ -116,6 +116,9 @@ Soția lui Huza, administratorul casei lui Irod, mironosiță care L-a urmat și
 ### [[personalitati/suzana|Sfânta Mironosiță Suzana]] (sec. I)
 Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 
+### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
+Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
+
 ### [[personalitati/ana-profetisa|Sfânta Proorocița Ana]] (sec. I)
 Proorocița din Templu care L-a recunoscut pe Prunc la Întâmpinare și a vestit despre El tuturor celor ce așteptau mântuirea (Luca 2:38).
 

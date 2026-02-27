@@ -65,6 +65,9 @@ Narațiunea principală: chemarea, peregrinarea, Legământul, nașterea lui Isa
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Urmașul lui Avraam după trup (Matei 1:1) și Cel în Care „se binecuvântează toate neamurile" (Galateni 3:8). Hristos Însuși a spus: „Avraam a fost bucuros să vadă ziua Mea; a văzut-o și s-a bucurat" (Ioan 8:56).
 
+### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
+Fiul făgăduinței, pe care l-a adus la jertfă pe Moria. Isaac este tipul lui Hristos — Fiul unic jertfit de Tatăl.
+
 ### [[personalitati/moise|Sfântul Proroc Moise]] (sec. XIII î.Hr.)
 Dumnezeu Se revelează lui Moise ca „Dumnezeul lui Avraam, Dumnezeul lui Isaac și Dumnezeul lui Iacob" (Ieșirea 3:6). Legământul cu Avraam se împlinește prin Ieșirea din Egipt.
 
