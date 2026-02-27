@@ -43,7 +43,7 @@
 - [ ] Iuda Iscarioteanul (Judas Iscariot)
 
 ### Family of Jesus
-- [ ] Elisabeta (Elizabeth, mother of John the Baptist)
+- [x] Elisabeta (Elizabeth, mother of John the Baptist)
 - [x] Zaharia (Zechariah, father of John the Baptist)
 - [ ] Ioan Botezătorul (John the Baptist)
 - [ ] Iacov (James, brother of Jesus)
