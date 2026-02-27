@@ -156,10 +156,10 @@
 - [x] Ghetsimani (Gethsemane)
 - [x] Templul (The Temple)
 - [ ] Curtea Neamurilor (Court of the Gentiles - trivial, covered by Templul)
-- [ ] Betezda (Pool of Bethesda)
-- [ ] Siloam (Pool of Siloam)
+- [x] Betezda (Pool of Bethesda)
+- [x] Siloam (Pool of Siloam)
 - [ ] Calea Suferințelor (Via Dolorosa - trivial, covered by Golgota/Ierusalim)
-- [ ] Cămara de Sus (Upper Room/Cenacle)
+- [x] Cămara de Sus (Upper Room/Cenacle)
 - [ ] Grădina lui Iosif (Joseph's Garden/Tomb - trivial, covered by Golgota)
 - [ ] Mormântul Gol (Empty Tomb - trivial, covered by Golgota)
 
