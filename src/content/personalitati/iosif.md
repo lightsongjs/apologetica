@@ -72,6 +72,12 @@ Fiul Fecioarei Maria, pe Care Iosif L-a ocrotit, L-a crescut și L-a învățat 
 ### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
 Logodnica sa, pe care a ocrotit-o cu credincioșie. Iosif nu a cunoscut-o pe Maria, ci a fost păzitorul fecioriei ei — „până când a născut pe Fiul ei, Cel Întâi-Născut" (Matei 1:25), expresie care în greacă nu implică o schimbare ulterioară.
 
+### [[personalitati/iacob-fratele-domnului|Sfântul Apostol Iacob, fratele Domnului]] (†62)
+Fiul lui Iosif din prima căsătorie, primul episcop al Ierusalimului.
+
+### [[personalitati/iose|Iose]] (sec. I)
+Fiul lui Iosif din prima căsătorie (Matei 13:55).
+
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
 Tatăl Fecioarei Maria, socrul lui Iosif. Amândoi sunt numiți „drepți" (δίκαιος) în Tradiție.
 

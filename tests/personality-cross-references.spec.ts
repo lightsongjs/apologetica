@@ -250,7 +250,10 @@ test.describe('Personality cross-references', () => {
         if (linked.has(otherSlug)) continue; // Already linked
 
         for (const variant of variants) {
-          if (sectionWithoutLinks.includes(variant)) {
+          // Use word-boundary regex to avoid substring false positives (e.g., "Iose" matching "Ioses")
+          const escaped = variant.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const regex = new RegExp(`\\b${escaped}\\b`);
+          if (regex.test(sectionWithoutLinks)) {
             missingWikiLinks.push(
               `${slug} mentions "${variant}" in Contemporani but does not wiki-link to ${otherSlug}`
             );

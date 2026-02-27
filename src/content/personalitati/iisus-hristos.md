@@ -92,6 +92,12 @@ Tatăl [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]]. A primit
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)
 Mama [[personalitati/ioan-botezatorul|Sfântului Ioan Botezătorul]], rudă a Fecioarei Maria. Prima care a mărturisit public, prin Duhul Sfânt, Întruparea: „De unde mie aceasta, ca să vină la mine Maica Domnului meu?" (Luca 1:43).
 
+### [[personalitati/iacob-fratele-domnului|Sfântul Apostol Iacob, fratele Domnului]] (†62)
+Fiul vitreg al lui Iosif, „fratele Domnului" (Galateni 1:19), primul episcop al Ierusalimului.
+
+### [[personalitati/iose|Iose]] (sec. I)
+Fiul vitreg al lui Iosif, menționat printre „frații" Domnului (Matei 13:55).
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeu al apostolilor, cel care a mărturisit: „Tu ești Hristosul, Fiul Dumnezeului Celui viu" (Matei 16:16). Hristos i-a încredințat cheile Împărăției cerurilor.
 

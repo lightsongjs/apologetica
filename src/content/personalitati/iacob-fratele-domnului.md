@@ -72,6 +72,9 @@ Fratele Său vitreg (fiu al lui Iosif din prima căsătorie). Iacob a trecut de 
 ### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
 Tatăl său, logodnicul Fecioarei Maria.
 
+### [[personalitati/iose|Iose]] (sec. I)
+Fratele său, fiu al lui Iosif din prima căsătorie (Matei 13:55).
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Coleg „stâlp" al Bisericii (Galateni 2:9). Petru recunoștea autoritatea lui Iacob în Ierusalim (Fapte 12:17; Galateni 2:12).
 
