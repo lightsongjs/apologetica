@@ -52,7 +52,7 @@
 - [ ] Simon (Simon, brother of Jesus)
 
 ### Women Followers
-- [ ] Maria Magdalena (Mary Magdalene)
+- [x] Maria Magdalena (Mary Magdalene)
 - [ ] Maria mama lui Iacov și Iose (Mary mother of James and Joses)
 - [ ] Salomeea (Salome)
 - [ ] Ioana (Joanna)
