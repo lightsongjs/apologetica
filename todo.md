@@ -58,7 +58,7 @@
 - [ ] Ioana (Joanna)
 - [ ] Suzana (Susanna)
 - [x] Marta (Martha of Bethany)
-- [ ] Maria din Betania (Mary of Bethany)
+- [x] Maria din Betania (Mary of Bethany)
 - [x] Samarineanca (Samaritan Woman at the well)
 
 ### Jewish Religious Leaders
