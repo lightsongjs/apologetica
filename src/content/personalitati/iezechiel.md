@@ -68,11 +68,13 @@ Ultimul rege legitim al lui Iuda, deportat împreună cu Iezechiel. Exilații da
 
 ## Versete cheie din epistolele sale
 
-**Iezechiel 37:3-4** — „Fiul omului, vor învia oare oasele acestea? Și am zis: Doamne Dumnezeule, Tu știi. Și mi-a zis: Prorocește asupra oaselor acestora și le spune: Oase uscate, ascultați cuvântul Domnului!"
+**Iezechiel 33:11** — „Viu sunt Eu, zice Domnul Dumnezeu, că nu voiesc moartea păcătosului, ci să se întoarcă de la calea lui și să fie viu."
+
+**Iezechiel 34:11** — „Iată, Eu Însumi voi căuta oile Mele și le voi purta de grijă."
 
 **Iezechiel 36:26** — „Vă voi da o inimă nouă și duh nou voi pune înlăuntrul vostru; voi scoate din trupul vostru inima de piatră și vă voi da inimă de carne."
 
-**Iezechiel 34:11** — „Iată, Eu Însumi voi căuta oile Mele și le voi purta de grijă."
+**Iezechiel 37:3-4** — „Fiul omului, vor învia oare oasele acestea? Și am zis: Doamne Dumnezeule, Tu știi. Și mi-a zis: Prorocește asupra oaselor acestora și le spune: Oase uscate, ascultați cuvântul Domnului!"
 
 **Iezechiel 47:9** — „Oriunde va ajunge acest râu, tot ce este viu se va însănătoși."
 

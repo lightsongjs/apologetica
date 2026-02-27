@@ -5,6 +5,7 @@ import Base from '../layouts/Base.astro';
 const conversations = await getCollection('conversations');
 const teme = await getCollection('teme');
 const personalitati = await getCollection('personalitati');
+const locuri = await getCollection('locuri');
 
 const denominationLabels: Record<string, string> = {
   'atheist': 'Ateu',
@@ -35,7 +36,7 @@ const denominationLabels: Record<string, string> = {
 
     <!-- Search hint -->
     <p class="text-center text-sm text-primary/50 mt-4 italic" id="search-hint">
-      Scrie pentru a căuta în conversații, teme și personalități
+      Scrie pentru a căuta în conversații, teme, personalități și locuri
     </p>
   </div>
 
@@ -74,6 +75,17 @@ const denominationLabels: Record<string, string> = {
       </div>
       <div id="personalitati-results" class="grid grid-cols-1 gap-3"></div>
     </section>
+
+    <!-- Locuri Section -->
+    <section id="locuri-section" class="hidden">
+      <div class="flex items-center gap-2 mb-4 sticky top-[73px] bg-bg/95 backdrop-blur-sm py-2 -mx-4 px-4 z-10">
+        <span class="material-symbols-outlined text-primary text-xl">location_on</span>
+        <h2 class="text-lg font-bold text-primary uppercase tracking-wider">Locuri Biblice</h2>
+        <div class="h-px flex-1 bg-primary/10"></div>
+        <span id="locuri-count" class="text-sm font-bold text-primary/60 bg-primary/5 px-3 py-1 rounded-full"></span>
+      </div>
+      <div id="locuri-results" class="grid grid-cols-1 gap-3"></div>
+    </section>
   </div>
 
   <!-- No Results State -->
@@ -98,7 +110,7 @@ const denominationLabels: Record<string, string> = {
     <div class="space-y-2">
       <h3 class="text-2xl font-bold text-primary/40">Explorează biblioteca</h3>
       <p class="text-primary/60 max-w-md mx-auto leading-relaxed">
-        Caută printre sute de conversații, teme teologice și personalități istorice
+        Caută printre sute de conversații, teme teologice, personalități istorice și locuri biblice
       </p>
     </div>
 
@@ -159,7 +171,7 @@ const denominationLabels: Record<string, string> = {
     .result-card:nth-child(n+6) { animation-delay: 0.30s; }
   </style>
 
-  <script define:vars={{ conversations, teme, personalitati, denominationLabels }}>
+  <script define:vars={{ conversations, teme, personalitati, locuri, denominationLabels }}>
     const searchInput = document.getElementById('search-input');
     const searchHint = document.getElementById('search-hint');
     const resultsContainer = document.getElementById('results-container');
@@ -178,6 +190,10 @@ const denominationLabels: Record<string, string> = {
     const personalitatiResults = document.getElementById('personalitati-results');
     const personalitatiCount = document.getElementById('personalitati-count');
 
+    const locuriSection = document.getElementById('locuri-section');
+    const locuriResults = document.getElementById('locuri-results');
+    const locuriCount = document.getElementById('locuri-count');
+
     // Suggestion pills
     const suggestionPills = document.querySelectorAll('.suggestion-pill');
     suggestionPills.forEach(pill => {
@@ -188,49 +204,93 @@ const denominationLabels: Record<string, string> = {
       });
     });
 
+    // Remove Romanian diacritics for flexible searching
+    function removeDiacritics(str) {
+      return str
+        .replace(/ă/g, 'a')
+        .replace(/â/g, 'a')
+        .replace(/î/g, 'i')
+        .replace(/ș/g, 's')
+        .replace(/ț/g, 't')
+        .replace(/Ă/g, 'A')
+        .replace(/Â/g, 'A')
+        .replace(/Î/g, 'I')
+        .replace(/Ș/g, 'S')
+        .replace(/Ț/g, 'T');
+    }
+
+    // Check if query matches at word boundaries (not inside words)
+    function matchesAtWordBoundary(text, query) {
+      if (!query) return false;
+      const normalizedText = removeDiacritics(text.toLowerCase());
+      const normalizedQuery = removeDiacritics(query.toLowerCase());
+      // Match at start of string or after whitespace/punctuation
+      const wordBoundaryRegex = new RegExp(`(^|\\s|[^\\p{L}])${normalizedQuery}`, 'iu');
+      return wordBoundaryRegex.test(normalizedText);
+    }
+
     function highlightMatch(text, query) {
       if (!query) return text;
-      const regex = new RegExp(`(${query})`, 'gi');
+
+      // Create a regex that matches the query ignoring diacritics
+      // We need to build a pattern that matches each character with or without diacritics
+      const normalizedQuery = removeDiacritics(query.toLowerCase());
+
+      // Build a pattern where each 'a' matches both 'a' and 'ă/â', etc.
+      let pattern = '';
+      for (let char of normalizedQuery) {
+        if (char === 'a') pattern += '[aăâĂÂ]';
+        else if (char === 'i') pattern += '[iîÎ]';
+        else if (char === 's') pattern += '[sșŞ]';
+        else if (char === 't') pattern += '[tțŢ]';
+        else pattern += char.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape special chars
+      }
+
+      const regex = new RegExp(`(${pattern})`, 'gi');
       return text.replace(regex, '<mark class="bg-primary/20 text-primary font-semibold px-1 rounded">$1</mark>');
     }
 
     function performSearch(query) {
-      query = query.toLowerCase().trim();
+      const originalQuery = query.trim();
+      query = removeDiacritics(query.toLowerCase().trim());
 
       if (!query) {
         resultsContainer.classList.add('hidden');
         emptyState.classList.remove('hidden');
         noResults.classList.add('hidden');
-        searchHint.textContent = 'Scrie pentru a căuta în toată biblioteca...';
+        searchHint.textContent = 'Scrie pentru a căută în toată biblioteca...';
         return;
       }
 
       emptyState.classList.add('hidden');
-      searchHint.textContent = `Căutare pentru: "${query}"`;
+      searchHint.textContent = `Căutare pentru: "${originalQuery}"`;
 
       // Search conversations
       const matchedConversations = conversations.filter(conv => {
-        const title = conv.data.title.toLowerCase();
-        const denomination = conv.data.denomination.toLowerCase();
-        const denominationLabel = denominationLabels[conv.data.denomination]?.toLowerCase() || '';
-        return title.includes(query) || denomination.includes(query) || denominationLabel.includes(query);
+        return matchesAtWordBoundary(conv.data.title, query) ||
+               matchesAtWordBoundary(conv.data.denomination, query) ||
+               matchesAtWordBoundary(denominationLabels[conv.data.denomination] || '', query);
       });
 
       // Search teme
       const matchedTeme = teme.filter(tema => {
-        const title = tema.data.title.toLowerCase();
-        const summary = tema.data.summary.toLowerCase();
-        return title.includes(query) || summary.includes(query);
+        return matchesAtWordBoundary(tema.data.title, query) ||
+               matchesAtWordBoundary(tema.data.summary, query);
       });
 
       // Search personalitati
       const matchedPersonalitati = personalitati.filter(pers => {
-        const name = pers.data.name.toLowerCase();
-        const title = pers.data.title.toLowerCase();
-        return name.includes(query) || title.includes(query);
+        return matchesAtWordBoundary(pers.data.name, query) ||
+               matchesAtWordBoundary(pers.data.title, query);
       });
 
-      const totalResults = matchedConversations.length + matchedTeme.length + matchedPersonalitati.length;
+      // Search locuri
+      const matchedLocuri = locuri.filter(loc => {
+        return matchesAtWordBoundary(loc.data.name, query) ||
+               matchesAtWordBoundary(loc.data.title, query);
+      });
+
+      const totalResults = matchedConversations.length + matchedTeme.length + matchedPersonalitati.length + matchedLocuri.length;
 
       if (totalResults === 0) {
         resultsContainer.classList.add('hidden');
@@ -257,7 +317,7 @@ const denominationLabels: Record<string, string> = {
               </div>
               <div class="flex-1 min-w-0">
                 <div class="text-xs font-bold text-primary/60 uppercase tracking-wider mb-1">${denominationLabel}</div>
-                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(conv.data.title, query)}</h3>
+                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(conv.data.title, originalQuery)}</h3>
               </div>
               <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
             </a>
@@ -279,8 +339,8 @@ const denominationLabels: Record<string, string> = {
                 <span class="material-symbols-outlined text-xl">auto_stories</span>
               </div>
               <div class="flex-1 min-w-0">
-                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(tema.data.title, query)}</h3>
-                <p class="text-sm text-primary/60 leading-relaxed line-clamp-2">${highlightMatch(tema.data.summary, query)}</p>
+                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(tema.data.title, originalQuery)}</h3>
+                <p class="text-sm text-primary/60 leading-relaxed line-clamp-2">${highlightMatch(tema.data.summary, originalQuery)}</p>
               </div>
               <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
             </a>
@@ -303,8 +363,8 @@ const denominationLabels: Record<string, string> = {
                 style="background-image: url('${pers.data.image}')"
               ></div>
               <div class="flex-1 min-w-0">
-                <h3 class="font-bold text-base mb-0.5 group-hover:text-primary transition-colors">${highlightMatch(pers.data.name, query)}</h3>
-                <p class="text-sm text-primary/60 italic">${highlightMatch(pers.data.title, query)}</p>
+                <h3 class="font-bold text-base mb-0.5 group-hover:text-primary transition-colors">${highlightMatch(pers.data.name, originalQuery)}</h3>
+                <p class="text-sm text-primary/60 italic">${highlightMatch(pers.data.title, originalQuery)}</p>
               </div>
               <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
             </a>
@@ -312,6 +372,29 @@ const denominationLabels: Record<string, string> = {
         }).join('');
       } else {
         personalitatiSection.classList.add('hidden');
+      }
+
+      // Render locuri
+      if (matchedLocuri.length > 0) {
+        locuriSection.classList.remove('hidden');
+        locuriCount.textContent = matchedLocuri.length;
+        locuriResults.innerHTML = matchedLocuri.map(loc => {
+          const slug = loc.id.replace('.md', '');
+          return `
+            <a href="/locuri/${slug}" class="result-card group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-start gap-3">
+              <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors flex-shrink-0 mt-0.5">
+                <span class="material-symbols-outlined text-xl">location_on</span>
+              </div>
+              <div class="flex-1 min-w-0">
+                <h3 class="font-bold text-base mb-0.5 group-hover:text-primary transition-colors">${highlightMatch(loc.data.name, originalQuery)}</h3>
+                <p class="text-sm text-primary/60 italic">${highlightMatch(loc.data.title, originalQuery)}</p>
+              </div>
+              <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
+            </a>
+          `;
+        }).join('');
+      } else {
+        locuriSection.classList.add('hidden');
       }
     }
 
