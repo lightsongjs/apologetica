@@ -61,7 +61,7 @@ Tratat adresat lui Amfilohie de Iconium, argumentând dumnezeirea Duhului Sfânt
 9 omilii la cele 6 zile ale Creației. Capodoperă de exegeză și de cunoaștere a naturii, combinând Scriptura cu observația științifică.
 
 ### Liturghia Sfântului Vasile cel Mare
-Anaforaua (rugăciunea euharistică) compusă de Vasile, celebrată de 10 ori pe an: în Duminicile Postului Mare, Joia și Sâmbăta Mare, ajunurile Crăciunului și Bobotezei, și la praznicul Sfântului Vasile (1 ianuarie).
+Anaforaua (rugăciunea euharistică) compusă de Vasile, celebrată de **10 ori pe an** în Biserica Ortodoxă: (1-5) cele cinci Duminici ale Postului Mare (cu excepția Floriilor), (6) Joia Mare — la Cina cea de Taină, (7) Sâmbăta Mare — la Prohodul Domnului, (8) Ajunul Crăciunului (24 decembrie) sau în ziua de Crăciun dacă ajunul cade sâmbăta sau duminica, (9) Ajunul Bobotezei (5 ianuarie) sau în ziua Bobotezei dacă ajunul cade sâmbăta sau duminica, (10) Praznicul Sfântului Vasile (1 ianuarie). Rugăciunile ei sunt mai lungi și mai dezvoltate teologic decât cele ale Liturghiei Sfântului Ioan Gură de Aur.
 
 ### Omilii și epistole
 Peste 300 de epistole păstrate — sursă neprețuită pentru istoria Bisericii din sec. IV. Omilii la Psalmi, la Hexaimeron, la diferite ocazii.
@@ -99,7 +99,7 @@ Cel de-al treilea mare ierarh, cel mai mare predicator al Bisericii. Deși nu s-
 Vasile, împreună cu cei doi Grigorie, a formulat definitiv terminologia trinitară: o ființă (ousia) — natura divină comună — în trei persoane (hypostaseis) — Tatăl, Fiul și Duhul Sfânt. Această distincție a rezolvat confuzia terminologică care alimenta arianismul.
 
 ### Liturghia — teologia în rugăciune
-Liturghia Sfântului Vasile cel Mare este cea mai amplă anaforă a Bisericii Ortodoxe, un adevărat tratat teologic în formă de rugăciune. Fiecare frază este o mărturisire dogmatică precisă, rostită în contextul jertfei euharistice.
+Liturghia Sfântului Vasile cel Mare este cea mai amplă anaforă a Bisericii Ortodoxe, un adevărat tratat teologic în formă de rugăciune. Celebrată de 10 ori pe an — în momentele cele mai solemne ale anului liturgic (Duminicile Postului Mare, Joia și Sâmbăta Mare, ajunurile Crăciunului și Bobotezei) — fiecare frază este o mărturisire dogmatică precisă, rostită în contextul jertfei euharistice.
 
 ### Monahismul de obște — comunitatea ca trup al lui Hristos
 Regulile lui Vasile au transformat monahismul dintr-o aventură individuală într-o viață de comunitate structurată. Accentul cade pe ascultare, rugăciune comună, muncă și slujirea aproapelui. Sfântul Benedict de Nursia l-a considerat pe Vasile „părintele nostru."
