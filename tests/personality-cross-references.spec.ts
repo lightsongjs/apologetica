@@ -241,13 +241,16 @@ test.describe('Personality cross-references', () => {
       // Which slugs are already wiki-linked in this section?
       const linked = new Set(extractWikiLinks(section).map(l => l.slug));
 
+      // Strip wiki-link syntax so display text inside links doesn't cause false positives
+      const sectionWithoutLinks = section.replace(/\[\[personalitati\/[^\]|]+\|?[^\]]*\]\]/g, '');
+
       // Check if any other personality's name appears in the section without a wiki-link
       for (const [otherSlug, variants] of nameMap) {
         if (otherSlug === slug) continue; // Skip self
         if (linked.has(otherSlug)) continue; // Already linked
 
         for (const variant of variants) {
-          if (section.includes(variant)) {
+          if (sectionWithoutLinks.includes(variant)) {
             missingWikiLinks.push(
               `${slug} mentions "${variant}" in Contemporani but does not wiki-link to ${otherSlug}`
             );
