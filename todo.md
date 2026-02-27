@@ -130,7 +130,7 @@
 - [x] Corazin (Chorazin)
 - [x] Nain (Nain)
 - [x] Cana din Galileea (Cana of Galilee)
-- [ ] Arimateea (Arimathea)
+- [x] Arimateea (Arimathea)
 - [ ] Efraim (Ephraim)
 - [ ] Sihar (Sychar)
 
