@@ -78,6 +78,9 @@ Fratele său, fiu al lui Iosif din prima căsătorie (Matei 13:55).
 ### [[personalitati/iuda-fratele-domnului|Sfântul Apostol Iuda, fratele Domnului]] (sec. I)
 Fratele său, autorul Epistolei Soborniceşti a lui Iuda.
 
+### [[personalitati/simon-fratele-domnului|Sfântul Simon, fratele Domnului]] (†c. 107)
+Fratele său, care i-a urmat ca al doilea episcop al Ierusalimului.
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Coleg „stâlp" al Bisericii (Galateni 2:9). Petru recunoștea autoritatea lui Iacob în Ierusalim (Fapte 12:17; Galateni 2:12).
 

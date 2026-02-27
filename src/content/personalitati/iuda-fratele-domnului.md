@@ -53,6 +53,9 @@ Tatăl său, logodnicul Fecioarei Maria.
 ### [[personalitati/iose|Iose]] (sec. I)
 Fratele său, menționat alături de el în Matei 13:55.
 
+### [[personalitati/simon-fratele-domnului|Sfântul Simon, fratele Domnului]] (†c. 107)
+Fratele său, al doilea episcop al Ierusalimului.
+
 ## Versete cheie
 
 - **Iuda 1:1** — „Iuda, rob al lui Iisus Hristos și frate al lui Iacov, celor chemați, care sunt iubiți întru Dumnezeu-Tatăl și păziți pentru Iisus Hristos."

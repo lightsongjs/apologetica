@@ -46,6 +46,9 @@ Fratele său, primul episcop al Ierusalimului.
 ### [[personalitati/iuda-fratele-domnului|Sfântul Apostol Iuda, fratele Domnului]] (sec. I)
 Fratele său, autorul Epistolei Soborniceşti a lui Iuda.
 
+### [[personalitati/simon-fratele-domnului|Sfântul Simon, fratele Domnului]] (†c. 107)
+Fratele său, al doilea episcop al Ierusalimului.
+
 ## Versete cheie
 
 - **Matei 13:55** — „Au nu este Acesta fiul teslarului? Au nu se numește mama Lui Maria și frații Lui: Iacov și Iose și Simon și Iuda?"

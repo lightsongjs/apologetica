@@ -81,6 +81,9 @@ Fiul lui Iosif din prima căsătorie (Matei 13:55).
 ### [[personalitati/iuda-fratele-domnului|Sfântul Apostol Iuda, fratele Domnului]] (sec. I)
 Fiul lui Iosif din prima căsătorie, autorul Epistolei lui Iuda.
 
+### [[personalitati/simon-fratele-domnului|Sfântul Simon, fratele Domnului]] (†c. 107)
+Fiul lui Iosif din prima căsătorie, al doilea episcop al Ierusalimului.
+
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
 Tatăl Fecioarei Maria, socrul lui Iosif. Amândoi sunt numiți „drepți" (δίκαιος) în Tradiție.
 

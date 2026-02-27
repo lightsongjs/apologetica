@@ -101,6 +101,9 @@ Fiul vitreg al lui Iosif, menționat printre „frații" Domnului (Matei 13:55).
 ### [[personalitati/iuda-fratele-domnului|Sfântul Apostol Iuda, fratele Domnului]] (sec. I)
 Fiul vitreg al lui Iosif, autorul Epistolei Soborniceşti a lui Iuda.
 
+### [[personalitati/simon-fratele-domnului|Sfântul Simon, fratele Domnului]] (†c. 107)
+Fiul vitreg al lui Iosif, al doilea episcop al Ierusalimului.
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeu al apostolilor, cel care a mărturisit: „Tu ești Hristosul, Fiul Dumnezeului Celui viu" (Matei 16:16). Hristos i-a încredințat cheile Împărăției cerurilor.
 
