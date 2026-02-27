@@ -111,7 +111,7 @@
 - [x] Barabas (Barabbas)
 - [ ] Simeon Leproso (Simon the Leper)
 - [ ] Simon Fariseu (Simon the Pharisee)
-- [ ] Cleopa (Cleopas, road to Emmaus)
+- [x] Cleopa (Cleopas, road to Emmaus)
 - [ ] Malh (Malchus, servant whose ear was cut)
 - [ ] Magii (The Magi/Wise Men)
 

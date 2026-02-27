@@ -119,6 +119,9 @@ Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
+### [[personalitati/cleopa|Sfântul Apostol Cleopa]] (sec. I)
+Ucenicul căruia Hristos cel înviat i S-a arătat pe drumul Emausului, tâlcuindu-i Scripturile și făcându-Se cunoscut la frângerea pâinii.
+
 ### [[personalitati/bartimeu|Bartimeu]] (sec. I)
 Orbul din Ierihon al cărui strigăt „Fiul lui David, miluiește-mă!" a devenit sămânța Rugăciunii lui Iisus.
 
