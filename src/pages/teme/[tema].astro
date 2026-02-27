@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { marked } from 'marked';
+import { resolveWikiLinks } from '../../lib/wiki-links';
 
 export async function getStaticPaths() {
   const allTeme = await getCollection('teme');
@@ -13,7 +14,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const bodyHtml = await marked.parse(entry.body || '');
+const bodyHtml = await marked.parse(resolveWikiLinks(entry.body || ''));
 ---
 
 <Base title={entry.data.title} headerTitle="Temă" backHref="/teme" activeNav="home">
