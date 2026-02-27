@@ -173,6 +173,9 @@ Proorocița din Templu care L-a recunoscut pe Prunc la Întâmpinare și a vesti
 ### [[personalitati/ana-arhiereul|Ana Arhiereul]] (mare preot, c. 6-15)
 Fostul mare preot care L-a interogat în noaptea arestării, înainte de a-L trimite la ginerele său [[personalitati/caiafa|Caiafa]].
 
+### [[personalitati/simeon-leproso|Simon Leprosul]] (sec. I)
+Locuitor al Betaniei în a cărui casă o femeie a turnat mir pe capul lui Hristos, pregătindu-L pentru îngropare (Matei 26:6-13).
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeu al apostolilor, cel care a mărturisit: „Tu ești Hristosul, Fiul Dumnezeului Celui viu" (Matei 16:16). Hristos i-a încredințat cheile Împărăției cerurilor.
 
