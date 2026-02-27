@@ -64,7 +64,7 @@ Menționează pe Antonie ca vizitator al lui Pavel, primul pustnic, confirmând 
 
 ## Contemporani și rude spirituale
 
-### Sfântul Atanasie cel Mare (c. 296-373)
+### [[personalitati/atanasie-cel-mare|Sfântul Atanasie cel Mare]] (c. 296-373)
 Arhiepiscopul Alexandriei, marele apărător al Ortodoxiei contra arianismului. Prieten și biograf al Sfântului Antonie, căruia i-a scris Viața. Antonie i-a lăsat mantia sa ca moștenire.
 
 ### Cuviosul Pavel Tebeul (c. 227-342)

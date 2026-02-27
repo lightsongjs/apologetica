@@ -78,7 +78,10 @@ Fratele mai mic al lui Vasile, episcop de Nyssa, mare teolog mistic. A continuat
 Sora mai mare, cea care l-a influențat decisiv pe Vasile în alegerea vieții monahale. Sfântul Grigorie de Nyssa i-a scris biografia, prezentând-o ca model de viață filosofică creștină.
 
 ### [[personalitati/antonie-cel-mare|Sfântul Antonie cel Mare]] (c. 251-356)
-Părintele monahismului, a cărui viață (scrisă de Sfântul Atanasie) l-a inspirat pe Vasile în organizarea vieții monahale. Vasile a transformat modelul pustnicesc antoniar într-un monahism de obște structurat.
+Părintele monahismului, a cărui viață (scrisă de [[personalitati/atanasie-cel-mare|Sfântul Atanasie]]) l-a inspirat pe Vasile în organizarea vieții monahale. Vasile a transformat modelul pustnicesc antoniar într-un monahism de obște structurat.
+
+### [[personalitati/atanasie-cel-mare|Sfântul Atanasie cel Mare]] (c. 296-373)
+Arhiepiscopul Alexandriei, apărătorul termenului „homoousios" la Niceea. Vasile a continuat și desăvârșit lupta teologică trinitară pe care Atanasie o începuse.
 
 ### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)
 Cel de-al treilea mare ierarh, cel mai mare predicator al Bisericii. Deși nu s-au întâlnit, Hrisostom a venerat pe Vasile și i-a continuat opera liturgică. Prăznuiți împreună la 30 ianuarie.
