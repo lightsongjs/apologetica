@@ -83,6 +83,9 @@ Cel mai profund interpret al operei lui Grigorie. Ambigua lui Maxim sunt în ese
 ### [[personalitati/simeon-noul-teolog|Sfântul Simeon Noul Teolog]] (949-1022)
 Al treilea „Teolog" al Ortodoxiei. Moștenește titlul tocmai pentru că, asemenea lui Grigorie, vorbește despre Dumnezeu din experiența directă a Lui, nu din speculație intelectuală. Moștenește titlul tocmai pentru că, asemenea lui Grigorie, vorbește despre Dumnezeu din experiența directă a Lui, nu din speculație intelectuală.
 
+### [[personalitati/chiril-al-ierusalimului|Sfântul Chiril al Ierusalimului]] (c. 313-386)
+Contemporan la Sinodul II Ecumenic (381). Grigorie a prezidat sinodul, Chiril a participat ca episcop al Ierusalimului. Amândoi au mărturisit dumnezeirea Duhului Sfânt.
+
 ### Împăratul Teodosie I (347-395)
 Împăratul care l-a chemat pe Grigorie la Constantinopol și care a convocat Sinodul II Ecumenic (381), unde teologia capadociană a devenit dogmă oficială.
 

@@ -83,6 +83,9 @@ Părintele monahismului, a cărui viață (scrisă de [[personalitati/atanasie-c
 ### [[personalitati/atanasie-cel-mare|Sfântul Atanasie cel Mare]] (c. 296-373)
 Arhiepiscopul Alexandriei, apărătorul termenului „homoousios" la Niceea. Vasile a continuat și desăvârșit lupta teologică trinitară pe care Atanasie o începuse.
 
+### [[personalitati/chiril-al-ierusalimului|Sfântul Chiril al Ierusalimului]] (c. 313-386)
+Contemporan în lupta contra arianismului. Vasile a scris tratatul „Despre Duhul Sfânt"; Chiril a propovăduit dumnezeirea Duhului în Cateheze. Amândoi au pregătit Sinodul II Ecumenic (381).
+
 ### [[personalitati/efrem-sirul|Sfântul Efrem Sirul]] (c. 306-373)
 Contemporanul siriac. Tradiția menționează o întâlnire între Efrem și Vasile la Cezareea Capadociei. Ambii au îmbinat teologia cu slujirea socială a celor săraci.
 

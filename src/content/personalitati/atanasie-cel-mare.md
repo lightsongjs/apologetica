@@ -82,6 +82,12 @@ Continuatorul spiritual al lui Atanasie în apărarea hristologiei ortodoxe. Ata
 ### [[personalitati/efrem-sirul|Sfântul Efrem Sirul]] (c. 306-373)
 Contemporan în lupta contra arianismului. Atanasie a luptat prin tratate dogmatice în greacă; Efrem a luptat prin imne în siriacă. Amândoi au apărat credința niceeană cu mijloacele lor proprii.
 
+### [[personalitati/chiril-al-alexandriei|Sfântul Chiril al Alexandriei]] (c. 376-444)
+Succesorul pe scaunul Alexandriei și continuatorul operei hristologice. Chiril a dezvoltat teologia atanasiană într-o hristologie sistematică, apărând unirea ipostatică la Sinodul de la Efes (431).
+
+### [[personalitati/chiril-al-ierusalimului|Sfântul Chiril al Ierusalimului]] (c. 313-386)
+Contemporan în lupta contra arianismului. Amândoi au suferit exiluri repetate pentru apărarea Ortodoxiei — Atanasie cinci, Chiril trei.
+
 ### Arie (c. 256-336)
 Preotul alexandrin care a susținut că Fiul este creatură — „a fost un timp când nu era." Erezia sa a provocat cea mai gravă criză din istoria Bisericii, iar Atanasie a fost principalul ei adversar.
 

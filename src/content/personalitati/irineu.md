@@ -42,7 +42,7 @@ Moare probabil ca mucenic în timpul persecuției sub Septimius Severus, deși d
 ## Surse și scrieri
 
 ### Adversus Haereses (Împotriva Ereziilor)
-Lucrarea sa capitală, în cinci cărți, scrisă în greacă (păstrată în traducere latină). Reprezintă cea mai completă refutare a gnosticismului din antichitate. Expune și combate în detaliu sistemele gnostice ale lui Valentinian, Marcion și alții, apărând în același timp învățătura ortodoxă despre Dumnezeu, creație, mântuire și Biserică.
+Lucrarea sa capitală, în cinci cărți, scrisă în greacă (păstrată în traducere latină). Reprezintă cea mai completă refutare a gnosticismului din antichitate. Expune și combate în detaliu sistemele gnostice ale lui Valentinian, Marcion și alții, apărând în același timp învățătura ortodoxă despre Dumnezeu, creație, mântuire și Biserică. Dezvoltă exegeza tipologică a Vechiului Testament, inclusiv interpretarea lui [[personalitati/isaac|Isaac]] ca tip al lui Hristos.
 
 ### Demonstratio Apostolicae Praedicationis (Demonstrația Predicării Apostolice)
 O lucrare mai scurtă, catechetică, redescoperită în 1904 într-o traducere armeană. Prezintă în mod sistematic învățătura creștină ortodoxă, bazându-se pe Scriptură și tradiția apostolică.

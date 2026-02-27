@@ -71,6 +71,9 @@ Tradiția menționează o întâlnire între Efrem și Vasile la Cezareea Capado
 ### [[personalitati/antonie-cel-mare|Sfântul Antonie cel Mare]] (c. 251-356)
 Contemporanul egiptean. Efrem a cunoscut monahismul egiptean și l-a adaptat tradiției siriace.
 
+### [[personalitati/chiril-al-alexandriei|Sfântul Chiril al Alexandriei]] (c. 376-444)
+Moștenitorul în teologia mariologică. Imnele mariologice ale lui Efrem pregătesc drumul spre proclamarea solemnă a titlului de Theotokos pe care Chiril a apărat-o la Efes (431).
+
 ### Sfântul Iacob al Nisibisului (†338)
 Episcopul care l-a format pe Efrem, participant la Sinodul de la Niceea. Iacob este figura paternă a vieții duhovnicești a lui Efrem.
 

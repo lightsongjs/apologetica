@@ -46,7 +46,7 @@ Capitolele 21-28, 35 — nașterea, jertfa, căsătoria, fiii, adormirea.
 **Matei** 8:11 — la masă cu Avraam și Isaac în Împărăție. **Romani** 9:7 — „Întru Isaac ți se va chema sămânță." **Galateni** 4:28 — „Noi, fraților, suntem ca Isaac, fii ai făgăduinței." **Evrei** 11:17-19 — jertfa lui Isaac în galeria credinței.
 
 ### Sfinții Părinți
-**Sfântul Irineu de Lyon** și **Sfântul Chiril al Alexandriei** — Isaac ca tip al lui Hristos.
+**[[personalitati/irineu|Sfântul Irineu de Lyon]]** și **Sfântul [[personalitati/chiril-al-alexandriei|Chiril al Alexandriei]]** — Isaac ca tip al lui Hristos.
 
 ## Contemporani și rude spirituale
 

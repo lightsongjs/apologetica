@@ -54,8 +54,8 @@ Cărțile liturgice ale Postului Mare conțin multiple referințe la Sfânta Mar
 ### [[personalitati/andrei-criteanul|Sfântul Andrei Criteanul]] (c. 660-740)
 Autorul Marelui Canon, cu care viața Sfintei Maria este citită împreună în cultul ortodox. Andrei a integrat modelul pocăinței Mariei în cea mai mare operă imnografică a Bisericii.
 
-### Avva Zosima
-Monahul din Palestina care a descoperit-o pe Maria în pustie, i-a adus Sfânta Împărtășanie și i-a transmis viața posterității. Fără Zosima, povestea Mariei s-ar fi pierdut.
+### [[personalitati/zosima|Cuviosul Zosima]]
+Monahul din Palestina care a descoperit-o pe Maria în pustie, i-a adus Sfânta Împărtășanie și i-a transmis viața posterității. Fără el, povestea Mariei s-ar fi pierdut.
 
 ### Sfântul Sofronie al Ierusalimului (c. 560-638)
 Patriarhul Ierusalimului care a scris forma definitivă a Vieții Sfintei Maria Egipteanca, dându-i amploarea literară și teologică pe care o cunoaștem.

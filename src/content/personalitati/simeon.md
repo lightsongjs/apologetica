@@ -43,7 +43,7 @@ Unica sursă canonică. Descrierea lui Simeon, cântarea „Acum slobozește" ș
 Menționează pe Simeon la Templu.
 
 ### Sfinții Părinți
-**Sfântul Chiril al Ierusalimului** — în Catehezele sale, comentează profeția lui Simeon.
+**Sfântul [[personalitati/chiril-al-ierusalimului|Chiril al Ierusalimului]]** — în Catehezele sale, comentează profeția lui Simeon.
 **Sfântul Ambrozie al Milanului** — dezvoltă teologia Întâmpinării: Simeon primește pe Hristos ca reprezentant al întregii omeniri.
 
 ## Contemporani și rude spirituale

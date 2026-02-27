@@ -98,6 +98,9 @@ Ucenic direct al lui Ioan la Efes, format spiritual de apostol. Conform tradiți
 ### [[personalitati/ignatie-teoforul|Sfântul Ignatie Teoforul]] (†c. 107-110)
 Episcop al Antiohiei, contemporan cu Ioan. Tradiția spune că Ignatie l-ar fi cunoscut personal pe Ioan la Efes sau Antiohia.
 
+### [[personalitati/chiril-al-alexandriei|Sfântul Chiril al Alexandriei]] (c. 376-444)
+Autorul celui mai amplu comentariu patristic la Evanghelia lui Ioan — capodoperă exegetică care dezvoltă teologia Logosului întrupat mărturisită de Apostol.
+
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Învățătorul și Domnul său, „Cuvântul Care S-a făcut trup" (Ioan 1:14) — Ioan a fost „ucenicul pe care îl iubea Iisus" (Ioan 13:23), singurul apostol prezent la Cruce, căruia Hristos i-a încredințat-o pe [[personalitati/maica-domnului|Maica Sa]].
 

@@ -101,7 +101,7 @@ Preotul și scribul care a restaurat cunoașterea Legii în Iuda. Activitatea sa
 ## Semnificație teologică și istorică
 
 ### Profeția Sfintei Euharistii — „Jertfa curată"
-Maleahi 1:11 este considerat de Sfinții Părinți (Sfântul Iustin Martirul, Sfântul Irineu, Sfântul Chiril al Ierusalimului) cea mai clară profeție veterotestamentară a Sfintei Euharistii. „Jertfa curată" adusă „în tot locul" între neamuri nu poate fi nicio altă jertfă decât Liturghia — pâinea și vinul prefăcute în Trupul și Sângele Domnului, oferite zilnic de la răsărit până la apus.
+Maleahi 1:11 este considerat de Sfinții Părinți (Sfântul Iustin Martirul, Sfântul Irineu, Sfântul [[personalitati/chiril-al-ierusalimului|Chiril al Ierusalimului]]) cea mai clară profeție veterotestamentară a Sfintei Euharistii. „Jertfa curată" adusă „în tot locul" între neamuri nu poate fi nicio altă jertfă decât Liturghia — pâinea și vinul prefăcute în Trupul și Sângele Domnului, oferite zilnic de la răsărit până la apus.
 
 ### Ultimul glas profetic — „pecetea profeților"
 Maleahi închide revelația profetică a Vechiului Testament. După el urmează patru secole de tăcere profetică până la glasul Sfântului Ioan Botezătorul în pustie. Această tăcere nu este vid, ci așteptare: ultimele cuvinte ale Vechiului Legământ sunt o promisiune — venirea lui Ilie și Ziua Domnului.

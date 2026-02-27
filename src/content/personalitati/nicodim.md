@@ -43,7 +43,7 @@ Text apocrif care dezvoltă narațiunea Patimilor și a Coborârii la Iad. Deși
 
 ### Sfinții Părinți
 **Sfântul Ioan Gură de Aur** — în omiliile la Ioan, analizează creșterea treptată a credinței lui Nicodim.
-**Sfântul Chiril al Alexandriei** — comentează dialogul despre nașterea de sus.
+**Sfântul [[personalitati/chiril-al-alexandriei|Chiril al Alexandriei]]** — comentează dialogul despre nașterea de sus.
 
 ## Contemporani și rude spirituale
 

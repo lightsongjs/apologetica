@@ -81,6 +81,9 @@ Frate adoptiv al Sfântului [[personalitati/ioan-damaschin|Ioan Damaschin]] și 
 ### Sfântul Gherman, Patriarhul Constantinopolului (634-740)
 Patriarh în timpul carierei lui Andrei, apărător al icoanelor și coleg în lupta împotriva primelor tendințe iconoclaste.
 
+### [[personalitati/zosima|Cuviosul Zosima]] (sec. V)
+Monahul care a descoperit-o pe Maria Egipteanca în pustie și a transmis povestea ei posterității. Viața Mariei, consemnată de mărturisirea lui Zosima, este citită la slujba Marelui Canon.
+
 ### [[personalitati/maria-egipteanca|Sfânta Maria Egipteanca]] (†c. 421)
 Deși Maria a trăit cu secole înainte de Andrei, el i se atribuie redactarea sau popularizarea narațiunii despre viața sa, care este citită în timpul cântării Marelui Canon în Joia din Săptămâna a V-a a Postului Mare.
 
