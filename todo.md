@@ -57,7 +57,7 @@
 - [ ] Salomeea (Salome)
 - [ ] Ioana (Joanna)
 - [ ] Suzana (Susanna)
-- [ ] Marta (Martha of Bethany)
+- [x] Marta (Martha of Bethany)
 - [ ] Maria din Betania (Mary of Bethany)
 - [x] Samarineanca (Samaritan Woman at the well)
 
