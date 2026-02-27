@@ -98,7 +98,7 @@
 - [x] Moise (Moses)
 - [x] Ilie (Elijah)
 - [x] Elisei (Elisha)
-- [ ] David (David)
+- [x] David (David)
 - [ ] Solomon (Solomon)
 - [x] Isaia (Isaiah)
 - [x] Ieremia (Jeremiah)
