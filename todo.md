@@ -104,7 +104,7 @@
 - [x] Ieremia (Jeremiah)
 - [x] Daniel (Daniel)
 - [x] Iona (Jonah)
-- [ ] Abel (Abel)
+- [x] Abel (Abel)
 - [x] Noe (Noah)
 
 ### Other Named Figures

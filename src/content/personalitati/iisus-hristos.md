@@ -119,6 +119,9 @@ Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
+### [[personalitati/abel|Dreptul Abel]]
+Primul martir, al cărui sânge „strigă din pământ" (Facerea 4:10), dar sângele lui Hristos „grăiește mai bine decât al lui Abel" (Evrei 12:24).
+
 ### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov/Israel]] (c. 1800 î.Hr.)
 Tatăl celor douăsprezece seminții, care a profetizat: „Nu se va depărta sceptrul de la Iuda... până va veni Șilo" (Facerea 49:10).
 
