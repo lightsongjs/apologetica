@@ -84,6 +84,9 @@ Fiul lui Iosif din prima căsătorie, autorul Epistolei lui Iuda.
 ### [[personalitati/simon-fratele-domnului|Sfântul Simon, fratele Domnului]] (†c. 107)
 Fiul lui Iosif din prima căsătorie, al doilea episcop al Ierusalimului.
 
+### [[personalitati/arhelau|Arhelau]] (4 î.Hr. — 6 d.Hr.)
+Fiul lui [[personalitati/irod-cel-mare|Irod cel Mare]], etnarh al Iudeii. Iosif s-a temut de el și a ales să se stabilească la Nazaret (Matei 2:22).
+
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)
 Tatăl Fecioarei Maria, socrul lui Iosif. Amândoi sunt numiți „drepți" (δίκαιος) în Tradiție.
 

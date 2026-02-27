@@ -59,6 +59,9 @@ Tatăl său, de la care a moștenit tetrarhia și caracterul tiranic.
 ### [[personalitati/pilat|Ponțiu Pilat]] (procurator, c. 26-36)
 S-au „împrietenit" în ziua judecării lui Hristos — o prietenie clădită pe complicitate.
 
+### [[personalitati/irodul-filip|Irodul Filip]] (†34 d.Hr.)
+Fratele vitreg, tetrarh al Ituriei și Trahonitidei.
+
 ### [[personalitati/irodiada|Irodiada]] (sec. I)
 Soția sa, care l-a manipulat pentru uciderea Botezătorului prin vicleșugul dansului fiicei sale.
 

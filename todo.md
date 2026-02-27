@@ -75,8 +75,8 @@
 - [x] Irod Antipa (Herod Antipas)
 - [x] Irod cel Mare (Herod the Great)
 - [x] Irodiada (Herodias)
-- [ ] Irodul Filip (Herod Philip)
-- [ ] Arhelau (Archelaus)
+- [x] Irodul Filip (Herod Philip)
+- [x] Arhelau (Archelaus)
 - [x] Centurionul de la Capernaum (Centurion at Capernaum)
 - [x] Centurionul de la cruce (Centurion at the cross)
 

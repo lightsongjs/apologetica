@@ -62,8 +62,14 @@ Conform tradiției, ucis în Templu de soldații lui Irod pentru că a refuzat s
 ### [[personalitati/irodiada|Irodiada]] (sec. I)
 Nepoata sa, care a moștenit cruzimea familiei și a uneltit uciderea Botezătorului.
 
+### [[personalitati/arhelau|Arhelau]] (4 î.Hr. — 6 d.Hr.)
+Fiul său, etnarh al Iudeii, destituit de Augustus pentru cruzime excesivă.
+
 ### [[personalitati/irod-antipa|Irod Antipa]] (†39 d.Hr.)
 Fiul său, care a moștenit tetrarhia Galileii și Pereii.
+
+### [[personalitati/irodul-filip|Irodul Filip]] (†34 d.Hr.)
+Fiul său, tetrarh al Ituriei și Trahonitidei, constructorul Cezareei lui Filip.
 
 ## Versete cheie
 
