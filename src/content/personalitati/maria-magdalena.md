@@ -73,6 +73,9 @@ A alergat împreună cu Petru la mormânt la vestea Mariei. Ioan este cel care r
 ### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
 Împreună la picioarele Crucii (Ioan 19:25). Maria Magdalena și Maica Domnului au fost unite în durere la Răstignire și în bucurie la Înviere.
 
+### [[personalitati/maria-mama-lui-iacov|Maria, mama lui Iacov și Iose]] (sec. I)
+Împreună-mironosiță, alături de care a stat la Cruce și a venit la Mormânt (Marcu 15:40; 16:1).
+
 ## Versete cheie
 
 - **Luca 8:2** — „Maria, numită Magdalena, din care ieșiseră șapte demoni."
