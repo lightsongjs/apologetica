@@ -119,6 +119,9 @@ Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
+### [[personalitati/malh|Malh]] (sec. I)
+Sluga marelui preot, căruia Hristos i-a vindecat urechea tăiată de Petru — ultima minune înainte de Patimi.
+
 ### [[personalitati/gamaliel|Gamaliel]] (sec. I)
 Fariseu din Sinedriu care a protejat apostolii: „Dacă este de la Dumnezeu, nu veți putea să-l nimiciți" (Fapte 5:39).
 
