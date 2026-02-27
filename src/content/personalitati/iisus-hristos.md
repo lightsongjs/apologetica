@@ -119,6 +119,9 @@ Mironosiță care L-a urmat și slujit din averea sa (Luca 8:3).
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul unic al lui Avraam, adus la jertfă pe Moria — cel mai puternic tip hristologic al Vechiului Testament.
 
+### [[personalitati/bartimeu|Bartimeu]] (sec. I)
+Orbul din Ierihon al cărui strigăt „Fiul lui David, miluiește-mă!" a devenit sămânța Rugăciunii lui Iisus.
+
 ### [[personalitati/barabas|Barabas]] (sec. I)
 Tâlharul eliberat în locul lui Hristos — imaginea schimbului soteriologic: Cel Nevinovat ia locul celui vinovat.
 

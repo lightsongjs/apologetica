@@ -82,7 +82,7 @@
 
 ### People Jesus Healed/Encountered
 - [x] Lazăr din Betania (Lazarus of Bethany)
-- [ ] Bartimeu (Bartimaeus, blind beggar)
+- [x] Bartimeu (Bartimaeus, blind beggar)
 - [x] Zaheu (Zacchaeus)
 - [ ] Femeia cu scurgere de sânge (Woman with hemorrhage)
 - [ ] Femeia cananeeancă (Canaanite woman)
