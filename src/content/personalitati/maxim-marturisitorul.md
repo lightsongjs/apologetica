@@ -99,6 +99,9 @@ Editorul și comentatorul Centuriilor maximiene în Filocalia, asigurând transm
 ### [[personalitati/chiril-al-alexandriei|Sfântul Chiril al Alexandriei]] (c. 376-444)
 Predecesorul spiritual în hristologie. Chiril a apărat unirea ipostatică la Efes; Maxim a continuat și aprofundat hristologia chirilină, apărând cele două voințe ale lui Hristos contra monotelismului.
 
+### [[personalitati/dionisie-areopagitul|Sfântul Dionisie Areopagitul]]
+Maxim a scris ample comentarii (Scholia) la operele Corpusului Dionisian, integrând teologia mistică și apofatică a lui Dionisie în sinteza sa teologică. Prin aceste comentarii, Maxim a asigurat receptarea ortodoxă a scrierilor dionisiene.
+
 ### Împăratul Constans al II-lea (630-668)
 Împăratul care a impus monotelismul prin Typos-ul imperial și l-a persecutat pe Maxim. Istoria i-a dat dreptate lui Maxim, nu împăratului.
 

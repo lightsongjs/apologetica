@@ -155,6 +155,18 @@ Marele preot al Ierusalimului, în curtea căruia Petru s-a lepădat de Hristos 
 ### [[personalitati/irineu|Sfântul Irineu de Lyon]] (c. 130-202)
 Invocă succesiunea de la Petru și Pavel prin Biserica din Roma ca garanție a ortodoxiei (Adversus Haereses 3.3.2), conectând astfel autoritatea apostolică a lui Petru cu tradiția Bisericii din secolul al doilea.
 
+### [[personalitati/anania-si-safira|Anania și Safira]]
+Membri ai comunității primare din Ierusalim care au mințit Duhul Sfânt, ascunzând o parte din prețul ogorului vândut. Petru i-a confruntat, iar amândoi au căzut morți — episod care a întărit sfințenia și adevărul în Biserica primară (Faptele Apostolilor 5:1-11).
+
+### [[personalitati/corneliu-sutasul|Corneliu Sutașul]]
+Primul păgân botezat în Biserică. Petru a primit vedenia despre primirea neamurilor (Faptele Apostolilor 10) și a mers la casa lui Corneliu din Cezareea, unde Duhul Sfânt a coborât asupra celor prezenți, iar Petru i-a botezat.
+
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Arhidiacon Ștefan]] (†c. 33)
+Primul mucenic al Bisericii, ucis cu pietre în timpul conducerii lui Petru a comunității din Ierusalim. Martiriul lui Ștefan a declanșat prima persecuție a Bisericii și împrăștierea credincioșilor care au răspândit Evanghelia în alte regiuni (Faptele Apostolilor 7-8).
+
+### [[personalitati/filip-diaconul|Sfântul Filip Diaconul]]
+Unul dintre cei șapte diaconi aleși de apostoli (Faptele Apostolilor 6:5). Filip a propovăduit cu succes în Samaria, iar Petru și Ioan au mers acolo să confirme noii convertiți prin punerea mâinilor (Faptele Apostolilor 8:14-17).
+
 ## Versete cheie
 
 - **Matei 16:16** — „Tu ești Hristosul, Fiul Dumnezeului Celui viu."

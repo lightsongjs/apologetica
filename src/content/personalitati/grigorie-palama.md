@@ -82,6 +82,9 @@ Editorul Filocaliei, care a inclus textele palamite fundamentale și a asigurat 
 ### Împăratul Ioan al VI-lea Cantacuzino (1292-1383)
 Împărat și teolog, principalul sprijinitor politic al lui Palama. După abdicare, a devenit monah (Ioasaf) și a scris lucrări teologice apărând palamismul.
 
+### [[personalitati/dionisie-areopagitul|Sfântul Dionisie Areopagitul]]
+Precursor teologic esențial. Teologia apofatică și mistica dionisiană — distincția între Dumnezeu ascuns și Dumnezeu revelat — au pregătit calea pentru distincția palamită ființă-energii. Palama citează frecvent Corpusul Dionisian în Triade.
+
 ## Versete cheie
 
 - **Matei 17:2** — „Și S-a schimbat la față înaintea lor și a strălucit fața Lui ca soarele, iar veșmintele Lui s-au făcut albe ca lumina."

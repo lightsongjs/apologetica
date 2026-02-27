@@ -78,6 +78,9 @@ La Sinodul din Ierusalim, Iacob, episcopul Ierusalimului, a conlucrat cu Barnaba
 ### [[personalitati/lazar|Sfântul Drept Lazăr]] (sec. I d.Hr.)
 Conform tradiției, Barnaba l-a hirotonit pe Lazăr episcop al Kitionului în Cipru, în timpul misiunii sale apostolice pe insulă.
 
+### [[personalitati/anania-si-safira|Anania și Safira]]
+Contrastul biblic al lui Barnaba: acesta și-a vândut ogorul și a adus toți banii la picioarele apostolilor (Faptele Apostolilor 4:36-37), în timp ce acest cuplu a încercat să imite gestul, dar cu vicleșug, ascunzând o parte din preț (Faptele Apostolilor 5:1-11).
+
 ## Versete cheie
 
 **Faptele Apostolilor 4:36-37** — „Iar Iosif, cel numit de apostoli Barnaba — care se tâlcuiește 'fiul mângâierii' —, levit, de neam din Cipru, având o țarină, a vândut-o și a adus banii și i-a pus la picioarele apostolilor."

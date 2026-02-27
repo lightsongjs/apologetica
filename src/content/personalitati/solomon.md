@@ -56,6 +56,9 @@ Narațiunea istorică: ungerea, înțelepciunea, Templul, căderea.
 ### [[personalitati/david|Sfântul Proroc și Rege David]] (c. 1040-970 î.Hr.)
 Tatăl său, care a pregătit materialele pentru Templu și i-a transmis porunca de a-l zidi.
 
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
+În cuvântarea sa din fața Sinedriului (Faptele Apostolilor 7:47), Ștefan menționează că „Solomon I-a zidit Lui casă", dar subliniază imediat că „Cel Preaînalt nu locuiește în temple făcute de mâini" — arătând că Templul lui Solomon, oricât de măreț, nu putea cuprinde pe Dumnezeu.
+
 ## Versete cheie
 
 - **3 Regi 3:9** — „Dă deci robului Tău inimă pricepută, ca să judece poporul Tău."

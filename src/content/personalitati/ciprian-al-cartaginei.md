@@ -79,6 +79,12 @@ Adversarul în controversa despre botezul ereticilor. Disputa lor — Ciprian pe
 ### Papa Corneliu al Romei (†253)
 Aliat al lui Ciprian în problema celor căzuți. Amândoi au apărat calea de mijloc contra rigorismului lui Novatian.
 
+### [[personalitati/rafael-irina-si-nicolae|Sfinții Rafael, Irina și Nicolae]]
+Mucenici din Lesbos descoperiți în mod minunat în 1959. Sfântul Rafael a suferit martiriul în 1463, iar scrierile lui Ciprian despre martiriu și perseverența creștinilor în fața persecuției au inspirat generații de mucenici, inclusiv pe cei din perioada otomană.
+
+### [[personalitati/perpetua-din-cartagina|Sfânta Perpetua din Cartagina]] (†203)
+Martiră din aceeași cetate — Cartagina — care a mărturisit pe Hristos cu o jumătate de secol înainte de episcopatul lui Ciprian. Exemplul ei de curaj în fața morții a marcat profund comunitatea creștină cartagineză pe care Ciprian o va păstori ulterior.
+
 ## Versete cheie
 
 - **Matei 16:18** — „Pe această piatră voi zidi Biserica Mea și porțile iadului nu o vor birui."

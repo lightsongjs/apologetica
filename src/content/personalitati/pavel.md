@@ -146,6 +146,15 @@ Contemporan în misiunea apostolică; amândoi au scris texte canonice ale Noulu
 ### [[personalitati/sfanta-fotini|Sfânta Fotini cea Mare]]
 Întocmai cu Apostolii, contemporană în lucrarea misionară; ca și Pavel, a călătorit extensiv pentru a răspândi Evanghelia în lumea greco-romană, mărturisind pe Hristos până la martiriul din timpul lui Nero.
 
+### [[personalitati/dionisie-areopagitul|Sfântul Dionisie Areopagitul]]
+Convertit prin predica lui Pavel în Areopagul Atenei. Membru al tribunalului suprem atenian, a devenit primul episcop al Atenei.
+
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Arhidiacon Ștefan]] (†c. 33)
+Primul mucenic al Bisericii. Pavel a fost prezent la uciderea sa cu pietre, păzind hainele ucigașilor (Faptele Apostolilor 7:58). Rugăciunea lui Ștefan pentru persecutori a fost sămânță a convertirii lui Pavel.
+
+### [[personalitati/filip-diaconul|Sfântul Filip Diaconul]]
+Unul dintre cei șapte diaconi aleși de apostoli (Faptele Apostolilor 6:5). Filip a propovăduit în Samaria și l-a botezat pe famenul etiopian. Pavel a stat în casa lui Filip la Cezareea (Faptele Apostolilor 21:8-9).
+
 ## Versete cheie
 
 - **Faptele Apostolilor 9:4-5** — „Saule, Saule, de ce Mă prigonești? ... Eu sunt Iisus, pe Care tu Îl prigonești."

@@ -94,6 +94,9 @@ Fratele lui [[personalitati/petru|Petru]], care a predicat în regiuni învecina
 ### [[personalitati/irineu|Sfântul Irineu de Lyon]] (c. 130-202)
 Deși Irineu s-a născut după martiriul lui Ignatie, el îl citează în scrierile sale despre apostolicitate și succesiune apostolică, conectând astfel tradiția ignatiană cu Biserica din secolul al doilea.
 
+### [[personalitati/perpetua-din-cartagina|Sfânta Perpetua din Cartagina]] (†203)
+Martiră a Bisericii din Africa de Nord. Ca și Ignatie, a mers la moarte cu curaj și bucurie, lăsând o mărturie scrisă a experienței sale. Amândoi sunt modele ale martiriului creștin timpuriu — Ignatie în arena Romei, Perpetua în amfiteatrul Cartaginei.
+
 ## Versete cheie din epistolele sale
 
 **Romani 4:1** — „Sunt grâul lui Dumnezeu și sunt măcinat de dinții fiarelor, ca să fiu găsit pâine curată a lui Hristos."

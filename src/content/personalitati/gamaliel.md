@@ -39,6 +39,9 @@ Menționat ca unul dintre marii rabini ai perioadei celui de-al Doilea Templu.
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Contemporan care nu L-a respins deschis, ci a dat un sfat care a protejat indirect Biserica: „dacă este de la Dumnezeu, nu veți putea să-l nimiciți."
 
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Arhidiacon Ștefan]] (†c. 33)
+Conform tradiției creștine, Gamaliel ar fi recuperat trupul lui Ștefan după uciderea cu pietre și l-ar fi îngropat pe moșia sa. Sfântul Pavel, ucenicul lui Gamaliel, a fost prezent la martiriul lui Ștefan (Faptele Apostolilor 7:58-8:1).
+
 ## Versete cheie
 
 - **Fapte 5:34** — „Sculându-se în Sinedriu un fariseu cu numele Gamaliel, învățător de Lege, cinstit de tot poporul..."

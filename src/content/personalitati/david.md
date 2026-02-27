@@ -82,6 +82,9 @@ Legislatorul prin care a venit Legea. David completează pe Moise: dacă Moise a
 ### [[personalitati/solomon|Regele Solomon]] (c. 970-931 î.Hr.)
 Fiul și moștenitorul lui David, cel care a zidit Templul Domnului pe care David l-a pregătit. Solomon a primit înțelepciunea, dar nu și credincioșia tatălui său.
 
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
+În cuvântarea din fața Sinedriului (Faptele Apostolilor 7:45-46), Ștefan evocă pe David ca cel care „a aflat har înaintea lui Dumnezeu și a cerut să găsească locuință Dumnezeului lui Iacob" — subliniind dorința lui David de a zidi un Templu pentru Domnul.
+
 ## Versete cheie
 
 - **1 Regi 16:7** — „Omul se uită la înfățișare, dar Domnul Se uită la inimă."

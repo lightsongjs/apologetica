@@ -1,13 +1,13 @@
 ---
-name: "Centurionul de la Cruce"
+name: "Sfântul Longhin Sutașul"
 title: "Ofițerul roman care a mărturisit la Răstignire, sec. I d.Hr."
-image: "/images/personalitati/centurionul-de-la-cruce.jpg"
+image: "/images/personalitati/longhin.jpg"
 order: 100
 ---
 
 ## Bio
 
-Centurionul de la Cruce (în greacă: κεντυρίων) era ofițerul roman care supraveghea execuția lui [[personalitati/iisus-hristos|Hristos]] pe Golgota. După moartea lui Iisus, văzând semnele care s-au întâmplat, a rostit una dintre cele mai puternice mărturisiri din Evanghelii.
+Sfântul Longhin Sutașul (în greacă: κεντυρίων; în latină: Longinus) era ofițerul roman care supraveghea execuția lui [[personalitati/iisus-hristos|Hristos]] pe Golgota. După moartea lui Iisus, văzând semnele care s-au întâmplat, a rostit una dintre cele mai puternice mărturisiri din Evanghelii.
 
 La Marcu și Matei: „Iar sutașul și cei ce păzeau împreună cu el pe Iisus, văzând cutremurul și cele ce se făcuseră, s-au înfricoșat foarte, zicând: Cu adevărat, Fiul lui Dumnezeu era Acesta!" (Matei 27:54; Marcu 15:39). La Luca: „Cu adevărat, Omul Acesta drept a fost" (Luca 23:47).
 
@@ -33,6 +33,9 @@ Conform tradiției, a crezut în Hristos și a mărturisit credința, murind ca 
 
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Cel a Cărui moarte l-a convertit. Mărturisirea centurionului este mărturisirea lumii păgâne în fața Crucii.
+
+### [[personalitati/corneliu-sutasul|Corneliu Sutașul]]
+Alt centurion roman care a venit la credință. Longhin a mărturisit dumnezeirea lui Hristos la Răstignire, iar Corneliu a devenit primul păgân botezat în Biserică, deschizând calea convertirii lumii romane (Faptele Apostolilor 10).
 
 ## Versete cheie
 

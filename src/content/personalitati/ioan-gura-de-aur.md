@@ -85,6 +85,9 @@ Cea mai apropiată colaboratoare și fiică duhovnicească, căreia i-a adresat 
 ### [[personalitati/grigorie-dialogul|Sfântul Grigorie Dialogul]] (c. 540-604)
 Papa Romei, autorul Liturghiei Darurilor Mai Înainte Sfințite. „Regula pastorală" a lui Grigorie este inspirată de tratatul „Despre preoție" al Hrisostomului.
 
+### [[personalitati/anania-si-safira|Anania și Safira]]
+Hrisostom comentează episodul din Faptele Apostolilor 5:1-11 în omiliile sale la Fapte, explicând că pedeapsa nu a fost disproporționată, ci pedagogică — menită să protejeze tânăra Biserică de corupția morală încă de la început.
+
 ## Versete cheie
 
 - **2 Timotei 4:2** — „Propovăduiește cuvântul, stăruiește cu timp și fără timp, mustră, ceartă, îndeamnă, cu toată îndelunga-răbdare și învățătură."

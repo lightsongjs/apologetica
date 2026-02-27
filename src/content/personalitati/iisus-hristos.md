@@ -143,7 +143,7 @@ Fiul unic al lui [[personalitati/avraam|Avraam]], adus la jertfă pe Moria — c
 ### [[personalitati/centurionul-de-la-capernaum|Centurionul de la Capernaum]] (sec. I)
 Ofițerul roman a cărui credință L-a uimit: „Nici în Israel n-am găsit atâta credință!" (Matei 8:10).
 
-### [[personalitati/centurionul-de-la-cruce|Centurionul de la Cruce]] (sec. I)
+### [[personalitati/longhin|Sfântul Longhin Sutașul]] (sec. I)
 Primul om care a mărturisit la Cruce: „Cu adevărat, Fiul lui Dumnezeu era Acesta!" (Matei 27:54).
 
 ### [[personalitati/femeia-cananeeanca|Femeia cananeeancă]] (sec. I)
@@ -280,6 +280,9 @@ Profetul de foc al Vechiului Testament, care s-a arătat alături de [[personali
 
 ### [[personalitati/moise|Sfântul Proroc Moise]] (sec. XIII î.Hr.)
 Marele legiuitor al Vechiului Testament, care a profetizat despre Hristos: „Profet din mijlocul tău, dintre frații tăi, ca mine, îți va ridica Domnul" (Deuteronom 18:15). S-a arătat alături de [[personalitati/ilie|Ilie]] la Schimbarea la Față.
+
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Arhidiacon Ștefan]] (†c. 33)
+Primul mucenic al Bisericii, care L-a văzut pe Hristos stând de-a dreapta lui Dumnezeu în momentul morții sale: „Iată, văd cerurile deschise și pe Fiul Omului stând de-a dreapta lui Dumnezeu!" (Faptele Apostolilor 7:56). Rugăciunea lui Ștefan — „Doamne, nu le socoti lor păcatul acesta" — oglindește rugăciunea lui Hristos de pe Cruce.
 
 ## Versete cheie
 

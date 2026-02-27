@@ -78,6 +78,9 @@ Păstor din Tecoa, chemat de Dumnezeu să profețească în Regatul de Nord în 
 ### [[personalitati/sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
 Profet mai tânăr, a continuat tema „Zilei Domnului" inaugurată de Isaia. Sofonie a profețit în timpul lui Iosia, vestind judecata universală dar și restaurarea unui „rest smerit" — dezvoltând viziunea lui Isaia despre rămășița credincioasă a lui Israel.
 
+### [[personalitati/famenul-etiopian|Famenul Etiopian]]
+Dregător al reginei Candache a Etiopiei, care citea din cartea lui Isaia (capitolul 53) în carul său pe drumul de la Ierusalim la Gaza. [[personalitati/filip-diaconul|Filip Diaconul]] i-a tâlcuit profeția și l-a botezat (Faptele Apostolilor 8:26-39).
+
 ## Versete cheie din epistolele sale
 
 **Isaia 6:3** — „Sfânt, Sfânt, Sfânt este Domnul Savaot, plin este tot pământul de slava Lui!"

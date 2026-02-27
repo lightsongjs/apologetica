@@ -80,6 +80,9 @@ Dumnezeu Se revelează lui Moise ca „Dumnezeul lui Avraam, Dumnezeul lui Isaac
 ### [[personalitati/pavel|Sfântul Apostol Pavel]] (†c. 64-67)
 Marele interpret teologic al lui Avraam: credința lui Avraam ca model al justificării prin credință (Romani 4), urmașii lui Avraam prin credință (Galateni 3).
 
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
+În cuvântarea sa din fața Sinedriului (Faptele Apostolilor 7:2-8), Ștefan începe recapitularea istoriei mântuirii cu chemarea lui Avraam din Mesopotamia, legământul circumciziunii și nașterea lui Isaac — arătând că Dumnezeu a lucrat prin credința patriarhului mult înainte de existența Templului.
+
 ## Versete cheie
 
 - **Facerea 12:1-3** — „Ieși din pământul tău... și voi binecuvânta pe cei ce te vor binecuvânta... și se vor binecuvânta întru tine toate neamurile pământului."

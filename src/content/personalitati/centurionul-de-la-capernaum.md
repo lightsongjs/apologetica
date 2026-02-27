@@ -33,6 +33,9 @@ A cerut vindecarea slugii sale și a arătat o credință care L-a uimit pe Hris
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Cel Care a fost uimit de credința sa — singurul om despre care Evangheliile notează uimirea lui Hristos în sens pozitiv.
 
+### [[personalitati/corneliu-sutasul|Corneliu Sutașul]]
+Alt centurion roman care a venit la credință. Centurionul de la Capernaum a arătat credință în timpul vieții lui Hristos pe pământ, iar Corneliu a fost primul păgân botezat în Biserica apostolică prin Sfântul Petru (Faptele Apostolilor 10).
+
 ## Versete cheie
 
 - **Matei 8:8** — „Doamne, nu sunt vrednic să intri sub acoperișul meu, ci numai zi cu cuvântul și se va vindeca sluga mea."

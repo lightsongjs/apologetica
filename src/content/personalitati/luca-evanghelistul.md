@@ -80,6 +80,12 @@ Co-evanghelist. Luca a folosit Evanghelia lui Marcu ca sursă, preluând structu
 ### [[personalitati/barnaba|Sfântul Apostol Barnaba]]
 Menționat de Luca în Faptele Apostolilor cu respect și admirație. Luca povestește rolul crucial al lui Barnaba în primirea lui Pavel și în prima călătorie misionară.
 
+### [[personalitati/anania-si-safira|Anania și Safira]]
+Luca consemnează în Faptele Apostolilor 5:1-11 episodul cutremurător al morții acestui cuplu care a mințit Duhului Sfânt, plasându-l imediat după exemplul pozitiv al lui Barnaba pentru a sublinia contrastul dintre dăruirea autentică și falsitate.
+
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]]
+Luca este singurul autor biblic care consemnează mucenicia lui Ștefan și cuvântarea sa din fața Sinedriului (Faptele Apostolilor 6-7). Narațiunea lucană a morții lui Ștefan — cu rugăciunea de iertare a ucigașilor — este una dintre cele mai puternice pagini ale Noului Testament.
+
 ## Versete cheie
 
 **Luca 1:3-4** — „Am găsit și eu cu cale, preaalesule Teofil, după ce am cercetat cu de-amănuntul toate de la început, să ți le scriu pe rând, ca să te încredințezi de temeinicia învățăturilor pe care le-ai primit."

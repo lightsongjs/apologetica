@@ -75,6 +75,9 @@ Coleg apostol, originar din aceeași cetate — Betsaida. Petru și Filip au cre
 ### [[personalitati/andrei-apostolul|Apostolul Andrei]] (murit c. 60 d.Hr.)
 Ca și Petru, originar din Betsaida. Andrei a fost primul chemat de Hristos, iar Filip al treilea, ambii răspunzând imediat și aducând alți oameni la Mântuitorul.
 
+### [[personalitati/filip-diaconul|Sfântul Filip Diaconul]]
+Adesea confundat cu Filip Apostolul în tradiția ulterioară. Filip Diaconul a fost unul dintre cei șapte diaconi aleși de apostoli (Faptele Apostolilor 6:5) și a propovăduit în Samaria și pe drumul Gazei, unde l-a botezat pe famenul etiopian (Faptele Apostolilor 8).
+
 ## Versete cheie
 
 - **Ioan 1:43** — „A doua zi voia să meargă în Galileea și a găsit pe Filip. Și i-a zis Iisus: Urmează-Mi!"

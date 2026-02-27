@@ -96,6 +96,9 @@ Mama Fecioarei Maria, soacra lui Iosif.
 ### [[personalitati/simeon|Sfântul Drept Simeon]] (sec. I)
 Primitorul de Dumnezeu, care a luat Pruncul Iisus în brațe la Întâmpinarea Domnului. Iosif era de față când Simeon a rostit cântarea „Acum slobozește" și a profetizat despre sabia care va trece prin sufletul Mariei (Luca 2:33-35).
 
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
+În cuvântarea din fața Sinedriului (Faptele Apostolilor 7:9-16), Ștefan evocă pe patriarhul Iosif — vândut de frații săi în Egipt, dar înălțat de Dumnezeu — ca exemplu al lucrării divine prin suferință și respingere, prefigurând pe Hristos Cel respins de poporul Său.
+
 ## Versete cheie
 
 - **Matei 1:19** — „Iosif, bărbatul ei, drept fiind și nevrând s-o vădească, a voit s-o lase în ascuns."

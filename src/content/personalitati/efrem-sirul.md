@@ -77,6 +77,9 @@ Moștenitorul în teologia mariologică. Imnele mariologice ale lui Efrem pregă
 ### Sfântul Iacob al Nisibisului (†338)
 Episcopul care l-a format pe Efrem, participant la Sinodul de la Niceea. Iacob este figura paternă a vieții duhovnicești a lui Efrem.
 
+### [[personalitati/efrem-cel-nou|Sfântul Efrem cel Nou]] (†1426)
+Sfânt neomartiric care poartă numele Sfântului Efrem Sirul. Deși despărțiți de un mileniu, amândoi au trăit o viață de asceză profundă și au mărturisit pe Hristos prin suferință — Efrem Sirul în slujirea celor bolnavi, Efrem cel Nou prin martiriul sub ocupația otomană.
+
 ## Versete cheie
 
 - **Psalmul 150:3-5** — „Lăudați-L cu sunet de trâmbiță, lăudați-L în psaltire și alăută. Lăudați-L în timpane și în horă, lăudați-L în strune și organe."
