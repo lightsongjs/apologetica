@@ -164,12 +164,12 @@
 - [ ] Mormântul Gol (Empty Tomb - trivial, covered by Golgota)
 
 ### Foreign/Gentile Territories
-- [ ] Tir (Tyre)
-- [ ] Sidon (Sidon)
-- [ ] Cezareea Filippi (Caesarea Philippi)
-- [ ] Gadara (Gadara)
-- [ ] Gerasa (Gerasa)
-- [ ] Egipt (Egypt)
+- [x] Tir (Tyre)
+- [x] Sidon (Sidon)
+- [x] Cezareea Filippi (Caesarea Philippi)
+- [x] Gadara (Gadara)
+- [x] Gerasa (Gerasa)
+- [x] Egipt (Egypt)
 
 ### Roads & Paths
 - [ ] Emaus (Emmaus)
