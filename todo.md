@@ -128,7 +128,7 @@
 - [x] Betfaghe (Bethphage)
 - [x] Betsaida (Bethsaida)
 - [x] Corazin (Chorazin)
-- [ ] Nain (Nain)
+- [x] Nain (Nain)
 - [x] Cana din Galileea (Cana of Galilee)
 - [ ] Arimateea (Arimathea)
 - [ ] Efraim (Ephraim)
