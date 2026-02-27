@@ -77,6 +77,9 @@ Fratele lui [[personalitati/vasile-cel-mare|Vasile]], episcop de Nyssa. Împreun
 ### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)
 Cel de-al treilea ierarh, cel mai mare predicator al Bisericii. Tratatul său „Despre preoție" dezvoltă ideile din Oratio 2 a lui Grigorie. Prăznuiți împreună la 30 ianuarie.
 
+### [[personalitati/maxim-marturisitorul|Sfântul Maxim Mărturisitorul]] (c. 580-662)
+Cel mai profund interpret al operei lui Grigorie. Ambigua lui Maxim sunt în esență un comentariu la pasajele cele mai dificile din Grigorie, dezvoltându-le într-o sinteză cosmică originală.
+
 ### Împăratul Teodosie I (347-395)
 Împăratul care l-a chemat pe Grigorie la Constantinopol și care a convocat Sinodul II Ecumenic (381), unde teologia capadociană a devenit dogmă oficială.
 

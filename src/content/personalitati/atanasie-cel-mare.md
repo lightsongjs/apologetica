@@ -76,6 +76,9 @@ Părintele monahismului, prietenul și protejatul lui Atanasie. Antonie i-a lăs
 ### [[personalitati/vasile-cel-mare|Sfântul Vasile cel Mare]] (c. 330-379)
 Continuatorul operei teologice a lui Atanasie. Terminologia trinitară a Capadocienilor se bazează pe fundația pusă de Atanasie la Niceea.
 
+### [[personalitati/maxim-marturisitorul|Sfântul Maxim Mărturisitorul]] (c. 580-662)
+Continuatorul spiritual al lui Atanasie în apărarea hristologiei ortodoxe. Atanasie a apărat dumnezeirea Fiului contra arianismului; Maxim a apărat umanitatea deplină a lui Hristos (inclusiv voința umană) contra monotelismului. Principiul atanasian — „ceea ce nu este asumat nu este vindecat" — stă la baza întregii argumentații a lui Maxim.
+
 ### Arie (c. 256-336)
 Preotul alexandrin care a susținut că Fiul este creatură — „a fost un timp când nu era." Erezia sa a provocat cea mai gravă criză din istoria Bisericii, iar Atanasie a fost principalul ei adversar.
 
