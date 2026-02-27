@@ -80,6 +80,9 @@ Povestește episodul în care Ioan, bătrân fiind, urmărește un tâlhar apost
 ### [[personalitati/iacob-zebedeu|Sfântul Apostol Iacob, fiul lui Zebedeu]] (†44)
 Fratele mai mare al lui Ioan, primul apostol martir. Împreună au fost numiți „Boanerges" — Fiii Tunetului. Iacob a murit cel dintâi dintre apostoli; Ioan, cel din urmă.
 
+### [[personalitati/salomeea|Sfânta Mironosiță Salomeea]] (sec. I)
+Mama sa, mironosiță prezentă la Cruce și la Mormânt (Marcu 15:40; 16:1).
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Cel mai apropiat coleg de apostolat. Împreună formau cercul interior al celor trei, alături de [[personalitati/iacob-zebedeu|Iacob]]. Au alergat împreună la mormântul gol. Au lucrat împreună în primii ani ai Bisericii din Ierusalim.
 

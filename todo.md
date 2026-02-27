@@ -54,7 +54,7 @@
 ### Women Followers
 - [x] Maria Magdalena (Mary Magdalene)
 - [x] Maria mama lui Iacov și Iose (Mary mother of James and Joses)
-- [ ] Salomeea (Salome)
+- [x] Salomeea (Salome)
 - [ ] Ioana (Joanna)
 - [ ] Suzana (Susanna)
 - [x] Marta (Martha of Bethany)

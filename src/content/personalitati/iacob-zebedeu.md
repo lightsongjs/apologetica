@@ -67,6 +67,9 @@ Menționează mucenicia lui Iacob în „De Viris Illustribus" și în alte scri
 ### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
 Fratele mai mic al lui Iacob, care va trăi cel mai mult dintre toți apostolii — în contrast cu Iacob, cel dintâi martir. „Fiii Tunetului" au avut destine opuse: Iacob, mucenicia cea mai timpurie; Ioan, bătrânețea cea mai îndelungată. Amândoi au „băut paharul" lui Hristos, dar în moduri diferite.
 
+### [[personalitati/salomeea|Sfânta Mironosiță Salomeea]] (sec. I)
+Mama sa, care a cerut pentru el și [[personalitati/ioan-evanghelistul|Ioan]] locurile de-a dreapta și de-a stânga lui Hristos (Matei 20:20-21). Mironosiță prezentă la Cruce și la Mormânt.
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Coleg din cercul intim al celor trei. [[personalitati/petru|Petru]], Iacob și [[personalitati/ioan-evanghelistul|Ioan]] sunt cei trei martori privilegiați ai slavei și agoniei lui Hristos. După moartea lui Iacob, Irod l-a arestat și pe Petru (Faptele Apostolilor 12:3), dar acesta a fost eliberat miraculos de un înger.
 

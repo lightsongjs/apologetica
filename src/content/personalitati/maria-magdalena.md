@@ -76,6 +76,9 @@ A alergat împreună cu Petru la mormânt la vestea Mariei. Ioan este cel care r
 ### [[personalitati/maria-mama-lui-iacov|Maria, mama lui Iacov și Iose]] (sec. I)
 Împreună-mironosiță, alături de care a stat la Cruce și a venit la Mormânt (Marcu 15:40; 16:1).
 
+### [[personalitati/salomeea|Sfânta Mironosiță Salomeea]] (sec. I)
+Împreună-mironosiță, mama fiilor lui Zebedeu, prezentă la Cruce și la Mormânt (Marcu 15:40; 16:1).
+
 ## Versete cheie
 
 - **Luca 8:2** — „Maria, numită Magdalena, din care ieșiseră șapte demoni."
