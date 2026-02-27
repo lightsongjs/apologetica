@@ -71,7 +71,7 @@
 - [ ] Ana profetisa (Anna the prophetess)
 
 ### Roman Officials
-- [ ] Pilat din Pont (Pontius Pilate)
+- [x] Pilat din Pont (Pontius Pilate)
 - [ ] Irod Antipa (Herod Antipas)
 - [ ] Irod cel Mare (Herod the Great)
 - [ ] Irodiada (Herodias)
