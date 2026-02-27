@@ -66,7 +66,7 @@
 - [x] Ana (Annas, former high priest)
 - [x] Nicodim (Nicodemus, Pharisee)
 - [x] Iosif din Arimateea (Joseph of Arimathea)
-- [ ] Gamaliel (Gamaliel)
+- [x] Gamaliel (Gamaliel)
 - [x] Simeon (Simeon in the Temple)
 - [x] Ana profetisa (Anna the prophetess)
 
