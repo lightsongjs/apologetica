@@ -55,7 +55,7 @@
 - [x] Maria Magdalena (Mary Magdalene)
 - [x] Maria mama lui Iacov și Iose (Mary mother of James and Joses)
 - [x] Salomeea (Salome)
-- [ ] Ioana (Joanna)
+- [x] Ioana (Joanna)
 - [ ] Suzana (Susanna)
 - [x] Marta (Martha of Bethany)
 - [x] Maria din Betania (Mary of Bethany)

@@ -79,6 +79,9 @@ A alergat împreună cu Petru la mormânt la vestea Mariei. Ioan este cel care r
 ### [[personalitati/salomeea|Sfânta Mironosiță Salomeea]] (sec. I)
 Împreună-mironosiță, mama fiilor lui Zebedeu, prezentă la Cruce și la Mormânt (Marcu 15:40; 16:1).
 
+### [[personalitati/ioana|Sfânta Mironosiță Ioana]] (sec. I)
+Împreună-mironosiță, soția lui Huza, menționată alături de ea în Luca 8:2 și 24:10.
+
 ## Versete cheie
 
 - **Luca 8:2** — „Maria, numită Magdalena, din care ieșiseră șapte demoni."

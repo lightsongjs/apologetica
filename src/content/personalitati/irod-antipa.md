@@ -59,6 +59,9 @@ Tatăl său, de la care a moștenit tetrarhia și caracterul tiranic.
 ### [[personalitati/pilat|Ponțiu Pilat]] (procurator, c. 26-36)
 S-au „împrietenit" în ziua judecării lui Hristos — o prietenie clădită pe complicitate.
 
+### [[personalitati/ioana|Sfânta Mironosiță Ioana]] (sec. I)
+Soția lui Huza, administratorul casei lui Irod. A ales să-L urmeze pe Hristos din chiar curtea lui Irod.
+
 ## Versete cheie
 
 - **Marcu 6:18** — „Căci Ioan zicea lui Irod: Nu ți se cuvine să ai pe femeia fratelui tău."

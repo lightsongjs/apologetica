@@ -110,6 +110,9 @@ Mironosiță care L-a urmat din Galileea, prezentă la Cruce și la Mormânt.
 ### [[personalitati/salomeea|Sfânta Mironosiță Salomeea]] (sec. I)
 Mama fiilor lui Zebedeu, mironosiță prezentă la Cruce și la Mormânt.
 
+### [[personalitati/ioana|Sfânta Mironosiță Ioana]] (sec. I)
+Soția lui Huza, administratorul casei lui Irod, mironosiță care L-a urmat și slujit din averea sa.
+
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeu al apostolilor, cel care a mărturisit: „Tu ești Hristosul, Fiul Dumnezeului Celui viu" (Matei 16:16). Hristos i-a încredințat cheile Împărăției cerurilor.
 

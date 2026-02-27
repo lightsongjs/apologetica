@@ -45,6 +45,9 @@ Cel pe Care L-a urmat din Galileea și L-a slujit, martoră a Patimilor și a Î
 ### [[personalitati/salomeea|Sfânta Mironosiță Salomeea]] (sec. I)
 Împreună-mironosiță, prezentă alături de ea la Cruce și la Mormânt (Marcu 15:40; 16:1).
 
+### [[personalitati/ioana|Sfânta Mironosiță Ioana]] (sec. I)
+Împreună-mironosiță, prezentă alături de ea la Mormânt (Luca 24:10).
+
 ## Versete cheie
 
 - **Matei 27:55-56** — „Erau acolo și femei multe, privind de departe, care urmaseră pe Iisus din Galileea, slujindu-I. Între care era Maria Magdalena și Maria, mama lui Iacov și a lui Iose."
