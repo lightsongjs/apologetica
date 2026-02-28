@@ -6,6 +6,12 @@ Orthodox apologetics static site built with Astro 5, Tailwind CSS 4, and Marked.
 
 All content on this site is written exclusively from an **Eastern Orthodox** perspective. This applies to conversations, themes, personality pages, scripture interpretations, and any other content. Never use Protestant, Catholic, or secular theological frameworks when generating or editing content. Sources should prioritize the Church Fathers, the Philokalia, Orthodox liturgical tradition, and the Septuagint/Orthodox biblical canon (including deuterocanonical books). When referencing scripture, prefer the Orthodox Study Bible or Synodal translations where relevant.
 
+## Git Workflow
+
+**Never push to remote** unless the user explicitly tells you to. You may commit changes locally (after making changes or after receiving approval), but do not run `git push` under any circumstances until instructed.
+
+---
+
 ## Validation Rules
 
 After creating or editing any personality file in `src/content/personalitati/`, always run the cross-reference validation test:
