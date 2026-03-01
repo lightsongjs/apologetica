@@ -54,6 +54,9 @@ Menționează revenirea lui Gerasim la Ortodoxie prin influența Sfântului Efti
 ### [[personalitati/chiril-al-alexandriei|Sfântul Chiril al Alexandriei]]
 Contemporan mai în vârstă. Teologia Sfântului Chiril despre unirea ipostatică, apărată la [[teme/sinodul-3-ecumenic|Sinodul III Ecumenic]], a fost contextul în care s-au purtat disputele hristologice care l-au afectat și pe Gerasim.
 
+### [[personalitati/sava-cel-sfintit|Sfântul Sava cel Sfințit]] (439-532)
+Contemporan mai tânăr, tot pustnic palestinian. Dacă Gerasim a întemeiat lavra de la Iordan, Sava a întemeiat Marea Lavră din Wadi Kidron. Împreună sunt pilonii monahismului palestinian.
+
 ## Versete cheie
 
 - **Psalm 103:21-22** — „Puii leilor mugesc după pradă și cer de la Dumnezeu hrana lor. Răsărit-a soarele și s-au adunat și în culcușurile lor se vor culca."

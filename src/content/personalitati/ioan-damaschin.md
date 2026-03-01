@@ -70,6 +70,9 @@ Organizarea și completarea sistemului celor opt glasuri liturgice (Octoihul), c
 
 ## Contemporani și rude spirituale
 
+### [[personalitati/sava-cel-sfintit|Sfântul Sava cel Sfințit]] (439-532)
+Întemeietorul Marii Lavre unde Ioan a trăit și a scris. Deși Sava murise cu peste un secol înainte, comunitatea monastică pe care a fondat-o a fost leagănul întregii opere damaschinene.
+
 ### [[personalitati/andrei-criteanul|Sfântul Andrei Criteanul]] (c. 660-740)
 Frate adoptiv, crescut împreună la Damasc. Amândoi au fost formați de monahul Cosma și amândoi au devenit mari imnografi ai Bisericii. Andrei — autorul Canonului cel Mare — și Ioan sunt coloanele imnografiei bizantine.
 
