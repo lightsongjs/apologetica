@@ -9,16 +9,16 @@
  */
 export function resolveWikiLinks(md: string): string {
   return md
-    // Handle personalitati links with display text
-    .replace(/\[\[personalitati\/([^\]|]+)\|([^\]]+)\]\]/g, '[$2](/personalitati/$1)')
+    // Handle personalitati links with display text (supports \| escape in tables)
+    .replace(/\[\[personalitati\/([^\]|\\]+)\\?\|([^\]]+)\]\]/g, '[$2](/personalitati/$1)')
     // Handle personalitati links without display text
     .replace(/\[\[personalitati\/([^\]]+)\]\]/g, '[$1](/personalitati/$1)')
-    // Handle locuri links with display text
-    .replace(/\[\[locuri\/([^\]|]+)\|([^\]]+)\]\]/g, '[$2](/locuri/$1)')
+    // Handle locuri links with display text (supports \| escape in tables)
+    .replace(/\[\[locuri\/([^\]|\\]+)\\?\|([^\]]+)\]\]/g, '[$2](/locuri/$1)')
     // Handle locuri links without display text
     .replace(/\[\[locuri\/([^\]]+)\]\]/g, '[$1](/locuri/$1)')
-    // Handle teme links with display text
-    .replace(/\[\[teme\/([^\]|]+)\|([^\]]+)\]\]/g, '[$2](/teme/$1)')
+    // Handle teme links with display text (supports \| escape in tables)
+    .replace(/\[\[teme\/([^\]|\\]+)\\?\|([^\]]+)\]\]/g, '[$2](/teme/$1)')
     // Handle teme links without display text
     .replace(/\[\[teme\/([^\]]+)\]\]/g, '[$1](/teme/$1)');
 }
