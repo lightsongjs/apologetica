@@ -44,7 +44,7 @@ Iconoclasmul cade în două erezii posibile:
 |----------|-------------|
 | [[personalitati/ioan-damaschin\|Sf. Ioan Damaschin]] | Cele 3 Tratate apologetice contra iconoclaștilor |
 | **Sf. Gherman** al Constantinopolului | S-a opus lui Leon III; depus din scaun (730) |
-| **Sf. Teodor Studitul** | A combătut a doua fază a iconoclasmului (815–843) |
+| [[personalitati/teodor-studitul\|Sf. Teodor Studitul]] | A combătut a doua fază a iconoclasmului (815–843) |
 
 ## Sinodul care a condamnat-o
 

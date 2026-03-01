@@ -88,6 +88,9 @@ Predecesorul spiritual în apărarea hristologiei ortodoxe. Atanasie a apărat d
 ### [[personalitati/ioan-damaschin|Sfântul Ioan Damaschin]] (c. 675-749)
 Moștenitorul teologic al lui Maxim. „Expunerea exactă a credinței ortodoxe" a Damaschinului sintetizează și sistematizează hristologia lui Maxim, transmițând-o generațiilor următoare.
 
+### [[personalitati/teodor-studitul|Sfântul Teodor Studitul]] (759-826)
+Model de mărturisire. Ca și Maxim, Teodor a suferit exil și persecuție imperială pentru apărarea dreptei credințe — Maxim pentru cele două voințe, Teodor pentru sfintele icoane.
+
 ### [[personalitati/ioan-scararul|Sfântul Ioan Scărarul]] (c. 579-649)
 Contemporan și duhovnicește înrudit. Ambii au contribuit — Maxim prin teologie speculativă, Ioan prin asceză practică — la transmiterea moștenirii patristice a primelor secole.
 

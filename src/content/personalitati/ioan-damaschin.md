@@ -85,6 +85,9 @@ Predecesorul spiritual și sursa teologică principală a lui Ioan. „Expunerea
 ### [[personalitati/imparateasa-teodora|Sfânta Împărăteasă Teodora]] (c. 815-867)
 Împărăteasa care a pus capăt definitiv iconoclasmului în 843, instaurând Duminica Ortodoxiei. Opera teologică a lui Ioan Damaschin a stat la baza acestei biruințe finale a dreptei credințe.
 
+### [[personalitati/teodor-studitul|Sfântul Teodor Studitul]] (759-826)
+Continuatorul luptei pentru icoane. Dacă Ioan Damaschin a pus fundamentul teologic, Teodor Studitul a dezvoltat argumentul hristologic al circumscriptibilității și a condus rezistența practică în a doua fază a iconoclasmului.
+
 ### Împăratul Leon al III-lea Isaurul (c. 685-741)
 Împăratul care a declanșat iconoclasmul (726). Ioan, aflat în afara jurisdicției imperiale, a putut combate iconoclasmul fără teamă de persecuție directă.
 

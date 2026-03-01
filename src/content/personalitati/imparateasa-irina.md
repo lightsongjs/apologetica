@@ -51,6 +51,9 @@ Documentele sinodului de la Niceea II (787), convocat la inițiativa Irinei, con
 ### [[personalitati/ioan-damaschin|Sfântul Ioan Damaschin]] (c. 676-749)
 Deși murise înainte de sinod, scrierile sale — cele trei Tratate contra iconoclaștilor — au fost fundamentul teologic al Sinodului VII Ecumenic convocat de Irina. Sinodul l-a cinstit ca „dascăl al Ortodoxiei".
 
+### [[personalitati/teodor-studitul|Sfântul Teodor Studitul]] (759-826)
+Contemporan. Teodor a trăit prima restaurare a icoanelor sub Irina (787), apoi a condus rezistența ortodoxă când iconoclasmul a revenit după moartea ei.
+
 ### [[personalitati/imparateasa-teodora|Sfânta Împărăteasă Teodora]] (c. 815-867)
 Continuatoarea spirituală a Irinei. Dacă Irina a convocat Sinodul VII Ecumenic care a restabilit icoanele în 787, Teodora a pus capăt definitiv iconoclasmului în 843, instaurând Duminica Ortodoxiei.
 

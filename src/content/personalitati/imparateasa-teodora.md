@@ -53,6 +53,9 @@ Documentul liturgic citit în fiecare an în Duminica Ortodoxiei, instituit la i
 ### [[personalitati/ioan-damaschin|Sfântul Ioan Damaschin]] (c. 676-749)
 Marele teolog al icoanelor, ale cărui scrieri au stat la baza condamnării iconoclasmului. Deși trăise cu un secol înainte, teologia lui a fost fundamentul pe care Teodora a restaurat Ortodoxia.
 
+### [[personalitati/teodor-studitul|Sfântul Teodor Studitul]] (759-826)
+Marele apărător al icoanelor din a doua perioadă a iconoclasmului. A murit cu 17 ani înainte de Triumful Ortodoxiei realizat de Teodora, dar lupta și suferința sa au pregătit biruința din 843.
+
 ### [[personalitati/imparateasa-irina|Sfânta Împărăteasă Irina]] (c. 752-803)
 Predecesoarea spirituală. Irina a convocat [[teme/sinodul-7-ecumenic|Sinodul VII Ecumenic]] (787) care a restabilit icoanele prima dată, dar iconoclasmul a revenit în 815. Teodora a desăvârșit opera Irinei, punând capăt definitiv ereziei în 843.
 
