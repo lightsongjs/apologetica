@@ -7,7 +7,7 @@ order: 53
 
 ## Descriere
 
-Grădina Edenului (în ebraică: גַּן עֵדֶן — Gan Eden, „Grădina desfătării"; în greacă: Παράδεισος τῆς τρυφῆς — Paradeisos tis tryfis) este locul creat de Dumnezeu pentru om, în care [[personalitati/adam|Adam]] și Eva au trăit în comuniune directă cu Creatorul lor înainte de căderea în păcat.
+Grădina Edenului (în ebraică: גַּן עֵדֶן — Gan Eden, „Grădina desfătării"; în greacă: Παράδεισος τῆς τρυφῆς — Paradeisos tis tryfis) este locul creat de Dumnezeu pentru om, în care Adam și Eva au trăit în comuniune directă cu Creatorul lor înainte de căderea în păcat.
 
 „Și a sădit Domnul Dumnezeu o grădină în Eden, spre răsărit, și l-a pus acolo pe omul pe care-l zidise" (Facerea 2:8). Grădina avea doi pomi speciali: Pomul Vieții și Pomul Cunoașterii Binelui și Răului. Din Eden ieșea un râu care se împărțea în patru brațe: Fison, Ghihon, Tigru și Eufrat (Facerea 2:10-14).
 

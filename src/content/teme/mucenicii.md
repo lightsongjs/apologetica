@@ -42,7 +42,7 @@ Neomucenicii sunt sfinții care au mărturisit credința ortodoxă sub stăpâni
 | Mucenic | Dată | Loc | Note |
 |---------|------|-----|------|
 | [[personalitati/efrem-cel-nou\|Cuviosul Efrem cel Nou]] | 5 mai 1426 | Nea Makri, Grecia | Monah; torturat și spânzurat de un copac; moaștele descoperite în 1950 |
-| [[personalitati/rafael-irina-si-nicole\|Sf. Rafael, Irina și Nicolae]] | Marți după Paști, 1463 | Thermi, Lesbos | Rafael — monah, ars și tăiat; Irina — fecioara de 12 ani; Nicolae — diaconul; moaștele descoperite în 1959 |
+| [[personalitati/rafael-irina-si-nicolae\|Sf. Rafael, Irina și Nicolae]] | Marți după Paști, 1463 | Thermi, Lesbos | Rafael — monah, ars și tăiat; Irina — fecioara de 12 ani; Nicolae — diaconul; moaștele descoperite în 1959 |
 
 ## Mucenicii Vechiului Testament
 
