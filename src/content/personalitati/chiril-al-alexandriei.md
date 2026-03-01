@@ -71,6 +71,9 @@ Moștenitorul spiritual. Maxim a continuat și aprofundat hristologia chirilină
 ### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
 Chiril a scris cel mai amplu comentariu patristic la Evanghelia lui Ioan — capodopera sa exegetică, în care dezvoltă teologia Logosului întrupat pornind de la mărturia apostolică.
 
+### [[personalitati/gerasim-de-la-iordan|Sfântul Gerasim de la Iordan]] (c. 401-475)
+Cuviosul pustnic de la Iordan, contemporan mai tânăr. A căzut temporar în monofizitism după Calcedon, dar a revenit la Ortodoxie — un exemplu al influenței pe care teologia chirilină a exercitat-o asupra monahismului palestinian.
+
 ### Nestorie (c. 386-451)
 Patriarhul Constantinopolului ale cărui învățături au provocat criza hristologică. Condamnat la Efes (431), exilat în Egipt, unde a murit.
 
