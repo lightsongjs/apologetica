@@ -79,6 +79,12 @@ Frate adoptiv al lui Ioan, crescut în aceeași casă. Mare imnograf, episcop de
 ### [[personalitati/maxim-marturisitorul|Sfântul Maxim Mărturisitorul]] (c. 580-662)
 Predecesorul spiritual și sursa teologică principală a lui Ioan. „Expunerea exactă a credinței ortodoxe" sintetizează și sistematizează teologia hristologică a lui Maxim.
 
+### [[personalitati/imparateasa-irina|Sfânta Împărăteasă Irina]] (c. 752-803)
+Împărăteasa care a convocat [[teme/sinodul-7-ecumenic|Sinodul VII Ecumenic]] (787), unde scrierile lui Ioan au fost fundamentul teologic al restaurării icoanelor. Deși Ioan murise cu aproape patru decenii înainte, sinodul l-a cinstit ca „dascăl al Ortodoxiei".
+
+### [[personalitati/imparateasa-teodora|Sfânta Împărăteasă Teodora]] (c. 815-867)
+Împărăteasa care a pus capăt definitiv iconoclasmului în 843, instaurând Duminica Ortodoxiei. Opera teologică a lui Ioan Damaschin a stat la baza acestei biruințe finale a dreptei credințe.
+
 ### Împăratul Leon al III-lea Isaurul (c. 685-741)
 Împăratul care a declanșat iconoclasmul (726). Ioan, aflat în afara jurisdicției imperiale, a putut combate iconoclasmul fără teamă de persecuție directă.
 

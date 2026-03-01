@@ -50,7 +50,7 @@ Iconoclasmul cade în două erezii posibile:
 
 [[teme/sinodul-7-ecumenic|Sinodul VII Ecumenic]] (Niceea II, 787) a restabilit cinstirea icoanelor, distingând între venerare (προσκύνησις) și adorare (λατρεία).
 
-Iconoclasmul a revenit sub împăratul Leon V (815–820), dar a fost definitiv înfrânt la **11 martie 843** — data celebrată ca **Duminica Ortodoxiei** (Κυριακή τῆς Ὀρθοδοξίας).
+Iconoclasmul a revenit sub împăratul Leon V (815–820), dar a fost definitiv înfrânt la **11 martie 843**, când [[personalitati/imparateasa-teodora|Împărăteasa Teodora]] a restaurat icoanele — data celebrată ca **Duminica Ortodoxiei** (Κυριακή τῆς Ὀρθοδοξίας).
 
 ## Ecouri moderne
 

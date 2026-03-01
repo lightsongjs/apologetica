@@ -33,7 +33,7 @@ for (let i = 1; i < parts.length; i++) {
 // Helper to parse timeline entries
 function parseTimeline(content: string) {
   const entries: Array<{ title: string; description: string; link?: string }> = [];
-  const entryRegex = /### (.+?)\n([\s\S]*?)(?=\n### |\Z)/g;
+  const entryRegex = /### (.+?)\n([\s\S]*?)(?=\n### |$)/g;
   let match;
   while ((match = entryRegex.exec(content)) !== null) {
     const rawTitle = match[1].trim();

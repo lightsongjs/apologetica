@@ -14,7 +14,7 @@ summary: "Al șaptelea Sinod Ecumenic, ținut la Niceea în 787, a condamnat ico
 ## Participanți cheie
 
 - [[personalitati/ioan-damaschin|Sfântul Ioan Damaschin]] — deși murise în c. 749, scrierile sale au fost fundamentul dogmatic al sinodului
-- **Împărăteasa Irina** — a convocat sinodul și a restabilit cinstirea icoanelor
+- [[personalitati/imparateasa-irina|Împărăteasa Irina]] — a convocat sinodul și a restabilit cinstirea icoanelor
 - **Patriarhul Tarasie** al Constantinopolului — a prezidat lucrările sinodului
 - **Leon III Isaurul** și **Constantin V Copronimul** — împărații iconoclaști, condamnați postum
 
@@ -41,7 +41,7 @@ Sinodul VII a condamnat [[teme/iconoclasmul|iconoclasmul]] — distrugerea icoan
 
 ## Triumful Ortodoxiei
 
-Deși iconoclasmul a revenit sub împăratul Leon V (815–820), acesta a fost definitiv înfrânt la **11 martie 843**, când împărăteasa Teodora a restaurat icoanele. Această dată este celebrată în fiecare an în prima duminică din Postul Mare ca **Duminica Ortodoxiei** (Κυριακή τῆς Ὀρθοδοξίας) — o procesiune cu icoanele, mărturisind că credința Ortodoxă a biruit toate ereziile.
+Deși iconoclasmul a revenit sub împăratul Leon V (815–820), acesta a fost definitiv înfrânt la **11 martie 843**, când [[personalitati/imparateasa-teodora|Împărăteasa Teodora]] a restaurat icoanele. Această dată este celebrată în fiecare an în prima duminică din Postul Mare ca **Duminica Ortodoxiei** (Κυριακή τῆς Ὀρθοδοξίας) — o procesiune cu icoanele, mărturisind că credința Ortodoxă a biruit toate ereziile.
 
 ## Semnificație teologică
 
