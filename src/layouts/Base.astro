@@ -8,7 +8,7 @@ interface Props {
   backHref?: string;
   useHistoryBack?: boolean;
   showBottomNav?: boolean;
-  activeNav?: 'home' | 'search' | 'saved' | 'settings';
+  activeNav?: 'home' | 'search' | 'settings';
 }
 
 const {
@@ -23,7 +23,6 @@ const {
 const navItems = [
   { id: 'home', href: '/', icon: 'home', label: 'Home' },
   { id: 'search', href: '/cautare', icon: 'search', label: 'Căutare' },
-  { id: 'saved', href: '#', icon: 'bookmark', label: 'Salvate' },
   { id: 'settings', href: '#', icon: 'settings', label: 'Setări' },
 ];
 ---

@@ -31,25 +31,25 @@ const sorted = personalitati.sort((a, b) => {
   </div>
 
   <!-- Personalities Grid -->
-  <div id="personalities-grid" class="grid grid-cols-1 gap-4">
+  <div id="personalities-grid" class="grid grid-cols-1 gap-2">
     {sorted.map(p => {
       const slug = p.id.replace('.md', '');
       return (
         <a
           href={`/personalitati/${slug}`}
-          class="personality-card group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-center gap-4"
+          class="personality-card group bg-white rounded-lg p-2.5 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-center gap-3"
           data-name={p.data.name.toLowerCase()}
           data-title={p.data.title.toLowerCase()}
         >
           <div
-            class="bg-top bg-no-repeat aspect-square bg-cover rounded-full border-2 border-primary/20 h-16 w-16 flex-shrink-0 group-hover:border-primary/60 transition-colors"
+            class="bg-top bg-no-repeat aspect-square bg-cover rounded-full border-2 border-primary/20 h-12 w-12 flex-shrink-0 group-hover:border-primary/60 transition-colors"
             style={`background-image: url("${p.data.image}")`}
           />
-          <div class="flex-1">
-            <h3 class="font-bold text-lg mb-0.5 group-hover:text-primary transition-colors">{p.data.name}</h3>
-            <p class="text-sm text-primary/60 italic">{p.data.title}</p>
+          <div class="flex-1 min-w-0">
+            <h3 class="font-bold text-sm mb-0 group-hover:text-primary transition-colors">{p.data.name}</h3>
+            <p class="text-xs text-primary/60 italic truncate">{p.data.title}</p>
           </div>
-          <span class="material-symbols-outlined text-primary/30 group-hover:translate-x-1 transition-transform">chevron_right</span>
+          <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 transition-transform flex-shrink-0">chevron_right</span>
         </a>
       );
     })}

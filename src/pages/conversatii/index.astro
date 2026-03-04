@@ -32,23 +32,23 @@ const topicCounts = groups.map((g) => ({
   </div>
 
   <!-- Group list -->
-  <div class="space-y-3 pt-2">
-    <h3 class="text-sm font-semibold uppercase tracking-widest text-primary/70 px-1 pb-1">Alege un grup</h3>
+  <div class="space-y-2 pt-2">
+    <h3 class="text-xs font-semibold uppercase tracking-widest text-primary/70 px-1 pb-1">Alege un grup</h3>
 
     {topicCounts.map((group) => (
       <a
         href={`/conversatii/${group.slug}`}
-        class="flex items-center gap-4 bg-white hover:bg-primary/5 p-4 rounded-xl cursor-pointer transition-all border border-transparent hover:border-primary/20 shadow-sm"
+        class="flex items-center gap-3 bg-white hover:bg-primary/5 p-2.5 rounded-lg cursor-pointer transition-all border border-transparent hover:border-primary/20 shadow-sm"
       >
-        <div class="text-primary flex items-center justify-center rounded-lg bg-primary/10 shrink-0 size-12">
-          <span class="material-symbols-outlined text-3xl">{group.icon}</span>
+        <div class="text-primary flex items-center justify-center rounded-lg bg-primary/10 shrink-0 size-10">
+          <span class="material-symbols-outlined text-xl">{group.icon}</span>
         </div>
-        <div class="flex flex-col flex-1 justify-center">
-          <p class="text-slate-900 text-lg font-semibold leading-none">{group.name}</p>
-          <p class="text-primary text-sm font-medium mt-1">{group.count} {group.count === 1 ? 'subiect disponibil' : 'subiecte disponibile'}</p>
+        <div class="flex flex-col flex-1 justify-center min-w-0">
+          <p class="text-slate-900 text-sm font-semibold leading-none">{group.name}</p>
+          <p class="text-primary text-xs font-medium mt-0.5">{group.count} {group.count === 1 ? 'subiect' : 'subiecte'}</p>
         </div>
         <div class="shrink-0 text-slate-300">
-          <span class="material-symbols-outlined">chevron_right</span>
+          <span class="material-symbols-outlined text-lg">chevron_right</span>
         </div>
       </a>
     ))}

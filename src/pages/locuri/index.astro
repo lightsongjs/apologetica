@@ -27,25 +27,25 @@ const sorted = locuri.sort((a, b) => a.data.order - b.data.order);
   </div>
 
   <!-- Places Grid -->
-  <div id="places-grid" class="grid grid-cols-1 gap-4">
+  <div id="places-grid" class="grid grid-cols-1 gap-2">
     {sorted.map(l => {
       const slug = l.id.replace('.md', '');
       return (
         <a
           href={`/locuri/${slug}`}
-          class="place-card group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-center gap-4"
+          class="place-card group bg-white rounded-lg p-2.5 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-center gap-3"
           data-name={l.data.name.toLowerCase()}
           data-title={l.data.title.toLowerCase()}
         >
           <div
-            class="bg-center bg-no-repeat aspect-square bg-cover rounded-lg border-2 border-primary/20 h-16 w-16 flex-shrink-0 group-hover:border-primary/60 transition-colors"
+            class="bg-center bg-no-repeat aspect-square bg-cover rounded-lg border-2 border-primary/20 h-12 w-12 flex-shrink-0 group-hover:border-primary/60 transition-colors"
             style={`background-image: url("${l.data.image}")`}
           />
-          <div class="flex-1">
-            <h3 class="font-bold text-lg mb-0.5 group-hover:text-primary transition-colors">{l.data.name}</h3>
-            <p class="text-sm text-primary/60 italic">{l.data.title}</p>
+          <div class="flex-1 min-w-0">
+            <h3 class="font-bold text-sm mb-0 group-hover:text-primary transition-colors">{l.data.name}</h3>
+            <p class="text-xs text-primary/60 italic truncate">{l.data.title}</p>
           </div>
-          <span class="material-symbols-outlined text-primary/30 group-hover:translate-x-1 transition-transform">chevron_right</span>
+          <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 transition-transform flex-shrink-0">chevron_right</span>
         </a>
       );
     })}

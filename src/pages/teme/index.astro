@@ -14,20 +14,20 @@ const sorted = teme.sort((a, b) => a.data.title.localeCompare(b.data.title, 'ro'
   </div>
 
   <!-- Theme list -->
-  <div class="grid grid-cols-1 gap-4">
+  <div class="grid grid-cols-1 gap-2">
     {sorted.map(tema => (
       <a
         href={`/teme/${tema.id}`}
-        class="group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-center gap-4"
+        class="group bg-white rounded-lg p-2.5 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-center gap-3"
       >
-        <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors flex-shrink-0">
-          <span class="material-symbols-outlined">auto_stories</span>
+        <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-colors flex-shrink-0">
+          <span class="material-symbols-outlined text-lg">auto_stories</span>
         </div>
-        <div class="flex-1">
-          <h3 class="font-bold text-lg mb-0.5 group-hover:text-primary transition-colors">{tema.data.title}</h3>
-          <p class="text-sm text-primary/60 leading-relaxed line-clamp-2">{tema.data.summary}</p>
+        <div class="flex-1 min-w-0">
+          <h3 class="font-bold text-sm mb-0 group-hover:text-primary transition-colors">{tema.data.title}</h3>
+          <p class="text-xs text-primary/60 leading-tight line-clamp-1">{tema.data.summary}</p>
         </div>
-        <span class="material-symbols-outlined text-primary/30 group-hover:translate-x-1 transition-transform">chevron_right</span>
+        <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 transition-transform flex-shrink-0">chevron_right</span>
       </a>
     ))}
   </div>
