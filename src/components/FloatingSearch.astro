@@ -31,16 +31,16 @@ const denominationLabels: Record<string, string> = {
 <!-- Bottom Sheet -->
 <div
   id="search-sheet"
-  class="fixed bottom-0 left-0 right-0 z-50 bg-white rounded-t-3xl shadow-2xl transition-transform duration-300 translate-y-full"
-  style="max-height: 85vh;"
+  class="fixed left-0 right-0 z-50 bg-white shadow-2xl transition-all duration-300"
+  style="bottom: 0; max-height: 60vh; border-radius: 1.5rem 1.5rem 0 0; transform: translateY(100%);"
 >
   <!-- Drag Handle -->
-  <div class="flex justify-center pt-3 pb-2 cursor-grab active:cursor-grabbing" id="drag-handle-area">
-    <div class="w-12 h-1.5 bg-gray-300 rounded-full"></div>
+  <div class="flex justify-center pt-2 pb-1 cursor-grab active:cursor-grabbing" id="drag-handle-area">
+    <div class="w-12 h-1 bg-gray-300 rounded-full"></div>
   </div>
 
   <!-- Sheet Content -->
-  <div class="px-4 pb-6 overflow-hidden flex flex-col" style="max-height: calc(85vh - 24px);">
+  <div class="px-4 pb-4 overflow-hidden flex flex-col" style="max-height: calc(60vh - 16px);">
 
     <!-- Search Input -->
     <div class="flex items-center gap-3 mb-4 flex-shrink-0">
@@ -184,20 +184,57 @@ const denominationLabels: Record<string, string> = {
     locuri: []
   };
 
+  // Adjust modal position and height based on keyboard visibility
+  function adjustModalHeight() {
+    if (window.visualViewport) {
+      const viewportHeight = window.visualViewport.height;
+      const windowHeight = window.innerHeight;
+      const keyboardHeight = windowHeight - viewportHeight;
+
+      // If keyboard is visible (taking up more than 150px)
+      if (keyboardHeight > 150) {
+        // Move modal to TOP of screen and make it smaller
+        sheet.style.bottom = 'auto';
+        sheet.style.top = '0';
+        sheet.style.maxHeight = `${viewportHeight - 20}px`; // Fill visible viewport minus small margin
+        sheet.style.borderRadius = '0 0 1.5rem 1.5rem'; // Rounded bottom corners
+
+        const contentDiv = sheet.querySelector('.px-4');
+        if (contentDiv) {
+          contentDiv.style.maxHeight = `${viewportHeight - 36}px`;
+        }
+      } else {
+        // Keyboard hidden, use normal bottom position
+        sheet.style.bottom = '0';
+        sheet.style.top = 'auto';
+        sheet.style.maxHeight = '60vh';
+        sheet.style.borderRadius = '1.5rem 1.5rem 0 0'; // Rounded top corners
+
+        const contentDiv = sheet.querySelector('.px-4');
+        if (contentDiv) {
+          contentDiv.style.maxHeight = 'calc(60vh - 16px)';
+        }
+      }
+    }
+  }
+
   // Open sheet
   function openSheet() {
     backdrop.classList.remove('hidden');
     setTimeout(() => {
       backdrop.classList.remove('opacity-0');
-      sheet.classList.remove('translate-y-full');
+      sheet.style.transform = 'translateY(0)';
     }, 10);
     searchInput.focus();
+
+    // Adjust height when keyboard appears
+    setTimeout(() => adjustModalHeight(), 300);
   }
 
   // Close sheet
   function closeSheet() {
     backdrop.classList.add('opacity-0');
-    sheet.classList.add('translate-y-full');
+    sheet.style.transform = 'translateY(100%)';
     setTimeout(() => {
       backdrop.classList.add('hidden');
       searchInput.value = '';
@@ -206,7 +243,17 @@ const denominationLabels: Record<string, string> = {
       noResults.classList.add('hidden');
       searchHint.textContent = 'Scrie pentru a căuta...';
       isExpanded = false;
+
+      // Reset position to bottom
+      sheet.style.bottom = '0';
+      sheet.style.top = 'auto';
+      sheet.style.borderRadius = '1.5rem 1.5rem 0 0';
     }, 300);
+  }
+
+  // Listen for viewport changes (keyboard show/hide)
+  if (window.visualViewport) {
+    window.visualViewport.addEventListener('resize', adjustModalHeight);
   }
 
   floatingBtn?.addEventListener('click', openSheet);
@@ -243,9 +290,11 @@ const denominationLabels: Record<string, string> = {
 
     if (diff > 100) {
       closeSheet();
+    } else {
+      // Reset to open position
+      sheet.style.transform = 'translateY(0)';
     }
 
-    sheet.style.transform = '';
     touchStartY = 0;
     touchCurrentY = 0;
   });
