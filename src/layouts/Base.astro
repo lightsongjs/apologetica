@@ -1,10 +1,12 @@
 ---
 import '../styles/global.css';
+import FloatingSearch from '../components/FloatingSearch.astro';
 
 interface Props {
   title: string;
   headerTitle?: string;
   backHref?: string;
+  useHistoryBack?: boolean;
   showBottomNav?: boolean;
   activeNav?: 'home' | 'search' | 'saved' | 'settings';
 }
@@ -13,6 +15,7 @@ const {
   title,
   headerTitle,
   backHref,
+  useHistoryBack = false,
   showBottomNav = true,
   activeNav = 'home',
 } = Astro.props;
@@ -41,7 +44,16 @@ const navItems = [
     <header class="sticky top-0 z-50 bg-bg/80 backdrop-blur-md border-b border-primary/10 px-4 py-3">
       <div class="max-w-xl mx-auto flex items-center justify-between">
         <div class="flex items-center gap-2">
-          {backHref ? (
+          {useHistoryBack ? (
+            <div class="flex items-center gap-1 -ml-2">
+              <button id="history-back-btn" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
+                <span class="material-symbols-outlined text-2xl">arrow_back</span>
+              </button>
+              <button id="history-forward-btn" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
+                <span class="material-symbols-outlined text-2xl">arrow_forward</span>
+              </button>
+            </div>
+          ) : backHref ? (
             <a href={backHref} class="text-primary hover:bg-primary/10 p-2 -ml-2 rounded-full transition-colors flex items-center justify-center">
               <span class="material-symbols-outlined text-2xl">arrow_back</span>
             </a>
@@ -50,7 +62,7 @@ const navItems = [
           )}
           <h1 class="text-xl font-bold tracking-tight text-primary">{headerTitle || title}</h1>
         </div>
-        {!backHref && (
+        {!backHref && !useHistoryBack && (
           <div class="flex items-center bg-primary/10 rounded-full px-3 py-1">
             <span class="text-xs font-bold text-primary px-2 py-0.5 rounded-full bg-white shadow-sm">RO</span>
             <div class="w-px h-3 bg-primary/20 mx-1"></div>
@@ -68,22 +80,73 @@ const navItems = [
       <nav class="fixed bottom-0 inset-x-0 bg-white/95 backdrop-blur-lg border-t border-primary/10 px-6 py-3 pb-6 z-50">
         <div class="max-w-xl mx-auto flex justify-between items-center">
           {navItems.map((item) => (
-            <a
-              href={item.href}
-              class:list={[
-                'flex flex-col items-center gap-1 transition-colors',
-                activeNav === item.id ? 'text-primary' : 'text-slate-400 hover:text-primary',
-              ]}
-            >
-              <span
-                class="material-symbols-outlined text-[24px]"
-                style={activeNav === item.id ? "font-variation-settings: 'FILL' 1;" : ''}
-              >{item.icon}</span>
-              <span class="text-[10px] font-bold uppercase tracking-wider">{item.label}</span>
-            </a>
+            item.id === 'search' ? (
+              <button
+                id="bottom-nav-search-btn"
+                class:list={[
+                  'flex flex-col items-center gap-1 transition-colors',
+                  activeNav === item.id ? 'text-primary' : 'text-slate-400 hover:text-primary',
+                ]}
+              >
+                <span
+                  class="material-symbols-outlined text-[24px]"
+                  style={activeNav === item.id ? "font-variation-settings: 'FILL' 1;" : ''}
+                >{item.icon}</span>
+                <span class="text-[10px] font-bold uppercase tracking-wider">{item.label}</span>
+              </button>
+            ) : (
+              <a
+                href={item.href}
+                class:list={[
+                  'flex flex-col items-center gap-1 transition-colors',
+                  activeNav === item.id ? 'text-primary' : 'text-slate-400 hover:text-primary',
+                ]}
+              >
+                <span
+                  class="material-symbols-outlined text-[24px]"
+                  style={activeNav === item.id ? "font-variation-settings: 'FILL' 1;" : ''}
+                >{item.icon}</span>
+                <span class="text-[10px] font-bold uppercase tracking-wider">{item.label}</span>
+              </a>
+            )
           ))}
         </div>
       </nav>
     )}
+
+    <FloatingSearch />
+
+    <script>
+      // Connect bottom nav search button to modal
+      console.log('[Search Debug] Script loaded');
+      const bottomNavSearchBtn = document.getElementById('bottom-nav-search-btn');
+      const floatingSearchBtn = document.getElementById('floating-search-btn');
+
+      console.log('[Search Debug] Bottom nav button:', bottomNavSearchBtn);
+      console.log('[Search Debug] Floating button:', floatingSearchBtn);
+
+      bottomNavSearchBtn?.addEventListener('click', (e) => {
+        console.log('[Search Debug] Bottom nav button clicked!');
+        e.preventDefault();
+        e.stopPropagation();
+        // Trigger the floating search button click
+        floatingSearchBtn?.click();
+        console.log('[Search Debug] Triggered floating button');
+      });
+
+      // Handle history back button
+      const historyBackBtn = document.getElementById('history-back-btn');
+      historyBackBtn?.addEventListener('click', () => {
+        console.log('[Navigation] History back clicked');
+        window.history.back();
+      });
+
+      // Handle history forward button
+      const historyForwardBtn = document.getElementById('history-forward-btn');
+      historyForwardBtn?.addEventListener('click', () => {
+        console.log('[Navigation] History forward clicked');
+        window.history.forward();
+      });
+    </script>
   </body>
 </html>

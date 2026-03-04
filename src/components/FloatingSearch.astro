@@ -1,0 +1,536 @@
+---
+import { getCollection } from 'astro:content';
+
+const conversations = await getCollection('conversations');
+const teme = await getCollection('teme');
+const personalitati = await getCollection('personalitati');
+const locuri = await getCollection('locuri');
+
+const denominationLabels: Record<string, string> = {
+  'atheist': 'Ateu',
+  'baptist': 'Baptist',
+  'martorii-lui-iehova': 'Martor al lui Iehova',
+};
+---
+
+<!-- Floating Search Button -->
+<button
+  id="floating-search-btn"
+  class="fixed bottom-24 right-4 z-40 bg-primary text-white rounded-full p-4 shadow-lg hover:shadow-xl hover:scale-110 transition-all duration-300 flex items-center justify-center"
+  aria-label="Căutare rapidă"
+>
+  <span class="material-symbols-outlined text-2xl">search</span>
+</button>
+
+<!-- Backdrop -->
+<div
+  id="search-backdrop"
+  class="fixed inset-0 bg-black/30 backdrop-blur-sm z-50 hidden transition-opacity duration-300 opacity-0"
+></div>
+
+<!-- Bottom Sheet -->
+<div
+  id="search-sheet"
+  class="fixed bottom-0 left-0 right-0 z-50 bg-white rounded-t-3xl shadow-2xl transition-transform duration-300 translate-y-full"
+  style="max-height: 85vh;"
+>
+  <!-- Drag Handle -->
+  <div class="flex justify-center pt-3 pb-2 cursor-grab active:cursor-grabbing" id="drag-handle-area">
+    <div class="w-12 h-1.5 bg-gray-300 rounded-full"></div>
+  </div>
+
+  <!-- Sheet Content -->
+  <div class="px-4 pb-6 overflow-hidden flex flex-col" style="max-height: calc(85vh - 24px);">
+
+    <!-- Search Input -->
+    <div class="flex items-center gap-3 mb-4 flex-shrink-0">
+      <div class="flex-1 relative">
+        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+          <span class="material-symbols-outlined text-primary/40 text-2xl">search</span>
+        </div>
+        <input
+          id="sheet-search-input"
+          class="block w-full pl-12 pr-4 py-3.5 bg-gray-50 border-2 border-gray-100 rounded-2xl focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/10 placeholder:text-primary/30 text-lg transition-all"
+          placeholder="Caută în bibliotecă..."
+          type="text"
+          autocomplete="off"
+          autofocus
+        />
+      </div>
+      <button
+        id="close-sheet-btn"
+        class="text-primary hover:bg-primary/10 p-2.5 rounded-full transition-colors flex items-center justify-center flex-shrink-0"
+        aria-label="Închide"
+      >
+        <span class="material-symbols-outlined text-2xl">close</span>
+      </button>
+    </div>
+
+    <!-- Search Hint -->
+    <p class="text-sm text-primary/50 mb-4 italic flex-shrink-0" id="sheet-search-hint">
+      Scrie pentru a căuta...
+    </p>
+
+    <!-- Results Container -->
+    <div id="sheet-results-container" class="flex-1 overflow-y-auto space-y-6 hidden">
+
+      <!-- Conversations -->
+      <section id="sheet-conversations-section" class="hidden">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="material-symbols-outlined text-primary text-lg">forum</span>
+          <h3 class="text-sm font-bold text-primary uppercase tracking-wider">Conversații</h3>
+          <span id="sheet-conversations-count" class="text-xs font-bold text-primary/60 bg-primary/5 px-2 py-0.5 rounded-full ml-auto"></span>
+        </div>
+        <div id="sheet-conversations-results" class="space-y-2"></div>
+        <button id="show-more-conversations" class="hidden w-full mt-2 text-sm text-primary font-semibold py-2 hover:bg-primary/5 rounded-lg transition-colors">
+          Vezi toate rezultatele →
+        </button>
+      </section>
+
+      <!-- Teme -->
+      <section id="sheet-teme-section" class="hidden">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="material-symbols-outlined text-primary text-lg">auto_stories</span>
+          <h3 class="text-sm font-bold text-primary uppercase tracking-wider">Teme</h3>
+          <span id="sheet-teme-count" class="text-xs font-bold text-primary/60 bg-primary/5 px-2 py-0.5 rounded-full ml-auto"></span>
+        </div>
+        <div id="sheet-teme-results" class="space-y-2"></div>
+        <button id="show-more-teme" class="hidden w-full mt-2 text-sm text-primary font-semibold py-2 hover:bg-primary/5 rounded-lg transition-colors">
+          Vezi toate rezultatele →
+        </button>
+      </section>
+
+      <!-- Personalitati -->
+      <section id="sheet-personalitati-section" class="hidden">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="material-symbols-outlined text-primary text-lg">person_pin</span>
+          <h3 class="text-sm font-bold text-primary uppercase tracking-wider">Personalități</h3>
+          <span id="sheet-personalitati-count" class="text-xs font-bold text-primary/60 bg-primary/5 px-2 py-0.5 rounded-full ml-auto"></span>
+        </div>
+        <div id="sheet-personalitati-results" class="space-y-2"></div>
+        <button id="show-more-personalitati" class="hidden w-full mt-2 text-sm text-primary font-semibold py-2 hover:bg-primary/5 rounded-lg transition-colors">
+          Vezi toate rezultatele →
+        </button>
+      </section>
+
+      <!-- Locuri -->
+      <section id="sheet-locuri-section" class="hidden">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="material-symbols-outlined text-primary text-lg">location_on</span>
+          <h3 class="text-sm font-bold text-primary uppercase tracking-wider">Locuri</h3>
+          <span id="sheet-locuri-count" class="text-xs font-bold text-primary/60 bg-primary/5 px-2 py-0.5 rounded-full ml-auto"></span>
+        </div>
+        <div id="sheet-locuri-results" class="space-y-2"></div>
+        <button id="show-more-locuri" class="hidden w-full mt-2 text-sm text-primary font-semibold py-2 hover:bg-primary/5 rounded-lg transition-colors">
+          Vezi toate rezultatele →
+        </button>
+      </section>
+
+    </div>
+
+    <!-- No Results -->
+    <div id="sheet-no-results" class="hidden text-center py-8 flex-shrink-0">
+      <span class="material-symbols-outlined text-primary/20 text-6xl block mb-3">search_off</span>
+      <p class="text-primary/60 font-medium">Niciun rezultat</p>
+    </div>
+
+    <!-- Empty State -->
+    <div id="sheet-empty-state" class="text-center py-8 flex-shrink-0">
+      <span class="material-symbols-outlined text-primary/10 text-7xl block mb-3">auto_stories</span>
+      <p class="text-primary/40 font-semibold">Caută orice subiect</p>
+      <p class="text-primary/60 text-sm mt-1">Conversații, teme, personalități, locuri</p>
+    </div>
+
+  </div>
+</div>
+
+<script define:vars={{ conversations, teme, personalitati, locuri, denominationLabels }}>
+  const floatingBtn = document.getElementById('floating-search-btn');
+  const backdrop = document.getElementById('search-backdrop');
+  const sheet = document.getElementById('search-sheet');
+  const closeBtn = document.getElementById('close-sheet-btn');
+  const searchInput = document.getElementById('sheet-search-input');
+  const searchHint = document.getElementById('sheet-search-hint');
+  const resultsContainer = document.getElementById('sheet-results-container');
+  const emptyState = document.getElementById('sheet-empty-state');
+  const noResults = document.getElementById('sheet-no-results');
+
+  const conversationsSection = document.getElementById('sheet-conversations-section');
+  const conversationsResults = document.getElementById('sheet-conversations-results');
+  const conversationsCount = document.getElementById('sheet-conversations-count');
+  const showMoreConversationsBtn = document.getElementById('show-more-conversations');
+
+  const temeSection = document.getElementById('sheet-teme-section');
+  const temeResults = document.getElementById('sheet-teme-results');
+  const temeCount = document.getElementById('sheet-teme-count');
+  const showMoreTemeBtn = document.getElementById('show-more-teme');
+
+  const personalitatiSection = document.getElementById('sheet-personalitati-section');
+  const personalitatiResults = document.getElementById('sheet-personalitati-results');
+  const personalitatiCount = document.getElementById('sheet-personalitati-count');
+  const showMorePersonalitatiBtn = document.getElementById('show-more-personalitati');
+
+  const locuriSection = document.getElementById('sheet-locuri-section');
+  const locuriResults = document.getElementById('sheet-locuri-results');
+  const locuriCount = document.getElementById('sheet-locuri-count');
+  const showMoreLocuriBtn = document.getElementById('show-more-locuri');
+
+  const PREVIEW_LIMIT = 3;
+  let isExpanded = false;
+  let fullResults = {
+    conversations: [],
+    teme: [],
+    personalitati: [],
+    locuri: []
+  };
+
+  // Open sheet
+  function openSheet() {
+    backdrop.classList.remove('hidden');
+    setTimeout(() => {
+      backdrop.classList.remove('opacity-0');
+      sheet.classList.remove('translate-y-full');
+    }, 10);
+    searchInput.focus();
+  }
+
+  // Close sheet
+  function closeSheet() {
+    backdrop.classList.add('opacity-0');
+    sheet.classList.add('translate-y-full');
+    setTimeout(() => {
+      backdrop.classList.add('hidden');
+      searchInput.value = '';
+      resultsContainer.classList.add('hidden');
+      emptyState.classList.remove('hidden');
+      noResults.classList.add('hidden');
+      searchHint.textContent = 'Scrie pentru a căuta...';
+      isExpanded = false;
+    }, 300);
+  }
+
+  floatingBtn?.addEventListener('click', openSheet);
+  closeBtn?.addEventListener('click', closeSheet);
+  backdrop?.addEventListener('click', closeSheet);
+
+  // Escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !backdrop.classList.contains('hidden')) {
+      closeSheet();
+    }
+  });
+
+  // Touch gestures for drag to dismiss
+  let touchStartY = 0;
+  let touchCurrentY = 0;
+  const dragHandleArea = document.getElementById('drag-handle-area');
+
+  dragHandleArea?.addEventListener('touchstart', (e) => {
+    touchStartY = e.touches[0].clientY;
+  });
+
+  dragHandleArea?.addEventListener('touchmove', (e) => {
+    touchCurrentY = e.touches[0].clientY;
+    const diff = touchCurrentY - touchStartY;
+
+    if (diff > 0) {
+      sheet.style.transform = `translateY(${diff}px)`;
+    }
+  });
+
+  dragHandleArea?.addEventListener('touchend', () => {
+    const diff = touchCurrentY - touchStartY;
+
+    if (diff > 100) {
+      closeSheet();
+    }
+
+    sheet.style.transform = '';
+    touchStartY = 0;
+    touchCurrentY = 0;
+  });
+
+  // Remove diacritics
+  function removeDiacritics(str) {
+    return str
+      .replace(/ă/g, 'a')
+      .replace(/â/g, 'a')
+      .replace(/î/g, 'i')
+      .replace(/ș/g, 's')
+      .replace(/ț/g, 't')
+      .replace(/Ă/g, 'A')
+      .replace(/Â/g, 'A')
+      .replace(/Î/g, 'I')
+      .replace(/Ș/g, 'S')
+      .replace(/Ț/g, 'T');
+  }
+
+  function matchesAtWordBoundary(text, query) {
+    if (!query) return false;
+    const normalizedText = removeDiacritics(text.toLowerCase());
+    const normalizedQuery = removeDiacritics(query.toLowerCase());
+    const wordBoundaryRegex = new RegExp(`(^|\\s|[^\\p{L}])${normalizedQuery}`, 'iu');
+    return wordBoundaryRegex.test(normalizedText);
+  }
+
+  function highlightMatch(text, query) {
+    if (!query) return text;
+    const normalizedQuery = removeDiacritics(query.toLowerCase());
+    let pattern = '';
+    for (let char of normalizedQuery) {
+      if (char === 'a') pattern += '[aăâĂÂ]';
+      else if (char === 'i') pattern += '[iîÎ]';
+      else if (char === 's') pattern += '[sșŞ]';
+      else if (char === 't') pattern += '[tțŢ]';
+      else pattern += char.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+    const regex = new RegExp(`(${pattern})`, 'gi');
+    return text.replace(regex, '<mark class="bg-primary/20 text-primary font-semibold px-0.5 rounded">$1</mark>');
+  }
+
+  function performSearch(query) {
+    const originalQuery = query.trim();
+    query = removeDiacritics(query.toLowerCase().trim());
+
+    if (!query) {
+      resultsContainer.classList.add('hidden');
+      emptyState.classList.remove('hidden');
+      noResults.classList.add('hidden');
+      searchHint.textContent = 'Scrie pentru a căuta...';
+      return;
+    }
+
+    emptyState.classList.add('hidden');
+    searchHint.textContent = `Căutare: "${originalQuery}"`;
+
+    // Search with scoring
+    fullResults.conversations = conversations
+      .map(conv => {
+        let score = 0;
+        if (matchesAtWordBoundary(conv.data.title, query)) score += 100;
+        if (matchesAtWordBoundary(conv.data.denomination, query)) score += 50;
+        if (matchesAtWordBoundary(denominationLabels[conv.data.denomination] || '', query)) score += 50;
+        return { item: conv, score };
+      })
+      .filter(result => result.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .map(result => result.item);
+
+    fullResults.teme = teme
+      .map(tema => {
+        let score = 0;
+        if (matchesAtWordBoundary(tema.data.title, query)) score += 100;
+        if (matchesAtWordBoundary(tema.data.summary, query)) score += 50;
+        return { item: tema, score };
+      })
+      .filter(result => result.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .map(result => result.item);
+
+    fullResults.personalitati = personalitati
+      .map(pers => {
+        let score = 0;
+        if (matchesAtWordBoundary(pers.data.name, query)) score += 100;
+        if (matchesAtWordBoundary(pers.data.title, query)) score += 50;
+        return { item: pers, score };
+      })
+      .filter(result => result.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .map(result => result.item);
+
+    fullResults.locuri = locuri
+      .map(loc => {
+        let score = 0;
+        if (matchesAtWordBoundary(loc.data.name, query)) score += 100;
+        if (matchesAtWordBoundary(loc.data.title, query)) score += 50;
+        return { item: loc, score };
+      })
+      .filter(result => result.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .map(result => result.item);
+
+    const totalResults = fullResults.conversations.length + fullResults.teme.length +
+                         fullResults.personalitati.length + fullResults.locuri.length;
+
+    if (totalResults === 0) {
+      resultsContainer.classList.add('hidden');
+      noResults.classList.remove('hidden');
+      return;
+    }
+
+    noResults.classList.add('hidden');
+    resultsContainer.classList.remove('hidden');
+
+    renderResults(originalQuery, isExpanded);
+  }
+
+  function renderResults(originalQuery, showAll) {
+    // Render conversations
+    if (fullResults.conversations.length > 0) {
+      conversationsSection.classList.remove('hidden');
+      conversationsCount.textContent = fullResults.conversations.length;
+
+      const itemsToShow = showAll ? fullResults.conversations : fullResults.conversations.slice(0, PREVIEW_LIMIT);
+      conversationsResults.innerHTML = itemsToShow.map(conv => {
+        const slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
+        const denomination = conv.data.denomination;
+        const denominationLabel = denominationLabels[denomination] || denomination;
+
+        return `
+          <a href="/conversatii/${denomination}/${slug}" class="block bg-gray-50 rounded-xl p-3 hover:bg-primary/5 transition-all border border-transparent hover:border-primary/20">
+            <div class="flex items-start gap-2">
+              <span class="material-symbols-outlined text-primary text-lg mt-0.5 flex-shrink-0">forum</span>
+              <div class="flex-1 min-w-0">
+                <p class="text-xs font-bold text-primary/60 uppercase mb-0.5">${denominationLabel}</p>
+                <p class="text-sm font-semibold text-gray-900 leading-snug">${highlightMatch(conv.data.title, originalQuery)}</p>
+              </div>
+            </div>
+          </a>
+        `;
+      }).join('');
+
+      showMoreConversationsBtn.classList.toggle('hidden', fullResults.conversations.length <= PREVIEW_LIMIT || showAll);
+    } else {
+      conversationsSection.classList.add('hidden');
+    }
+
+    // Render teme
+    if (fullResults.teme.length > 0) {
+      temeSection.classList.remove('hidden');
+      temeCount.textContent = fullResults.teme.length;
+
+      const itemsToShow = showAll ? fullResults.teme : fullResults.teme.slice(0, PREVIEW_LIMIT);
+      temeResults.innerHTML = itemsToShow.map(tema => {
+        const slug = tema.id.replace('.md', '');
+        return `
+          <a href="/teme/${slug}" class="block bg-gray-50 rounded-xl p-3 hover:bg-primary/5 transition-all border border-transparent hover:border-primary/20">
+            <div class="flex items-start gap-2">
+              <span class="material-symbols-outlined text-primary text-lg mt-0.5 flex-shrink-0">auto_stories</span>
+              <div class="flex-1 min-w-0">
+                <p class="text-sm font-semibold text-gray-900 leading-snug mb-0.5">${highlightMatch(tema.data.title, originalQuery)}</p>
+                <p class="text-xs text-gray-600 line-clamp-1">${highlightMatch(tema.data.summary, originalQuery)}</p>
+              </div>
+            </div>
+          </a>
+        `;
+      }).join('');
+
+      showMoreTemeBtn.classList.toggle('hidden', fullResults.teme.length <= PREVIEW_LIMIT || showAll);
+    } else {
+      temeSection.classList.add('hidden');
+    }
+
+    // Render personalitati
+    if (fullResults.personalitati.length > 0) {
+      personalitatiSection.classList.remove('hidden');
+      personalitatiCount.textContent = fullResults.personalitati.length;
+
+      const itemsToShow = showAll ? fullResults.personalitati : fullResults.personalitati.slice(0, PREVIEW_LIMIT);
+      personalitatiResults.innerHTML = itemsToShow.map(pers => {
+        const slug = pers.id.replace('.md', '');
+        return `
+          <a href="/personalitati/${slug}" class="block bg-gray-50 rounded-xl p-3 hover:bg-primary/5 transition-all border border-transparent hover:border-primary/20">
+            <div class="flex items-start gap-2">
+              <div class="bg-top bg-no-repeat aspect-square bg-cover rounded-full border-2 border-primary/20 h-10 w-10 flex-shrink-0" style="background-image: url('${pers.data.image}')"></div>
+              <div class="flex-1 min-w-0">
+                <p class="text-sm font-semibold text-gray-900 leading-snug">${highlightMatch(pers.data.name, originalQuery)}</p>
+                <p class="text-xs text-gray-600 italic">${highlightMatch(pers.data.title, originalQuery)}</p>
+              </div>
+            </div>
+          </a>
+        `;
+      }).join('');
+
+      showMorePersonalitatiBtn.classList.toggle('hidden', fullResults.personalitati.length <= PREVIEW_LIMIT || showAll);
+    } else {
+      personalitatiSection.classList.add('hidden');
+    }
+
+    // Render locuri
+    if (fullResults.locuri.length > 0) {
+      locuriSection.classList.remove('hidden');
+      locuriCount.textContent = fullResults.locuri.length;
+
+      const itemsToShow = showAll ? fullResults.locuri : fullResults.locuri.slice(0, PREVIEW_LIMIT);
+      locuriResults.innerHTML = itemsToShow.map(loc => {
+        const slug = loc.id.replace('.md', '');
+        return `
+          <a href="/locuri/${slug}" class="block bg-gray-50 rounded-xl p-3 hover:bg-primary/5 transition-all border border-transparent hover:border-primary/20">
+            <div class="flex items-start gap-2">
+              <span class="material-symbols-outlined text-primary text-lg mt-0.5 flex-shrink-0">location_on</span>
+              <div class="flex-1 min-w-0">
+                <p class="text-sm font-semibold text-gray-900 leading-snug">${highlightMatch(loc.data.name, originalQuery)}</p>
+                <p class="text-xs text-gray-600 italic">${highlightMatch(loc.data.title, originalQuery)}</p>
+              </div>
+            </div>
+          </a>
+        `;
+      }).join('');
+
+      showMoreLocuriBtn.classList.toggle('hidden', fullResults.locuri.length <= PREVIEW_LIMIT || showAll);
+    } else {
+      locuriSection.classList.add('hidden');
+    }
+  }
+
+  // Show more buttons
+  showMoreConversationsBtn?.addEventListener('click', () => {
+    isExpanded = true;
+    renderResults(searchInput.value, true);
+  });
+
+  showMoreTemeBtn?.addEventListener('click', () => {
+    isExpanded = true;
+    renderResults(searchInput.value, true);
+  });
+
+  showMorePersonalitatiBtn?.addEventListener('click', () => {
+    isExpanded = true;
+    renderResults(searchInput.value, true);
+  });
+
+  showMoreLocuriBtn?.addEventListener('click', () => {
+    isExpanded = true;
+    renderResults(searchInput.value, true);
+  });
+
+  // Real-time search
+  searchInput?.addEventListener('input', (e) => {
+    isExpanded = false;
+    performSearch(e.target.value);
+  });
+
+  // Navigate to first result on Enter key
+  searchInput?.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+
+      // Find the first result across all categories
+      let firstResultUrl = null;
+
+      if (fullResults.conversations.length > 0) {
+        const conv = fullResults.conversations[0];
+        const slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
+        const denomination = conv.data.denomination;
+        firstResultUrl = `/conversatii/${denomination}/${slug}`;
+      } else if (fullResults.teme.length > 0) {
+        const tema = fullResults.teme[0];
+        const slug = tema.id.replace('.md', '');
+        firstResultUrl = `/teme/${slug}`;
+      } else if (fullResults.personalitati.length > 0) {
+        const pers = fullResults.personalitati[0];
+        const slug = pers.id.replace('.md', '');
+        firstResultUrl = `/personalitati/${slug}`;
+      } else if (fullResults.locuri.length > 0) {
+        const loc = fullResults.locuri[0];
+        const slug = loc.id.replace('.md', '');
+        firstResultUrl = `/locuri/${slug}`;
+      }
+
+      if (firstResultUrl) {
+        console.log('[Search] Navigating to first result:', firstResultUrl);
+        window.location.href = firstResultUrl;
+      }
+    }
+  });
+</script>

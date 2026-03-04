@@ -265,30 +265,66 @@ const denominationLabels: Record<string, string> = {
       emptyState.classList.add('hidden');
       searchHint.textContent = `Căutare pentru: "${originalQuery}"`;
 
-      // Search conversations
-      const matchedConversations = conversations.filter(conv => {
-        return matchesAtWordBoundary(conv.data.title, query) ||
-               matchesAtWordBoundary(conv.data.denomination, query) ||
-               matchesAtWordBoundary(denominationLabels[conv.data.denomination] || '', query);
-      });
+      // Search conversations with scoring
+      const matchedConversations = conversations
+        .map(conv => {
+          let score = 0;
+          // Title match = highest priority
+          if (matchesAtWordBoundary(conv.data.title, query)) score += 100;
+          // Denomination match = lower priority
+          if (matchesAtWordBoundary(conv.data.denomination, query)) score += 50;
+          if (matchesAtWordBoundary(denominationLabels[conv.data.denomination] || '', query)) score += 50;
 
-      // Search teme
-      const matchedTeme = teme.filter(tema => {
-        return matchesAtWordBoundary(tema.data.title, query) ||
-               matchesAtWordBoundary(tema.data.summary, query);
-      });
+          return { item: conv, score };
+        })
+        .filter(result => result.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .map(result => result.item);
 
-      // Search personalitati
-      const matchedPersonalitati = personalitati.filter(pers => {
-        return matchesAtWordBoundary(pers.data.name, query) ||
-               matchesAtWordBoundary(pers.data.title, query);
-      });
+      // Search teme with scoring
+      const matchedTeme = teme
+        .map(tema => {
+          let score = 0;
+          // Title match = highest priority
+          if (matchesAtWordBoundary(tema.data.title, query)) score += 100;
+          // Summary match = lower priority
+          if (matchesAtWordBoundary(tema.data.summary, query)) score += 50;
 
-      // Search locuri
-      const matchedLocuri = locuri.filter(loc => {
-        return matchesAtWordBoundary(loc.data.name, query) ||
-               matchesAtWordBoundary(loc.data.title, query);
-      });
+          return { item: tema, score };
+        })
+        .filter(result => result.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .map(result => result.item);
+
+      // Search personalitati with scoring
+      const matchedPersonalitati = personalitati
+        .map(pers => {
+          let score = 0;
+          // Name match = highest priority (this is the main identifier)
+          if (matchesAtWordBoundary(pers.data.name, query)) score += 100;
+          // Title match = lower priority (description/role)
+          if (matchesAtWordBoundary(pers.data.title, query)) score += 50;
+
+          return { item: pers, score };
+        })
+        .filter(result => result.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .map(result => result.item);
+
+      // Search locuri with scoring
+      const matchedLocuri = locuri
+        .map(loc => {
+          let score = 0;
+          // Name match = highest priority
+          if (matchesAtWordBoundary(loc.data.name, query)) score += 100;
+          // Title match = lower priority
+          if (matchesAtWordBoundary(loc.data.title, query)) score += 50;
+
+          return { item: loc, score };
+        })
+        .filter(result => result.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .map(result => result.item);
 
       const totalResults = matchedConversations.length + matchedTeme.length + matchedPersonalitati.length + matchedLocuri.length;
 

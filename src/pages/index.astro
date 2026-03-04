@@ -3,22 +3,8 @@ import Base from '../layouts/Base.astro';
 ---
 
 <Base title="Apologetica" activeNav="home">
-  <!-- Search Bar -->
-  <div class="py-6">
-    <div class="relative group">
-      <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-        <span class="material-symbols-outlined text-primary/50 group-focus-within:text-primary transition-colors">search</span>
-      </div>
-      <input
-        class="block w-full pl-12 pr-4 py-4 bg-white border-none rounded-xl shadow-sm ring-1 ring-primary/10 focus:ring-2 focus:ring-primary placeholder:text-primary/40 text-lg transition-all"
-        placeholder="Caută subiecte, versete, autori..."
-        type="text"
-      />
-    </div>
-  </div>
-
   <!-- Cards -->
-  <div class="space-y-4">
+  <div class="space-y-4 pt-6">
 
     <!-- I'm talking with... -->
     <a class="block group" href="/conversatii">
@@ -27,8 +13,8 @@ import Base from '../layouts/Base.astro';
           <span class="material-symbols-outlined">forum</span>
         </div>
         <div class="flex-1">
-          <h4 class="font-bold text-lg mb-0.5 group-hover:text-primary transition-colors italic">"Vorbesc cu un..."</h4>
-          <p class="text-xs text-primary/60 leading-relaxed">Răspunsuri ghidate pentru conversații dificile.</p>
+          <h4 class="font-bold text-xl mb-0.5 group-hover:text-primary transition-colors italic">"Vorbesc cu un..."</h4>
+          <p class="text-sm text-primary/60 leading-relaxed">Răspunsuri ghidate pentru conversații dificile.</p>
         </div>
         <span class="material-symbols-outlined text-primary/30 group-hover:translate-x-1 transition-transform">chevron_right</span>
       </div>
@@ -40,32 +26,32 @@ import Base from '../layouts/Base.astro';
         <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center text-primary mb-4 group-hover:bg-primary group-hover:text-white transition-colors">
           <span class="material-symbols-outlined">auto_stories</span>
         </div>
-        <h4 class="font-bold text-lg mb-1">Teme</h4>
-        <p class="text-xs text-primary/60 leading-relaxed">Subiecte teologice sistematice și dezbateri.</p>
+        <h4 class="font-bold text-xl mb-1">Teme</h4>
+        <p class="text-sm text-primary/60 leading-relaxed">Subiecte teologice sistematice și dezbateri.</p>
       </a>
 
       <a class="group bg-white rounded-xl p-5 border border-primary/10 hover:border-primary/40 transition-all shadow-sm" href="#">
         <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center text-primary mb-4 group-hover:bg-primary group-hover:text-white transition-colors">
           <span class="material-symbols-outlined">menu_book</span>
         </div>
-        <h4 class="font-bold text-lg mb-1">Biblia</h4>
-        <p class="text-xs text-primary/60 leading-relaxed">Exegeză, context și dovezi din manuscrise.</p>
+        <h4 class="font-bold text-xl mb-1">Biblia</h4>
+        <p class="text-sm text-primary/60 leading-relaxed">Exegeză, context și dovezi din manuscrise.</p>
       </a>
 
       <a class="group bg-white rounded-xl p-5 border border-primary/10 hover:border-primary/40 transition-all shadow-sm" href="/personalitati">
         <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center text-primary mb-4 group-hover:bg-primary group-hover:text-white transition-colors">
           <span class="material-symbols-outlined">person_pin</span>
         </div>
-        <h4 class="font-bold text-lg mb-1">Personalități</h4>
-        <p class="text-xs text-primary/60 leading-relaxed">Viața și opera apologeților.</p>
+        <h4 class="font-bold text-xl mb-1">Personalități</h4>
+        <p class="text-sm text-primary/60 leading-relaxed">Viața și opera apologeților.</p>
       </a>
 
       <a class="group bg-white rounded-xl p-5 border border-primary/10 hover:border-primary/40 transition-all shadow-sm" href="/locuri">
         <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center text-primary mb-4 group-hover:bg-primary group-hover:text-white transition-colors">
           <span class="material-symbols-outlined">map</span>
         </div>
-        <h4 class="font-bold text-lg mb-1">Locuri</h4>
-        <p class="text-xs text-primary/60 leading-relaxed">Locuri biblice și semnificația lor istorică.</p>
+        <h4 class="font-bold text-xl mb-1">Locuri</h4>
+        <p class="text-sm text-primary/60 leading-relaxed">Locuri biblice și semnificația lor istorică.</p>
       </a>
     </div>
   </div>
