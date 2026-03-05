@@ -22,7 +22,7 @@ summary: "Peste 300 de profeții despre Mesia, împlinite în Iisus Hristos"
 | Profeție VT | Referință VT | Împlinire NT | Referință NT |
 |-------------|--------------|--------------|--------------|
 | **Născut din fecioară** | Isaia 7:14 | Maria era fecioară | Matei 1:18-25; Luca 1:26-35 |
-| **Descendența lui Avraam** | Geneza 22:18 | Genealogia lui Isus | Matei 1:1; Galateni 3:16 |
+| **Descendența lui Avraam** | Geneza 22:18 | Genealogia lui Iisus | Matei 1:1; Galateni 3:16 |
 | **Din tribul lui Iuda** | Geneza 49:10 | Iisus din Iuda | Luca 3:33; Evrei 7:14 |
 | **Din casa lui David** | 2 Cronici 7:18; Ieremia 23:5 | „Fiul lui David" | Matei 1:1; Luca 1:32-33 |
 | **Născut în Betleem** | Mica 5:2 | Nașterea în Betleem | Matei 2:1; Luca 2:4-7 |
@@ -39,7 +39,7 @@ summary: "Peste 300 de profeții despre Mesia, împlinite în Iisus Hristos"
 | **Profet ca Moise** | Deuteronom 18:15-19 | Iisus profet | Faptele 3:20-22 |
 | **Preot după rânduiala lui Melhisedec** | Psalm 109:4 (110:4) | Hristos Mare Preot | Evrei 5:5-6; 7:17 |
 | **Va propovădui în Galileea** | Isaia 9:1-2 | Slujirea în Galileea | Matei 4:12-16 |
-| **Va vorbi în pilde** | Psalm 77:2 (78:2) | Parabolele lui Isus | Matei 13:34-35 |
+| **Va vorbi în pilde** | Psalm 77:2 (78:2) | Parabolele lui Iisus | Matei 13:34-35 |
 | **Va vindeca bolnavii** | Isaia 35:5-6; 53:4 | Minunile de vindecare | Matei 8:16-17; 11:4-5 |
 | **Va intra în Templu** | Maleahi 3:1 | Curățirea Templului | Matei 21:12 |
 | **Piatră de poticnire** | Isaia 8:14 | Respins de Israel | Romani 9:32-33; 1 Petru 2:8 |
@@ -286,23 +286,23 @@ summary: "Peste 300 de profeții despre Mesia, împlinite în Iisus Hristos"
 
 ## Răspunsuri la obiecții
 
-### Obiecția 1: „Creștinii au falsificat VT pentru a se potrivi cu Isus"
+### Obiecția 1: „Creștinii au falsificat VT pentru a se potrivi cu Iisus"
 
 **Răspuns:**
 
 1. **Manuscrisele de la Marea Moartă** (Qumran, 250 î.Hr. - 68 d.Hr.) conțin **copii ale Isaia, Psalmilor, Daniel** — identice cu textul masoretic, scrise **înainte de Hristos**.
 
-2. **Septuaginta** (traducere greacă a VT, 250 î.Hr.) — conține profețiile, scrisă cu **secole înainte** de Isus.
+2. **Septuaginta** (traducere greacă a VT, 250 î.Hr.) — conține profețiile, scrisă cu **secole înainte** de Iisus.
 
 3. **Iudeii păstrează VT** — ar fi observat falsificarea.
 
 **Concluzie:** Imposibil de falsificat — profețiile sunt autentice.
 
-### Obiecția 2: „Isus a 'aranjat' viața Sa să se potrivească cu profețiile"
+### Obiecția 2: „Iisus a 'aranjat' viața Sa să se potrivească cu profețiile"
 
 **Răspuns:**
 
-**Lucruri pe care Isus nu le putea controla:**
+**Lucruri pe care Iisus nu le putea controla:**
 - Locul nașterii (Betleem) — decizia cenzului roman
 - Nașterea din fecioară — modul biologic
 - Tribul și linia davidică — genealogia
@@ -353,11 +353,11 @@ summary: "Peste 300 de profeții despre Mesia, împlinite în Iisus Hristos"
 - Citează **Ioil 2** (vărsarea Duhului)
 - Citează **Psalm 16** (învierea)
 - Citează **Psalm 110** (înălțarea)
-- **Concluzie:** „Deci să știe cu siguranță toată casa lui Israel că **Dumnezeu L-a făcut și Domn și Hristos** pe acest Isus pe Care voi L-ați răstignit" (Faptele 2:36)
+- **Concluzie:** „Deci să știe cu siguranță toată casa lui Israel că **Dumnezeu L-a făcut și Domn și Hristos** pe acest Iisus pe Care voi L-ați răstignit" (Faptele 2:36)
 
 **Filip și famenul etiopian (Faptele 8:26-35):**
 - Etiopianul citește **Isaia 53**
-- Filip „**începând de la Scriptura aceasta, i-a binevestit pe Isus**"
+- Filip „**începând de la Scriptura aceasta, i-a binevestit pe Iisus**"
 
 ### Matei — Evanghelia profețiilor împlinite
 
@@ -416,7 +416,7 @@ summary: "Peste 300 de profeții despre Mesia, împlinite în Iisus Hristos"
 
 **Probabilitate matematică:** **imposibil fără intervenție divină**.
 
-**Chemarea:** Să recunoaștem că Isus este **Unsul lui Dumnezeu**, **Domn și Mântuitor**.
+**Chemarea:** Să recunoaștem că Iisus este **Unsul lui Dumnezeu**, **Domn și Mântuitor**.
 
 **Faptele 17:3:**
 > „Acest Iisus pe Care vi-L vestesc eu, **Acesta este Hristosul** [Mesia]."

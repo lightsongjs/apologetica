@@ -28,7 +28,7 @@ summary: "De ce \"doar Scriptura\" este insuficentă și auto-contradictorie"
 
 ### 2. Scriptura presupune existența Tradiției
 
-- **Ioan 21:25** — „Multe alte lucruri a făcut Isus care, dacă s-ar fi scris fiecare, cred că nici lumea nu ar putea cuprinde cărțile."
+- **Ioan 21:25** — „Multe alte lucruri a făcut Iisus care, dacă s-ar fi scris fiecare, cred că nici lumea nu ar putea cuprinde cărțile."
 - **2 Ioan 1:12** — „Multe am de scris, dar nu voiam să vă scriu cu hârtie și cerneală; ci nădăjduiesc să vin la voi și să vorbesc gură către gură."
 
 **Apostolii au predat oral** (Tradiție) multe lucruri care nu au fost scrise. Biserica primară a trăit decenii fără Noul Testament complet scris.

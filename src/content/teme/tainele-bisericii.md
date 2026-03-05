@@ -86,7 +86,7 @@ summary: "Cele șapte Taine prin care primim harul lui Dumnezeu"
 
 **Materie:** Mărturisirea verbală a păcatelor
 
-**Formă:** Rugăciunea de dezlegare: „Domnul și Dumnezeul nostru Isus Hristos... **să te ierte** pe tine... și eu, nevrednicul preot... **te iert și te dezleg** de toate păcatele tale."
+**Formă:** Rugăciunea de dezlegare: „Domnul și Dumnezeul nostru Iisus Hristos... **să te ierte** pe tine... și eu, nevrednicul preot... **te iert și te dezleg** de toate păcatele tale."
 
 **Efect:**
 - **Iertarea păcatelor** comise după Botez

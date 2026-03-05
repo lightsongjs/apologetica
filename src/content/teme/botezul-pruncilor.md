@@ -53,7 +53,7 @@ Pruncii sunt **modelul** pentru Împărăție — nu obstacole de depășit.
 
 ### 4. „Lăsați pruncii..."
 
-**Luca 18:15-16** — „Aduceau la El și **prunci**... dar Isus, chemându-i la Sine, a zis: «**Lăsați pruncii** să vină la Mine»."
+**Luca 18:15-16** — „Aduceau la El și **prunci**... dar Iisus, chemându-i la Sine, a zis: «**Lăsați pruncii** să vină la Mine»."
 
 Termenul grec **βρέφη (brephē)** = sugari, bebeluși, nou-născuți (nu doar copii).
 
@@ -95,7 +95,7 @@ Sinodul de la Cartagina a hotărât că pruncii pot fi botezați **chiar mai dev
 
 **1. Credința părinților este suficientă**
 
-**Marcu 2:3-5** — Paraliticul adus de patru prieteni: „Isus, **văzând credința lor**, a zis: «Fiul meu, îți sunt iertate păcatele tale»."
+**Marcu 2:3-5** — Paraliticul adus de patru prieteni: „Iisus, **văzând credința lor**, a zis: «Fiul meu, îți sunt iertate păcatele tale»."
 
 Credința **altora** a fost suficientă pentru vindecare și iertare.
 
@@ -181,7 +181,7 @@ Părinții decid:
 
 **Iosua 24:15** — „Eu și **casa mea** vom sluji Domnului."
 
-**Faptele 16:31** — „Crede în Domnul Isus și vei fi mântuit **tu și casa ta**."
+**Faptele 16:31** — „Crede în Domnul Iisus și vei fi mântuit **tu și casa ta**."
 
 Familia este **unitate spirituală**, nu doar colecție de indivizi.
 

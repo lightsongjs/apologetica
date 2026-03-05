@@ -14,7 +14,7 @@ summary: "Un singur Dumnezeu în trei Persoane — Tatăl, Fiul și Sfântul Duh
 - **Trei Persoane** (ὑποστάσεις — hypostaseis, persoane distincte)
 
 **Crezul Niceo-Constantinopolitan:**
-> „Cred într-**un** Dumnezeu, **Tatăl** Atotțitorul... și într-**unul** Domn Isus Hristos, **Fiul** lui Dumnezeu... și în **Duhul Sfânt**, Domnul..."
+> „Cred într-**un** Dumnezeu, **Tatăl** Atotțitorul... și într-**unul** Domn Iisus Hristos, **Fiul** lui Dumnezeu... și în **Duhul Sfânt**, Domnul..."
 
 ### Nu este contradicție
 
@@ -69,7 +69,7 @@ summary: "Un singur Dumnezeu în trei Persoane — Tatăl, Fiul și Sfântul Duh
 
 **Trei Persoane prezente simultan:**
 - **Tatăl** — glasul din ceruri
-- **Fiul** — Isus botezat
+- **Fiul** — Iisus botezat
 - **Duhul Sfânt** — porumbelul
 
 **2. Marea Trimitere (Matei 28:19)**
@@ -81,11 +81,11 @@ summary: "Un singur Dumnezeu în trei Persoane — Tatăl, Fiul și Sfântul Duh
 
 **3. Binecuvântarea apostolică (2 Corinteni 13:13)**
 
-> „**Harul** Domnului Isus Hristos și **dragostea** lui Dumnezeu și **împărtășirea** Sfântului Duh să fie cu voi cu toți."
+> „**Harul** Domnului Iisus Hristos și **dragostea** lui Dumnezeu și **împărtășirea** Sfântului Duh să fie cu voi cu toți."
 
 **4. Epistola lui Petru (1 Petru 1:2)**
 
-> „Aleși după **știința mai dinainte a lui Dumnezeu Tatăl**, întru sfințirea **Duhului**, spre ascultare și stropire cu **Sângele lui Isus Hristos**."
+> „Aleși după **știința mai dinainte a lui Dumnezeu Tatăl**, întru sfințirea **Duhului**, spre ascultare și stropire cu **Sângele lui Iisus Hristos**."
 
 **5. Ioan 14-16 — Hristos despre Treime**
 
@@ -261,7 +261,7 @@ summary: "Un singur Dumnezeu în trei Persoane — Tatăl, Fiul și Sfântul Duh
 
 **Răspuns:**
 - **Deuteronom 6:4** — „Domnul Dumnezeul nostru, Domnul **unul** este"
-- **1 Corinteni 8:6** — „Un singur Dumnezeu, Tatăl... și un singur Domn, Isus Hristos"
+- **1 Corinteni 8:6** — „Un singur Dumnezeu, Tatăl... și un singur Domn, Iisus Hristos"
 
 **Respins** de întreaga Biserică.
 
@@ -281,7 +281,7 @@ summary: "Un singur Dumnezeu în trei Persoane — Tatăl, Fiul și Sfântul Duh
 > „Cred într-**un** Dumnezeu, **Tatăl Atotțitorul**, Făcătorul cerului și al pământului, al tuturor celor văzute și nevăzute."
 
 **Despre Fiul:**
-> „Și într-**unul** Domn Isus Hristos, **Fiul lui Dumnezeu**, **Unul-Născut**, Care din Tatăl S-a născut mai înainte de toți vecii. **Lumină din Lumină, Dumnezeu adevărat din Dumnezeu adevărat**, născut, **nu făcut, Cel de o ființă cu Tatăl**, prin Care toate s-au făcut."
+> „Și într-**unul** Domn Iisus Hristos, **Fiul lui Dumnezeu**, **Unul-Născut**, Care din Tatăl S-a născut mai înainte de toți vecii. **Lumină din Lumină, Dumnezeu adevărat din Dumnezeu adevărat**, născut, **nu făcut, Cel de o ființă cu Tatăl**, prin Care toate s-au făcut."
 
 **Despre Duhul:**
 > „Și în **Duhul Sfânt, Domnul de viață Făcătorul**, Care din Tatăl purcede, **Cel ce împreună cu Tatăl și cu Fiul este închinat și slăvit**, Cel ce a grăit prin prooroci."
@@ -334,7 +334,7 @@ summary: "Un singur Dumnezeu în trei Persoane — Tatăl, Fiul și Sfântul Duh
 
 ### Mormonism
 
-**„Dumnezeu", „Isus", „Duhul Sfânt"** — trei **dumnezei** separați cu trupuri fizice.
+**„Dumnezeu", „Iisus", „Duhul Sfânt"** — trei **dumnezei** separați cu trupuri fizice.
 
 **Nu este Treime ortodoxă** — este **triteism** (trei dumnezei).
 

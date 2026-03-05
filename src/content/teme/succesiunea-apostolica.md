@@ -80,7 +80,7 @@ După moartea apostolilor, **episcopii** au preluat autoritatea apostolică în 
 **Sf. Ignatie al Antiohiei (c. 107 d.Hr.):**
 > „Fără episcop, prezbiter, și diacon, **nu se numește Biserică**."
 > „Faceți totul în armonie cu episcopul."
-> „Să urmăm pe episcop precum Isus Hristos pe Tatăl."
+> „Să urmăm pe episcop precum Iisus Hristos pe Tatăl."
 
 ## Cum se transmite succesiunea?
 

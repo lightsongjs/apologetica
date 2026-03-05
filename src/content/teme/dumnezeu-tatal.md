@@ -40,7 +40,7 @@ summary: "Tatăl veșnic, izvorul Dumnezeirii și Creatorul tuturor"
 
 ## Tatăl în Noul Testament
 
-### Tatăl Domnului Isus Hristos
+### Tatăl Domnului Iisus Hristos
 
 **Matei 11:27** — „Toate Mi-au fost date Mie de **Tatăl Meu** și nimeni nu cunoaște pe Fiul decât Tatăl, nici pe Tatăl nu-L cunoaște nimeni decât Fiul."
 
@@ -56,7 +56,7 @@ summary: "Tatăl veșnic, izvorul Dumnezeirii și Creatorul tuturor"
 
 **Galateni 4:6** — „Pentru că sunteți fii, Dumnezeu a trimis în inimile voastre **Duhul Fiului Său**, Care strigă: «**Avva, Tată!**»"
 
-**Efeseni 1:3** — „Binecuvântat să fie Dumnezeu și **Tatăl Domnului nostru Isus Hristos**."
+**Efeseni 1:3** — „Binecuvântat să fie Dumnezeu și **Tatăl Domnului nostru Iisus Hristos**."
 
 **1 Ioan 3:1** — „Vedeți ce dragoste ne-a dat nouă **Tatăl**, ca să ne numim **fii ai lui Dumnezeu**."
 
@@ -273,7 +273,7 @@ summary: "Tatăl veșnic, izvorul Dumnezeirii și Creatorul tuturor"
 
 **Diferență:** **Resping pe Hristos ca Fiul lui Dumnezeu** — nu recunosc Treimea.
 
-**Ioan 8:19** — Iudeii întreabă: „Unde este Tatăl Tău?" Isus răspunde: „Nici pe Mine nu Mă cunoașteți, nici pe Tatăl Meu; **de M-ați fi cunoscut pe Mine, ați fi cunoscut și pe Tatăl Meu**."
+**Ioan 8:19** — Iudeii întreabă: „Unde este Tatăl Tău?" Iisus răspunde: „Nici pe Mine nu Mă cunoașteți, nici pe Tatăl Meu; **de M-ați fi cunoscut pe Mine, ați fi cunoscut și pe Tatăl Meu**."
 
 **Iudaismul fără Hristos** = cunoaștere incompletă a Tatălui.
 
@@ -305,14 +305,14 @@ summary: "Tatăl veșnic, izvorul Dumnezeirii și Creatorul tuturor"
 
 **Matei 28:19** — Botez „**în numele** [singular!] Tatălui și al Fiului și al Sfântului Duh."
 
-**2 Corinteni 13:13** — „Harul Domnului Isus Hristos și dragostea lui Dumnezeu și împărtășirea Sfântului Duh să fie cu voi cu toți."
+**2 Corinteni 13:13** — „Harul Domnului Iisus Hristos și dragostea lui Dumnezeu și împărtășirea Sfântului Duh să fie cu voi cu toți."
 
 **Doxologia:**
 > „Slavă Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor. Amin."
 
 ### Rugăciune către Tatăl
 
-**Efeseni 3:14** — „Îmi plec genunchii mei către **Tatăl Domnului nostru Isus Hristos**."
+**Efeseni 3:14** — „Îmi plec genunchii mei către **Tatăl Domnului nostru Iisus Hristos**."
 
 **Filip 4:6** — „Ci în toate, prin rugăciune și prin cerere, cu mulțumire, cererile voastre să fie cunoscute **înaintea lui Dumnezeu**."
 

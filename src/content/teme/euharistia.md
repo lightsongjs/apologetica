@@ -5,7 +5,7 @@ summary: "Prezența reală în Sfânta Euharistie și diferențele față de pro
 
 ## Ce este Euharistia?
 
-**Euharistia** (din grecescul εὐχαριστία — „mulțumire") este **Sfânta Taină** în care **pâinea și vinul** devin, prin puterea Duhului Sfânt, **adevăratul Trup și Sânge** al Domnului nostru Isus Hristos.
+**Euharistia** (din grecescul εὐχαριστία — „mulțumire") este **Sfânta Taină** în care **pâinea și vinul** devin, prin puterea Duhului Sfânt, **adevăratul Trup și Sânge** al Domnului nostru Iisus Hristos.
 
 ### Nume ale Euharistiei
 
@@ -20,7 +20,7 @@ summary: "Prezența reală în Sfânta Euharistie și diferențele față de pro
 ### Cina cea de Taină
 
 **Matei 26:26-28:**
-> „Și luând Isus pâinea și binecuvântând, a frânt și, dând ucenicilor, a zis: «**Luați, mâncați, acesta este Trupul Meu**.» Și luând paharul și mulțumind, le-a dat, zicând: «**Beți dintru acesta toți, căci acesta este Sângele Meu**, al Noului Testament, care pentru mulți se varsă spre iertarea păcatelor.»"
+> „Și luând Iisus pâinea și binecuvântând, a frânt și, dând ucenicilor, a zis: «**Luați, mâncați, acesta este Trupul Meu**.» Și luând paharul și mulțumind, le-a dat, zicând: «**Beți dintru acesta toți, căci acesta este Sângele Meu**, al Noului Testament, care pentru mulți se varsă spre iertarea păcatelor.»"
 
 **Luca 22:19:**
 > „**Acesta este Trupul Meu** care se dă pentru voi; **aceasta să faceți** spre pomenirea Mea."
@@ -29,7 +29,7 @@ summary: "Prezența reală în Sfânta Euharistie și diferențele față de pro
 
 **Observație critică:**
 - Hristos a spus **„ESTE"** (ἐστιν — estin), nu „reprezintă" sau „simbolizează"
-- În aramaic (limba vorbită de Isus), nu există echivoc — **„den hu pagri"** = „acesta ESTE trupul meu"
+- În aramaic (limba vorbită de Iisus), nu există echivoc — **„den hu pagri"** = „acesta ESTE trupul meu"
 
 **Dacă Hristos voia să spună „simbol", avea cuvinte pentru asta** — dar a zis clar **„ESTE"**.
 
@@ -50,7 +50,7 @@ summary: "Prezența reală în Sfânta Euharistie și diferențele față de pro
 
 **Observație:**
 - Dacă Hristos vorbea **metaforic**, de ce nu a clarificat când oamenii au plecat?
-- Când vorbea în parabole și oamenii nu înțelegeau, **Isus explica** (Marcu 4:34)
+- Când vorbea în parabole și oamenii nu înțelegeau, **Iisus explica** (Marcu 4:34)
 - Aici **nu a explicat**, pentru că **vorbea literal**
 
 ## Pavel despre Euharistie
@@ -76,13 +76,13 @@ summary: "Prezența reală în Sfânta Euharistie și diferențele față de pro
 
 ### Sf. Ignatie al Antiohiei (c. 107 d.Hr.)
 
-> „Euharistia este **Trupul Mântuitorului nostru Isus Hristos**, care a suferit pentru păcatele noastre."
+> „Euharistia este **Trupul Mântuitorului nostru Iisus Hristos**, care a suferit pentru păcatele noastre."
 
 > „[Ereticii] se abțin de la Euharistie... pentru că **nu mărturisesc că Euharistia este Trupul Mântuitorului nostru**."
 
 ### Sf. Iustin Martirul și Filosoful (c. 150 d.Hr.)
 
-> „Nu primim acestea ca **pâine obișnuită** și **băutură obișnuită**, ci, după cum Isus Hristos Mântuitorul nostru, făcându-Se trup prin Cuvântul lui Dumnezeu, a avut și trup și sânge pentru mântuirea noastră, tot așa ne-am învățat că hrana **consacrată** prin rugăciune... este **Trupul și Sângele** aceluiași Isus întrupat."
+> „Nu primim acestea ca **pâine obișnuită** și **băutură obișnuită**, ci, după cum Iisus Hristos Mântuitorul nostru, făcându-Se trup prin Cuvântul lui Dumnezeu, a avut și trup și sânge pentru mântuirea noastră, tot așa ne-am învățat că hrana **consacrată** prin rugăciune... este **Trupul și Sângele** aceluiași Iisus întrupat."
 
 ### Sf. Chiril al Ierusalimului (c. 350 d.Hr.)
 
@@ -102,7 +102,7 @@ summary: "Prezența reală în Sfânta Euharistie și diferențele față de pro
 
 În Sfânta Liturghie, preotul roagă:
 
-> „**Trimite Duhul Tău cel Sfânt** peste noi și peste Darurile acestea ce se pun înainte... și **fă** pâinea aceasta **Cinstitul Trup** al Domnului și Dumnezeului și Mântuitorului nostru Isus Hristos... Iar ceea ce este în potirul acesta, **Scumpul Sânge** al Domnului și Dumnezeului și Mântuitorului nostru Isus Hristos."
+> „**Trimite Duhul Tău cel Sfânt** peste noi și peste Darurile acestea ce se pun înainte... și **fă** pâinea aceasta **Cinstitul Trup** al Domnului și Dumnezeului și Mântuitorului nostru Iisus Hristos... Iar ceea ce este în potirul acesta, **Scumpul Sânge** al Domnului și Dumnezeului și Mântuitorului nostru Iisus Hristos."
 
 **Duhul Sfânt coboară** și **schimbă** darurile — nu prin puterea preotului, ci prin **puterea divină**.
 

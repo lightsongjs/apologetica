@@ -86,11 +86,11 @@ Toată Treimea s-a arătat: **Tatăl** (glasul), **Fiul** (botezat), **Duhul** (
 
 **Luca 4:18** — „**Duhul Domnului** este peste Mine, pentru că M-a uns să binevestesc săracilor."
 
-**Faptele 10:38** — „Dumnezeu L-a uns pe Isus... cu **Duh Sfânt** și cu putere."
+**Faptele 10:38** — „Dumnezeu L-a uns pe Iisus... cu **Duh Sfânt** și cu putere."
 
 ### 5. În Înviere
 
-**Romani 8:11** — „Cel ce a înviat pe Isus Hristos din morți... prin **Duhul Său** care locuiește în voi."
+**Romani 8:11** — „Cel ce a înviat pe Iisus Hristos din morți... prin **Duhul Său** care locuiește în voi."
 
 ### 6. În Rusalii (Cincizecime)
 
