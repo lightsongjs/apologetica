@@ -310,3 +310,13 @@ Moartea lui Hristos pe Cruce nu este o pedeapsă substitutivă, ci o coborâre v
 
 ### A Doua Venire
 „Acest Iisus va veni în același fel în care L-ați văzut mergând la cer" (Fapte 1:11). Credința ortodoxă mărturisește așteptarea celei de-a Doua Veniri a lui Hristos cu slavă, pentru judecata universală și instaurarea definitivă a Împărăției lui Dumnezeu — „a Cărui Împărăție nu va avea sfârșit" (Simbolul Credinței).
+
+## Aprofundare tematică
+
+### Despre identitatea și natura Lui
+- [[teme/sfanta-treime|Sfânta Treime]] — Hristos ca a doua Persoană a Treimii
+- [[teme/profetiile-mesianice|Profețiile Mesianice]] — peste 300 de profeții din Vechiul Testament împlinite în Hristos
+
+### Taine și învățături
+- [[teme/euharistia|Euharistia]] — Trupul și Sângele lui Hristos
+- [[teme/botezul-pruncilor|Botezul]] — nașterea din nou în Hristos
