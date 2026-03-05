@@ -335,6 +335,6 @@ summary: "Tatăl veșnic, izvorul Dumnezeirii și Creatorul tuturor"
 ## Vezi și
 
 - [[teme/sfanta-treime|Sfânta Treime]]
+- [[personalitati/iisus-hristos|Iisus Hristos — a doua Persoană]]
 - [[teme/duhul-sfant|Duhul Sfânt — a treia Persoană]]
-- [[teme/iisus-hristos|Iisus Hristos — a doua Persoană]]
 - [[teme/arianismul|Arianismul — negarea dumnezeirii Fiului]]

@@ -120,7 +120,7 @@ summary: "Un singur Dumnezeu în trei Persoane — Tatăl, Fiul și Sfântul Duh
 
 **Ioan 1:1** — „La început era **Cuvântul** și Cuvântul era la Dumnezeu și **Dumnezeu era Cuvântul**."
 
-**Vezi detalii:** [[teme/iisus-hristos|Iisus Hristos — a doua Persoană]]
+**Vezi detalii:** [[personalitati/iisus-hristos|Iisus Hristos — a doua Persoană]]
 
 ### 3. Dumnezeu Duhul Sfânt
 
@@ -395,7 +395,7 @@ Să trăim în **comuniune cu Treimea** — botezați în numele Tatălui, Fiulu
 ## Vezi și
 
 - [[teme/dumnezeu-tatal|Dumnezeu Tatăl — prima Persoană]]
-- [[teme/iisus-hristos|Iisus Hristos — a doua Persoană]]
+- [[personalitati/iisus-hristos|Iisus Hristos — a doua Persoană]]
 - [[teme/duhul-sfant|Duhul Sfânt — a treia Persoană]]
 - [[teme/arianismul|Arianismul — negarea Treimii]]
 - [[teme/sinodul-1-ecumenic|Sinodul I Ecumenic]] — apărarea Treimii
