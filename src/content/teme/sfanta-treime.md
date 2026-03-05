@@ -1,6 +1,12 @@
 ---
 title: "Sfânta Treime"
 summary: "Un singur Dumnezeu în trei Persoane — Tatăl, Fiul și Sfântul Duh"
+type: "doctrina"
+category: "triadologie"
+tags: ["treime", "tata", "fiu", "duh-sfant", "omoousios"]
+related: ["dumnezeu-tatal", "duhul-sfant", "arianismul", "macedonianismul", "sinodul-1-ecumenic", "sinodul-2-ecumenic"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este Sfânta Treime?

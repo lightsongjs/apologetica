@@ -9,7 +9,10 @@
     "astro": "astro",
     "test": "playwright test",
     "test:headed": "playwright test --headed",
-    "test:ui": "playwright test --ui"
+    "test:ui": "playwright test --ui",
+    "validate-content": "tsx scripts/validate-content.ts",
+    "add-metadata": "tsx scripts/add-metadata.ts",
+    "prepare": "husky"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
@@ -19,6 +22,9 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
-    "@playwright/test": "^1.58.2"
+    "@playwright/test": "^1.58.2",
+    "gray-matter": "^4.0.3",
+    "husky": "^9.1.7",
+    "tsx": "^4.21.0"
   }
 }

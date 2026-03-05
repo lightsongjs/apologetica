@@ -1,6 +1,12 @@
 ---
 title: "Sinodul VI Ecumenic — Constantinopol III (680–681)"
 summary: "Al șaselea Sinod Ecumenic, ținut la Constantinopol în 680–681, a condamnat monotelismul și a afirmat că Hristos are două voințe și două lucrări — dumnezeiască și omenească."
+type: "sinod"
+category: "hristologie"
+tags: ["constantinopol", "monotelism", "vointa", "maxim-marturisitorul"]
+related: ["monotelismul", "sinoadele-ecumenice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Context istoric

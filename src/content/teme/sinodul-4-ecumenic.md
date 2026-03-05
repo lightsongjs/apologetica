@@ -1,6 +1,12 @@
 ---
 title: "Sinodul IV Ecumenic — Calcedon (451)"
 summary: "Al patrulea Sinod Ecumenic, ținut la Calcedon în 451, a condamnat monofizitismul și a definit cele două firi ale lui Hristos — dumnezeiască și omenească — neamestecate, neschimbate, neîmpărțite, nedespărțite."
+type: "sinod"
+category: "hristologie"
+tags: ["calcedon", "monofizitism", "firi", "leon-cel-mare"]
+related: ["monofizitismul", "sinoadele-ecumenice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Context istoric

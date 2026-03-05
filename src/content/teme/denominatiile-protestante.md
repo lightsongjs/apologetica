@@ -1,6 +1,12 @@
 ---
 title: "Denominațiile Protestante"
 summary: "O prezentare a principalelor ramuri protestante și diferențele lor față de Ortodoxie"
+type: "tema-generala"
+category: "apologetica"
+tags: ["protestantism", "reforme", "denominatii"]
+related: ["luteranismul", "calvinismul", "anglicanismul", "baptistii"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere
@@ -90,5 +96,5 @@ Chemarea noastră este să mărturisim adevărul în dragoste, arătând calea �
 - [[teme/ereziile|Ereziile de-a lungul istoriei]]
 - [[teme/sinoadele-ecumenice|Sinoadele Ecumenice]]
 - [[teme/parintii-bisericii|Părinții Bisericii]]
-- [[personalitati/martin-luther|Martin Luther]]
-- [[personalitati/john-calvin|John Calvin]]
+- [[teme/luteranismul|Martin Luther și Luteranismul]]
+- [[teme/calvinismul|John Calvin și Calvinismul]]

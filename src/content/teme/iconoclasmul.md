@@ -1,6 +1,13 @@
 ---
 title: "Iconoclasmul"
 summary: "Erezia împărătească care interzicea cinstirea icoanelor și ordona distrugerea lor — condamnată la Sinodul VII Ecumenic."
+type: "erezie"
+category: "eclesiologie"
+tags: ["icoane", "leon-isaurul", "ioan-damaschin"]
+condemned_at: "sinodul-7-ecumenic"
+related: ["sinoadele-ecumenice", "ereziile"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Fondatorul

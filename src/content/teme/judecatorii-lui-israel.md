@@ -1,6 +1,12 @@
 ---
 title: "Judecătorii lui Israel"
 summary: "Cronologia celor 14 judecători ai lui Israel, de la Otniel până la Samuel — eliberatorii ridicați de Dumnezeu în vremuri de criză."
+type: "tema-generala"
+category: "apologetica"
+tags: ["judecatori", "israel", "vechiul-testament"]
+related: ["patriarhii-vechiului-testament", "regii-lui-israel", "profetii-vechiului-testament"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

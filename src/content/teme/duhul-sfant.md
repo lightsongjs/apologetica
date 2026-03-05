@@ -1,6 +1,12 @@
 ---
 title: "Duhul Sfânt - Învățătura Ortodoxă"
 summary: "Persoana și lucrarea Duhului Sfânt, a treia Persoană a Sfintei Treimi"
+type: "doctrina"
+category: "pneumatologie"
+tags: ["duh-sfant", "treime", "purcedere", "cincizecime"]
+related: ["sfanta-treime", "dumnezeu-tatal", "macedonianismul", "sinodul-2-ecumenic"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Cine este Duhul Sfânt?
@@ -255,5 +261,5 @@ Ortodoxia invocă Duhul Sfânt **constant**:
 - [[teme/sfanta-treime|Sfânta Treime]]
 - [[teme/tainele-bisericii|Sfintele Taine]]
 - [[teme/penticostalismul|Penticostalismul și darurile false]]
-- [[teme/macedonia nismul|Macedonianismul — negarea Duhului Sfânt]]
+- [[teme/macedonianismul|Macedonianismul — negarea Duhului Sfânt]]
 - [[personalitati/simeon-noul-teolog|Sf. Simeon Noul Teolog]] — despre experiența Duhului

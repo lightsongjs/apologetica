@@ -1,6 +1,12 @@
 ---
 title: "Botezul Pruncilor - Apărarea Ortodoxă"
 summary: "De ce botezăm copiii și ce spune Scriptura despre botezul pruncilor"
+type: "doctrina"
+category: "eclesiologie"
+tags: ["botez", "prunci", "taine"]
+related: ["tainele-bisericii", "sfintele-taine"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este Botezul Pruncilor?

@@ -1,6 +1,12 @@
 ---
 title: "Calvinismul (Biserica Reformată)"
 summary: "Învățăturile lui Jean Calvin despre predestinare și suveranitatea divină"
+type: "tema-generala"
+category: "apologetica"
+tags: ["calvin", "predestinare", "tulip"]
+related: ["denominatiile-protestante", "luteranismul", "liberul-arbitru"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Originea Calvinismului

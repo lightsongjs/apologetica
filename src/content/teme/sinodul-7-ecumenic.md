@@ -1,6 +1,12 @@
 ---
 title: "Sinodul VII Ecumenic — Niceea II (787)"
 summary: "Al șaptelea Sinod Ecumenic, ținut la Niceea în 787, a condamnat iconoclasmul și a restabilit cinstirea sfintelor icoane, distingând între venerare (προσκύνησις) și adorare (λατρεία)."
+type: "sinod"
+category: "eclesiologie"
+tags: ["niceea", "iconoclasm", "icoane", "ioan-damaschin"]
+related: ["iconoclasmul", "sinoadele-ecumenice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Context istoric

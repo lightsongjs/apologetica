@@ -1,6 +1,12 @@
 ---
 title: "Liberul Arbitru în Teologia Ortodoxă"
 summary: "Darul libertății, sinergia între har și voință umană, și diferența față de determinismul calvinist"
+type: "doctrina"
+category: "soteriologie"
+tags: ["liberul-arbitru", "harul", "vointa"]
+related: ["calvinismul"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este Liberul Arbitru?

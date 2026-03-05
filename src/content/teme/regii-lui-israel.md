@@ -1,6 +1,12 @@
 ---
 title: "Regii lui Israel (Regatul de Nord)"
 summary: "Cronologia celor 19 regi ai Regatului de Nord, de la Ieroboam I până la Osea — un regat fără dinastie stabilă, sfârșit în exil."
+type: "tema-generala"
+category: "apologetica"
+tags: ["regi", "israel", "david", "solomon"]
+related: ["regii-lui-iuda", "profetii-vechiului-testament", "judecatorii-lui-israel"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

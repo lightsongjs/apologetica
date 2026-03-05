@@ -1,6 +1,12 @@
 ---
 title: "Penticostalismul"
 summary: "Mișcarea carismatică și problemele teologice ale cultului emoțional"
+type: "tema-generala"
+category: "apologetica"
+tags: ["penticostalism", "daruri", "limbi"]
+related: ["denominatiile-protestante", "evanghelicii"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Originea Penticostalismului

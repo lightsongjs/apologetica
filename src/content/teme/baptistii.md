@@ -1,6 +1,12 @@
 ---
 title: "Baptiștii"
 summary: "Învățăturile baptiste și diferențele lor față de Ortodoxie"
+type: "tema-generala"
+category: "apologetica"
+tags: ["baptisti", "botez-adult", "regenerare"]
+related: ["denominatiile-protestante", "botezul-pruncilor", "evanghelicii"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Originea Baptiștilor

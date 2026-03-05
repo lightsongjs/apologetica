@@ -25,17 +25,29 @@ La ridicarea lui Ilie la cer în carul de foc, Elisei strigă: „Părintele meu
 ### Vindecarea apelor din Ierihon
 Prima minune: Elisei vindecă izvorul de apă din Ierihon aruncând sare în el, zicând: „Așa zice Domnul: Am vindecat apele acestea" (4 Regi 2:19-22).
 
+### Pedeapsa copiilor batjocoritori
+Urcând la Betel, Elisei este batjocit de copii care strigă: „Suie-te, chele! Suie-te, chele!" Profetul îi blestemă în numele Domnului, și două ursoaice ies din pădure și sfâșie patruzeci și doi de copii — judecată severă asupra dispreței față de profetul Domnului (4 Regi 2:23-25).
+
 ### Înmulțirea untdelemnului văduvei
 O văduvă a unui fiu de proroc, datorită căreia creditorii voiau să-i ia copiii robi, primește de la Elisei minunea înmulțirii untdelemnului — un singur vas de ulei umple toate vasele împrumutate (4 Regi 4:1-7).
 
 ### Învierea fiului sunamitencei
 Elisei înviază fiul mort al femeii din Sunam, punându-se peste copil și rugându-se Domnului (4 Regi 4:18-37). Este una dintre cele mai puternice minuni din Vechiul Testament.
 
+### Detoxificarea gulaș-ului otrăvit
+În vremea foametei, fiii profeților gătesc o oală de zarzavat, dar cineva pune în ea dovleci sălbatici otrăvitori. Strigă: „Moarte în oală!" Elisei aruncă făină în oală și otrava dispare (4 Regi 4:38-41).
+
+### Înmulțirea celor douăzeci de pâini
+Un om aduce lui Elisei douăzeci de pâini de orz și spice verzi. Elisei poruncește să le dea celor o sută de oameni. Slujitorul întreabă: „Cum să pun aceasta înaintea a o sută de oameni?" Elisei răspunde: „Dă poporului să mănânce, căci așa zice Domnul: Vor mânca și va mai rămâne." Și a mâncat tot poporul și a mai rămas (4 Regi 4:42-44).
+
 ### Vindecarea lui Neeman Sirianul
 Neeman, comandantul armatei Siriei, bolnav de lepră, vine la Elisei. Profetul îl trimite să se spele de șapte ori în Iordan, iar Neeman se vindecă. Mărturisește: „Acum știu că nu este Dumnezeu pe tot pământul, decât numai în Israel" (4 Regi 5:1-19).
 
-### Armata invizibilă de la Dotan
-Când regele Siriei trimite oastea să-l prindă pe Elisei la Dotan, slujitorul profetului se înspăimântă. Elisei se roagă: „Doamne, deschide ochii lui să vadă!" Și acela vede muntele plin de cai și care de foc în jurul lui Elisei (4 Regi 6:15-17).
+### Securea care plutește
+Fiii profeților taie lemne la Iordan pentru a-și construi o casă. Unuia îi cade securea în apă și strigă: „Vai, stăpânul meu, căci era împrumutată!" Elisei aruncă un băț în apă, fierul securii plutește la suprafață și omul îl ia (4 Regi 6:1-7).
+
+### Armata invizibilă și orbirea sirienilor la Dotan
+Când regele Siriei trimite oastea să-l prindă pe Elisei la Dotan, slujitorul profetului se înspăimântă. Elisei se roagă: „Doamne, deschide ochii lui să vadă!" Și acela vede muntele plin de cai și care de foc în jurul lui Elisei (4 Regi 6:15-17). Apoi Elisei orbiște oastea siriană, îi duce la Samaria și le deschide ochii. În loc să-i ucidă, îi ospătează și îi trimite la stăpânul lor — și cetele siriene nu au mai venit în țara lui Israel (4 Regi 6:18-23).
 
 ### Moartea și minunea de după moarte (c. 800 î.Hr.)
 Elisei moare și este îngropat. Mai târziu, un mort aruncat în mormântul lui Elisei se atinge de oasele profetului și înviază — minune unică, mărturisind puterea harului și după moarte (4 Regi 13:20-21).

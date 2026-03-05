@@ -1,6 +1,12 @@
 ---
 title: "Sinodul V Ecumenic — Constantinopol II (553)"
 summary: "Al cincilea Sinod Ecumenic, ținut la Constantinopol în 553, a condamnat cele trei capitole (scrierile lui Teodor al Mopsuestiei, Teodoret și Iva) și a reafirmat hristologia calcedonianon."
+type: "sinod"
+category: "hristologie"
+tags: ["constantinopol", "trei-capitole", "iustinian"]
+related: ["sinodul-4-ecumenic", "sinoadele-ecumenice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Context istoric

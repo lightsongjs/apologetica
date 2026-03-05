@@ -1,6 +1,12 @@
 ---
 title: "Sola Scriptura - Problema protestantă"
 summary: "De ce \"doar Scriptura\" este insuficentă și auto-contradictorie"
+type: "tema-generala"
+category: "apologetica"
+tags: ["sola-scriptura", "traditie", "biblie-singura"]
+related: ["luteranismul", "denominatiile-protestante", "sfanta-scriptura", "succesiunea-apostolica"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este Sola Scriptura?

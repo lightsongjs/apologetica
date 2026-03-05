@@ -1,6 +1,12 @@
 ---
 title: "Sfinții Apostoli"
 summary: "Cei doisprezece Apostoli aleși de Hristos, Apostolul neamurilor și ceata apostolilor din cei 70 — temeliile Bisericii."
+type: "tema-generala"
+category: "eclesiologie"
+tags: ["apostoli", "cei-12", "petru", "pavel"]
+related: ["mucenicii", "parintii-bisericii", "profetiile-mesianice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

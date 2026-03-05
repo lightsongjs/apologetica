@@ -1,6 +1,12 @@
 ---
 title: "Sinoadele Ecumenice"
 summary: "Cele șapte Sinoade Ecumenice — adunările de episcopi care au formulat dogmele Bisericii și au condamnat ereziile, de la Niceea I (325) până la Niceea II (787)."
+type: "tema-generala"
+category: "eclesiologie"
+tags: ["sinoade", "ecumenic", "dogme", "erezii"]
+related: ["sinodul-1-ecumenic", "sinodul-2-ecumenic", "sinodul-3-ecumenic", "sinodul-4-ecumenic", "sinodul-5-ecumenic", "sinodul-6-ecumenic", "sinodul-7-ecumenic", "ereziile"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

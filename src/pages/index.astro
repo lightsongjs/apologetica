@@ -2,9 +2,18 @@
 import Base from '../layouts/Base.astro';
 ---
 
-<Base title="Apologetica" activeNav="home">
+<Base title="Apologetica" isHomePage={true}>
+  <!-- Search Bar (desktop only) -->
+  <button
+    id="home-search-btn"
+    class="hidden md:flex w-full bg-white border border-primary/20 rounded-xl p-4 shadow-sm hover:shadow-md hover:border-primary/40 transition-all items-center gap-3 group mt-4"
+  >
+    <span class="material-symbols-outlined text-2xl text-primary/40 group-hover:text-primary transition-colors">search</span>
+    <span class="text-primary/40 group-hover:text-primary/60 transition-colors text-left">Caută în Apologetica...</span>
+  </button>
+
   <!-- Cards -->
-  <div class="space-y-3 pt-4">
+  <div class="space-y-3 pt-4 md:pt-0">
 
     <!-- I'm talking with... -->
     <a class="block group" href="/conversatii">
@@ -55,4 +64,14 @@ import Base from '../layouts/Base.astro';
       </a>
     </div>
   </div>
+
+  <script>
+    // Connect home search button to floating search modal
+    const homeSearchBtn = document.getElementById('home-search-btn');
+    const floatingSearchBtn = document.getElementById('floating-search-btn');
+
+    homeSearchBtn?.addEventListener('click', () => {
+      floatingSearchBtn?.click();
+    });
+  </script>
 </Base>

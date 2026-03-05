@@ -1,6 +1,13 @@
 ---
 title: "Macedonianismul"
 summary: "Erezia lui Macedonie care nega dumnezeirea Duhului Sfânt, considerându-L o creatură — condamnată la Sinodul II Ecumenic."
+type: "erezie"
+category: "pneumatologie"
+tags: ["duh-sfant", "macedonie", "pneumatomahi", "constantinopol"]
+condemned_at: "sinodul-2-ecumenic"
+related: ["duhul-sfant", "sfanta-treime", "sinoadele-ecumenice", "ereziile"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Fondatorul

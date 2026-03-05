@@ -1,6 +1,12 @@
 ---
 title: "Cele zece porunci"
 summary: "Decalogul în ordinea păstrată de tradiția ortodoxă, după textul din Ieșirea 20:2–17."
+type: "tema-generala"
+category: "apologetica"
+tags: ["decalog", "lege", "sinai"]
+related: ["patriarhii-vechiului-testament", "profetii-vechiului-testament", "cele-zece-plagi-ale-egiptului"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Decalogul ortodox

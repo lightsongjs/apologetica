@@ -1,6 +1,12 @@
 ---
 title: "De ce poți avea încredere în Biblie"
 summary: "Dovezile manuscrise, arheologice, profetice și istorice care confirmă autenticitatea și fiabilitatea Sfintei Scripturi."
+type: "doctrina"
+category: "apologetica"
+tags: ["biblie", "credibilitate", "autoritate"]
+related: ["sfanta-scriptura", "canonul-biblic", "cartile-deuterocanonice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

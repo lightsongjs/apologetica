@@ -1,6 +1,12 @@
 ---
 title: "Sfinții Mucenici"
 summary: "Martorii lui Hristos prin sânge — de la Sfântul Ștefan până la neomucenicii din epoca otomană — cei care au biruit lumea prin moarte."
+type: "tema-generala"
+category: "eclesiologie"
+tags: ["mucenici", "martiri", "persecutii"]
+related: ["apostolii", "parintii-bisericii"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

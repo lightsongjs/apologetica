@@ -1,6 +1,12 @@
 ---
 title: "Sinodul II Ecumenic — Constantinopol (381)"
 summary: "Al doilea Sinod Ecumenic, ținut la Constantinopol în 381, a completat Simbolul de credință și a condamnat macedonianismul, afirmând dumnezeirea Duhului Sfânt."
+type: "sinod"
+category: "pneumatologie"
+tags: ["constantinopol", "macedonianism", "duh-sfant", "grigorie-teologul"]
+related: ["macedonianismul", "duhul-sfant", "sfanta-treime", "sinoadele-ecumenice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Context istoric

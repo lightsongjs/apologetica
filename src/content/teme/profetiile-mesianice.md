@@ -1,6 +1,12 @@
 ---
 title: "Profețiile Mesianice din Vechiul Testament"
 summary: "Peste 300 de profeții despre Mesia, împlinite în Iisus Hristos"
+type: "tema-generala"
+category: "hristologie"
+tags: ["profetii", "mesia", "hristos"]
+related: ["profetii-vechiului-testament", "patriarhii-vechiului-testament", "regii-lui-iuda", "apostolii"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce sunt profețiile mesianice?

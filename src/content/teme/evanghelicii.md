@@ -1,6 +1,12 @@
 ---
 title: "Evanghelicii (Neoprotestanți)"
 summary: "Mișcarea evanghelică modernă și diversitatea ei doctrinară"
+type: "tema-generala"
+category: "apologetica"
+tags: ["evanghelici", "renastere", "biblie"]
+related: ["denominatiile-protestante", "baptistii", "penticostalismul"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce sunt Evanghelicii?

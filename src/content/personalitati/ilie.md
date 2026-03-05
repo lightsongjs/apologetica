@@ -34,6 +34,9 @@ Amenințat de Izabela, Ilie fuge în pustie. Un înger îl hrănește și merge 
 ### Ungerea lui Elisei (c. 865 î.Hr.)
 La porunca lui Dumnezeu, Ilie îl găsește pe Elisei arând cu douăsprezece perechi de boi și își aruncă mantia peste el, chemându-l la slujirea profetică (3 Regi 19:19-21).
 
+### Focul din cer asupra oștașilor lui Ahazia (c. 852 î.Hr.)
+Regele Ahazia, căzut și rănit, trimite soldați să-l prindă pe Ilie. Profetul cheamă foc din cer care mistuie două cete de câte 50 de oameni. Căpetenia celei de-a treia cete se smerește, și Ilie merge cu ea la rege pentru a-i vesti moartea (4 Regi 1:9-16).
+
 ### Ridicarea la cer în carul de foc (c. 850 î.Hr.)
 Ilie este luat la cer într-un car de foc cu cai de foc, în vârtejul unui vânt puternic, în timp ce Elisei strigă: „Părintele meu, părintele meu! Carul lui Israel și călărimea lui!" (4 Regi 2:11-12). Mantia lui Ilie cade peste Elisei.
 

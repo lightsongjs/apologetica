@@ -1,6 +1,12 @@
 ---
 title: "Sfinții Părinți ai Bisericii"
 summary: "Marii teologi și dascăli ai Ortodoxiei — de la Părinții Apostolici până la Sfântul Grigorie Palama — stâlpii dogmei și ai vieții duhovnicești."
+type: "tema-generala"
+category: "eclesiologie"
+tags: ["parinti", "teologi", "doctori"]
+related: ["apostolii", "mucenicii"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

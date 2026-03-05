@@ -1,6 +1,12 @@
 ---
 title: "Sinodul I Ecumenic — Niceea (325)"
 summary: "Primul Sinod Ecumenic, convocat la Niceea în 325, a condamnat arianismul și a formulat Simbolul de credință nicean, afirmând că Fiul este de o ființă (ὁμοούσιος) cu Tatăl."
+type: "sinod"
+category: "triadologie"
+tags: ["niceea", "arianism", "omoousios", "atanasie"]
+related: ["arianismul", "sfanta-treime", "sinoadele-ecumenice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Context istoric

@@ -1,0 +1,72 @@
+---
+import { getEntryBySlug } from 'astro:content';
+
+interface Props {
+  related?: string[];
+  opposed_to?: string[];
+  condemned_at?: string;
+}
+
+const { related = [], opposed_to = [], condemned_at } = Astro.props;
+
+// Fetch related entries (filter out null values)
+const relatedEntries = (await Promise.all(
+  related.map(slug => getEntryBySlug('teme', slug).catch(() => null))
+)).filter(entry => entry !== null);
+
+const opposedEntries = (await Promise.all(
+  opposed_to.map(slug => getEntryBySlug('teme', slug).catch(() => null))
+)).filter(entry => entry !== null);
+
+const condemnedEntry = condemned_at
+  ? await getEntryBySlug('teme', condemned_at).catch(() => null)
+  : null;
+---
+
+{(relatedEntries.length > 0 || opposedEntries.length > 0 || condemnedEntry) && (
+  <section class="related-content mt-8 p-6 bg-gray-50 dark:bg-gray-800 rounded-lg">
+    <h2 class="text-xl font-bold mb-4">Vezi și</h2>
+
+    {relatedEntries.length > 0 && (
+      <div class="mb-4">
+        <h3 class="font-semibold mb-2">Teme conexe:</h3>
+        <ul class="list-disc list-inside space-y-1">
+          {relatedEntries.map(entry => entry && (
+            <li>
+              <a href={`/teme/${entry.slug}`} class="text-blue-600 hover:underline dark:text-blue-400">
+                {entry.data.title}
+              </a>
+              <span class="text-sm text-gray-600 dark:text-gray-400"> — {entry.data.summary}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {opposedEntries.length > 0 && (
+      <div class="mb-4">
+        <h3 class="font-semibold mb-2">Se opune la:</h3>
+        <ul class="list-disc list-inside space-y-1">
+          {opposedEntries.map(entry => entry && (
+            <li>
+              <a href={`/teme/${entry.slug}`} class="text-blue-600 hover:underline dark:text-blue-400">
+                {entry.data.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {condemnedEntry && (
+      <div>
+        <h3 class="font-semibold mb-2">Condamnat la:</h3>
+        <p>
+          <a href={`/teme/${condemnedEntry.slug}`} class="text-blue-600 hover:underline dark:text-blue-400">
+            {condemnedEntry.data.title}
+          </a>
+        </p>
+      </div>
+    )}
+  </section>
+)}

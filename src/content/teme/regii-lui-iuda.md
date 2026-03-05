@@ -1,6 +1,12 @@
 ---
 title: "Regii lui Iuda"
 summary: "Cronologia celor 20 de regi ai Regatului lui Iuda (și a reginei Atalia), de la Saul până la Sedechia — dinastia lui David."
+type: "tema-generala"
+category: "apologetica"
+tags: ["regi", "iuda", "iosafat", "ezechia"]
+related: ["regii-lui-israel", "profetii-vechiului-testament", "profetiile-mesianice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

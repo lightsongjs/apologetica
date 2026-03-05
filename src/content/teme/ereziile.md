@@ -1,6 +1,12 @@
 ---
 title: "Ereziile"
 summary: "Marile erezii condamnate de Sinoadele Ecumenice — de la arianismul lui Arie până la iconoclasmul împărătesc — și răspunsul Ortodoxiei."
+type: "tema-generala"
+category: "apologetica"
+tags: ["erezii", "sinoade"]
+related: ["arianismul", "macedonianismul", "nestorianismul", "monofizitismul", "monotelismul"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

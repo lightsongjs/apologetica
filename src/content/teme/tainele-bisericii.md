@@ -1,6 +1,12 @@
 ---
 title: "Sfintele Taine (Sacramentele)"
 summary: "Cele șapte Taine prin care primim harul lui Dumnezeu"
+type: "doctrina"
+category: "eclesiologie"
+tags: ["taine", "sacramente"]
+related: ["sfintele-taine", "botezul-pruncilor", "succesiunea-apostolica"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce sunt Tainele?

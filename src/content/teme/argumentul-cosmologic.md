@@ -1,6 +1,12 @@
 ---
 title: "Argumentul cosmologic"
 summary: "Dacă universul a avut un început, ce (sau Cine) l-a cauzat? Argumentul Kalam, rezumat și apărat."
+type: "tema-generala"
+category: "apologetica"
+tags: ["cosmologic", "cauza-prima", "dumnezeu"]
+related: ["reglajul-fin", "a-doua-lege-termodinamica"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Structura argumentului

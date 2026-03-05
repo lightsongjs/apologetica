@@ -25,3 +25,9 @@ pnpm-debug.log*
 
 # playwright
 playwright-report/
+
+# validation outputs
+CONTENT-INDEX.json
+CONTENT-GRAPH.json
+TAXONOMY.json
+VALIDATION-REPORT.md

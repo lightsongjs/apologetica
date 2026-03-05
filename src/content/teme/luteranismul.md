@@ -1,11 +1,17 @@
 ---
 title: "Luteranismul"
 summary: "Învățăturile lui Martin Luther și diferențele față de Ortodoxie"
+type: "tema-generala"
+category: "apologetica"
+tags: ["luther", "reforma", "sola-scriptura"]
+related: ["denominatiile-protestante", "calvinismul", "sola-scriptura"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Originea Luteranismului
 
-Luteranismul a luat naștere în 1517 când [[personalitati/martin-luther|Martin Luther]], un călugăr augustinian german, a afișat cele **95 de teze** pe ușa bisericii din Wittenberg, criticând vânzarea indulgențelor de către Biserica Catolică.
+Luteranismul a luat naștere în 1517 când **Martin Luther**, un călugăr augustinian german, a afișat cele **95 de teze** pe ușa bisericii din Wittenberg, criticând vânzarea indulgențelor de către Biserica Catolică.
 
 ### Context istoric
 
@@ -137,4 +143,4 @@ Biserica Ortodoxă îi invită pe luteranii sinceri să descopere credința nedi
 - [[teme/calvinismul|Calvinismul]]
 - [[teme/anglicanismul|Anglicanismul]]
 - [[teme/sola-scriptura|Problema "Sola Scriptura"]]
-- [[personalitati/martin-luther|Martin Luther]]
+- [[teme/denominatiile-protestante|Alte denominații protestante]]

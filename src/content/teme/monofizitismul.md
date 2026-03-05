@@ -1,6 +1,14 @@
 ---
 title: "Monofizitismul"
 summary: "Erezia lui Eutihie care confunda cele două firi ale lui Hristos într-una singură — condamnată la Sinodul IV Ecumenic."
+type: "erezie"
+category: "hristologie"
+tags: ["calcedon", "eutihie", "fire", "hristos"]
+condemned_at: "sinodul-4-ecumenic"
+opposed_to: ["nestorianismul"]
+related: ["monotelismul", "sinoadele-ecumenice", "ereziile"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Fondatorul

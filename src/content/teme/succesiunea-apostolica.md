@@ -1,6 +1,12 @@
 ---
 title: "Succesiunea Apostolică"
 summary: "Lanțul neîntrerupt al hirotoniei de la apostoli până astăzi"
+type: "doctrina"
+category: "eclesiologie"
+tags: ["apostoli", "episcopi", "succesiune"]
+related: ["tainele-bisericii", "sfintele-taine"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este Succesiunea Apostolică?

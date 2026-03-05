@@ -1,6 +1,12 @@
 ---
 title: "Euharistia - Trupul și Sângele lui Hristos"
 summary: "Prezența reală în Sfânta Euharistie și diferențele față de protestantism"
+type: "doctrina"
+category: "eclesiologie"
+tags: ["euharistie", "liturghie", "taine", "comuniune"]
+related: ["sfintele-taine", "tainele-bisericii"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este Euharistia?

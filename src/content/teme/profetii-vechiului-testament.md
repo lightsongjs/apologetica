@@ -1,6 +1,12 @@
 ---
 title: "Profeții Vechiului Testament"
 summary: "Cronologia profeților Vechiului Testament — de la Moise până la Maleahi — glasul lui Dumnezeu în istoria lui Israel."
+type: "tema-generala"
+category: "apologetica"
+tags: ["profeti", "isaia", "ieremia"]
+related: ["patriarhii-vechiului-testament", "profetiile-mesianice", "regii-lui-israel", "regii-lui-iuda"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

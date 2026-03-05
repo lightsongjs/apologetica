@@ -1,6 +1,12 @@
 ---
 title: "Patriarhii Vechiului Testament"
 summary: "Cronologia patriarhilor — de la Adam până la cei doisprezece fii ai lui Iacov — părinții neamului omenesc și ai poporului ales."
+type: "tema-generala"
+category: "apologetica"
+tags: ["patriarhi", "avraam", "isac", "iacob"]
+related: ["profetii-vechiului-testament", "judecatorii-lui-israel", "profetiile-mesianice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Introducere

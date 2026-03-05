@@ -1,6 +1,13 @@
 ---
 title: "Arianismul"
 summary: "Erezia lui Arie care nega dumnezeirea Fiului, susținând că este o creatură — condamnată la Sinoadele I și II Ecumenice."
+type: "erezie"
+category: "triadologie"
+tags: ["niceea", "atanasie", "arie", "omoousios", "treime"]
+condemned_at: "sinodul-1-ecumenic"
+related: ["sinodul-2-ecumenic", "sfanta-treime", "dumnezeu-tatal", "sinoadele-ecumenice", "ereziile"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Fondatorul

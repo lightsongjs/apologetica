@@ -7,8 +7,7 @@ interface Props {
   headerTitle?: string;
   backHref?: string;
   useHistoryBack?: boolean;
-  showBottomNav?: boolean;
-  activeNav?: 'home' | 'search' | 'settings';
+  isHomePage?: boolean;
 }
 
 const {
@@ -16,15 +15,8 @@ const {
   headerTitle,
   backHref,
   useHistoryBack = false,
-  showBottomNav = true,
-  activeNav = 'home',
+  isHomePage = false,
 } = Astro.props;
-
-const navItems = [
-  { id: 'home', href: '/', icon: 'home', label: 'Home' },
-  { id: 'search', href: '/cautare', icon: 'search', label: 'Căutare' },
-  { id: 'settings', href: '#', icon: 'settings', label: 'Setări' },
-];
 ---
 
 <!doctype html>
@@ -61,89 +53,30 @@ const navItems = [
           )}
           <h1 class="text-xl font-bold tracking-tight text-primary">{headerTitle || title}</h1>
         </div>
-        {!backHref && !useHistoryBack && (
-          <div class="flex items-center bg-primary/10 rounded-full px-3 py-1">
-            <span class="text-xs font-bold text-primary px-2 py-0.5 rounded-full bg-white shadow-sm">RO</span>
-            <div class="w-px h-3 bg-primary/20 mx-1"></div>
-            <span class="text-xs font-bold text-primary/60 px-2 py-0.5">EN</span>
-          </div>
+        {!isHomePage && (
+          <a href="/" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
+            <span class="material-symbols-outlined text-2xl">home</span>
+          </a>
         )}
       </div>
     </header>
 
-    <main class="flex-1 max-w-xl mx-auto w-full px-4 pb-24">
+    <main class="flex-1 max-w-xl mx-auto w-full px-4 pb-8">
       <slot />
     </main>
-
-    {showBottomNav && (
-      <nav class="fixed bottom-0 inset-x-0 bg-white/95 backdrop-blur-lg border-t border-primary/10 px-6 py-3 pb-6 z-50">
-        <div class="max-w-xl mx-auto flex justify-between items-center">
-          {navItems.map((item) => (
-            item.id === 'search' ? (
-              <button
-                id="bottom-nav-search-btn"
-                class:list={[
-                  'flex flex-col items-center gap-1 transition-colors',
-                  activeNav === item.id ? 'text-primary' : 'text-slate-400 hover:text-primary',
-                ]}
-              >
-                <span
-                  class="material-symbols-outlined text-[24px]"
-                  style={activeNav === item.id ? "font-variation-settings: 'FILL' 1;" : ''}
-                >{item.icon}</span>
-                <span class="text-[10px] font-bold uppercase tracking-wider">{item.label}</span>
-              </button>
-            ) : (
-              <a
-                href={item.href}
-                class:list={[
-                  'flex flex-col items-center gap-1 transition-colors',
-                  activeNav === item.id ? 'text-primary' : 'text-slate-400 hover:text-primary',
-                ]}
-              >
-                <span
-                  class="material-symbols-outlined text-[24px]"
-                  style={activeNav === item.id ? "font-variation-settings: 'FILL' 1;" : ''}
-                >{item.icon}</span>
-                <span class="text-[10px] font-bold uppercase tracking-wider">{item.label}</span>
-              </a>
-            )
-          ))}
-        </div>
-      </nav>
-    )}
 
     <FloatingSearch />
 
     <script>
-      // Connect bottom nav search button to modal
-      console.log('[Search Debug] Script loaded');
-      const bottomNavSearchBtn = document.getElementById('bottom-nav-search-btn');
-      const floatingSearchBtn = document.getElementById('floating-search-btn');
-
-      console.log('[Search Debug] Bottom nav button:', bottomNavSearchBtn);
-      console.log('[Search Debug] Floating button:', floatingSearchBtn);
-
-      bottomNavSearchBtn?.addEventListener('click', (e) => {
-        console.log('[Search Debug] Bottom nav button clicked!');
-        e.preventDefault();
-        e.stopPropagation();
-        // Trigger the floating search button click
-        floatingSearchBtn?.click();
-        console.log('[Search Debug] Triggered floating button');
-      });
-
       // Handle history back button
       const historyBackBtn = document.getElementById('history-back-btn');
       historyBackBtn?.addEventListener('click', () => {
-        console.log('[Navigation] History back clicked');
         window.history.back();
       });
 
       // Handle history forward button
       const historyForwardBtn = document.getElementById('history-forward-btn');
       historyForwardBtn?.addEventListener('click', () => {
-        console.log('[Navigation] History forward clicked');
         window.history.forward();
       });
     </script>

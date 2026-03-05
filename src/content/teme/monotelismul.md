@@ -1,6 +1,13 @@
 ---
 title: "Monotelismul"
 summary: "Erezia care susținea o singură voință în Hristos, negând voința Sa omenească — condamnată la Sinodul VI Ecumenic."
+type: "erezie"
+category: "hristologie"
+tags: ["vointa", "hristos", "maxim-marturisitorul"]
+condemned_at: "sinodul-6-ecumenic"
+related: ["monofizitismul", "sinoadele-ecumenice", "ereziile"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Fondatorul

@@ -1,6 +1,12 @@
 ---
 title: "A doua lege a termodinamicii"
 summary: "Cum entropia demonstrează că universul a avut un început — și de ce aceasta indică un Creator."
+type: "tema-generala"
+category: "apologetica"
+tags: ["termodinamica", "entropie", "univers"]
+related: ["argumentul-cosmologic", "reglajul-fin"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este a doua lege?

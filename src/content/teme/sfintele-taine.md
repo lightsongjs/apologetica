@@ -1,6 +1,12 @@
 ---
 title: "Sfintele Taine"
 summary: "Cele șapte Sfinte Taine ale Bisericii Ortodoxe — lucrările nevăzute ale harului lui Dumnezeu prin semne văzute, de la Botez până la Sfântul Maslu."
+type: "doctrina"
+category: "eclesiologie"
+tags: ["taine", "sacramente", "biserica"]
+related: ["botezul", "mirungerea", "euharistia", "spovedania", "preotia", "cununia", "maslul"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce sunt Sfintele Taine

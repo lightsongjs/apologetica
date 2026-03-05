@@ -1,6 +1,12 @@
 ---
 title: "Sfânta Scriptură"
 summary: "Biblia ortodoxă — ce este, câte cărți conține, cum a fost stabilit canonul, de ce este demnă de încredere și cum se raportează la Sfânta Tradiție."
+type: "doctrina"
+category: "apologetica"
+tags: ["biblie", "scriptura", "revelatieă"]
+related: ["canonul-biblic", "cartile-deuterocanonice", "increderea-in-biblie"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este Sfânta Scriptură

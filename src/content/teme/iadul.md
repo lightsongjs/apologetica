@@ -1,6 +1,12 @@
 ---
 title: "Iadul - Învățătura Ortodoxă"
 summary: "Realitatea iadului, foc veșnic, și iubirea lui Dumnezeu"
+type: "doctrina"
+category: "escatologie"
+tags: ["iad", "judecata", "vesnicie"]
+related: ["raiul", "judecata-de-apoi", "mantuirea", "pocainta"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este Iadul?

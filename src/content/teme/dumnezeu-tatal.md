@@ -1,6 +1,12 @@
 ---
 title: "Dumnezeu Tatăl - Prima Persoană a Treimii"
 summary: "Tatăl veșnic, izvorul Dumnezeirii și Creatorul tuturor"
+type: "doctrina"
+category: "triadologie"
+tags: ["tata", "treime", "ipostasuri"]
+related: ["sfanta-treime", "duhul-sfant"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Cine este Dumnezeu Tatăl?

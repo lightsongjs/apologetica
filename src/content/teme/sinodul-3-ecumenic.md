@@ -1,6 +1,12 @@
 ---
 title: "Sinodul III Ecumenic — Efes (431)"
 summary: "Al treilea Sinod Ecumenic, ținut la Efes în 431, a condamnat nestorianismul și a afirmat că Fecioara Maria este Theotokos (Născătoare de Dumnezeu)."
+type: "sinod"
+category: "hristologie"
+tags: ["efes", "nestorianism", "theotokos", "chiril"]
+related: ["nestorianismul", "sinoadele-ecumenice"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Context istoric

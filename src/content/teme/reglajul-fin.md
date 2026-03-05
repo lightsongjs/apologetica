@@ -1,6 +1,12 @@
 ---
 title: "Reglajul fin al universului"
 summary: "Constantele fizice sunt calibrate cu o precizie uimitoare pentru a permite viața. Coincidență sau design?"
+type: "tema-generala"
+category: "apologetica"
+tags: ["reglaj-fin", "design", "univers"]
+related: ["argumentul-cosmologic", "a-doua-lege-termodinamica"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce este reglajul fin?

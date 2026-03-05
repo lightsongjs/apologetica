@@ -1,6 +1,14 @@
 ---
 title: "Nestorianismul"
 summary: "Erezia lui Nestorie care despărțea naturile lui Hristos în două persoane și nega titlul de Theotokos — condamnată la Sinodul III Ecumenic."
+type: "erezie"
+category: "hristologie"
+tags: ["efes", "nestorie", "theotokos", "chiril"]
+condemned_at: "sinodul-3-ecumenic"
+opposed_to: ["monofizitismul"]
+related: ["sinoadele-ecumenice", "ereziile"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Fondatorul

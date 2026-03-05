@@ -1,6 +1,12 @@
 ---
 title: "Cărțile Deuterocanonice"
 summary: "Ce sunt cărțile deuterocanonice, de ce fac parte din Biblia ortodoxă, de ce protestanții le-au eliminat și care este importanța lor teologică."
+type: "doctrina"
+category: "apologetica"
+tags: ["deuterocanonice", "canon", "septuaginta"]
+related: ["canonul-biblic", "sfanta-scriptura"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Ce sunt cărțile deuterocanonice

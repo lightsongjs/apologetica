@@ -1,6 +1,12 @@
 ---
 title: "Anglicanismul (Biserica Anglicană)"
 summary: "Via media între catolicism și protestantism — originea și problemele sale"
+type: "tema-generala"
+category: "apologetica"
+tags: ["anglicanismhenri-viii", "church-of-england"]
+related: ["denominatiile-protestante", "luteranismul"]
+completeness: "complete"
+last_updated: "2026-03-05"
 ---
 
 ## Originea Anglicansimului
