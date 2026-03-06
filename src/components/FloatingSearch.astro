@@ -28,22 +28,29 @@ const denominationLabels: Record<string, string> = {
   class="fixed inset-0 bg-black/30 backdrop-blur-sm z-50 hidden transition-opacity duration-300 opacity-0"
 ></div>
 
-<!-- Bottom Sheet -->
+<!-- Search Sheet (full-screen on mobile, bottom sheet on desktop) -->
 <div
   id="search-sheet"
-  class="fixed left-0 right-0 z-50 bg-white shadow-2xl transition-all duration-300"
-  style="bottom: 0; max-height: 60vh; border-radius: 1.5rem 1.5rem 0 0; transform: translateY(100%);"
+  class="fixed z-50 bg-white shadow-2xl transition-all duration-300 inset-0 md:inset-auto md:left-0 md:right-0 md:bottom-0 md:max-h-[60vh] md:rounded-t-3xl overflow-hidden flex flex-col"
+  style="transform: translateY(100%);"
 >
-  <!-- Drag Handle -->
-  <div class="flex justify-center pt-2 pb-1 cursor-grab active:cursor-grabbing" id="drag-handle-area">
+  <!-- Drag Handle (desktop only) -->
+  <div class="hidden md:flex justify-center pt-2 pb-1 cursor-grab active:cursor-grabbing" id="drag-handle-area">
     <div class="w-12 h-1 bg-gray-300 rounded-full"></div>
   </div>
 
   <!-- Sheet Content -->
-  <div class="px-4 pb-4 overflow-hidden flex flex-col" style="max-height: calc(60vh - 16px);">
+  <div class="h-full flex flex-col overflow-hidden px-4 pb-safe pt-4 md:pt-0 md:pb-4">
 
     <!-- Search Input -->
-    <div class="flex items-center gap-3 mb-4 flex-shrink-0">
+    <div class="flex items-center gap-3 mb-4 flex-shrink-0 pt-safe">
+      <button
+        id="close-sheet-btn"
+        class="md:hidden text-primary hover:bg-primary/10 p-2.5 rounded-full transition-colors flex items-center justify-center flex-shrink-0"
+        aria-label="Închide"
+      >
+        <span class="material-symbols-outlined text-2xl">arrow_back</span>
+      </button>
       <div class="flex-1 relative">
         <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
           <span class="material-symbols-outlined text-primary/40 text-2xl">search</span>
@@ -58,8 +65,8 @@ const denominationLabels: Record<string, string> = {
         />
       </div>
       <button
-        id="close-sheet-btn"
-        class="text-primary hover:bg-primary/10 p-2.5 rounded-full transition-colors flex items-center justify-center flex-shrink-0"
+        id="close-sheet-btn-desktop"
+        class="hidden md:flex text-primary hover:bg-primary/10 p-2.5 rounded-full transition-colors items-center justify-center flex-shrink-0"
         aria-label="Închide"
       >
         <span class="material-symbols-outlined text-2xl">close</span>
@@ -149,6 +156,7 @@ const denominationLabels: Record<string, string> = {
   const backdrop = document.getElementById('search-backdrop');
   const sheet = document.getElementById('search-sheet');
   const closeBtn = document.getElementById('close-sheet-btn');
+  const closeBtnDesktop = document.getElementById('close-sheet-btn-desktop');
   const searchInput = document.getElementById('sheet-search-input');
   const searchHint = document.getElementById('sheet-search-hint');
   const resultsContainer = document.getElementById('sheet-results-container');
@@ -184,57 +192,29 @@ const denominationLabels: Record<string, string> = {
     locuri: []
   };
 
-  // Adjust modal position and height based on keyboard visibility
-  function adjustModalHeight() {
-    if (window.visualViewport) {
-      const viewportHeight = window.visualViewport.height;
-      const windowHeight = window.innerHeight;
-      const keyboardHeight = windowHeight - viewportHeight;
-
-      // If keyboard is visible (taking up more than 150px)
-      if (keyboardHeight > 150) {
-        // Move modal to TOP of screen and make it smaller
-        sheet.style.bottom = 'auto';
-        sheet.style.top = '0';
-        sheet.style.maxHeight = `${viewportHeight - 20}px`; // Fill visible viewport minus small margin
-        sheet.style.borderRadius = '0 0 1.5rem 1.5rem'; // Rounded bottom corners
-
-        const contentDiv = sheet.querySelector('.px-4');
-        if (contentDiv) {
-          contentDiv.style.maxHeight = `${viewportHeight - 36}px`;
-        }
-      } else {
-        // Keyboard hidden, use normal bottom position
-        sheet.style.bottom = '0';
-        sheet.style.top = 'auto';
-        sheet.style.maxHeight = '60vh';
-        sheet.style.borderRadius = '1.5rem 1.5rem 0 0'; // Rounded top corners
-
-        const contentDiv = sheet.querySelector('.px-4');
-        if (contentDiv) {
-          contentDiv.style.maxHeight = 'calc(60vh - 16px)';
-        }
-      }
-    }
-  }
-
   // Open sheet
   function openSheet() {
+    // Prevent body scroll when modal is open
+    document.body.style.overflow = 'hidden';
+
     backdrop.classList.remove('hidden');
     setTimeout(() => {
       backdrop.classList.remove('opacity-0');
       sheet.style.transform = 'translateY(0)';
     }, 10);
-    searchInput.focus();
 
-    // Adjust height when keyboard appears
-    setTimeout(() => adjustModalHeight(), 300);
+    // Focus input with slight delay for smooth animation
+    setTimeout(() => searchInput.focus(), 100);
   }
 
   // Close sheet
   function closeSheet() {
     backdrop.classList.add('opacity-0');
     sheet.style.transform = 'translateY(100%)';
+
+    // Re-enable body scroll
+    document.body.style.overflow = '';
+
     setTimeout(() => {
       backdrop.classList.add('hidden');
       searchInput.value = '';
@@ -243,21 +223,12 @@ const denominationLabels: Record<string, string> = {
       noResults.classList.add('hidden');
       searchHint.textContent = 'Scrie pentru a căuta...';
       isExpanded = false;
-
-      // Reset position to bottom
-      sheet.style.bottom = '0';
-      sheet.style.top = 'auto';
-      sheet.style.borderRadius = '1.5rem 1.5rem 0 0';
     }, 300);
-  }
-
-  // Listen for viewport changes (keyboard show/hide)
-  if (window.visualViewport) {
-    window.visualViewport.addEventListener('resize', adjustModalHeight);
   }
 
   floatingBtn?.addEventListener('click', openSheet);
   closeBtn?.addEventListener('click', closeSheet);
+  closeBtnDesktop?.addEventListener('click', closeSheet);
   backdrop?.addEventListener('click', closeSheet);
 
   // Escape key
@@ -267,37 +238,40 @@ const denominationLabels: Record<string, string> = {
     }
   });
 
-  // Touch gestures for drag to dismiss
+  // Touch gestures for drag to dismiss (desktop only)
   let touchStartY = 0;
   let touchCurrentY = 0;
   const dragHandleArea = document.getElementById('drag-handle-area');
 
-  dragHandleArea?.addEventListener('touchstart', (e) => {
-    touchStartY = e.touches[0].clientY;
-  });
+  // Only enable drag on desktop (when drag handle is visible)
+  if (dragHandleArea && window.innerWidth >= 768) {
+    dragHandleArea.addEventListener('touchstart', (e) => {
+      touchStartY = e.touches[0].clientY;
+    });
 
-  dragHandleArea?.addEventListener('touchmove', (e) => {
-    touchCurrentY = e.touches[0].clientY;
-    const diff = touchCurrentY - touchStartY;
+    dragHandleArea.addEventListener('touchmove', (e) => {
+      touchCurrentY = e.touches[0].clientY;
+      const diff = touchCurrentY - touchStartY;
 
-    if (diff > 0) {
-      sheet.style.transform = `translateY(${diff}px)`;
-    }
-  });
+      if (diff > 0) {
+        sheet.style.transform = `translateY(${diff}px)`;
+      }
+    });
 
-  dragHandleArea?.addEventListener('touchend', () => {
-    const diff = touchCurrentY - touchStartY;
+    dragHandleArea.addEventListener('touchend', () => {
+      const diff = touchCurrentY - touchStartY;
 
-    if (diff > 100) {
-      closeSheet();
-    } else {
-      // Reset to open position
-      sheet.style.transform = 'translateY(0)';
-    }
+      if (diff > 100) {
+        closeSheet();
+      } else {
+        // Reset to open position
+        sheet.style.transform = 'translateY(0)';
+      }
 
-    touchStartY = 0;
-    touchCurrentY = 0;
-  });
+      touchStartY = 0;
+      touchCurrentY = 0;
+    });
+  }
 
   // Remove diacritics
   function removeDiacritics(str) {
