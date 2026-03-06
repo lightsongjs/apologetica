@@ -28,16 +28,12 @@ const denominationLabels: Record<string, string> = {
   class="fixed inset-0 bg-black/30 backdrop-blur-sm z-50 hidden transition-opacity duration-300 opacity-0"
 ></div>
 
-<!-- Search Sheet (full-screen on mobile, bottom sheet on desktop) -->
+<!-- Search Sheet (full-screen on mobile, top sheet on desktop) -->
 <div
   id="search-sheet"
-  class="fixed z-50 bg-white shadow-2xl transition-all duration-300 inset-0 md:inset-auto md:left-0 md:right-0 md:bottom-0 md:max-h-[60vh] md:rounded-t-3xl overflow-hidden flex flex-col"
-  style="transform: translateY(100%);"
+  class="fixed z-50 bg-white shadow-2xl transition-all duration-300 inset-0 md:inset-auto md:left-0 md:right-0 md:top-0 md:max-h-[70vh] md:rounded-b-3xl overflow-hidden flex flex-col"
+  style="transform: translateY(-100%);"
 >
-  <!-- Drag Handle (desktop only) -->
-  <div class="hidden md:flex justify-center pt-2 pb-1 cursor-grab active:cursor-grabbing" id="drag-handle-area">
-    <div class="w-12 h-1 bg-gray-300 rounded-full"></div>
-  </div>
 
   <!-- Sheet Content -->
   <div class="h-full flex flex-col overflow-hidden px-4 pb-safe pt-4 md:pt-0 md:pb-4">
@@ -210,7 +206,10 @@ const denominationLabels: Record<string, string> = {
   // Close sheet
   function closeSheet() {
     backdrop.classList.add('opacity-0');
-    sheet.style.transform = 'translateY(100%)';
+
+    // Mobile: slide down (100%), Desktop: slide up (-100%)
+    const isMobile = window.innerWidth < 768;
+    sheet.style.transform = isMobile ? 'translateY(100%)' : 'translateY(-100%)';
 
     // Re-enable body scroll
     document.body.style.overflow = '';
@@ -237,41 +236,6 @@ const denominationLabels: Record<string, string> = {
       closeSheet();
     }
   });
-
-  // Touch gestures for drag to dismiss (desktop only)
-  let touchStartY = 0;
-  let touchCurrentY = 0;
-  const dragHandleArea = document.getElementById('drag-handle-area');
-
-  // Only enable drag on desktop (when drag handle is visible)
-  if (dragHandleArea && window.innerWidth >= 768) {
-    dragHandleArea.addEventListener('touchstart', (e) => {
-      touchStartY = e.touches[0].clientY;
-    });
-
-    dragHandleArea.addEventListener('touchmove', (e) => {
-      touchCurrentY = e.touches[0].clientY;
-      const diff = touchCurrentY - touchStartY;
-
-      if (diff > 0) {
-        sheet.style.transform = `translateY(${diff}px)`;
-      }
-    });
-
-    dragHandleArea.addEventListener('touchend', () => {
-      const diff = touchCurrentY - touchStartY;
-
-      if (diff > 100) {
-        closeSheet();
-      } else {
-        // Reset to open position
-        sheet.style.transform = 'translateY(0)';
-      }
-
-      touchStartY = 0;
-      touchCurrentY = 0;
-    });
-  }
 
   // Remove diacritics
   function removeDiacritics(str) {
