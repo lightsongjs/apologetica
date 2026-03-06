@@ -16,41 +16,90 @@ const topicCounts = groups.map((g) => ({
 }));
 ---
 
-<Base title="Vorbesc cu un..." headerTitle="Vorbesc cu un..." backHref="/" activeNav="home">
-  <!-- Search -->
-  <div class="py-4">
-    <div class="flex w-full items-stretch rounded-xl h-12 shadow-sm">
-      <div class="text-primary/60 flex border-none bg-white items-center justify-center pl-4 rounded-l-xl">
-        <span class="material-symbols-outlined">search</span>
-      </div>
+<Base title="Conversații" headerTitle="Conversații" backHref="/" activeNav="home">
+  <!-- Search Bar -->
+  <div class="mb-4 opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
+    <div class="relative">
+      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-primary/40 text-xl">search</span>
       <input
-        class="flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-r-xl text-slate-900 focus:outline-0 focus:ring-2 focus:ring-primary/20 border-none bg-white h-full placeholder:text-slate-400 px-4 pl-2 text-base font-normal leading-normal"
-        placeholder="Caută un grup sau o credință"
         type="text"
+        id="search-input"
+        placeholder="Caută conversații..."
+        class="w-full pl-11 pr-4 py-3 rounded-xl border border-primary/20 bg-white focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
       />
     </div>
   </div>
 
-  <!-- Group list -->
-  <div class="space-y-2 pt-2">
-    <h3 class="text-xs font-semibold uppercase tracking-widest text-primary/70 px-1 pb-1">Alege un grup</h3>
-
-    {topicCounts.map((group) => (
+  <!-- Cards Grid -->
+  <div id="cards-grid" class="grid grid-cols-1 gap-2">
+    {topicCounts.map((group, i) => (
       <a
         href={`/conversatii/${group.slug}`}
-        class="flex items-center gap-3 bg-white hover:bg-primary/5 p-2.5 rounded-lg cursor-pointer transition-all border border-transparent hover:border-primary/20 shadow-sm"
+        class="item-card group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3 opacity-0"
+        style={`animation: fadeIn 0.4s ease-out ${(i + 1) * 0.05}s forwards;`}
+        data-name={group.name.toLowerCase()}
       >
-        <div class="text-primary flex items-center justify-center rounded-lg bg-primary/10 shrink-0 size-10">
+        <!-- Icon -->
+        <div class="w-10 h-10 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all duration-300">
           <span class="material-symbols-outlined text-xl">{group.icon}</span>
         </div>
-        <div class="flex flex-col flex-1 justify-center min-w-0">
-          <p class="text-slate-900 text-sm font-semibold leading-none">{group.name}</p>
-          <p class="text-primary text-xs font-medium mt-0.5">{group.count} {group.count === 1 ? 'subiect' : 'subiecte'}</p>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+          <h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: 'Newsreader', serif;">{group.name}</h3>
+          <p class="text-xs text-primary/60 truncate">{group.count} {group.count === 1 ? 'conversație' : 'conversații'}</p>
         </div>
-        <div class="shrink-0 text-slate-300">
-          <span class="material-symbols-outlined text-lg">chevron_right</span>
-        </div>
+
+        <!-- Chevron -->
+        <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>
       </a>
     ))}
   </div>
+
+  <!-- No Results -->
+  <div id="no-results" class="hidden text-center py-12">
+    <span class="material-symbols-outlined text-primary/20 text-5xl mb-3">search_off</span>
+    <p class="text-sm text-gray-500">Nicio conversație găsită</p>
+  </div>
+
+  <style>
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+
+  <script>
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
+    const noResults = document.getElementById('no-results') as HTMLElement;
+
+    searchInput?.addEventListener('input', () => {
+      const query = searchInput.value.toLowerCase().trim();
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const name = card.dataset.name || '';
+
+        if (name.includes(query)) {
+          card.style.display = 'flex';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (visibleCount === 0 && query !== '') {
+        noResults.classList.remove('hidden');
+      } else {
+        noResults.classList.add('hidden');
+      }
+    });
+  </script>
 </Base>

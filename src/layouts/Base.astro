@@ -54,9 +54,14 @@ const {
           <h1 class="text-xl font-bold tracking-tight text-primary">{headerTitle || title}</h1>
         </div>
         {!isHomePage && (
-          <a href="/" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
-            <span class="material-symbols-outlined text-2xl">home</span>
-          </a>
+          <div class="flex items-center gap-1">
+            <button id="header-search-btn" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors items-center justify-center hidden">
+              <span class="material-symbols-outlined text-2xl">search</span>
+            </button>
+            <a href="/" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
+              <span class="material-symbols-outlined text-2xl">home</span>
+            </a>
+          </div>
         )}
       </div>
     </header>
@@ -79,6 +84,29 @@ const {
       historyForwardBtn?.addEventListener('click', () => {
         window.history.forward();
       });
+
+      // Show header search button only on individual card pages (not list pages)
+      const path = window.location.pathname;
+      const isListPage =
+        path === '/conversatii' || path === '/conversatii/' ||
+        path === '/teme' || path === '/teme/' ||
+        path === '/personalitati' || path === '/personalitati/' ||
+        path === '/locuri' || path === '/locuri/' ||
+        path === '/conversatii/atheist' || path === '/conversatii/atheist/' ||
+        path === '/conversatii/baptist' || path === '/conversatii/baptist/' ||
+        path === '/conversatii/martorii-lui-iehova' || path === '/conversatii/martorii-lui-iehova/';
+
+      if (!isListPage) {
+        const headerSearchBtn = document.getElementById('header-search-btn');
+        if (headerSearchBtn) {
+          headerSearchBtn.style.display = 'flex';
+          // Connect to search overlay
+          headerSearchBtn.addEventListener('click', () => {
+            const floatingSearchBtn = document.getElementById('floating-search-btn');
+            floatingSearchBtn?.click();
+          });
+        }
+      }
     </script>
   </body>
 </html>

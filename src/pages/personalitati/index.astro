@@ -11,66 +11,79 @@ const sorted = personalitati.sort((a, b) => {
 ---
 
 <Base title="Personalități" headerTitle="Personalități" backHref="/" activeNav="home">
-  <!-- Header -->
-  <div class="mb-6">
-    <h1 class="text-3xl font-extrabold leading-tight tracking-tight mb-2">Personalități</h1>
-    <p class="text-primary/70 leading-relaxed">Viața și opera apologeților și părinților Bisericii</p>
-  </div>
-
   <!-- Search Bar -->
-  <div class="mb-6">
+  <div class="mb-4 opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
     <div class="relative">
-      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-primary/40">search</span>
+      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-primary/40 text-xl">search</span>
       <input
         type="text"
         id="search-input"
         placeholder="Caută personalități..."
-        class="w-full pl-11 pr-4 py-3 rounded-xl border border-primary/20 focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
+        class="w-full pl-11 pr-4 py-3 rounded-xl border border-primary/20 bg-white focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
       />
     </div>
   </div>
 
-  <!-- Personalities Grid -->
-  <div id="personalities-grid" class="grid grid-cols-1 gap-2">
-    {sorted.map(p => {
+  <!-- Cards Grid -->
+  <div id="cards-grid" class="grid grid-cols-1 gap-2">
+    {sorted.map((p, i) => {
       const slug = p.id.replace('.md', '');
       return (
         <a
           href={`/personalitati/${slug}`}
-          class="personality-card group bg-white rounded-lg p-2.5 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-center gap-3"
+          class="item-card group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3 opacity-0"
+          style={`animation: fadeIn 0.4s ease-out ${(i + 1) * 0.05}s forwards;`}
           data-name={p.data.name.toLowerCase()}
           data-title={p.data.title.toLowerCase()}
         >
+          <!-- Image -->
           <div
-            class="bg-top bg-no-repeat aspect-square bg-cover rounded-full border-2 border-primary/20 h-12 w-12 flex-shrink-0 group-hover:border-primary/60 transition-colors"
+            class="w-10 h-10 flex-shrink-0 bg-cover bg-center rounded-full border-2 border-primary/20 group-hover:border-primary/40 transition-all duration-300"
             style={`background-image: url("${p.data.image}")`}
           />
+
+          <!-- Content -->
           <div class="flex-1 min-w-0">
-            <h3 class="font-bold text-sm mb-0 group-hover:text-primary transition-colors">{p.data.name}</h3>
-            <p class="text-xs text-primary/60 italic truncate">{p.data.title}</p>
+            <h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: 'Newsreader', serif;">{p.data.name}</h3>
+            <p class="text-xs text-primary/60 truncate italic">{p.data.title}</p>
           </div>
-          <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 transition-transform flex-shrink-0">chevron_right</span>
+
+          <!-- Chevron -->
+          <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>
         </a>
       );
     })}
   </div>
 
-  <!-- No Results Message -->
+  <!-- No Results -->
   <div id="no-results" class="hidden text-center py-12">
-    <span class="material-symbols-outlined text-primary/20 text-6xl mb-4">search_off</span>
-    <p class="text-gray-500">Nicio personalitate găsită</p>
+    <span class="material-symbols-outlined text-primary/20 text-5xl mb-3">search_off</span>
+    <p class="text-sm text-gray-500">Nicio personalitate găsită</p>
   </div>
+
+  <style>
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
 
   <script>
     const searchInput = document.getElementById('search-input') as HTMLInputElement;
-    const personalityCards = document.querySelectorAll('.personality-card') as NodeListOf<HTMLElement>;
+    const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
     const noResults = document.getElementById('no-results') as HTMLElement;
 
-    searchInput.addEventListener('input', () => {
+    searchInput?.addEventListener('input', () => {
       const query = searchInput.value.toLowerCase().trim();
       let visibleCount = 0;
 
-      personalityCards.forEach(card => {
+      cards.forEach(card => {
         const name = card.dataset.name || '';
         const title = card.dataset.title || '';
 
@@ -82,7 +95,6 @@ const sorted = personalitati.sort((a, b) => {
         }
       });
 
-      // Show/hide no results message
       if (visibleCount === 0 && query !== '') {
         noResults.classList.remove('hidden');
       } else {
