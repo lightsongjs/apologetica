@@ -3,6 +3,7 @@ name: "Muntele Nebo"
 title: "Locul de unde Moise a privit Pământul Făgăduinței, Iordania"
 image: "/images/locuri/muntele-nebo.jpg"
 order: 5
+verify: false
 ---
 
 ## Descriere

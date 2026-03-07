@@ -2,6 +2,7 @@
 title: "Rugăciunea pentru morți"
 denomination: "baptist"
 order: 3
+verify: false
 ---
 
 ## Ce spun ei

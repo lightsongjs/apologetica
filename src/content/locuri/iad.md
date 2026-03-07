@@ -3,6 +3,7 @@ name: "Iadul"
 title: "Sheol, Hades — locuința morților și starea despărțirii de Dumnezeu"
 image: "/images/locuri/iad.jpg"
 order: 54
+verify: false
 ---
 
 ## Descriere

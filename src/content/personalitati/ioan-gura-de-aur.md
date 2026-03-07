@@ -4,6 +4,7 @@ title: "Arhiepiscop al Constantinopolului, c. 347-407"
 image: "/images/personalitati/ioan-gura-de-aur.jpg"
 order: 114
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

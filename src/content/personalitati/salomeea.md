@@ -4,6 +4,7 @@ title: "Mama fiilor lui Zebedeu, mironosiță, sec. I d.Hr."
 image: "/images/personalitati/salomeea.jpg"
 order: 78
 tip: "sfant"
+verify: false
 ---
 
 ## Bio

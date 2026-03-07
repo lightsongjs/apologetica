@@ -3,6 +3,7 @@ name: "Muntele Moria"
 title: "Muntele Jertfei, Ierusalim"
 image: "/images/locuri/muntele-moria.jpg"
 order: 3
+verify: false
 ---
 
 ## Descriere

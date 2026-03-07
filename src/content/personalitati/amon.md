@@ -4,11 +4,12 @@ title: "Rege rău al lui Iuda, c. 642-640 î.Hr."
 image: "/images/personalitati/amon.jpg"
 order: 168
 tip: "rege"
+verify: false
 ---
 
 ## Bio
 
-Regele Amon (în ebraică: אָמוֹן) a fost fiul [[personalitati/manase|regelui Manase]] și al optsprezecelea rege al lui Iuda, domnind doar 2 ani (c. 642-640 î.Hr.).
+Regele Amon (în ebraică: אָמוֹן) a fost fiul [[personalitati/manase-regele|regelui Manase]] și al optsprezecelea rege al lui Iuda, domnind doar 2 ani (c. 642-640 î.Hr.).
 
 „A făcut ce este rău înaintea Domnului, cum făcuse Manase, tatăl lui" (4 Regi 21:20). Amon a continuat idolatria primei părți a domniei tatălui său, dar — spre deosebire de Manase — „nu s-a smerit înaintea Domnului, cum se smerise Manase, tatăl lui, ci Amon a înmulțit vina" (2 Paralipomena 33:23).
 
@@ -17,7 +18,7 @@ Slujitorii săi au uneltit împotriva lui și l-au ucis în palatul său. Dar �
 ## Timeline
 
 ### Urcarea pe tron (642 î.Hr.)
-Devine rege la 22 de ani, după moartea lui [[personalitati/manase|Manase]].
+Devine rege la 22 de ani, după moartea lui [[personalitati/manase-regele|Manase]].
 
 ### Domnia în idolatrie
 Continuă cultul idolilor fără pocăință.
@@ -35,7 +36,7 @@ Relatare cu accent pe lipsa pocăinței.
 
 ## Contemporani și rude spirituale
 
-### [[personalitati/manase|Regele Manase]] (697-642 î.Hr.)
+### [[personalitati/manase-regele|Regele Manase]] (697-642 î.Hr.)
 Tatăl lui Amon, care s-a pocăit la bătrânețe. Amon a moștenit idolatria dar nu și pocăința.
 
 ### [[personalitati/iosia|Regele Iosia]] (640-609 î.Hr.)

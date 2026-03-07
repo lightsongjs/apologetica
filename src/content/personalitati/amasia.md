@@ -4,6 +4,7 @@ title: "Rege al lui Iuda, c. 796-767 î.Hr."
 image: "/images/personalitati/amasia.jpg"
 order: 163
 tip: "rege"
+verify: false
 ---
 
 ## Bio

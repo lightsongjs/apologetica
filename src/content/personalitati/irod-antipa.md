@@ -4,6 +4,7 @@ title: "Tetrarhul Galileii și Pereii, c. 20 î.Hr. — 39 d.Hr."
 image: "/images/personalitati/irod-antipa.jpg"
 order: 69
 tip: "rege"
+verify: false
 ---
 
 ## Bio

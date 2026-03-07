@@ -3,6 +3,7 @@ name: "Cana Galileii"
 title: "Locul primei minuni, Galilea"
 image: "/images/locuri/cana-galileii.jpg"
 order: 18
+verify: false
 ---
 
 ## Descriere

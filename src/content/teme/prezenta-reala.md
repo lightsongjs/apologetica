@@ -7,6 +7,7 @@ tags: ["euharistie", "prezenta-reala", "transsubstantiere", "trup-si-sange"]
 related: ["euharistia", "liturghia", "sfintele-taine"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

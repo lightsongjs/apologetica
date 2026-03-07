@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 885-874 î.Hr."
 image: "/images/personalitati/omri.jpg"
 order: 179
 tip: "rege"
+verify: false
 ---
 
 ## Bio

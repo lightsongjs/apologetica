@@ -2,6 +2,7 @@
 title: "Sfânta Treime"
 denomination: "martorii-lui-iehova"
 order: 1
+verify: false
 ---
 
 ## Ce spun ei

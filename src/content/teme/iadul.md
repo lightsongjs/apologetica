@@ -7,6 +7,7 @@ tags: ["iad", "judecata", "vesnicie"]
 related: ["raiul", "judecata-de-apoi", "mantuirea", "pocainta"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce este Iadul?

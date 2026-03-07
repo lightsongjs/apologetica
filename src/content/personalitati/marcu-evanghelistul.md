@@ -4,6 +4,7 @@ title: "Apostol, Evanghelist, †c. 68 d.Hr."
 image: "/images/personalitati/marcu-evanghelistul.jpg"
 order: 46
 tip: "evanghelist"
+verify: false
 ---
 
 ## Bio

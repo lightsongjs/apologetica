@@ -7,6 +7,7 @@ tags: ["constantinopol", "macedonianism", "duh-sfant", "grigorie-teologul"]
 related: ["macedonianismul", "duhul-sfant", "sfanta-treime", "sinoadele-ecumenice"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Context istoric

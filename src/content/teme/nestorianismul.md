@@ -9,6 +9,7 @@ opposed_to: ["monofizitismul"]
 related: ["sinoadele-ecumenice", "ereziile"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Fondatorul
@@ -39,7 +40,7 @@ Sfântul Chiril a formulat cele **12 anatematisme** contra lui Nestorie, care au
 
 | Apărător | Contribuție |
 |----------|-------------|
-| [[personalitati/chiril-al-alexandriei\|Sf. Chiril al Alexandriei]] | Cele 12 anatematisme; scrisorile dogmatice; prezidarea Sinodului III |
+| Sf. Chiril al Alexandriei | Cele 12 anatematisme; scrisorile dogmatice; prezidarea Sinodului III |
 
 ## Sinodul care a condamnat-o
 

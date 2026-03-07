@@ -3,6 +3,7 @@ name: "Muntele Sinai (Horeb)"
 title: "Muntele Legii, Peninsula Sinai"
 image: "/images/locuri/muntele-sinai.jpg"
 order: 1
+verify: false
 ---
 
 ## Descriere

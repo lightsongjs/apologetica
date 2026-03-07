@@ -4,6 +4,7 @@ title: "Papa al Romei, autorul Liturghiei Darurilor Mai Înainte Sfințite, c. 5
 image: "/images/personalitati/grigorie-dialogul.jpg"
 order: 117
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

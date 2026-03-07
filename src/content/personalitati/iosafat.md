@@ -4,6 +4,7 @@ title: "Rege drept al lui Iuda, c. 870-848 î.Hr."
 image: "/images/personalitati/iosafat.jpg"
 order: 158
 tip: "rege"
+verify: false
 ---
 
 ## Bio

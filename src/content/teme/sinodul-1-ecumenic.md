@@ -7,6 +7,7 @@ tags: ["niceea", "arianism", "omoousios", "atanasie"]
 related: ["arianismul", "sfanta-treime", "sinoadele-ecumenice"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Context istoric

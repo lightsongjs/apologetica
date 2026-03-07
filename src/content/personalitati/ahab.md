@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 874-853 î.Hr."
 image: "/images/personalitati/ahab.jpg"
 order: 180
 tip: "rege"
+verify: false
 ---
 
 ## Bio

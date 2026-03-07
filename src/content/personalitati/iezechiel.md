@@ -4,6 +4,7 @@ title: "Profet major, sec. VI î.Hr."
 image: "/images/personalitati/iezechiel.jpg"
 order: 7
 tip: "profet"
+verify: false
 ---
 
 ## Bio

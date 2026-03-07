@@ -3,6 +3,7 @@ name: "Marea Moartă"
 title: "Lacul cel mai de jos al pământului, la granița Iudeii"
 image: "/images/locuri/marea-moarta.jpg"
 order: 41
+verify: false
 ---
 
 ## Descriere

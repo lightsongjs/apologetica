@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 886-885 î.Hr."
 image: "/images/personalitati/ela.jpg"
 order: 177
 tip: "rege"
+verify: false
 ---
 
 ## Bio

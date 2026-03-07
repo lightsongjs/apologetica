@@ -3,6 +3,7 @@ name: "Gerasa"
 title: "Oraș din Decapolis, locul demonizatului Legiune"
 image: "/images/locuri/gerasa.jpg"
 order: 49
+verify: false
 ---
 
 ## Descriere

@@ -4,13 +4,14 @@ title: "Fratele Domnului, primul episcop al Ierusalimului, †62 d.Hr."
 image: "/images/personalitati/iacob-fratele-domnului.jpg"
 order: 57
 tip: "apostol"
+verify: false
 ---
 
 ## Bio
 
 Sfântul Apostol Iacob (în greacă: Ἰάκωβος; în ebraică: יַעֲקֹב), numit „Fratele Domnului" (Galateni 1:19) și „cel Drept" (Ἰάκωβος ὁ Δίκαιος), a fost primul episcop al Bisericii din Ierusalim și autorul Epistolei Soborniceşti care îi poartă numele.
 
-Conform tradiției ortodoxe, Iacob era fiul Sfântului Drept [[personalitati/iosif|Iosif]] din prima căsătorie — deci nu frate de sânge al lui [[personalitati/iisus-hristos|Hristos]], ci fiu vitreg, „frate" în sensul larg al cuvântului. Această tradiție, atestată de Protoevanghelia lui Iacob și de Sfinții Părinți (Origen, Eusebiu, Epifanie), protejează dogma pururea-fecioriei [[personalitati/maica-domnului|Născătoarei de Dumnezeu]].
+Conform tradiției ortodoxe, Iacob era fiul Sfântului Drept [[personalitati/sfantul-drept-iosif|Iosif]] din prima căsătorie — deci nu frate de sânge al lui [[personalitati/iisus-hristos|Hristos]], ci fiu vitreg, „frate" în sensul larg al cuvântului. Această tradiție, atestată de Protoevanghelia lui Iacob și de Sfinții Părinți (Origen, Eusebiu, Epifanie), protejează dogma pururea-fecioriei [[personalitati/maica-domnului|Născătoarei de Dumnezeu]].
 
 Inițial, Iacob nu a crezut în Iisus în timpul slujirii Sale publice: „Nici frații Lui nu credeau în El" (Ioan 7:5). Dar [[personalitati/iisus-hristos|Hristos]] cel înviat i S-a arătat personal (1 Corinteni 15:7) — o arătare specială, menționată separat de cele către apostoli. Această întâlnire l-a transformat din sceptic în cel mai devotat slujitor al Bisericii.
 
@@ -25,7 +26,7 @@ Este prăznuit la 23 octombrie și la 26 decembrie (Soborul Maicii Domnului).
 ## Timeline
 
 ### Tinerețea în Nazaret
-Fiu al lui [[personalitati/iosif|Iosif]] din prima căsătorie, Iacob a crescut în casa din Nazaret alături de Iisus, fiind fratele Său vitreg mai mare.
+Fiu al lui [[personalitati/sfantul-drept-iosif|Iosif]] din prima căsătorie, Iacob a crescut în casa din Nazaret alături de Iisus, fiind fratele Său vitreg mai mare.
 
 ### Perioada de necredință
 În timpul slujirii publice a lui Hristos, Iacob și frații Săi nu credeau în El (Ioan 7:5). Au încercat chiar să-L oprească, socotindu-L „ieșit din minți" (Marcu 3:21).
@@ -70,7 +71,7 @@ Una dintre cele mai vechi liturghii creștine, atribuită lui Iacob. Încă se s
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Fratele Său vitreg (fiu al lui Iosif din prima căsătorie). Iacob a trecut de la necredință la credință totală după arătarea Celui Înviat.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Tatăl său, logodnicul Fecioarei Maria.
 
 ### [[personalitati/iose|Iose]] (sec. I)

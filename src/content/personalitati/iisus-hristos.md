@@ -4,6 +4,7 @@ title: "Fiul lui Dumnezeu, Mântuitorul lumii"
 image: "/images/personalitati/iisus-hristos.jpg"
 order: 52
 tip: "Dumnezeu-Om"
+verify: false
 ---
 
 ## Bio
@@ -84,7 +85,7 @@ Epistolele Sfântului [[personalitati/pavel|Pavel]], ale Sfântului [[personalit
 ### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]] (sec. I)
 Fecioara Maria, Maica Domnului, cea din care S-a întrupat Fiul lui Dumnezeu prin lucrarea Duhului Sfânt, pururea Fecioară și mijlocitoare neîncetată a lumii înaintea Fiului ei.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Logodnicul Fecioarei Maria, ocrotitorul Pruncului Iisus, drept și ascultător poruncilor îngerești, care L-a ferit de mânia lui [[personalitati/irod-cel-mare|Irod]] prin fuga în Egipt.
 
 ### [[personalitati/ioachim|Sfântul Drept Ioachim]] (sec. I î.Hr.)

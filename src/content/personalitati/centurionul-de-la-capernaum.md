@@ -4,6 +4,7 @@ title: "Ofițerul roman a cărui credință a uimit pe Hristos, sec. I d.Hr."
 image: "/images/personalitati/centurionul-de-la-capernaum.jpg"
 order: 99
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

@@ -4,13 +4,14 @@ title: "Fratele Domnului, autorul Epistolei lui Iuda, sec. I d.Hr."
 image: "/images/personalitati/iuda-fratele-domnului.jpg"
 order: 75
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio
 
 Sfântul Apostol Iuda (în greacă: Ἰούδας; în ebraică: יְהוּדָה — „Laudă"), numit „fratele Domnului", este autorul Epistolei Soborniceşti care îi poartă numele. Se identifică el însuși în epistolă: „Iuda, rob al lui Iisus Hristos și frate al lui [[personalitati/iacob-fratele-domnului|Iacov]]" (Iuda 1:1).
 
-Este menționat în listele „fraților" lui [[personalitati/iisus-hristos|Iisus]]: „Au nu se numește mama Lui Maria și frații Lui: [[personalitati/iacob-fratele-domnului|Iacov]] și [[personalitati/iose|Iose]] și Simon și Iuda?" (Matei 13:55). Conform tradiției ortodoxe, era fiul Sfântului Drept [[personalitati/iosif|Iosif]] din prima căsătorie — frate vitreg al Mântuitorului, nu frate de sânge, protejând dogma pururea-fecioriei [[personalitati/maica-domnului|Născătoarei de Dumnezeu]].
+Este menționat în listele „fraților" lui [[personalitati/iisus-hristos|Iisus]]: „Au nu se numește mama Lui Maria și frații Lui: [[personalitati/iacob-fratele-domnului|Iacov]] și [[personalitati/iose|Iose]] și Simon și Iuda?" (Matei 13:55). Conform tradiției ortodoxe, era fiul Sfântului Drept [[personalitati/sfantul-drept-iosif|Iosif]] din prima căsătorie — frate vitreg al Mântuitorului, nu frate de sânge, protejând dogma pururea-fecioriei [[personalitati/maica-domnului|Născătoarei de Dumnezeu]].
 
 Nu trebuie confundat cu [[personalitati/iuda-tadeu|Sfântul Apostol Iuda Tadeu]] (unul din cei Doisprezece) și nici cu [[personalitati/iuda-iscarioteanul|Iuda Iscarioteanul]].
 
@@ -21,7 +22,7 @@ Este prăznuit la 19 iunie.
 ## Timeline
 
 ### Tinerețea în Nazaret
-Fiu al lui [[personalitati/iosif|Iosif]] din prima căsătorie, a crescut în casa din Nazaret alături de [[personalitati/iisus-hristos|Iisus]].
+Fiu al lui [[personalitati/sfantul-drept-iosif|Iosif]] din prima căsătorie, a crescut în casa din Nazaret alături de [[personalitati/iisus-hristos|Iisus]].
 
 ### Perioada de necredință
 Împreună cu ceilalți „frați", nu a crezut în Iisus în timpul slujirii Sale publice (Ioan 7:5).
@@ -48,7 +49,7 @@ Fratele Său vitreg. Iuda se numește pe sine „rob al lui Iisus Hristos" (Iuda
 ### [[personalitati/iacob-fratele-domnului|Sfântul Apostol Iacob, fratele Domnului]] (†62)
 Fratele său, pe care îl menționează în adresarea epistolei: „Iuda... frate al lui Iacov" (Iuda 1:1).
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Tatăl său, logodnicul Fecioarei Maria.
 
 ### [[personalitati/iose|Iose]] (sec. I)

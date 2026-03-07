@@ -2,6 +2,7 @@
 title: "Existența sufletului"
 denomination: "atheist"
 order: 6
+verify: false
 ---
 
 ## Ce spun ei

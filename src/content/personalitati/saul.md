@@ -4,6 +4,7 @@ title: "Primul rege al lui Israel, c. 1050-1010 î.Hr."
 image: "/images/personalitati/saul.jpg"
 order: 154
 tip: "rege"
+verify: false
 ---
 
 ## Bio

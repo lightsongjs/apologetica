@@ -4,11 +4,12 @@ title: "Marele reformator al lui Iuda, c. 640-609 î.Hr."
 image: "/images/personalitati/iosia.jpg"
 order: 169
 tip: "rege"
+verify: false
 ---
 
 ## Bio
 
-Regele Iosia (în ebraică: יֹאשִׁיָּהוּ, „Dumnezeu vindecă") a fost ultimul mare rege drept al lui Iuda, domnind 31 de ani (c. 640-609 î.Hr.). Fiu al regelui rău Amon și nepot al [[personalitati/manase|regelui Manase]], Iosia a început să domnească la doar 8 ani și „a făcut ce este drept înaintea Domnului și a umblat pe căile lui David, părintele lui, fără să se abată nici la dreapta, nici la stânga" (2 Paralipomena 34:2).
+Regele Iosia (în ebraică: יֹאשִׁיָּהוּ, „Dumnezeu vindecă") a fost ultimul mare rege drept al lui Iuda, domnind 31 de ani (c. 640-609 î.Hr.). Fiu al regelui rău Amon și nepot al [[personalitati/manase-regele|regelui Manase]], Iosia a început să domnească la doar 8 ani și „a făcut ce este drept înaintea Domnului și a umblat pe căile lui David, părintele lui, fără să se abată nici la dreapta, nici la stânga" (2 Paralipomena 34:2).
 
 La 16 ani, Iosia „a început să caute pe Dumnezeul lui David" (2 Paralipomena 34:3). La 20 de ani, a început purificarea lui Iuda și Ierusalim. Iar la 26 de ani, în anul al 18-lea al domniei sale, a venit evenimentul care a marcat istoria: în timpul restaurării Templului, marele preot Hilchia a găsit „Cartea Legii" (probabil Deuteronomul) — pierdută în epoca idolatriei lui Manase și Amon.
 
@@ -62,14 +63,14 @@ Chemat de Dumnezeu ca profet în anul al 13-lea al lui Iosia. A prorocit în tim
 ### [[personalitati/sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
 A prorocit în zilele lui Iosia (Sofonie 1:1), denunțând idolatria și anunțând Ziua Domnului. Propovăduirea sa a pregătit terenul reformei.
 
-### [[personalitati/manase|Regele Manase]] (697-642 î.Hr.)
+### [[personalitati/manase-regele|Regele Manase]] (697-642 î.Hr.)
 Bunicul lui Iosia, cel mai rău rege al lui Iuda (înainte de pocăință). Contrastul este izbitor: nepotul repară ceea ce bunicul a distrus.
 
 ### [[personalitati/daniel|Profetul Daniel]] (c. 620-536 î.Hr.)
 S-a născut probabil în timpul domniei lui Iosia, într-o perioadă de reformă, primind o educație în Legea Domnului.
 
 ### [[personalitati/amon|Regele Amon]] (642-640 î.Hr.)
-Tatăl lui Iosia, rege rău care a continuat idolatria lui [[personalitati/manase|Manase]] fără pocăință. Asasinat de slujitorii săi.
+Tatăl lui Iosia, rege rău care a continuat idolatria lui [[personalitati/manase-regele|Manase]] fără pocăință. Asasinat de slujitorii săi.
 
 ### [[personalitati/avacum|Profetul Avacum]] (sec. VII î.Hr.)
 A prorocit probabil în timpul domniei lui Iosia sau la scurt timp după.

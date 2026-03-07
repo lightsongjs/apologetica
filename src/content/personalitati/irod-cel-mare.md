@@ -4,6 +4,7 @@ title: "Regele Iudeii, c. 73-4 î.Hr."
 image: "/images/personalitati/irod-cel-mare.jpg"
 order: 68
 tip: "rege"
+verify: false
 ---
 
 ## Bio
@@ -14,7 +15,7 @@ Irod a reconstruit Templul din Ierusalim cu o splendoare care depășea chiar Te
 
 Când magii de la Răsărit au venit la Ierusalim întrebând „Unde este regele Iudeilor, Cel ce S-a născut?" (Matei 2:2), Irod „s-a tulburat și tot Ierusalimul dimpreună cu el" (Matei 2:3). A aflat de la cărturari că Mesia trebuia să Se nască în Betleem și i-a trimis pe magi acolo, cerându-le să se întoarcă să-i spună. Când magii, avertizați în vis, s-au întors pe altă cale, Irod a poruncit uciderea tuturor pruncilor din Betleem „de doi ani și mai jos" (Matei 2:16) — masacrul Pruncilor Nevinovați, prăznuit la 29 decembrie.
 
-[[personalitati/iosif|Iosif]], avertizat de înger, a fugit cu Pruncul și cu [[personalitati/maica-domnului|Maria]] în Egipt, scăpând de Irod. [[personalitati/zaharia-preotul|Preotul Zaharia]], conform tradiției, a fost ucis în Templu pentru că a refuzat să dezvăluie locul unde se ascundea pruncul [[personalitati/ioan-botezatorul|Ioan]].
+[[personalitati/sfantul-drept-iosif|Iosif]], avertizat de înger, a fugit cu Pruncul și cu [[personalitati/maica-domnului|Maria]] în Egipt, scăpând de Irod. [[personalitati/zaharia-preotul|Preotul Zaharia]], conform tradiției, a fost ucis în Templu pentru că a refuzat să dezvăluie locul unde se ascundea pruncul [[personalitati/ioan-botezatorul|Ioan]].
 
 Irod a murit în 4 î.Hr. de o boală înfricoșătoare, descrisă în detaliu de Iosif Flaviu. Regatul a fost împărțit între fiii săi: Arhelau (Iudeea), Irod Antipa (Galileea) și Filip (teritorii nordice).
 
@@ -51,7 +52,7 @@ Sursa canonică: venirea magilor, masacrul Pruncilor, fuga în Egipt.
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Cel Care S-a născut „în zilele regelui Irod" (Matei 2:1) și pe Care Irod a încercat să-L ucidă. Puterea lumească contra puterii lui Dumnezeu.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Cel care a salvat Pruncul și pe Maria fugind în Egipt la avertizarea îngerului.
 
 ### [[personalitati/zaharia-preotul|Sfântul Drept Zaharia, Preotul]] (†sec. I d.Hr.)

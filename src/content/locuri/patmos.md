@@ -3,6 +3,7 @@ name: "Insula Patmos"
 title: "Locul Apocalipsei, Marea Egee"
 image: "/images/locuri/patmos.jpg"
 order: 23
+verify: false
 ---
 
 ## Descriere

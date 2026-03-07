@@ -4,6 +4,7 @@ title: "Fariseu, învățător al Legii, sec. I d.Hr."
 image: "/images/personalitati/gamaliel.jpg"
 order: 90
 tip: "sfant"
+verify: false
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Antiohia Siriei"
 title: "Locul unde s-au numit primii creștini, Siria"
 image: "/images/locuri/antiohia.jpg"
 order: 21
+verify: false
 ---
 
 ## Descriere

@@ -4,6 +4,7 @@ title: "Rege al lui Iuda, 609 î.Hr."
 image: "/images/personalitati/ioahaz-al-lui-iuda.jpg"
 order: 170
 tip: "rege"
+verify: false
 ---
 
 ## Bio

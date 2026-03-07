@@ -7,6 +7,7 @@ tags: ["profetii", "mesia", "hristos"]
 related: ["profetii-vechiului-testament", "patriarhii-vechiului-testament", "regii-lui-iuda", "apostolii"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce sunt profețiile mesianice?

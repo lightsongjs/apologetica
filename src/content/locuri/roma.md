@@ -3,6 +3,7 @@ name: "Roma"
 title: "Locul martiriului lui Petru și Pavel"
 image: "/images/locuri/roma.jpg"
 order: 25
+verify: false
 ---
 
 ## Descriere

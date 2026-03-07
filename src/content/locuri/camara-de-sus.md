@@ -3,6 +3,7 @@ name: "Cămara de Sus"
 title: "Locul Cinei celei de Taină și al Cincizecimii, Ierusalim"
 image: "/images/locuri/camara-de-sus.jpg"
 order: 44
+verify: false
 ---
 
 ## Descriere

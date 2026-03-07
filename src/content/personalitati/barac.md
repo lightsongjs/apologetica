@@ -4,6 +4,7 @@ title: "Comandant militar, Judecător al lui Israel, sec. XII î.Hr."
 image: "/images/personalitati/barac.jpg"
 order: 144
 tip: "judecator"
+verify: false
 ---
 
 ## Bio

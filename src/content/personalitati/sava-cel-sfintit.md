@@ -4,6 +4,7 @@ title: "Cuvios, întemeietorul Marii Lavre, 439-532"
 image: "/images/personalitati/sava-cel-sfintit.jpg"
 order: 197
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

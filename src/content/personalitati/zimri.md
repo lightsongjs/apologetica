@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), 7 zile, c. 885 î.Hr."
 image: "/images/personalitati/zimri.jpg"
 order: 178
 tip: "rege"
+verify: false
 ---
 
 ## Bio

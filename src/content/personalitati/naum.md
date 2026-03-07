@@ -4,6 +4,7 @@ title: "Profet minor, sec. VII î.Hr."
 image: "/images/personalitati/naum.jpg"
 order: 24
 tip: "profet"
+verify: false
 ---
 
 ## Bio

@@ -7,6 +7,7 @@ tags: ["botez", "prunci", "taine"]
 related: ["tainele-bisericii", "sfintele-taine"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce este Botezul Pruncilor?

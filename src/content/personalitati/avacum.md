@@ -4,6 +4,7 @@ title: "Profet minor, sec. VII î.Hr."
 image: "/images/personalitati/avacum.jpg"
 order: 25
 tip: "profet"
+verify: false
 ---
 
 ## Bio

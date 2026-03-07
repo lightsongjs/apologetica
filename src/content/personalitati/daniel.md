@@ -4,6 +4,7 @@ title: "Profet major, sec. VI î.Hr."
 image: "/images/personalitati/daniel.jpg"
 order: 8
 tip: "profet"
+verify: false
 ---
 
 ## Bio

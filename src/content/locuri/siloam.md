@@ -3,6 +3,7 @@ name: "Siloam"
 title: "Scăldătoarea vindecării orbului din naștere, Ierusalim"
 image: "/images/locuri/siloam.jpg"
 order: 43
+verify: false
 ---
 
 ## Descriere

@@ -4,6 +4,7 @@ title: "Dregător al reginei Candace, primul convertit african, sec. I d.Hr."
 image: "/images/personalitati/famenul-etiopian.jpg"
 order: 134
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

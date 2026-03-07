@@ -3,6 +3,7 @@ name: "Corazin"
 title: "Oraș mustrat de Hristos pentru nepocăință, nordul Galileii"
 image: "/images/locuri/corazin.jpg"
 order: 28
+verify: false
 ---
 
 ## Descriere

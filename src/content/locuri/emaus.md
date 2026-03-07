@@ -3,6 +3,7 @@ name: "Emaus"
 title: "Satul unde Hristos S-a arătat ucenicilor după Înviere"
 image: "/images/locuri/emaus.jpg"
 order: 51
+verify: false
 ---
 
 ## Descriere

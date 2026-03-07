@@ -7,6 +7,7 @@ tags: ["deuterocanonice", "canon", "septuaginta"]
 related: ["canonul-biblic", "sfanta-scriptura"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce sunt cărțile deuterocanonice
@@ -23,12 +24,12 @@ Protestanții le numesc „apocrife" (ascunse) și le exclud din Biblie. Catolic
 | 2 | **Iudita** | Iudita salvează Betulia de generalul asirian Olofern | Curajul femeii credincioase; prefigurare a Maicii Domnului care zdrobește capul șarpelui |
 | 3 | **Înțelepciunea lui Solomon** | Meditație asupra înțelepciunii, dreptății și nemuririi | „Sufletele drepților sunt în mâna lui Dumnezeu" (3:1); doctrina nemuririi sufletului |
 | 4 | **Înțelepciunea lui Isus Sirah (Ecclesiasticul)** | Colecție de proverbe și învățături morale | „Începutul înțelepciunii este frica de Dumnezeu" (1:14); etica familiei și a societății |
-| 5 | **Baruh** | Scrisoarea profetului Baruh (secretarul lui [[personalitati/ieremia\|Ieremia]]) din Babilon | Pocăința în exil; „Epistola lui Ieremia" (capitolul 6) — satira idolatriei |
+| 5 | **Baruh** | Scrisoarea profetului Baruh (secretarul lui Ieremia) din Babilon | Pocăința în exil; „Epistola lui Ieremia" (capitolul 6) — satira idolatriei |
 | 6 | **1 Macabei** | Istoria revoltei Macabeilor (167–134 î.Hr.) contra lui Antioh Epifanes | Istoria sfințirii Templului (Hanuca); apărarea credinței cu prețul vieții |
 | 7 | **2 Macabei** | Istoria paralelă a revoltei, cu accent teologic | **Rugăciunea pentru morți** (12:46); **învierea trupurilor** (7:9); mucenicia celor 7 frați Macabei |
 | 8 | **Adăugiri la Daniel** | Cântarea celor trei tineri (3:24-90); Istoria Susanei (cap. 13); Bel și Balaurul (cap. 14) | Cântarea celor trei tineri — imn liturgic folosit în Ortodoxie |
 | 9 | **Adăugiri la Estera** | Secțiuni suplimentare care menționează explicit pe Dumnezeu | Completează perspectiva teologică a cărții |
-| 10 | **Rugăciunea lui Manase** | Rugăciune de pocăință atribuită regelui [[personalitati/manase\|Manase]] | Model de pocăință profundă; folosită în slujbele ortodoxe |
+| 10 | **Rugăciunea lui Manase** | Rugăciune de pocăință atribuită regelui Manase | Model de pocăință profundă; folosită în slujbele ortodoxe |
 | 11 | **3 Ezdra (1 Esdras)** | Narativă paralelă a revenirii din exil | Concursul celor trei tineri: „Adevărul biruiește toate" (4:41) |
 
 ## De ce sunt în Biblia ortodoxă
@@ -44,9 +45,9 @@ Septuaginta — traducerea Vechiului Testament în greacă (sec. III–II î.Hr.
 - **Tobit 4:15** → Matei 7:12 („Regula de aur")
 
 ### 3. Sfinții Părinți le-au citat ca Scriptură
-- [[personalitati/chiril-al-ierusalimului\|Sfântul Chiril al Ierusalimului]] — include deuterocanonicele în lista cărților canonice (Cateheza IV)
-- [[personalitati/vasile-cel-mare\|Sfântul Vasile cel Mare]], [[personalitati/grigorie-teologul\|Sfântul Grigorie Teologul]], [[personalitati/ioan-gura-de-aur\|Sfântul Ioan Gură de Aur]] — citează frecvent din Înțelepciunea lui Solomon și Sirah
-- [[personalitati/atanasie-cel-mare\|Sfântul Atanasie cel Mare]] — deși le separă în lista sa, le recomandă pentru „citire și edificare"
+- Sfântul Chiril al Ierusalimului — include deuterocanonicele în lista cărților canonice (Cateheza IV)
+- Sfântul Vasile cel Mare, Sfântul Grigorie Teologul, Sfântul Ioan Gură de Aur — citează frecvent din Înțelepciunea lui Solomon și Sirah
+- Sfântul Atanasie cel Mare — deși le separă în lista sa, le recomandă pentru „citire și edificare"
 
 ### 4. Sinoadele le-au confirmat
 - **Sinodul din Cartagina** (397, 419) — include deuterocanonicele în canon
@@ -75,7 +76,7 @@ Protestanții au acceptat un canon stabilit de **rabinii care au respins pe Hris
 2 Macabei 7:9 — Cel de-al doilea frate Macabeu spune tiranului: „Tu ne iei viața aceasta, dar Împăratul lumii ne va învia la viața veșnică." Prima mărturie explicită a învierii trupurilor în Vechiul Testament.
 
 ### Înțelepciunea personificată
-Înțelepciunea lui Solomon și Sirah personifică Înțelepciunea lui Dumnezeu într-un mod care pregătește revelarea Logosului (Cuvântului) din Evanghelia lui [[personalitati/ioan-evanghelistul\|Ioan]] (Ioan 1:1).
+Înțelepciunea lui Solomon și Sirah personifică Înțelepciunea lui Dumnezeu într-un mod care pregătește revelarea Logosului (Cuvântului) din Evanghelia lui Ioan (Ioan 1:1).
 
 ## Lectură suplimentară
 

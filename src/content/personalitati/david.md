@@ -4,6 +4,7 @@ title: "Regele lui Israel, Psalmistul, c. 1040-970 î.Hr."
 image: "/images/personalitati/david.jpg"
 order: 65
 tip: "rege"
+verify: false
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Muntele Fericirilor"
 title: "Locul Predicii de pe Munte, Galilea"
 image: "/images/locuri/muntele-fericirilor.jpg"
 order: 16
+verify: false
 ---
 
 ## Descriere

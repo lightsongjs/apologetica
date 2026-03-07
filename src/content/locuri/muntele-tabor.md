@@ -3,6 +3,7 @@ name: "Muntele Tabor"
 title: "Locul Schimbării la Față, Galilea"
 image: "/images/locuri/muntele-tabor.jpg"
 order: 11
+verify: false
 ---
 
 ## Descriere

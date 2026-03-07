@@ -4,6 +4,7 @@ title: "Unul dintre cei șapte diaconi, evanghelist, sec. I d.Hr."
 image: "/images/personalitati/filip-diaconul.jpg"
 order: 133
 tip: "diacon"
+verify: false
 ---
 
 ## Bio

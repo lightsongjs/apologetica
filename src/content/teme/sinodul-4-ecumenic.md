@@ -7,6 +7,7 @@ tags: ["calcedon", "monofizitism", "firi", "leon-cel-mare"]
 related: ["monofizitismul", "sinoadele-ecumenice"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Context istoric

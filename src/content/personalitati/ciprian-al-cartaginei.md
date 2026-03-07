@@ -4,6 +4,7 @@ title: "Episcop și mucenic, teologul Bisericii și al Botezului, c. 210-258"
 image: "/images/personalitati/ciprian-al-cartaginei.jpg"
 order: 125
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

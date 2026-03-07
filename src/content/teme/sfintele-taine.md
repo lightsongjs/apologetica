@@ -7,6 +7,7 @@ tags: ["taine", "sacramente", "biserica"]
 related: ["botezul", "mirungerea", "euharistia", "spovedania", "preotia", "cununia", "maslul"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce sunt Sfintele Taine

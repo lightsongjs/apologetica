@@ -3,6 +3,7 @@ name: "Râul Iordan"
 title: "Apele sfinte ale Botezului"
 image: "/images/locuri/raul-iordan.jpg"
 order: 9
+verify: false
 ---
 
 ## Descriere

@@ -3,6 +3,7 @@ name: "Nain"
 title: "Orașul învierii fiului văduvei, sudul Galileii"
 image: "/images/locuri/nain.jpg"
 order: 29
+verify: false
 ---
 
 ## Descriere

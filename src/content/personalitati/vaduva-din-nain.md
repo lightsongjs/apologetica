@@ -4,6 +4,7 @@ title: "Mama al cărei fiu a fost înviat de Hristos, sec. I d.Hr."
 image: "/images/personalitati/vaduva-din-nain.jpg"
 order: 96
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

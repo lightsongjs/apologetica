@@ -4,6 +4,7 @@ title: "Cuvios, isihast în pustia Iordanului, 1913-1960"
 image: "/images/personalitati/ioan-iacob-romanul.jpg"
 order: 106
 tip: "cuvios"
+verify: false
 ---
 
 ## Bio

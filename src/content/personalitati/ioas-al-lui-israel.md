@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 798-782 î.Hr."
 image: "/images/personalitati/ioas-al-lui-israel.jpg"
 order: 185
 tip: "rege"
+verify: false
 ---
 
 ## Bio

@@ -4,6 +4,7 @@ title: "Înaintemergătorul și Botezătorul Domnului, †c. 28-30 d.Hr."
 image: "/images/personalitati/ioan-botezatorul.jpg"
 order: 56
 tip: "profet"
+verify: false
 ---
 
 ## Bio

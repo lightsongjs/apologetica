@@ -4,6 +4,7 @@ title: "Primul martir, ante-diluvian"
 image: "/images/personalitati/abel.jpg"
 order: 86
 tip: "patriarh"
+verify: false
 ---
 
 ## Bio

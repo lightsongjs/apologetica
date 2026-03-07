@@ -4,6 +4,7 @@ title: "Rege drept al lui Iuda, c. 911-870 î.Hr."
 image: "/images/personalitati/asa.jpg"
 order: 157
 tip: "rege"
+verify: false
 ---
 
 ## Bio

@@ -4,6 +4,7 @@ title: "Ultimul rege al lui Israel (Nord), c. 732-722 î.Hr."
 image: "/images/personalitati/osea-regele.jpg"
 order: 192
 tip: "rege"
+verify: false
 ---
 
 ## Bio

@@ -4,6 +4,7 @@ title: "Apostol, Evanghelist, Iconograf, †c. 84 d.Hr."
 image: "/images/personalitati/luca-evanghelistul.jpg"
 order: 47
 tip: "evanghelist"
+verify: false
 ---
 
 ## Bio

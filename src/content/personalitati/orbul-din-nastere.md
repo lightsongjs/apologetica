@@ -4,6 +4,7 @@ title: "Vindecat de Hristos la Scăldătoarea Siloamului, sec. I d.Hr."
 image: "/images/personalitati/orbul-din-nastere.jpg"
 order: 93
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

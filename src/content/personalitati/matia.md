@@ -4,6 +4,7 @@ title: "Apostol, †sec. I d.Hr."
 image: "/images/personalitati/matia.jpg"
 order: 41
 tip: "apostol"
+verify: false
 ---
 
 ## Bio

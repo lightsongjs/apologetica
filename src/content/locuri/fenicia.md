@@ -3,6 +3,7 @@ name: "Fenicia"
 title: "Ținut păgân la Marea Mediterană, zona Tirului și Sidonului"
 image: "/images/locuri/fenicia.jpg"
 order: 38
+verify: false
 ---
 
 ## Descriere

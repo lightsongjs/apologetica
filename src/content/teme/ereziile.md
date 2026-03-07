@@ -7,6 +7,7 @@ tags: ["erezii", "sinoade"]
 related: ["arianismul", "macedonianismul", "nestorianismul", "monofizitismul", "monotelismul"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Introducere
@@ -19,23 +20,23 @@ Sfinții Părinți au văzut în erezii nu doar erori intelectuale, ci **boli al
 
 | Erezie | Fondator | Perioadă | Doctrină | Condamnată la |
 |--------|----------|----------|----------|---------------|
-| [[teme/arianismul\|Arianismul]] | Arie din Alexandria | c. 318–381 | Fiul este creatură, nu Dumnezeu adevărat | [[teme/sinodul-1-ecumenic\|Sinodul I]] și [[teme/sinodul-2-ecumenic\|Sinodul II]] |
-| [[teme/macedonianismul\|Macedonianismul]] | Macedonie al Constantinopolului | c. 360–381 | Duhul Sfânt este creatură | [[teme/sinodul-2-ecumenic\|Sinodul II Ecumenic]] |
-| [[teme/nestorianismul\|Nestorianismul]] | Nestorie al Constantinopolului | c. 428–431 | Două persoane în Hristos, Maria nu e Theotokos | [[teme/sinodul-3-ecumenic\|Sinodul III Ecumenic]] |
-| [[teme/monofizitismul\|Monofizitismul]] | Eutihie | c. 448–451 | O singură fire în Hristos după unire | [[teme/sinodul-4-ecumenic\|Sinodul IV Ecumenic]] |
-| [[teme/monotelismul\|Monotelismul]] | Sergiu al Constantinopolului | c. 630–681 | O singură voință în Hristos | [[teme/sinodul-6-ecumenic\|Sinodul VI Ecumenic]] |
-| [[teme/iconoclasmul\|Iconoclasmul]] | Împăratul Leon III Isaurul | 726–843 | Interzicerea și distrugerea icoanelor | [[teme/sinodul-7-ecumenic\|Sinodul VII Ecumenic]] |
+| Arianismul | Arie din Alexandria | c. 318–381 | Fiul este creatură, nu Dumnezeu adevărat | Sinodul I și Sinodul II |
+| Macedonianismul | Macedonie al Constantinopolului | c. 360–381 | Duhul Sfânt este creatură | Sinodul II Ecumenic |
+| Nestorianismul | Nestorie al Constantinopolului | c. 428–431 | Două persoane în Hristos, Maria nu e Theotokos | Sinodul III Ecumenic |
+| Monofizitismul | Eutihie | c. 448–451 | O singură fire în Hristos după unire | Sinodul IV Ecumenic |
+| Monotelismul | Sergiu al Constantinopolului | c. 630–681 | O singură voință în Hristos | Sinodul VI Ecumenic |
+| Iconoclasmul | Împăratul Leon III Isaurul | 726–843 | Interzicerea și distrugerea icoanelor | Sinodul VII Ecumenic |
 
 ## Tipologia ereziilor
 
 Ereziile hristologice urmează un tipar dialectic — fiecare erezie nouă reacționează excesiv la cea precedentă:
 
-1. **[[teme/arianismul\|Arianismul]]** neagă dumnezeirea Fiului → răspuns: Fiul este ὁμοούσιος (de o ființă) cu Tatăl
-2. **[[teme/macedonianismul\|Macedonianismul]]** neagă dumnezeirea Duhului Sfânt → răspuns: Duhul este „Domn și de viață dătător"
-3. **[[teme/nestorianismul\|Nestorianismul]]** desparte naturile lui Hristos → răspuns: unirea ipostatică, Theotokos
-4. **[[teme/monofizitismul\|Monofizitismul]]** confundă naturile (reacție excesivă la nestorianism) → răspuns: două firi „neamestecate, neschimbate, neîmpărțite, nedespărțite"
-5. **[[teme/monotelismul\|Monotelismul]]** neagă voința umană a lui Hristos (compromis ratat între ortodocși și monofiziți) → răspuns: două voințe și două lucrări
-6. **[[teme/iconoclasmul\|Iconoclasmul]]** neagă legitimitatea reprezentării lui Hristos → răspuns: icoana se întemeiază pe Întrupare
+1. **Arianismul** neagă dumnezeirea Fiului → răspuns: Fiul este ὁμοούσιος (de o ființă) cu Tatăl
+2. **Macedonianismul** neagă dumnezeirea Duhului Sfânt → răspuns: Duhul este „Domn și de viață dătător"
+3. **Nestorianismul** desparte naturile lui Hristos → răspuns: unirea ipostatică, Theotokos
+4. **Monofizitismul** confundă naturile (reacție excesivă la nestorianism) → răspuns: două firi „neamestecate, neschimbate, neîmpărțite, nedespărțite"
+5. **Monotelismul** neagă voința umană a lui Hristos (compromis ratat între ortodocși și monofiziți) → răspuns: două voințe și două lucrări
+6. **Iconoclasmul** neagă legitimitatea reprezentării lui Hristos → răspuns: icoana se întemeiază pe Întrupare
 
 ## Semnificație
 

@@ -4,6 +4,7 @@ title: "Judecător al lui Israel, nazireu, sec. XI î.Hr."
 image: "/images/personalitati/samson.jpg"
 order: 152
 tip: "judecator"
+verify: false
 ---
 
 ## Bio

@@ -4,6 +4,7 @@ title: "Judecător al lui Israel, sec. XIII î.Hr."
 image: "/images/personalitati/samgar.jpg"
 order: 142
 tip: "judecator"
+verify: false
 ---
 
 ## Bio

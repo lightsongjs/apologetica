@@ -4,6 +4,7 @@ title: "Episcop al Antiohiei, Mucenic"
 image: "/images/personalitati/ignatie-teoforul.jpg"
 order: 1
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

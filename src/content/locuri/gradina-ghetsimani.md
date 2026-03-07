@@ -3,6 +3,7 @@ name: "Grădina Ghetsimani"
 title: "Locul agoniei lui Hristos, Ierusalim"
 image: "/images/locuri/gradina-ghetsimani.jpg"
 order: 13
+verify: false
 ---
 
 ## Descriere

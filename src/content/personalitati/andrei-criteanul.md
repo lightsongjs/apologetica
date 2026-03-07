@@ -4,6 +4,7 @@ title: "Arhiepiscop al Cretei, Imnograf"
 image: "/images/personalitati/andrei-criteanul.jpg"
 order: 4
 tip: "cuvios"
+verify: false
 ---
 
 ## Bio

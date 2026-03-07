@@ -4,6 +4,7 @@ title: "Gazda Cinei din Betania"
 image: "/images/personalitati/simeon-leproso.jpg"
 order: 103
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

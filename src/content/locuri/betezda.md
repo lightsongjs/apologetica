@@ -3,6 +3,7 @@ name: "Betezda"
 title: "Scăldătoarea vindecării din Ierusalim"
 image: "/images/locuri/betezda.jpg"
 order: 42
+verify: false
 ---
 
 ## Descriere

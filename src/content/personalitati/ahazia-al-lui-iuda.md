@@ -4,6 +4,7 @@ title: "Rege al lui Iuda, c. 841 î.Hr."
 image: "/images/personalitati/ahazia-al-lui-iuda.jpg"
 order: 160
 tip: "rege"
+verify: false
 ---
 
 ## Bio

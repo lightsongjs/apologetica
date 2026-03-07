@@ -4,6 +4,7 @@ title: "Cuvios, editorul Filocaliei, 1749-1809"
 image: "/images/personalitati/nicodim-aghioritul.jpg"
 order: 122
 tip: "cuvios"
+verify: false
 ---
 
 ## Bio

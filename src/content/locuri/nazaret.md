@@ -3,6 +3,7 @@ name: "Nazaret"
 title: "Cetatea Bunei Vestiri, Galilea"
 image: "/images/locuri/nazaret.jpg"
 order: 19
+verify: false
 ---
 
 ## Descriere

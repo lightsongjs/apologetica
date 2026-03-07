@@ -4,6 +4,7 @@ title: "Unul dintre cei trei tineri din cuptor, sec. VI î.Hr."
 image: "/images/personalitati/anania.jpg"
 order: 42
 tip: "profet"
+verify: false
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Betania"
 title: "Satul lui Lazăr, Mariei și Martei, Iudeea"
 image: "/images/locuri/betania.jpg"
 order: 20
+verify: false
 ---
 
 ## Descriere

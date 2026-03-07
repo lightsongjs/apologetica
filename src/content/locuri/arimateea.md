@@ -3,6 +3,7 @@ name: "Arimateea"
 title: "Orașul de origine al lui Iosif din Arimateea"
 image: "/images/locuri/arimateea.jpg"
 order: 30
+verify: false
 ---
 
 ## Descriere

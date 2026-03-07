@@ -4,6 +4,7 @@ title: "Profet minor, sec. VI î.Hr."
 image: "/images/personalitati/zaharia.jpg"
 order: 27
 tip: "profet"
+verify: false
 ---
 
 ## Bio

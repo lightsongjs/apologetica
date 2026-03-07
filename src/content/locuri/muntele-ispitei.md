@@ -3,6 +3,7 @@ name: "Muntele Ispitei"
 title: "Locul ispitirii lui Hristos în pustia Iudeii"
 image: "/images/locuri/muntele-ispitei.jpg"
 order: 40
+verify: false
 ---
 
 ## Descriere

@@ -4,6 +4,7 @@ title: "Profet minor, sec. VIII î.Hr."
 image: "/images/personalitati/osea.jpg"
 order: 18
 tip: "profet"
+verify: false
 ---
 
 ## Bio

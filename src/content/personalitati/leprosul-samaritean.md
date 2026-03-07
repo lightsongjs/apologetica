@@ -4,6 +4,7 @@ title: "Singurul din zece leproși care s-a întors să mulțumească, sec. I d.
 image: "/images/personalitati/leprosul-samaritean.jpg"
 order: 98
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

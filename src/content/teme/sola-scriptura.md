@@ -7,6 +7,7 @@ tags: ["sola-scriptura", "traditie", "biblie-singura"]
 related: ["luteranismul", "denominatiile-protestante", "sfanta-scriptura", "succesiunea-apostolica"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce este Sola Scriptura?

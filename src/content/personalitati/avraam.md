@@ -4,6 +4,7 @@ title: "Părintele credincioșilor, c. 2000-1825 î.Hr."
 image: "/images/personalitati/avraam.jpg"
 order: 64
 tip: "patriarh"
+verify: false
 ---
 
 ## Bio
@@ -66,11 +67,17 @@ Narațiunea principală: chemarea, peregrinarea, Legământul, nașterea lui Isa
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Urmașul lui Avraam după trup (Matei 1:1) și Cel în Care „se binecuvântează toate neamurile" (Galateni 3:8). Hristos Însuși a spus: „Avraam a fost bucuros să vadă ziua Mea; a văzut-o și s-a bucurat" (Ioan 8:56).
 
+### [[personalitati/sarra|Sfânta Matriarhă Sarra]] (c. 2080-1947 î.Hr.)
+Soția sa, parteneră în credință și peregrinare. A născut pe Isaac la 90 de ani, prin minune divină. „Prin credință și Sarra... a primit putere să zămislească sămânță" (Evrei 11:11).
+
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 2000-1800 î.Hr.)
 Fiul făgăduinței, pe care l-a adus la jertfă pe Moria. Isaac este tipul lui Hristos — Fiul unic jertfit de Tatăl.
 
 ### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov/Israel]] (c. 1800 î.Hr.)
 Nepotul său, tatăl celor douăsprezece seminții, care a continuat Legământul.
+
+### [[personalitati/ismael|Ismael]] (c. 1990-1853 î.Hr.)
+Fiul său cu roaba Agar. Deși nu moștenitorul Legământului, a fost binecuvântat de Dumnezeu: „L-am binecuvântat și-l voi face roditor... El va naște doisprezece voievozi" (Facerea 17:20).
 
 ### [[personalitati/noe|Sfântul Patriarh Noe]] (pre-Avraam)
 Dreptul care a salvat omenirea prin arcă. Legământul lui Dumnezeu cu Noe (Facerea 9) prefigurează și pregătește Legământul cu Avraam — de la salvarea universală la alegerea unui neam.

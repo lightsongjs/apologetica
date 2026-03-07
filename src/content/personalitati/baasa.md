@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 909-886 î.Hr."
 image: "/images/personalitati/baasa.jpg"
 order: 176
 tip: "rege"
+verify: false
 ---
 
 ## Bio

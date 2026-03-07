@@ -4,6 +4,7 @@ title: "Profet minor, sec. VIII î.Hr."
 image: "/images/personalitati/miheia.jpg"
 order: 23
 tip: "profet"
+verify: false
 ---
 
 ## Bio

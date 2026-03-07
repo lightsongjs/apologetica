@@ -7,6 +7,7 @@ tags: ["mirungere", "chrismation", "taine", "duh-sfant", "mir"]
 related: ["botezul", "sfintele-taine", "tainele-bisericii", "duhul-sfant"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

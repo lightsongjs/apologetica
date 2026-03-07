@@ -9,6 +9,7 @@ opposed_to: ["nestorianismul"]
 related: ["monotelismul", "sinoadele-ecumenice", "ereziile"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Fondatorul
@@ -44,7 +45,7 @@ Sfinții Părinți au aplicat principiul: **ceea ce nu este asumat nu este vinde
 |----------|-------------|
 | **Sf. Flavian** al Constantinopolului | L-a condamnat pe Eutihie; ucis la „sinodul tâlhăresc" (449) |
 | **Sf. Leon cel Mare** | Tomosul lui Leon — formularea hristologică |
-| [[personalitati/maxim-marturisitorul\|Sf. Maxim Mărturisitorul]] | Precizări ulterioare ale hristologiei calcedoniene |
+| Sf. Maxim Mărturisitorul | Precizări ulterioare ale hristologiei calcedoniene |
 
 ## Sinodul care a condamnat-o
 

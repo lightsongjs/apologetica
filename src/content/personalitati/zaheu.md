@@ -4,6 +4,7 @@ title: "Vameșul din Ierihon, sec. I d.Hr."
 image: "/images/personalitati/zaheu.jpg"
 order: 72
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

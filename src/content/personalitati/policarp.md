@@ -4,6 +4,7 @@ title: "Episcop al Smirnei, Mucenic"
 image: "/images/personalitati/policarp.jpg"
 order: 2
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Grădina Edenului"
 title: "Grădina lui Dumnezeu, patria primordială a omului"
 image: "/images/locuri/eden.jpg"
 order: 53
+verify: false
 ---
 
 ## Descriere

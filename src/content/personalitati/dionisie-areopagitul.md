@@ -4,6 +4,7 @@ title: "Episcop al Atenei, mucenic, sec. I d.Hr."
 image: "/images/personalitati/dionisie-areopagitul.jpg"
 order: 130
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

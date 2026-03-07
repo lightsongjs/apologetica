@@ -2,6 +2,7 @@
 title: "Sfinții și icoanele"
 denomination: "baptist"
 order: 2
+verify: false
 ---
 
 ## Ce spun ei

@@ -4,6 +4,7 @@ title: "Mama Sfântului Ioan Botezătorul, †sec. I d.Hr."
 image: "/images/personalitati/elisabeta.jpg"
 order: 51
 tip: "sfant"
+verify: false
 ---
 
 ## Bio

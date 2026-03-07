@@ -4,6 +4,7 @@ title: "Apostol, †sec. I d.Hr."
 image: "/images/personalitati/simon-zilotul.jpg"
 order: 39
 tip: "apostol"
+verify: false
 ---
 
 ## Bio

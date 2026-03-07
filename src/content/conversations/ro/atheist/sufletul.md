@@ -2,6 +2,7 @@
 title: "Viața din non-viață?"
 denomination: "atheist"
 order: 2
+verify: false
 ---
 
 ## Ce spun ei

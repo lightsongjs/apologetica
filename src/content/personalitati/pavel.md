@@ -4,6 +4,7 @@ title: "Apostolul Neamurilor, †c. 64-67 d.Hr."
 image: "/images/personalitati/pavel.jpg"
 order: 30
 tip: "apostol"
+verify: false
 ---
 
 ## Bio

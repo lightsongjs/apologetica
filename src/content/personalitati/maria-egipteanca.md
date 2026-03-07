@@ -4,6 +4,7 @@ title: "Cuvioasă, †c. 522 d.Hr."
 image: "/images/personalitati/maria-egipteanca.jpg"
 order: 44
 tip: "cuvios"
+verify: false
 ---
 
 ## Bio

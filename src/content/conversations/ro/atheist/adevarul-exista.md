@@ -2,6 +2,7 @@
 title: "Adevărul nu există"
 denomination: "atheist"
 order: 4
+verify: false
 ---
 
 ## Ce spun ei

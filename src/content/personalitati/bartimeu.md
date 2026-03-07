@@ -4,6 +4,7 @@ title: "Orbul din Ierihon, vindecat de Hristos, sec. I d.Hr."
 image: "/images/personalitati/bartimeu.jpg"
 order: 88
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

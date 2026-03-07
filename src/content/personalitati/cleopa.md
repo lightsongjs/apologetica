@@ -4,6 +4,7 @@ title: "Ucenicul de pe drumul Emausului, sec. I d.Hr."
 image: "/images/personalitati/cleopa.jpg"
 order: 89
 tip: "sfant"
+verify: false
 ---
 
 ## Bio

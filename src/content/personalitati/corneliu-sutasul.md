@@ -4,6 +4,7 @@ title: "Centurion roman, primul păgân botezat, sec. I d.Hr."
 image: "/images/personalitati/corneliu-sutasul.jpg"
 order: 132
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

@@ -8,6 +8,7 @@ condemned_at: "sinodul-1-ecumenic"
 related: ["sinodul-2-ecumenic", "sfanta-treime", "dumnezeu-tatal", "sinoadele-ecumenice", "ereziile"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Fondatorul
@@ -43,9 +44,9 @@ Arie folosea un limbaj biblic selectiv: „Tatăl este mai mare decât Mine" (Io
 
 | Apărător | Contribuție |
 |----------|-------------|
-| [[personalitati/atanasie-cel-mare\|Sf. Atanasie cel Mare]] | „Contra arienilor", „Despre Întrupare"; exilat de 5 ori pentru credință |
-| [[personalitati/vasile-cel-mare\|Sf. Vasile cel Mare]] | Distincția ousia–ipostasuri; „Contra lui Eunomie" |
-| [[personalitati/grigorie-teologul\|Sf. Grigorie Teologul]] | Cele 5 Cuvântări teologice — sistematizarea dogmei trinitare |
+| Sf. Atanasie cel Mare | „Contra arienilor", „Despre Întrupare"; exilat de 5 ori pentru credință |
+| Sf. Vasile cel Mare | Distincția ousia–ipostasuri; „Contra lui Eunomie" |
+| Sf. Grigorie Teologul | Cele 5 Cuvântări teologice — sistematizarea dogmei trinitare |
 
 ## Sinodul care a condamnat-o
 

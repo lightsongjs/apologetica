@@ -4,6 +4,7 @@ title: "Apostol, Corifeu al Apostolilor, †c. 64-68 d.Hr."
 image: "/images/personalitati/petru.jpg"
 order: 29
 tip: "apostol"
+verify: false
 ---
 
 ## Bio

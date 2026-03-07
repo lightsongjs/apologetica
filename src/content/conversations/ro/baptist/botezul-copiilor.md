@@ -2,6 +2,7 @@
 title: "Botezul copiilor"
 denomination: "baptist"
 order: 1
+verify: false
 ---
 
 ## Ce spun ei

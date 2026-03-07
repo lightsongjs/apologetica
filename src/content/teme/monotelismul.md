@@ -8,6 +8,7 @@ condemned_at: "sinodul-6-ecumenic"
 related: ["monofizitismul", "sinoadele-ecumenice", "ereziile"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Fondatorul
@@ -40,7 +41,7 @@ Sfântul Maxim a plătit cu viața: i s-au tăiat limba și mâna dreaptă (662)
 
 | Apărător | Contribuție |
 |----------|-------------|
-| [[personalitati/maxim-marturisitorul\|Sf. Maxim Mărturisitorul]] | Disputatio cum Pyrrho; scrierile hristologice; martiriul |
+| Sf. Maxim Mărturisitorul | Disputatio cum Pyrrho; scrierile hristologice; martiriul |
 | **Papa Martin I** | Sinodul Lateran (649) — condamnarea monotelismului; exilat și mort în Crimeea |
 
 ## Sinodul care a condamnat-o

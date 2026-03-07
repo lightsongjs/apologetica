@@ -4,6 +4,7 @@ title: "Arhiepiscop al Cezareei Capadociei, c. 330-379"
 image: "/images/personalitati/vasile-cel-mare.jpg"
 order: 112
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

@@ -7,6 +7,7 @@ tags: ["botez", "taine", "regenerare", "nastere-din-nou"]
 related: ["botezul-pruncilor", "sfintele-taine", "tainele-bisericii", "mirungerea"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

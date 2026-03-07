@@ -7,6 +7,7 @@ tags: ["schisma", "1054", "filioque", "catolicism", "ortodoxie"]
 related: ["duhul-sfant", "sinoadele-ecumenice"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

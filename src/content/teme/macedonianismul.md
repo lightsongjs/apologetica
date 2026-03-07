@@ -8,6 +8,7 @@ condemned_at: "sinodul-2-ecumenic"
 related: ["duhul-sfant", "sfanta-treime", "sinoadele-ecumenice", "ereziile"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Fondatorul
@@ -43,9 +44,9 @@ Macedonianismul era un arianismul aplicat celei de-a treia Persoane a Treimii.
 
 | Apărător | Contribuție |
 |----------|-------------|
-| [[personalitati/vasile-cel-mare\|Sf. Vasile cel Mare]] | „Despre Sfântul Duh" — fundamentul dogmatic |
-| [[personalitati/grigorie-teologul\|Sf. Grigorie Teologul]] | Cele 5 Cuvântări teologice — sistematizarea pnevmatologiei |
-| [[personalitati/atanasie-cel-mare\|Sf. Atanasie cel Mare]] | „Epistolele către Serapion" — Duhul Sfânt este ὁμοούσιος cu Tatăl |
+| Sf. Vasile cel Mare | „Despre Sfântul Duh" — fundamentul dogmatic |
+| Sf. Grigorie Teologul | Cele 5 Cuvântări teologice — sistematizarea pnevmatologiei |
+| Sf. Atanasie cel Mare | „Epistolele către Serapion" — Duhul Sfânt este ὁμοούσιος cu Tatăl |
 
 ## Sinodul care a condamnat-o
 

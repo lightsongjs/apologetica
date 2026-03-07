@@ -4,6 +4,7 @@ title: "Arhidiacon, primul mucenic creștin, †c. 34 d.Hr."
 image: "/images/personalitati/stefan-intaiul-mucenic.jpg"
 order: 135
 tip: "mucenic"
+verify: false
 ---
 
 ## Bio
@@ -44,7 +45,7 @@ Scos din cetate și ucis cu pietre. Rugăciunea finală: „Doamne Iisuse, prime
 Narațiunea completă: alegerea ca diacon, minunile, arestarea, cuvântarea, vedenia și mucenicia. Scrisă de [[personalitati/luca-evanghelistul|Sfântul Evanghelist Luca]].
 
 ### Cuvântarea din Fapte 7
-Cea mai amplă sinteză a istoriei mântuirii din Noul Testament — de la [[personalitati/avraam|Avraam]] la [[personalitati/iosif|Iosif]], [[personalitati/moise|Moise]], [[personalitati/iisus-navi|Iosua]], [[personalitati/david|David]] și [[personalitati/solomon|Solomon]]. Punctul central: Dumnezeu nu locuiește în temple făcute de mâini omenești (7:48).
+Cea mai amplă sinteză a istoriei mântuirii din Noul Testament — de la [[personalitati/avraam|Avraam]] la [[personalitati/iosif-patriarhul|Iosif]], [[personalitati/moise|Moise]], [[personalitati/iisus-navi|Iosua]], [[personalitati/david|David]] și [[personalitati/solomon|Solomon]]. Punctul central: Dumnezeu nu locuiește în temple făcute de mâini omenești (7:48).
 
 ## Contemporani și rude spirituale
 
@@ -69,7 +70,7 @@ Autorul Faptelor Apostolilor, singurul izvor canonic al vieții și muceniciei l
 ### [[personalitati/avraam|Sfântul Patriarh Avraam]]
 Primul personaj evocat de Ștefan în cuvântarea sa din fața Sinedriului (Faptele Apostolilor 7:2-8): chemarea din Mesopotamia, făgăduința pământului, legământul circumciziunii.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]]
+### [[personalitati/iosif-patriarhul|Sfântul Drept Iosif]]
 Evocat de Ștefan în cuvântare (Faptele Apostolilor 7:9-16) ca exemplu al celui respins de frați dar înălțat de Dumnezeu — prefigurare a lui Hristos Cel respins de poporul Său.
 
 ### [[personalitati/moise|Sfântul Proroc Moise]]

@@ -7,6 +7,7 @@ tags: ["decalog", "lege", "sinai"]
 related: ["patriarhii-vechiului-testament", "profetii-vechiului-testament", "cele-zece-plagi-ale-egiptului"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Decalogul ortodox

@@ -4,6 +4,7 @@ title: "Judecător al lui Israel, sec. XII î.Hr."
 image: "/images/personalitati/ibtan.jpg"
 order: 149
 tip: "judecator"
+verify: false
 ---
 
 ## Bio

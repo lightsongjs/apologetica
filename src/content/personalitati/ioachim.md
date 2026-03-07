@@ -4,6 +4,7 @@ title: "Tatăl Preasfintei Născătoare de Dumnezeu, sec. I î.Hr."
 image: "/images/personalitati/ioachim.jpg"
 order: 48
 tip: "sfant"
+verify: false
 ---
 
 ## Bio
@@ -73,7 +74,7 @@ Nepotul lui Ioachim după trup — Fiul Fecioarei Maria. Ioachim este cinstit ca
 ### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
 Fiica sa, rodul rugăciunii și al lacrimilor, cea din care S-a întrupat Fiul lui Dumnezeu.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Ginerele său, logodnicul Fecioarei Maria, ocrotitorul Sfintei Familii.
 
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)

@@ -2,6 +2,7 @@
 title: "Morala fără Dumnezeu"
 denomination: "atheist"
 order: 3
+verify: false
 ---
 
 ## Ce spun ei

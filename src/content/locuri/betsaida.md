@@ -3,6 +3,7 @@ name: "Betsaida"
 title: "Orașul lui Petru, Andrei și Filip, la nordul Mării Galileii"
 image: "/images/locuri/betsaida.jpg"
 order: 27
+verify: false
 ---
 
 ## Descriere

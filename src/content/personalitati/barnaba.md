@@ -4,6 +4,7 @@ title: "Apostol, †c. 61 d.Hr."
 image: "/images/personalitati/barnaba.jpg"
 order: 45
 tip: "apostol"
+verify: false
 ---
 
 ## Bio

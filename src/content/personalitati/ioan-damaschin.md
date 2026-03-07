@@ -4,6 +4,7 @@ title: "Cuvios, teolog și imnograf, ultimul mare Părinte al Răsăritului, c. 
 image: "/images/personalitati/ioan-damaschin.jpg"
 order: 119
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

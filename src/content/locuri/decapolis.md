@@ -3,6 +3,7 @@ name: "Decapolis"
 title: "Liga celor zece orașe greco-romane, estul Iordanului"
 image: "/images/locuri/decapolis.jpg"
 order: 37
+verify: false
 ---
 
 ## Descriere

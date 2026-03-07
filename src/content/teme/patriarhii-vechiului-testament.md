@@ -7,6 +7,7 @@ tags: ["patriarhi", "avraam", "isac", "iacob"]
 related: ["profetii-vechiului-testament", "judecatorii-lui-israel", "profetiile-mesianice"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Introducere
@@ -20,7 +21,7 @@ Patriarhii trăiesc prin făgăduință, nu prin Lege. Dumnezeu le vorbește dir
 | # | Patriarh | Ani de viață (Septuaginta) | Note |
 |---|----------|---------------------------|------|
 | 1 | Adam | 930 ani | Primul om; creat după chipul lui Dumnezeu; căderea |
-| 2 | Set | 912 ani | Fiul lui Adam; „în locul lui [[personalitati/abel\|Abel]]" (Facerea 4:25) |
+| 2 | Set | 912 ani | Fiul lui Adam; „în locul lui Abel" (Facerea 4:25) |
 | 3 | Enos | 905 ani | „Atunci au început oamenii să cheme numele Domnului" (Facerea 4:26) |
 | 4 | Cainan | 910 ani | — |
 | 5 | Maleleil | 895 ani | — |
@@ -28,7 +29,7 @@ Patriarhii trăiesc prin făgăduință, nu prin Lege. Dumnezeu le vorbește dir
 | 7 | Enoh | 365 ani | „A umblat cu Dumnezeu și nu s-a mai aflat, căci l-a luat Dumnezeu" (Facerea 5:24) |
 | 8 | Matusalem | 969 ani | Cel mai longeviv om din Scriptură |
 | 9 | Lameh | 777 ani | Tatăl lui Noe |
-| 10 | [[personalitati/noe\|Noe]] | 950 ani | Potopul; legământul curcubeului; noul început al omenirii |
+| 10 | Noe | 950 ani | Potopul; legământul curcubeului; noul început al omenirii |
 
 ## Patriarhii post-diluvieni (de la Sem la Avraam)
 
@@ -49,10 +50,10 @@ Patriarhii trăiesc prin făgăduință, nu prin Lege. Dumnezeu le vorbește dir
 
 | # | Patriarh | Perioadă aprox. | Ani de viață | Note |
 |---|----------|-----------------|-------------|------|
-| 1 | [[personalitati/avraam\|Avraam]] | c. 2000–1825 î.Hr. | 175 ani | Chemarea din Ur; legământul tăierii împrejur; jertfa lui Isaac; „părintele credinței" |
-| 2 | [[personalitati/isaac\|Isaac]] | c. 1900–1720 î.Hr. | 180 ani | Fiul făgăduinței; jertfa de pe Moria — prefigurare a lui Hristos; binecuvântarea fiilor |
-| 3 | [[personalitati/iacov-patriarhul\|Iacov (Israel)]] | c. 1800–1653 î.Hr. | 147 ani | Lupta cu Dumnezeu la Iaboc; cele 12 seminții; coborârea în Egipt |
-| 4 | [[personalitati/iosif\|Iosif]] | c. 1750–1640 î.Hr. | 110 ani | Vândut de frați; domn peste Egipt; prefigurare a lui Hristos (trădat, umilit, înălțat) |
+| 1 | Avraam | c. 2000–1825 î.Hr. | 175 ani | Chemarea din Ur; legământul tăierii împrejur; jertfa lui Isaac; „părintele credinței" |
+| 2 | Isaac | c. 1900–1720 î.Hr. | 180 ani | Fiul făgăduinței; jertfa de pe Moria — prefigurare a lui Hristos; binecuvântarea fiilor |
+| 3 | Iacov (Israel) | c. 1800–1653 î.Hr. | 147 ani | Lupta cu Dumnezeu la Iaboc; cele 12 seminții; coborârea în Egipt |
+| 4 | Iosif | c. 1750–1640 î.Hr. | 110 ani | Vândut de frați; domn peste Egipt; prefigurare a lui Hristos (trădat, umilit, înălțat) |
 
 ### Cei doisprezece fii ai lui Iacov (capii semințiilor)
 
@@ -61,15 +62,15 @@ Patriarhii trăiesc prin făgăduință, nu prin Lege. Dumnezeu le vorbește dir
 | 1 | Ruben | Lia | Ruben | Întâiul-născut; pierde dreptul de întâi-născut |
 | 2 | Simeon | Lia | Simeon | Împrăștiat în Israel |
 | 3 | Levi | Lia | Levi | Seminția preoțească (fără teritoriu propriu) |
-| 4 | Iuda | Lia | Iuda | Seminția regală; din el vine [[personalitati/david\|David]] și Hristos |
-| 5 | Dan | Bilha | Dan | Seminția lui [[personalitati/samson\|Samson]] |
+| 4 | Iuda | Lia | Iuda | Seminția regală; din el vine David și Hristos |
+| 5 | Dan | Bilha | Dan | Seminția lui Samson |
 | 6 | Neftali | Bilha | Neftali | „Galileea neamurilor" (Isaia 8:23) |
 | 7 | Gad | Zilpa | Gad | Războinici ai Transiordaniei |
-| 8 | Așer | Zilpa | Așer | Seminția [[personalitati/ana-profetisa\|Anei Profetesa]] (Luca 2:36) |
-| 9 | Isahar | Lia | Isahar | Seminția lui [[personalitati/tola\|Tola]] |
-| 10 | Zabulon | Lia | Zabulon | Seminția lui [[personalitati/elon\|Elon]] |
-| 11 | [[personalitati/iosif\|Iosif]] | Rahila | Efraim & Manase | Împărțit în două semi-seminții prin fiii săi |
-| 12 | Beniamin | Rahila | Beniamin | Seminția lui [[personalitati/saul\|Saul]] și a lui [[personalitati/pavel\|Pavel]] |
+| 8 | Așer | Zilpa | Așer | Seminția Anei Profetesa (Luca 2:36) |
+| 9 | Isahar | Lia | Isahar | Seminția lui Tola |
+| 10 | Zabulon | Lia | Zabulon | Seminția lui Elon |
+| 11 | Iosif | Rahila | Efraim & Manase | Împărțit în două semi-seminții prin fiii săi |
+| 12 | Beniamin | Rahila | Beniamin | Seminția lui Saul și a lui Pavel |
 
 ## Observații
 

@@ -2,6 +2,7 @@
 title: "Dumnezeirea lui Iisus"
 denomination: "martorii-lui-iehova"
 order: 2
+verify: false
 ---
 
 ## Ce spun ei

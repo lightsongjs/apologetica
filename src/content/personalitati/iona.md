@@ -4,6 +4,7 @@ title: "Profet minor, sec. VIII î.Hr."
 image: "/images/personalitati/iona.jpg"
 order: 22
 tip: "profet"
+verify: false
 ---
 
 ## Bio

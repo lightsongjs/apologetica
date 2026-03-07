@@ -4,6 +4,7 @@ title: "Primul rege al lui Iuda, c. 931-913 î.Hr."
 image: "/images/personalitati/roboam.jpg"
 order: 155
 tip: "rege"
+verify: false
 ---
 
 ## Bio

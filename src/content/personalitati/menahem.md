@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 753-743 î.Hr."
 image: "/images/personalitati/menahem.jpg"
 order: 189
 tip: "rege"
+verify: false
 ---
 
 ## Bio

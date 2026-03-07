@@ -4,6 +4,7 @@ title: "Cuvios Mărturisitor, egumen al Mânăstirii Studion, 759-826"
 image: "/images/personalitati/teodor-studitul.jpg"
 order: 196
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

@@ -4,6 +4,7 @@ title: "Din Betania, prietenul Domnului, sec. I d.Hr."
 image: "/images/personalitati/lazar.jpg"
 order: 62
 tip: "sfant"
+verify: false
 ---
 
 ## Bio

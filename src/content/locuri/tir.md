@@ -3,6 +3,7 @@ name: "Tir"
 title: "Cetate feniciană la Marea Mediterană"
 image: "/images/locuri/tir.jpg"
 order: 45
+verify: false
 ---
 
 ## Descriere

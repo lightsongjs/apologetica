@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 753 î.Hr."
 image: "/images/personalitati/zaharia-al-lui-israel.jpg"
 order: 187
 tip: "rege"
+verify: false
 ---
 
 ## Bio

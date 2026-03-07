@@ -4,6 +4,7 @@ title: "Mare Mucenic, sec. III-IV d.Hr."
 image: "/images/personalitati/teodor-tiron.jpg"
 order: 12
 tip: "mucenic"
+verify: false
 ---
 
 ## Bio

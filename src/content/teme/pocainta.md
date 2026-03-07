@@ -7,6 +7,7 @@ tags: ["pocainta", "metanoia", "intoarcere", "parere-de-rau"]
 related: ["spovedania", "mantuirea", "sfintele-taine"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

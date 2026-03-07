@@ -7,6 +7,7 @@ tags: ["euharistie", "liturghie", "taine", "comuniune"]
 related: ["sfintele-taine", "tainele-bisericii"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce este Euharistia?

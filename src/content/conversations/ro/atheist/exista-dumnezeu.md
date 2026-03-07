@@ -2,6 +2,7 @@
 title: "Există Dumnezeu?"
 denomination: "atheist"
 order: 1
+verify: false
 ---
 
 ## Ce spun ei

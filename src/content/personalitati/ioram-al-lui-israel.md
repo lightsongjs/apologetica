@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 852-841 î.Hr."
 image: "/images/personalitati/ioram-al-lui-israel.jpg"
 order: 182
 tip: "rege"
+verify: false
 ---
 
 ## Bio

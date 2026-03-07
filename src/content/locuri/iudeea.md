@@ -3,6 +3,7 @@ name: "Iudeea"
 title: "Ținutul sfânt al Ierusalimului și Betleemului"
 image: "/images/locuri/iudeea.jpg"
 order: 34
+verify: false
 ---
 
 ## Descriere

@@ -4,6 +4,7 @@ title: "Gazda Cinei din Luca 7"
 image: "/images/personalitati/simon-fariseul.jpg"
 order: 104
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

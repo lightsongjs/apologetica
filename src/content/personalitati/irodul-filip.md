@@ -4,6 +4,7 @@ title: "Tetrarh al Ituriei și Trahonitidei, †34 d.Hr."
 image: "/images/personalitati/irodul-filip.jpg"
 order: 101
 tip: "rege"
+verify: false
 ---
 
 ## Bio

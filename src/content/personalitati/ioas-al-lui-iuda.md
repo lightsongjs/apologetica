@@ -4,6 +4,7 @@ title: "Rege al lui Iuda, c. 835-796 î.Hr."
 image: "/images/personalitati/ioas-al-lui-iuda.jpg"
 order: 162
 tip: "rege"
+verify: false
 ---
 
 ## Bio

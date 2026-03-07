@@ -4,6 +4,7 @@ title: "Rege drept al lui Iuda, c. 740-736 î.Hr."
 image: "/images/personalitati/iotam.jpg"
 order: 165
 tip: "rege"
+verify: false
 ---
 
 ## Bio

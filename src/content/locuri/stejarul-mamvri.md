@@ -3,6 +3,7 @@ name: "Stejarul din Mamvri"
 title: "Locul Teofaniei Sfintei Treimi, Hebron"
 image: "/images/locuri/stejarul-mamvri.jpg"
 order: 2
+verify: false
 ---
 
 ## Descriere

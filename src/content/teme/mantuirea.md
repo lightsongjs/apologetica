@@ -7,6 +7,7 @@ tags: ["mantuire", "har", "synergia", "theosis"]
 related: ["liberul-arbitru", "sfintele-taine", "pocainta"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

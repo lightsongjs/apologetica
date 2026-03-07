@@ -4,6 +4,7 @@ title: "Împărăteasă a Bizanțului, apărătoarea icoanelor, c. 752-803"
 image: "/images/personalitati/imparateasa-irina.jpg"
 order: 194
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

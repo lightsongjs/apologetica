@@ -4,11 +4,12 @@ title: "Rege al lui Iuda, c. 767-740 î.Hr."
 image: "/images/personalitati/ozia.jpg"
 order: 164
 tip: "rege"
+verify: false
 ---
 
 ## Bio
 
-Regele Ozia (în ebraică: עֻזִּיָּהוּ, „Tăria mea este Domnul"), numit și Azaria, a fost fiul lui Amasia și al unsprezecelea rege al lui Iuda, domnind 52 de ani (c. 767-740 î.Hr.) — a doua cea mai lungă domnie din istoria lui Iuda, după [[personalitati/manase|Manase]].
+Regele Ozia (în ebraică: עֻזִּיָּהוּ, „Tăria mea este Domnul"), numit și Azaria, a fost fiul lui Amasia și al unsprezecelea rege al lui Iuda, domnind 52 de ani (c. 767-740 î.Hr.) — a doua cea mai lungă domnie din istoria lui Iuda, după [[personalitati/manase-regele|Manase]].
 
 „A făcut ce este drept înaintea Domnului" (4 Regi 15:3). Ozia a fost un rege capabil: a reconstruit Elat, a întărit armata, a construit turnuri și mașini de război, a dezvoltat agricultura. „Cât a căutat pe Domnul, Dumnezeu l-a făcut să propășească" (2 Paralipomena 26:5). „Faima lui s-a întins departe, căci a fost ajutat în chip minunat" (2 Paralipomena 26:15).
 

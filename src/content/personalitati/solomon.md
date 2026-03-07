@@ -4,6 +4,7 @@ title: "Regele înțelept al lui Israel, c. 990-931 î.Hr."
 image: "/images/personalitati/solomon.jpg"
 order: 73
 tip: "rege"
+verify: false
 ---
 
 ## Bio

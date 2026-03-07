@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 742-732 î.Hr."
 image: "/images/personalitati/pecah.jpg"
 order: 191
 tip: "rege"
+verify: false
 ---
 
 ## Bio

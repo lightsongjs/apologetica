@@ -4,6 +4,7 @@ title: "Egumen al Muntelui Sinai, autorul Scării Raiului, c. 579-649"
 image: "/images/personalitati/ioan-scararul.jpg"
 order: 121
 tip: "cuvios"
+verify: false
 ---
 
 ## Bio

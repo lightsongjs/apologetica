@@ -7,6 +7,7 @@ tags: ["reglaj-fin", "design", "univers"]
 related: ["argumentul-cosmologic", "a-doua-lege-termodinamica"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce este reglajul fin?

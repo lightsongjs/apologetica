@@ -7,6 +7,7 @@ tags: ["treime", "tata", "fiu", "duh-sfant", "omoousios"]
 related: ["dumnezeu-tatal", "duhul-sfant", "arianismul", "macedonianismul", "sinodul-1-ecumenic", "sinodul-2-ecumenic"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce este Sfânta Treime?

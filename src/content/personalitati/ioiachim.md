@@ -4,6 +4,7 @@ title: "Rege al lui Iuda, c. 609-598 î.Hr."
 image: "/images/personalitati/ioiachim.jpg"
 order: 171
 tip: "rege"
+verify: false
 ---
 
 ## Bio

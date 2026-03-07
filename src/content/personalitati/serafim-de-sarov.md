@@ -4,6 +4,7 @@ title: "Cuvios, mare stareț și făcător de minuni, 1754-1833"
 image: "/images/personalitati/serafim-de-sarov.jpg"
 order: 109
 tip: "cuvios"
+verify: false
 ---
 
 ## Bio

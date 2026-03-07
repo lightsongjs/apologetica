@@ -7,6 +7,7 @@ tags: ["luther", "reforma", "sola-scriptura"]
 related: ["denominatiile-protestante", "calvinismul", "sola-scriptura"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Originea Luteranismului

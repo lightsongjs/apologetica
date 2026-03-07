@@ -4,6 +4,7 @@ title: "Etnarh al Iudeii, 4 î.Hr. - 6 d.Hr."
 image: "/images/personalitati/arhelau.jpg"
 order: 102
 tip: "rege"
+verify: false
 ---
 
 ## Bio
@@ -12,7 +13,7 @@ Arhelau (în greacă: Ἀρχέλαος — „Conducător al poporului"), fiul 
 
 Este menționat în Evanghelia după Matei în contextul întoarcerii Sfintei Familii din Egipt: „Auzind însă că Arhelau domnește în Iudeea în locul lui Irod, tatăl său, s-a temut să meargă acolo și, luând poruncă în vis, s-a dus în părțile Galileii" (Matei 2:22).
 
-Cruzimea lui Arhelau — moștenită de la tatăl său — a fost motivul pentru care [[personalitati/iosif|Sfântul Iosif]] a ales să se stabilească în Nazaret, sub jurisdicția mai moderatului [[personalitati/irod-antipa|Irod Antipa]], împlinind astfel profeția: „Nazarinean Se va chema" (Matei 2:23).
+Cruzimea lui Arhelau — moștenită de la tatăl său — a fost motivul pentru care [[personalitati/sfantul-drept-iosif|Sfântul Iosif]] a ales să se stabilească în Nazaret, sub jurisdicția mai moderatului [[personalitati/irod-antipa|Irod Antipa]], împlinind astfel profeția: „Nazarinean Se va chema" (Matei 2:23).
 
 Arhelau a fost destituit de Augustus în anul 6 d.Hr. pentru cruzime excesivă și exilat în Galia. Iudeea a fost transformată în provincie romană sub procuratori.
 
@@ -37,7 +38,7 @@ Destituit de Augustus pentru guvernare tiranică. Exilat în Galia (Vienna/Vienn
 ### [[personalitati/irod-cel-mare|Irod cel Mare]] (†4 î.Hr.)
 Tatăl său, de la care a moștenit puterea și cruzimea.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Cel care s-a temut de Arhelau și a ales Nazaretul, împlinind pronia dumnezeiască.
 
 ## Versete cheie

@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 841-814 î.Hr."
 image: "/images/personalitati/iehu.jpg"
 order: 183
 tip: "rege"
+verify: false
 ---
 
 ## Bio

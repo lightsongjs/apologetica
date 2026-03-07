@@ -3,6 +3,7 @@ name: "Muntele Măslinilor"
 title: "Locul Înălțării, Ierusalim"
 image: "/images/locuri/muntele-maslinilor.jpg"
 order: 15
+verify: false
 ---
 
 ## Descriere

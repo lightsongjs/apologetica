@@ -3,6 +3,7 @@ name: "Golgota"
 title: "Locul Răstignirii, Ierusalim"
 image: "/images/locuri/golgota.jpg"
 order: 14
+verify: false
 ---
 
 ## Descriere

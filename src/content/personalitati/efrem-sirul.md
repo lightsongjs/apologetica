@@ -4,6 +4,7 @@ title: "Cuvios, imnograf și teolog, Arpa Duhului Sfânt, c. 306-373"
 image: "/images/personalitati/efrem-sirul.jpg"
 order: 123
 tip: "parinte"
+verify: false
 ---
 
 ## Bio
@@ -41,7 +42,7 @@ Moare la Edesa în timpul unei epidemii de ciumă, slujind pe bolnavi. Testament
 ## Surse și scrieri
 
 ### Imnele la Naștere (Madrāshē d-beth yaldā)
-Ciclul de imne la Nașterea Domnului — cele mai vechi și mai frumoase meditații poetice asupra tainei Întrupării. Dialoguri între [[personalitati/maica-domnului|Fecioara Maria]] și Pruncul, între cer și pământ. Meditează asupra rolului lui [[personalitati/iosif|Iosif]] ca păzitor al tainei.
+Ciclul de imne la Nașterea Domnului — cele mai vechi și mai frumoase meditații poetice asupra tainei Întrupării. Dialoguri între [[personalitati/maica-domnului|Fecioara Maria]] și Pruncul, între cer și pământ. Meditează asupra rolului lui [[personalitati/sfantul-drept-iosif|Iosif]] ca păzitor al tainei.
 
 ### Imnele despre Paradis (Madrāshē d-pardaysā)
 15 imne despre Paradisul pierdut și regăsit. Teologie a naturii, a frumuseții și a restaurării cosmice prin Hristos.

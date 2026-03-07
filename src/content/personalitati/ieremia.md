@@ -4,6 +4,7 @@ title: "Profet major, sec. VII-VI î.Hr."
 image: "/images/personalitati/ieremia.jpg"
 order: 6
 tip: "profet"
+verify: false
 ---
 
 ## Bio
@@ -67,7 +68,7 @@ Contemporan mai tânăr, deportat în Babilon în 605 î.Hr. Daniel a slujit la 
 ### [[personalitati/anania|Sfântul Proroc Anania]] și [[personalitati/azaria|Sfântul Proroc Azaria]]
 Tovarăși ai lui Daniel în exilul babilonian. Ieremia a profețit exilul pe care acești tineri credincioși l-au trăit direct. Credincioșia lor în cuptor împlinește chemarea lui Ieremia la perseverență în credință chiar și în mijlocul judecății.
 
-### [[personalitati/manase|Regele Manase]] (697-642 î.Hr.)
+### [[personalitati/manase-regele|Regele Manase]] (697-642 î.Hr.)
 Ieremia s-ar fi născut în timpul târziei domnii a lui Manase sau sub fiul acestuia, [[personalitati/amon|Amon]]. Păcatele lui Manase — idolatria extremă și vărsarea de sânge nevinovat — erau încă proaspete în memoria colectivă și au contribuit la căderea finală a Ierusalimului pe care Ieremia a profețit-o.
 
 ### [[personalitati/avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)

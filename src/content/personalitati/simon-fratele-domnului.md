@@ -4,13 +4,14 @@ title: "Fratele Domnului, al doilea episcop al Ierusalimului, †107 d.Hr."
 image: "/images/personalitati/simon-fratele-domnului.jpg"
 order: 76
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio
 
 Sfântul Simon (în greacă: Σίμων; în ebraică: שִׁמְעוֹן — „Cel care ascultă") este menționat în Evanghelii ca unul dintre „frații" lui [[personalitati/iisus-hristos|Iisus]]: „Au nu se numește mama Lui Maria și frații Lui: [[personalitati/iacob-fratele-domnului|Iacov]] și [[personalitati/iose|Iose]] și Simon și [[personalitati/iuda-fratele-domnului|Iuda]]?" (Matei 13:55; cf. Marcu 6:3).
 
-Conform tradiției ortodoxe, Simon era fiul Sfântului Drept [[personalitati/iosif|Iosif]] din prima căsătorie — deci frate vitreg al Mântuitorului, nu frate de sânge, protejând dogma pururea-fecioriei [[personalitati/maica-domnului|Născătoarei de Dumnezeu]].
+Conform tradiției ortodoxe, Simon era fiul Sfântului Drept [[personalitati/sfantul-drept-iosif|Iosif]] din prima căsătorie — deci frate vitreg al Mântuitorului, nu frate de sânge, protejând dogma pururea-fecioriei [[personalitati/maica-domnului|Născătoarei de Dumnezeu]].
 
 Conform lui Eusebiu de Cezareea (Historia Ecclesiastica III, 11; IV, 22), după martiriul Sfântului [[personalitati/iacob-fratele-domnului|Iacob]] în anul 62, Simon (identificat de Eusebiu cu „Simeon fiul lui Cleopa") a fost ales al doilea episcop al Ierusalimului. Hegesip (citat de Eusebiu) spune că alegerea s-a făcut „de către apostoli și ucenici, toți împreună."
 
@@ -21,7 +22,7 @@ A fost martirizat sub împăratul Traian, în jurul anului 107 d.Hr., la vârsta
 ## Timeline
 
 ### Tinerețea în Nazaret
-Fiu al lui [[personalitati/iosif|Iosif]] din prima căsătorie, a crescut în casa din Nazaret alături de [[personalitati/iisus-hristos|Iisus]].
+Fiu al lui [[personalitati/sfantul-drept-iosif|Iosif]] din prima căsătorie, a crescut în casa din Nazaret alături de [[personalitati/iisus-hristos|Iisus]].
 
 ### Convertirea după Înviere
 Ca și ceilalți „frați ai Domnului", a crezut după Învierea lui Hristos.
@@ -54,7 +55,7 @@ Fratele Său vitreg (fiu al lui Iosif din prima căsătorie).
 ### [[personalitati/iacob-fratele-domnului|Sfântul Apostol Iacob, fratele Domnului]] (†62)
 Fratele său, primul episcop al Ierusalimului, căruia i-a urmat în scaunul episcopal.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Tatăl său, logodnicul Fecioarei Maria.
 
 ### [[personalitati/iose|Iose]] (sec. I)

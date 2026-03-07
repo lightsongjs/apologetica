@@ -7,6 +7,7 @@ tags: ["constantinopol", "monotelism", "vointa", "maxim-marturisitorul"]
 related: ["monotelismul", "sinoadele-ecumenice"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Context istoric

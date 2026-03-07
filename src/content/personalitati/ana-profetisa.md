@@ -4,6 +4,7 @@ title: "Proorocița din Templu, sec. I î.Hr./d.Hr."
 image: "/images/personalitati/ana-profetisa.jpg"
 order: 82
 tip: "profet"
+verify: false
 ---
 
 ## Bio

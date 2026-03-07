@@ -7,6 +7,7 @@ tags: ["penticostalism", "daruri", "limbi"]
 related: ["denominatiile-protestante", "evanghelicii"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Originea Penticostalismului

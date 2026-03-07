@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 743-742 î.Hr."
 image: "/images/personalitati/pecahia.jpg"
 order: 190
 tip: "rege"
+verify: false
 ---
 
 ## Bio

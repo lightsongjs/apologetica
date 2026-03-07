@@ -4,6 +4,7 @@ title: "Primul rege al Regatului de Nord (Israel), c. 931-910 î.Hr."
 image: "/images/personalitati/ieroboam.jpg"
 order: 174
 tip: "rege"
+verify: false
 ---
 
 ## Bio

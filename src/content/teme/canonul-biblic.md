@@ -7,6 +7,7 @@ tags: ["canon", "biblie", "carti"]
 related: ["sfanta-scriptura", "cartile-deuterocanonice", "increderea-in-biblie"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce înseamnă „canon"

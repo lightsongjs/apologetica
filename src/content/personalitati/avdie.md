@@ -4,6 +4,7 @@ title: "Profet minor, sec. VI sau IX î.Hr."
 image: "/images/personalitati/avdie.jpg"
 order: 21
 tip: "profet"
+verify: false
 ---
 
 ## Bio

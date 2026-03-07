@@ -4,6 +4,7 @@ title: "Uzurpatoare a tronului lui Iuda, c. 841-835 î.Hr."
 image: "/images/personalitati/atalia.jpg"
 order: 161
 tip: "rege"
+verify: false
 ---
 
 ## Bio

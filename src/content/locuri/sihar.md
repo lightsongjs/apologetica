@@ -3,6 +3,7 @@ name: "Sihar"
 title: "Orașul samarinean de lângă fântâna lui Iacov"
 image: "/images/locuri/sihar.jpg"
 order: 32
+verify: false
 ---
 
 ## Descriere

@@ -4,6 +4,7 @@ title: "Tâlharul eliberat în locul lui Hristos, sec. I d.Hr."
 image: "/images/personalitati/barabas.jpg"
 order: 87
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

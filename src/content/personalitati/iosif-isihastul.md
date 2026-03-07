@@ -4,6 +4,7 @@ title: "Stareț athonit, părintele renașterii isihaste contemporane, 1897-1959
 image: "/images/personalitati/iosif-isihastul.jpg"
 order: 124
 tip: "cuvios"
+verify: false
 ---
 
 ## Bio

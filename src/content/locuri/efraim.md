@@ -3,6 +3,7 @@ name: "Efraim"
 title: "Oraș la marginea pustiei, refugiu al lui Hristos înainte de Patimi"
 image: "/images/locuri/efraim.jpg"
 order: 31
+verify: false
 ---
 
 ## Descriere

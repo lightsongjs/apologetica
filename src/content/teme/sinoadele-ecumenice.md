@@ -7,6 +7,7 @@ tags: ["sinoade", "ecumenic", "dogme", "erezii"]
 related: ["sinodul-1-ecumenic", "sinodul-2-ecumenic", "sinodul-3-ecumenic", "sinodul-4-ecumenic", "sinodul-5-ecumenic", "sinodul-6-ecumenic", "sinodul-7-ecumenic", "ereziile"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Introducere
@@ -19,13 +20,13 @@ Autoritatea unui sinod ecumenic nu vine de la decret imperial, ci de la **recept
 
 | Nr. | Sinod | An | Loc | Erezia condamnată | Personalitate-cheie |
 |-----|-------|----|-----|--------------------|---------------------|
-| I | [[teme/sinodul-1-ecumenic\|Sinodul I Ecumenic]] | 325 | Niceea | [[teme/arianismul\|Arianismul]] | [[personalitati/atanasie-cel-mare\|Sf. Atanasie cel Mare]] |
-| II | [[teme/sinodul-2-ecumenic\|Sinodul II Ecumenic]] | 381 | Constantinopol | [[teme/macedonianismul\|Macedonianismul]] | [[personalitati/grigorie-teologul\|Sf. Grigorie Teologul]] |
-| III | [[teme/sinodul-3-ecumenic\|Sinodul III Ecumenic]] | 431 | Efes | [[teme/nestorianismul\|Nestorianismul]] | [[personalitati/chiril-al-alexandriei\|Sf. Chiril al Alexandriei]] |
-| IV | [[teme/sinodul-4-ecumenic\|Sinodul IV Ecumenic]] | 451 | Calcedon | [[teme/monofizitismul\|Monofizitismul]] | Sf. Leon cel Mare / Sf. Flavian |
-| V | [[teme/sinodul-5-ecumenic\|Sinodul V Ecumenic]] | 553 | Constantinopol | Origenismul / Cele trei capitole | Împăratul Iustinian |
-| VI | [[teme/sinodul-6-ecumenic\|Sinodul VI Ecumenic]] | 680–681 | Constantinopol | [[teme/monotelismul\|Monotelismul]] | [[personalitati/maxim-marturisitorul\|Sf. Maxim Mărturisitorul]] |
-| VII | [[teme/sinodul-7-ecumenic\|Sinodul VII Ecumenic]] | 787 | Niceea | [[teme/iconoclasmul\|Iconoclasmul]] | [[personalitati/ioan-damaschin\|Sf. Ioan Damaschin]] |
+| I | Sinodul I Ecumenic | 325 | Niceea | Arianismul | Sf. Atanasie cel Mare |
+| II | Sinodul II Ecumenic | 381 | Constantinopol | Macedonianismul | Sf. Grigorie Teologul |
+| III | Sinodul III Ecumenic | 431 | Efes | Nestorianismul | Sf. Chiril al Alexandriei |
+| IV | Sinodul IV Ecumenic | 451 | Calcedon | Monofizitismul | Sf. Leon cel Mare / Sf. Flavian |
+| V | Sinodul V Ecumenic | 553 | Constantinopol | Origenismul / Cele trei capitole | Împăratul Iustinian |
+| VI | Sinodul VI Ecumenic | 680–681 | Constantinopol | Monotelismul | Sf. Maxim Mărturisitorul |
+| VII | Sinodul VII Ecumenic | 787 | Niceea | Iconoclasmul | Sf. Ioan Damaschin |
 
 ## Simbolul de credință niceo-constantinopolitan
 

@@ -4,6 +4,7 @@ title: "Proroc și făcător de minuni, sec. IX î.Hr."
 image: "/images/personalitati/elisei.jpg"
 order: 16
 tip: "profet"
+verify: false
 ---
 
 ## Bio

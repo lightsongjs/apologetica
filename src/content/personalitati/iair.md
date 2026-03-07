@@ -4,6 +4,7 @@ title: "Judecător al lui Israel, sec. XII î.Hr."
 image: "/images/personalitati/iair.jpg"
 order: 147
 tip: "judecator"
+verify: false
 ---
 
 ## Bio

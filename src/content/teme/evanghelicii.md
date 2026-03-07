@@ -7,6 +7,7 @@ tags: ["evanghelici", "renastere", "biblie"]
 related: ["denominatiile-protestante", "baptistii", "penticostalismul"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce sunt Evanghelicii?

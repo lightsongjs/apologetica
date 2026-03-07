@@ -7,6 +7,7 @@ tags: ["anglicanismhenri-viii", "church-of-england"]
 related: ["denominatiile-protestante", "luteranismul"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Originea Anglicansimului

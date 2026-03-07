@@ -4,6 +4,7 @@ title: "Rege al lui Iuda, c. 913-911 î.Hr."
 image: "/images/personalitati/abia.jpg"
 order: 156
 tip: "rege"
+verify: false
 ---
 
 ## Bio

@@ -7,6 +7,7 @@ tags: ["biblie", "scriptura", "revelatieă"]
 related: ["canonul-biblic", "cartile-deuterocanonice", "increderea-in-biblie"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce este Sfânta Scriptură
@@ -23,23 +24,23 @@ Biblia ortodoxă conține **76–78 de cărți** (în funcție de numerotare), �
 
 | # | Carte | Autor tradițional | Conținut |
 |---|-------|-------------------|---------|
-| 1 | **Facerea (Geneza)** | [[personalitati/moise\|Moise]] | Creația; căderea; potopul; patriarhii (Adam → Iosif) |
-| 2 | **Ieșirea (Exodul)** | [[personalitati/moise\|Moise]] | Robia în Egipt; cele zece plăgi; Paștele; ieșirea; Legea de pe Sinai |
-| 3 | **Leviticul** | [[personalitati/moise\|Moise]] | Legile ceremoniale; jertfele; sfințenia; preoția |
-| 4 | **Numerii** | [[personalitati/moise\|Moise]] | Călătoria prin pustie; numărătorile; răzvrătirile |
-| 5 | **Deuteronomul** | [[personalitati/moise\|Moise]] | A doua dare a Legii; discursurile finale ale lui Moise |
+| 1 | **Facerea (Geneza)** | Moise | Creația; căderea; potopul; patriarhii (Adam → Iosif) |
+| 2 | **Ieșirea (Exodul)** | Moise | Robia în Egipt; cele zece plăgi; Paștele; ieșirea; Legea de pe Sinai |
+| 3 | **Leviticul** | Moise | Legile ceremoniale; jertfele; sfințenia; preoția |
+| 4 | **Numerii** | Moise | Călătoria prin pustie; numărătorile; răzvrătirile |
+| 5 | **Deuteronomul** | Moise | A doua dare a Legii; discursurile finale ale lui Moise |
 
 ### Vechiul Testament — Cărțile Istorice
 
 | # | Carte | Conținut |
 |---|-------|---------|
-| 6 | **Iosua (Navi)** | Cucerirea Canaanului sub [[personalitati/iisus-navi\|Iosua]] |
+| 6 | **Iosua (Navi)** | Cucerirea Canaanului sub Iosua |
 | 7 | **Judecători** | Epoca judecătorilor (Otniel → Samson) |
-| 8 | **Rut** | Strămoașa lui [[personalitati/david\|David]]; credincioșia unei moabite |
-| 9 | **1 Regi (1 Samuel)** | [[personalitati/samuel\|Samuel]]; [[personalitati/saul\|Saul]]; ungerea lui [[personalitati/david\|David]] |
-| 10 | **2 Regi (2 Samuel)** | Domnia lui [[personalitati/david\|David]] |
-| 11 | **3 Regi (1 Împărați)** | [[personalitati/solomon\|Solomon]]; schisma; [[personalitati/ilie\|Ilie]] |
-| 12 | **4 Regi (2 Împărați)** | [[personalitati/elisei\|Elisei]]; regii lui Israel și Iuda; căderea |
+| 8 | **Rut** | Strămoașa lui David; credincioșia unei moabite |
+| 9 | **1 Regi (1 Samuel)** | Samuel; Saul; ungerea lui David |
+| 10 | **2 Regi (2 Samuel)** | Domnia lui David |
+| 11 | **3 Regi (1 Împărați)** | Solomon; schisma; Ilie |
+| 12 | **4 Regi (2 Împărați)** | Elisei; regii lui Israel și Iuda; căderea |
 | 13 | **1 Paralipomene (1 Cronici)** | Genealogii; domnia lui David (perspectivă sacerdotală) |
 | 14 | **2 Paralipomene (2 Cronici)** | Solomon → căderea Ierusalimului (perspectivă sacerdotală) |
 | 15 | **1 Ezdra (Ezdra)** | Revenirea din exil; reconstrucția Templului |
@@ -51,8 +52,8 @@ Biblia ortodoxă conține **76–78 de cărți** (în funcție de numerotare), �
 | # | Carte | Conținut |
 |---|-------|---------|
 | 18 | **Iov** | Suferința dreptului; dialogul cu Dumnezeu |
-| 19 | **Psalmii** | 150 de psalmi — cartea de rugăciune a Bisericii (atribuiți lui [[personalitati/david\|David]] ș.a.) |
-| 20 | **Proverbele** | Înțelepciunea practică (atribuită lui [[personalitati/solomon\|Solomon]]) |
+| 19 | **Psalmii** | 150 de psalmi — cartea de rugăciune a Bisericii (atribuiți lui David ș.a.) |
+| 20 | **Proverbele** | Înțelepciunea practică (atribuită lui Solomon) |
 | 21 | **Ecclesiastul** | „Deșertăciunea deșertăciunilor" — meditație asupra sensului vieții |
 | 22 | **Cântarea Cântărilor** | Poemul iubirii — citit alegoric ca iubirea lui Dumnezeu pentru Biserică |
 
@@ -60,28 +61,28 @@ Biblia ortodoxă conține **76–78 de cărți** (în funcție de numerotare), �
 
 | # | Carte | Profet | Perioadă |
 |---|-------|--------|----------|
-| 23 | **Isaia** | [[personalitati/isaia\|Sfântul Isaia]] | sec. VIII î.Hr. |
-| 24 | **Ieremia** | [[personalitati/ieremia\|Sfântul Ieremia]] | sec. VII–VI î.Hr. |
-| 25 | **Plângerile lui Ieremia** | [[personalitati/ieremia\|Ieremia]] | După căderea Ierusalimului (586 î.Hr.) |
-| 26 | **Iezechiel** | [[personalitati/iezechiel\|Sfântul Iezechiel]] | sec. VI î.Hr. (exilul) |
-| 27 | **Daniel** | [[personalitati/daniel\|Sfântul Daniel]] | sec. VI î.Hr. (exilul) |
+| 23 | **Isaia** | Sfântul Isaia | sec. VIII î.Hr. |
+| 24 | **Ieremia** | Sfântul Ieremia | sec. VII–VI î.Hr. |
+| 25 | **Plângerile lui Ieremia** | Ieremia | După căderea Ierusalimului (586 î.Hr.) |
+| 26 | **Iezechiel** | Sfântul Iezechiel | sec. VI î.Hr. (exilul) |
+| 27 | **Daniel** | Sfântul Daniel | sec. VI î.Hr. (exilul) |
 
 ### Vechiul Testament — Cei Doisprezece Profeți Mici
 
 | # | Carte | Profet | Perioadă |
 |---|-------|--------|----------|
-| 28 | **Osea** | [[personalitati/osea\|Osea]] | sec. VIII î.Hr. |
-| 29 | **Ioil** | [[personalitati/ioil\|Ioil]] | sec. IX–VIII î.Hr. (?) |
-| 30 | **Amos** | [[personalitati/amos\|Amos]] | sec. VIII î.Hr. |
-| 31 | **Avdie (Obadia)** | [[personalitati/avdie\|Avdie]] | sec. IX sau VI î.Hr. |
-| 32 | **Iona** | [[personalitati/iona\|Iona]] | sec. VIII î.Hr. |
-| 33 | **Miheia** | [[personalitati/miheia\|Miheia]] | sec. VIII î.Hr. |
-| 34 | **Naum** | [[personalitati/naum\|Naum]] | sec. VII î.Hr. |
-| 35 | **Avacum (Habacuc)** | [[personalitati/avacum\|Avacum]] | sec. VII î.Hr. |
-| 36 | **Sofonie** | [[personalitati/sofonie\|Sofonie]] | sec. VII î.Hr. |
-| 37 | **Agheu** | [[personalitati/agheu\|Agheu]] | 520 î.Hr. |
-| 38 | **Zaharia** | [[personalitati/zaharia\|Zaharia]] | sec. VI–V î.Hr. |
-| 39 | **Maleahi** | [[personalitati/maleahi\|Maleahi]] | sec. V î.Hr. |
+| 28 | **Osea** | Osea | sec. VIII î.Hr. |
+| 29 | **Ioil** | Ioil | sec. IX–VIII î.Hr. (?) |
+| 30 | **Amos** | Amos | sec. VIII î.Hr. |
+| 31 | **Avdie (Obadia)** | Avdie | sec. IX sau VI î.Hr. |
+| 32 | **Iona** | Iona | sec. VIII î.Hr. |
+| 33 | **Miheia** | Miheia | sec. VIII î.Hr. |
+| 34 | **Naum** | Naum | sec. VII î.Hr. |
+| 35 | **Avacum (Habacuc)** | Avacum | sec. VII î.Hr. |
+| 36 | **Sofonie** | Sofonie | sec. VII î.Hr. |
+| 37 | **Agheu** | Agheu | 520 î.Hr. |
+| 38 | **Zaharia** | Zaharia | sec. VI–V î.Hr. |
+| 39 | **Maleahi** | Maleahi | sec. V î.Hr. |
 
 ### Cărțile Deuterocanonice
 
@@ -96,25 +97,27 @@ Prezente în Septuaginta, absente din Bibliile protestante. Vezi [[teme/cartile-
 | 44 | **Baruh** (cu Epistola lui Ieremia) |
 | 45 | **1 Macabei** |
 | 46 | **2 Macabei** |
-| 47 | **Adăugiri la Daniel** (Cântarea celor trei tineri, Susana, Bel și Balaurul) |
-| 48 | **Adăugiri la Estera** |
-| 49 | **Rugăciunea lui Manase** |
-| 50 | **3 Ezdra** |
+| 47 | **3 Macabei** |
+| 48 | **4 Macabei** |
+| 49 | **Adăugiri la Daniel** (Cântarea celor trei tineri, Susana, Bel și Balaurul) |
+| 50 | **Adăugiri la Estera** |
+| 51 | **Rugăciunea lui Manase** |
+| 52 | **3 Ezdra** |
 
 ### Noul Testament — Evangheliile
 
 | # | Carte | Autor | Accent |
 |---|-------|-------|--------|
-| 1 | **Evanghelia după Matei** | [[personalitati/matei-evanghelistul\|Sfântul Matei]] | Iisus ca Mesia al lui Israel; împlinirea profețiilor |
-| 2 | **Evanghelia după Marcu** | [[personalitati/marcu-evanghelistul\|Sfântul Marcu]] | Iisus ca Slujitor; narativă rapidă, concretă |
-| 3 | **Evanghelia după Luca** | [[personalitati/luca-evanghelistul\|Sfântul Luca]] | Iisus ca Mântuitor al tuturor; milostivia; femeile; săracii |
-| 4 | **Evanghelia după Ioan** | [[personalitati/ioan-evanghelistul\|Sfântul Ioan]] | Iisus ca Logos divin; teologia profundă; „Eu sunt" |
+| 1 | **Evanghelia după Matei** | Sfântul Matei | Iisus ca Mesia al lui Israel; împlinirea profețiilor |
+| 2 | **Evanghelia după Marcu** | Sfântul Marcu | Iisus ca Slujitor; narativă rapidă, concretă |
+| 3 | **Evanghelia după Luca** | Sfântul Luca | Iisus ca Mântuitor al tuturor; milostivia; femeile; săracii |
+| 4 | **Evanghelia după Ioan** | Sfântul Ioan | Iisus ca Logos divin; teologia profundă; „Eu sunt" |
 
 ### Noul Testament — Faptele Apostolilor
 
 | # | Carte | Autor | Conținut |
 |---|-------|-------|---------|
-| 5 | **Faptele Apostolilor** | [[personalitati/luca-evanghelistul\|Sfântul Luca]] | Nașterea Bisericii; Cincizecimea; misiunile lui [[personalitati/pavel\|Pavel]] |
+| 5 | **Faptele Apostolilor** | Sfântul Luca | Nașterea Bisericii; Cincizecimea; misiunile lui Pavel |
 
 ### Noul Testament — Epistolele Sfântului Pavel
 
@@ -129,7 +132,7 @@ Prezente în Septuaginta, absente din Bibliile protestante. Vezi [[teme/cartile-
 | 12 | **Coloseni** | Biserica din Colose | Supremația lui Hristos; contra filozofiilor false |
 | 13 | **1 Tesaloniceni** | Biserica din Tesalonic | A Doua Venire |
 | 14 | **2 Tesaloniceni** | Biserica din Tesalonic | Semnele A Doua Veniri; antihristul |
-| 15 | **1 Timotei** | [[personalitati/toma\|Timotei]] | Organizarea Bisericii; preoția |
+| 15 | **1 Timotei** | Timotei | Organizarea Bisericii; preoția |
 | 16 | **2 Timotei** | Timotei | Testamentul spiritual al lui Pavel |
 | 17 | **Tit** | Tit | Organizarea Bisericii din Creta |
 | 18 | **Filimon** | Filimon | Sclavul Onisim; iubirea frățească |
@@ -139,19 +142,19 @@ Prezente în Septuaginta, absente din Bibliile protestante. Vezi [[teme/cartile-
 
 | # | Carte | Autor | Temă principală |
 |---|-------|-------|-----------------|
-| 20 | **Iacov** | [[personalitati/iacob-fratele-domnului\|Sfântul Iacob]] | Credința fără fapte este moartă; viața practică |
-| 21 | **1 Petru** | [[personalitati/petru\|Sfântul Petru]] | Suferința creștină; Botezul; „neam ales, preoție împărătească" |
-| 22 | **2 Petru** | [[personalitati/petru\|Sfântul Petru]] | Profeții mincinoși; A Doua Venire |
-| 23 | **1 Ioan** | [[personalitati/ioan-evanghelistul\|Sfântul Ioan]] | „Dumnezeu este iubire"; mărturisirea lui Hristos în trup |
-| 24 | **2 Ioan** | [[personalitati/ioan-evanghelistul\|Sfântul Ioan]] | Avertizare contra ereziilor |
-| 25 | **3 Ioan** | [[personalitati/ioan-evanghelistul\|Sfântul Ioan]] | Ospitalitatea creștină |
-| 26 | **Iuda** | [[personalitati/iuda-tadeu\|Sfântul Iuda]] | Contra apostaților; „lupta pentru credința dată sfinților" |
+| 20 | **Iacov** | Sfântul Iacob | Credința fără fapte este moartă; viața practică |
+| 21 | **1 Petru** | Sfântul Petru | Suferința creștină; Botezul; „neam ales, preoție împărătească" |
+| 22 | **2 Petru** | Sfântul Petru | Profeții mincinoși; A Doua Venire |
+| 23 | **1 Ioan** | Sfântul Ioan | „Dumnezeu este iubire"; mărturisirea lui Hristos în trup |
+| 24 | **2 Ioan** | Sfântul Ioan | Avertizare contra ereziilor |
+| 25 | **3 Ioan** | Sfântul Ioan | Ospitalitatea creștină |
+| 26 | **Iuda** | Sfântul Iuda | Contra apostaților; „lupta pentru credința dată sfinților" |
 
 ### Noul Testament — Apocalipsa
 
 | # | Carte | Autor | Conținut |
 |---|-------|-------|---------|
-| 27 | **Apocalipsa** | [[personalitati/ioan-evanghelistul\|Sfântul Ioan]] | Vedenii profetice; lupta finală; Ierusalimul ceresc; „Vin curând" |
+| 27 | **Apocalipsa** | Sfântul Ioan | Vedenii profetice; lupta finală; Ierusalimul ceresc; „Vin curând" |
 
 ## Canonul biblic
 
@@ -197,12 +200,12 @@ Perspectiva ortodoxă diferă fundamental de cea protestantă:
 „Biblia este singura autoritate în materie de credință." Dar:
 - Cine a stabilit ce cărți fac parte din Biblie? **Biserica**, prin Tradiție
 - Biblia însăși nu conține o listă a cărților sale — canonul este un produs al Tradiției
-- Sfântul [[personalitati/pavel\|Pavel]] spune: „Țineți predaniile (tradițiile) pe care le-ați primit fie prin cuvânt, fie prin epistola noastră" (2 Tesaloniceni 2:15) — deci și tradiția orală, nu doar cea scrisă
+- Sfântul Pavel spune: „Țineți predaniile (tradițiile) pe care le-ați primit fie prin cuvânt, fie prin epistola noastră" (2 Tesaloniceni 2:15) — deci și tradiția orală, nu doar cea scrisă
 
 ### Ce spune Ortodoxia
 Scriptura și Tradiția nu sunt două surse paralele, ci **un singur izvor**: revelația lui Dumnezeu transmisă prin Apostoli. Scriptura este **Tradiția scrisă**, iar Tradiția este **Scriptura vie**. Una fără cealaltă este incompletă.
 
-Sfântul [[personalitati/vasile-cel-mare\|Vasile cel Mare]] (Despre Sfântul Duh, 27): „Dintre dogmele păstrate în Biserică, unele le avem din învățătura scrisă, iar altele le-am primit din tradiția apostolică, transmisă în taină. Și unele și altele au aceeași putere."
+Sfântul Vasile cel Mare (Despre Sfântul Duh, 27): „Dintre dogmele păstrate în Biserică, unele le avem din învățătura scrisă, iar altele le-am primit din tradiția apostolică, transmisă în taină. Și unele și altele au aceeași putere."
 
 ### Biblia s-a născut în Biserică
 Biblia nu a căzut din cer gata tipărită. Ea a fost scrisă, copiată, citită, interpretată și canonizată **de Biserică**. A separa Biblia de Biserică înseamnă a o despărți de contextul în care a fost creată și în care poate fi corect înțeleasă.

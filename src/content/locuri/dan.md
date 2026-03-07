@@ -3,6 +3,7 @@ name: "Dan"
 title: "Cetatea de nord a Israelului și locul vițelului de aur, Galilee"
 image: "/images/locuri/dan.jpg"
 order: 56
+verify: false
 ---
 
 ## Descriere

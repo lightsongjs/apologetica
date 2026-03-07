@@ -3,6 +3,7 @@ name: "Capernaum"
 title: "Centrul slujirii lui Hristos, Galilea"
 image: "/images/locuri/capernaum.jpg"
 order: 17
+verify: false
 ---
 
 ## Descriere

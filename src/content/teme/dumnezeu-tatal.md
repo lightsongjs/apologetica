@@ -7,6 +7,7 @@ tags: ["tata", "treime", "ipostasuri"]
 related: ["sfanta-treime", "duhul-sfant"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Cine este Dumnezeu Tatăl?

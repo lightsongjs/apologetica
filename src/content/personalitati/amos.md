@@ -4,6 +4,7 @@ title: "Profet minor, sec. VIII î.Hr."
 image: "/images/personalitati/amos.jpg"
 order: 20
 tip: "profet"
+verify: false
 ---
 
 ## Bio

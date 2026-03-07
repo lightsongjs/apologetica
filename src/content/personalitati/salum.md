@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), 1 lună, c. 753 î.Hr."
 image: "/images/personalitati/salum.jpg"
 order: 188
 tip: "rege"
+verify: false
 ---
 
 ## Bio

@@ -4,6 +4,7 @@ title: "Împărăteasă a Bizanțului, restauratoarea Ortodoxiei, c. 815-867"
 image: "/images/personalitati/imparateasa-teodora.jpg"
 order: 195
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

@@ -4,6 +4,7 @@ title: "Ultimul rege al lui Iuda, c. 597-586 î.Hr."
 image: "/images/personalitati/sedechia.jpg"
 order: 173
 tip: "rege"
+verify: false
 ---
 
 ## Bio

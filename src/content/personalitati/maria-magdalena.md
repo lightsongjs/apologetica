@@ -4,6 +4,7 @@ title: "Întocmai cu Apostolii, sec. I d.Hr."
 image: "/images/personalitati/maria-magdalena.jpg"
 order: 58
 tip: "sfant"
+verify: false
 ---
 
 ## Bio

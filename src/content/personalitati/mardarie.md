@@ -3,6 +3,7 @@ name: "Sfântul Mare Mucenic Mardarie"
 title: "Mare Mucenic, sec. III-IV d.Hr."
 image: "/images/personalitati/mardarie.jpg"
 order: 51
+verify: false
 ---
 
 ## Bio

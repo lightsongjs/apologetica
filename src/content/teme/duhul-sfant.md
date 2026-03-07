@@ -7,6 +7,7 @@ tags: ["duh-sfant", "treime", "purcedere", "cincizecime"]
 related: ["sfanta-treime", "dumnezeu-tatal", "macedonianismul", "sinodul-2-ecumenic"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Cine este Duhul Sfânt?

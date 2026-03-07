@@ -3,6 +3,7 @@ name: "Raiul"
 title: "Împărăția cerurilor, locașul celor drepți"
 image: "/images/locuri/rai.jpg"
 order: 52
+verify: false
 ---
 
 ## Descriere

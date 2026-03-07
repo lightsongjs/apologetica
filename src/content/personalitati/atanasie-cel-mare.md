@@ -4,6 +4,7 @@ title: "Arhiepiscop al Alexandriei, c. 296-373"
 image: "/images/personalitati/atanasie-cel-mare.jpg"
 order: 115
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

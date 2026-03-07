@@ -3,6 +3,7 @@ name: "Marea Roșie"
 title: "Locul Trecerii Miraculoase, între Egipt și Sinai"
 image: "/images/locuri/marea-rosie.jpg"
 order: 4
+verify: false
 ---
 
 ## Descriere

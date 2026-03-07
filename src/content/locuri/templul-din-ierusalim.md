@@ -3,6 +3,7 @@ name: "Templul din Ierusalim"
 title: "Casa Domnului"
 image: "/images/locuri/templul-din-ierusalim.jpg"
 order: 7
+verify: false
 ---
 
 ## Descriere

@@ -3,6 +3,7 @@ name: "Ierusalim"
 title: "Cetatea Sfântă"
 image: "/images/locuri/ierusalim.jpg"
 order: 6
+verify: false
 ---
 
 ## Descriere

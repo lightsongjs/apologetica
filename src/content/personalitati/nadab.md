@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 910-909 î.Hr."
 image: "/images/personalitati/nadab.jpg"
 order: 175
 tip: "rege"
+verify: false
 ---
 
 ## Bio

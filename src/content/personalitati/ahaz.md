@@ -4,6 +4,7 @@ title: "Rege rău al lui Iuda, c. 736-726 î.Hr."
 image: "/images/personalitati/ahaz.jpg"
 order: 166
 tip: "rege"
+verify: false
 ---
 
 ## Bio

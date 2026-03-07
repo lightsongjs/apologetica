@@ -3,6 +3,7 @@ name: "Sfinții Cinci Mucenici"
 title: "Eustratie, Auxentie, Evghenie, Mardarie și Orest — Mucenici, sec. III-IV d.Hr."
 image: "/images/personalitati/cei-cinci-mucenici.jpg"
 order: 52
+verify: false
 ---
 
 ## Bio

@@ -7,6 +7,7 @@ tags: ["plagi", "exod", "faraon"]
 related: ["cele-zece-porunci", "patriarhii-vechiului-testament", "profetii-vechiului-testament"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Plăgile ca judecată asupra zeilor Egiptului

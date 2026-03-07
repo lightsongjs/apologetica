@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 782-753 î.Hr."
 image: "/images/personalitati/ieroboam-al-doilea.jpg"
 order: 186
 tip: "rege"
+verify: false
 ---
 
 ## Bio

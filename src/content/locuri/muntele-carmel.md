@@ -3,6 +3,7 @@ name: "Muntele Carmel"
 title: "Locul biruinței credinței"
 image: "/images/locuri/muntele-carmel.jpg"
 order: 10
+verify: false
 ---
 
 ## Descriere

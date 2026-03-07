@@ -3,6 +3,7 @@ name: "Marea Galileii"
 title: "Lacul slujirii lui Hristos, Galilea"
 image: "/images/locuri/marea-galileii.jpg"
 order: 12
+verify: false
 ---
 
 ## Descriere

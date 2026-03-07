@@ -3,6 +3,7 @@ name: "Cezareea Filippi"
 title: "Locul mărturisirii lui Petru, nordul Israelului"
 image: "/images/locuri/cezareea-filippi.jpg"
 order: 47
+verify: false
 ---
 
 ## Descriere

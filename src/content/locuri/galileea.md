@@ -3,6 +3,7 @@ name: "Galileea"
 title: "Ținutul principal al slujirii lui Hristos, nordul Israelului"
 image: "/images/locuri/galileea.jpg"
 order: 33
+verify: false
 ---
 
 ## Descriere

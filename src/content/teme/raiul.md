@@ -7,6 +7,7 @@ tags: ["rai", "vesnicie", "bucurie", "dumnezeu"]
 related: ["iadul", "judecata-de-apoi", "mantuirea"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

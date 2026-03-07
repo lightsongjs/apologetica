@@ -4,6 +4,7 @@ title: "Proroc de foc, sec. IX î.Hr."
 image: "/images/personalitati/ilie.jpg"
 order: 14
 tip: "profet"
+verify: false
 ---
 
 ## Bio

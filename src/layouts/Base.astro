@@ -70,7 +70,7 @@ const {
       <slot />
     </main>
 
-    <FloatingSearch />
+    {!isHomePage && <FloatingSearch />}
 
     <script>
       // Handle history back button

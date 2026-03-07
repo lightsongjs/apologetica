@@ -4,6 +4,7 @@ title: "Profet minor, sec. V î.Hr."
 image: "/images/personalitati/maleahi.jpg"
 order: 28
 tip: "profet"
+verify: false
 ---
 
 ## Bio

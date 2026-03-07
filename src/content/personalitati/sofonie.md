@@ -4,6 +4,7 @@ title: "Profet minor, sec. VII î.Hr."
 image: "/images/personalitati/sofonie.jpg"
 order: 10
 tip: "profet"
+verify: false
 ---
 
 ## Bio

@@ -3,6 +3,7 @@ name: "Idumea"
 title: "Ținutul edomit la sud de Iudeea, patria dinastiei irodiene"
 image: "/images/locuri/idumea.jpg"
 order: 39
+verify: false
 ---
 
 ## Descriere

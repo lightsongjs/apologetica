@@ -3,6 +3,7 @@ name: "Pereea"
 title: "Regiunea de dincolo de Iordan, tetrarhia lui Irod Antipa"
 image: "/images/locuri/pereea.jpg"
 order: 36
+verify: false
 ---
 
 ## Descriere

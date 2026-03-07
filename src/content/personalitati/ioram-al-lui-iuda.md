@@ -4,6 +4,7 @@ title: "Rege rău al lui Iuda, c. 848-841 î.Hr."
 image: "/images/personalitati/ioram-al-lui-iuda.jpg"
 order: 159
 tip: "rege"
+verify: false
 ---
 
 ## Bio

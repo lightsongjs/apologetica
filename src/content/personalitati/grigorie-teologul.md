@@ -4,6 +4,7 @@ title: "Arhiepiscop al Constantinopolului, c. 329-390"
 image: "/images/personalitati/grigorie-teologul.jpg"
 order: 113
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

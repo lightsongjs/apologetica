@@ -3,6 +3,7 @@ name: "Sidon"
 title: "Cetate feniciană la nord de Tir"
 image: "/images/locuri/sidon.jpg"
 order: 46
+verify: false
 ---
 
 ## Descriere

@@ -7,6 +7,7 @@ tags: ["protestantism", "reforme", "denominatii"]
 related: ["luteranismul", "calvinismul", "anglicanismul", "baptistii"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Introducere

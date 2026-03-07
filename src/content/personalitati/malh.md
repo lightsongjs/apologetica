@@ -4,6 +4,7 @@ title: "Sluga marelui preot, sec. I d.Hr."
 image: "/images/personalitati/malh.jpg"
 order: 91
 tip: "personaj-biblic"
+verify: false
 ---
 
 ## Bio

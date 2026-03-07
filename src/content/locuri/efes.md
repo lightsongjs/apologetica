@@ -3,6 +3,7 @@ name: "Efes"
 title: "Biserica lui Ioan și a lui Pavel, Asia Mică"
 image: "/images/locuri/efes.jpg"
 order: 24
+verify: false
 ---
 
 ## Descriere

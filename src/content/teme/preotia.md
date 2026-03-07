@@ -7,6 +7,7 @@ tags: ["preotie", "hirotonie", "taine", "succesiune-apostolica", "episcopi"]
 related: ["succesiunea-apostolica", "sfintele-taine", "tainele-bisericii"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 853-852 î.Hr."
 image: "/images/personalitati/ahazia-al-lui-israel.jpg"
 order: 181
 tip: "rege"
+verify: false
 ---
 
 ## Bio

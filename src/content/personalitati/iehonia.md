@@ -4,6 +4,7 @@ title: "Rege al lui Iuda, 598-597 î.Hr."
 image: "/images/personalitati/iehonia.jpg"
 order: 172
 tip: "rege"
+verify: false
 ---
 
 ## Bio

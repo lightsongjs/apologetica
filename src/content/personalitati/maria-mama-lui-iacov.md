@@ -4,6 +4,7 @@ title: "Mironosiță, martoră a Răstignirii și Învierii, sec. I d.Hr."
 image: "/images/personalitati/maria-mama-lui-iacov.jpg"
 order: 77
 tip: "sfant"
+verify: false
 ---
 
 ## Bio

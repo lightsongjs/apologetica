@@ -3,6 +3,7 @@ name: "Gadara"
 title: "Oraș din Decapolis, locul vindecării demonizaților"
 image: "/images/locuri/gadara.jpg"
 order: 48
+verify: false
 ---
 
 ## Descriere

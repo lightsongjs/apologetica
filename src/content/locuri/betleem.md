@@ -3,6 +3,7 @@ name: "Betleem"
 title: "Cetatea lui David"
 image: "/images/locuri/betleem.jpg"
 order: 8
+verify: false
 ---
 
 ## Descriere

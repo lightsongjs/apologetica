@@ -4,6 +4,7 @@ title: "Fecioara Maria, Maica Domnului"
 image: "/images/personalitati/maica-domnului.jpg"
 order: 53
 tip: "nascatoare"
+verify: false
 ---
 
 ## Bio
@@ -100,7 +101,7 @@ Soțul Elisabetei, tatăl [[personalitati/ioan-botezatorul|Sfântului Ioan Botez
 ### [[personalitati/ioan-evanghelistul|Sfântul Apostol și Evanghelist Ioan]] (†c. 100)
 Ucenicul căruia Hristos i-a încredințat-o pe Maica Sa de pe Cruce. Conform tradiției, Ioan a îngrijit-o pe Maica Domnului până la Adormirea ei.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Logodnicul ei, ocrotitorul Sfintei Familii. Drept și ascultător poruncilor îngerești, a primit-o pe Maria și a ocrotit Pruncul Iisus.
 
 ### [[personalitati/simeon|Sfântul Drept Simeon]] (sec. I)

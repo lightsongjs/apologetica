@@ -3,6 +3,7 @@ name: "Betfaghe"
 title: "Sat pe Muntele Măslinilor, punct de plecare al Intrării în Ierusalim"
 image: "/images/locuri/betfaghe.jpg"
 order: 26
+verify: false
 ---
 
 ## Descriere

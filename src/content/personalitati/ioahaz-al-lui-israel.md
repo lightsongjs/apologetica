@@ -4,6 +4,7 @@ title: "Rege al lui Israel (Nord), c. 814-798 î.Hr."
 image: "/images/personalitati/ioahaz-al-lui-israel.jpg"
 order: 184
 tip: "rege"
+verify: false
 ---
 
 ## Bio

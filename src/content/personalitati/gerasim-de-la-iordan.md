@@ -4,6 +4,7 @@ title: "Cuvios, pustnic la Iordan, c. 401-475"
 image: "/images/personalitati/gerasim-de-la-iordan.jpg"
 order: 193
 tip: "parinte"
+verify: false
 ---
 
 ## Bio

@@ -2,6 +2,7 @@
 title: "Miracolele sunt imposibile"
 denomination: "atheist"
 order: 5
+verify: false
 ---
 
 ## Ce spun ei

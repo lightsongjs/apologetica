@@ -3,6 +3,7 @@ name: "Egipt"
 title: "Locul refugiului Sfintei Familii"
 image: "/images/locuri/egipt.jpg"
 order: 50
+verify: false
 ---
 
 ## Descriere
@@ -14,7 +15,7 @@ Fuga în Egipt împlinește profeția lui Osea: „Din Egipt am chemat pe Fiul M
 ## Evenimente biblice
 
 ### Fuga în Egipt (Matei 2:13-15)
-„Îngerul Domnului se arată în vis lui [[personalitati/iosif|Iosif]], zicând: Scoală-te, ia Pruncul și pe mama Lui și fugi în Egipt și stai acolo până ce-ți voi spune, căci Irod are să caute Pruncul ca să-L ucidă" (Matei 2:13). „Și a stat acolo până la moartea lui Irod, ca să se împlinească ce s-a zis de Domnul prin proorocul care zice: Din Egipt am chemat pe Fiul Meu" (Matei 2:15).
+„Îngerul Domnului se arată în vis lui [[personalitati/sfantul-drept-iosif|Iosif]], zicând: Scoală-te, ia Pruncul și pe mama Lui și fugi în Egipt și stai acolo până ce-ți voi spune, căci Irod are să caute Pruncul ca să-L ucidă" (Matei 2:13). „Și a stat acolo până la moartea lui Irod, ca să se împlinească ce s-a zis de Domnul prin proorocul care zice: Din Egipt am chemat pe Fiul Meu" (Matei 2:15).
 
 ### Întoarcerea din Egipt (Matei 2:19-21)
 „După moartea lui Irod, iată îngerul Domnului se arată în vis lui Iosif, în Egipt, zicând: Scoală-te, ia Pruncul și pe mama Lui și mergi în pământul lui Israel, căci au murit cei ce căutau sufletul Pruncului."
@@ -29,7 +30,7 @@ Singura sursă canonică a evenimentului.
 
 ## Personalități legate de acest loc
 
-### [[personalitati/iosif|Sfântul Drept Iosif]]
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]]
 Cel care a condus Sfânta Familie în Egipt la porunca îngerului.
 
 ### [[personalitati/irod-cel-mare|Irod cel Mare]]

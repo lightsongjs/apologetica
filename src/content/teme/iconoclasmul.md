@@ -8,6 +8,7 @@ condemned_at: "sinodul-7-ecumenic"
 related: ["sinoadele-ecumenice", "ereziile"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Fondatorul
@@ -49,9 +50,9 @@ Iconoclasmul cade în două erezii posibile:
 
 | Apărător | Contribuție |
 |----------|-------------|
-| [[personalitati/ioan-damaschin\|Sf. Ioan Damaschin]] | Cele 3 Tratate apologetice contra iconoclaștilor |
+| Sf. Ioan Damaschin | Cele 3 Tratate apologetice contra iconoclaștilor |
 | **Sf. Gherman** al Constantinopolului | S-a opus lui Leon III; depus din scaun (730) |
-| [[personalitati/teodor-studitul\|Sf. Teodor Studitul]] | A combătut a doua fază a iconoclasmului (815–843) |
+| Sf. Teodor Studitul | A combătut a doua fază a iconoclasmului (815–843) |
 
 ## Sinodul care a condamnat-o
 

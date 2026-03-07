@@ -4,6 +4,7 @@ title: "Mama Preasfintei Născătoare de Dumnezeu, sec. I î.Hr."
 image: "/images/personalitati/ana.jpg"
 order: 49
 tip: "sfant"
+verify: false
 ---
 
 ## Bio
@@ -67,7 +68,7 @@ Nepotul Sfintei Ana după trup — Fiul Fecioarei Maria. Ana este cinstită ca b
 ### [[personalitati/maica-domnului|Preasfânta Născătoare de Dumnezeu]]
 Fiica ei, rodul rugăciunii stăruitoare, cea care L-a născut pe Dumnezeu în trup.
 
-### [[personalitati/iosif|Sfântul Drept Iosif]] (sec. I)
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
 Ginerele ei, logodnicul Fecioarei Maria, ocrotitorul Sfintei Familii.
 
 ### [[personalitati/elisabeta|Sfânta Dreaptă Elisabeta]] (†sec. I d.Hr.)

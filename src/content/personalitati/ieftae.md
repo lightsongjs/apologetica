@@ -4,6 +4,7 @@ title: "Judecător al lui Israel, sec. XII î.Hr."
 image: "/images/personalitati/ieftae.jpg"
 order: 148
 tip: "judecator"
+verify: false
 ---
 
 ## Bio

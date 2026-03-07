@@ -7,6 +7,7 @@ tags: ["niceea", "iconoclasm", "icoane", "ioan-damaschin"]
 related: ["iconoclasmul", "sinoadele-ecumenice"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Context istoric

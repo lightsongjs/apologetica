@@ -3,6 +3,7 @@ name: "Damasc"
 title: "Locul convertirii lui Pavel, Siria"
 image: "/images/locuri/damasc.jpg"
 order: 22
+verify: false
 ---
 
 ## Descriere

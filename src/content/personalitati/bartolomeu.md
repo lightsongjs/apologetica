@@ -4,6 +4,7 @@ title: "Apostol, †sec. I d.Hr."
 image: "/images/personalitati/bartolomeu.jpg"
 order: 35
 tip: "apostol"
+verify: false
 ---
 
 ## Bio

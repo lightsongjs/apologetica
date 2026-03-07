@@ -7,6 +7,7 @@ tags: ["liturghie", "euharistie", "slujba", "altar"]
 related: ["euharistia", "sfintele-taine", "prezenta-reala"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

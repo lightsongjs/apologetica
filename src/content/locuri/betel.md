@@ -3,6 +3,7 @@ name: "Betel"
 title: "Loc al teofaniilor patriarhale și al idolatriei lui Ieroboam, Canaan"
 image: "/images/locuri/betel.jpg"
 order: 55
+verify: false
 ---
 
 ## Descriere

@@ -4,6 +4,7 @@ title: "Rege drept al lui Iuda, c. 726-697 î.Hr."
 image: "/images/personalitati/ezechia.jpg"
 order: 167
 tip: "rege"
+verify: false
 ---
 
 ## Bio
@@ -64,7 +65,7 @@ Rugăciunea de mulțumire a lui Ezechia după vindecare — o poezie profundă d
 ### [[personalitati/isaia|Sfântul Proroc Isaia]] (sec. VIII î.Hr.)
 Consilierul spiritual al lui Ezechia, cel care i-a transmis cuvântul Domnului în criza asiriană și în boală. Relația dintre Ezechia și Isaia este modelul colaborării dintre rege și profet.
 
-### [[personalitati/manase|Regele Manase]] (697-642 î.Hr.)
+### [[personalitati/manase-regele|Regele Manase]] (697-642 î.Hr.)
 Fiul lui Ezechia, care a inversat toate reformele tatălui și a devenit cel mai rău rege al lui Iuda — până la pocăința sa din captivitate.
 
 ### [[personalitati/ahaz|Regele Ahaz]] (c. 742-726 î.Hr.)

@@ -4,6 +4,7 @@ title: "Profet major, sec. VIII î.Hr."
 image: "/images/personalitati/isaia.jpg"
 order: 5
 tip: "profet"
+verify: false
 ---
 
 ## Bio
@@ -28,8 +29,8 @@ Isaia îl sfătuiește pe regele Iezechia să nu se teamă de Sanherib al Asirie
 ### Scrierile despre Robul suferind (perioadă incertă)
 Cele patru „Cântări ale Robului" (Isaia 42, 49, 50, 52-53) descriu cu precizie uimitoare patimile, moartea și învierea lui Hristos, scrise cu secole înainte.
 
-### Martiriul (tradiție, sub [[personalitati/manase|Manase]], c. 686 î.Hr.)
-Tradiția iudaică și creștină spune că Isaia a fost tăiat cu fierăstrăul de lemn din porunca regelui [[personalitati/manase|Manase]]. Epistola către Evrei 11:37 face posibil aluzie la acest eveniment.
+### Martiriul (tradiție, sub [[personalitati/manase-regele|Manase]], c. 686 î.Hr.)
+Tradiția iudaică și creștină spune că Isaia a fost tăiat cu fierăstrăul de lemn din porunca regelui [[personalitati/manase-regele|Manase]]. Epistola către Evrei 11:37 face posibil aluzie la acest eveniment.
 
 ## Surse și scrieri
 
@@ -64,7 +65,7 @@ Regele din a cărui seminție a profetizat Isaia despre „Odrasla lui Iesei" (I
 ### [[personalitati/ezechia|Regele Ezechia]] (c. 726-697 î.Hr.)
 Unul dintre cei mai evlavioși regi ai lui Iuda. Isaia l-a sfătuit în timpul invaziei asiriene și i-a transmis vindecarea de la Dumnezeu când era bolnav de moarte (Isaia 38).
 
-### [[personalitati/manase|Regele Manase]] (697-642 î.Hr.)
+### [[personalitati/manase-regele|Regele Manase]] (697-642 î.Hr.)
 Fiul lui Iezechia, care a domnit după el și, conform tradiției, l-a martirizat pe Isaia, tăindu-l cu fierăstrăul de lemn. Contrastul între evlavia lui Iezechia și idolatria lui Manase este dramatic - iar Isaia a plătit cu viața pentru credincioșia sa profetică.
 
 ### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)

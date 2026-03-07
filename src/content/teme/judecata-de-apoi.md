@@ -7,6 +7,7 @@ tags: ["judecata-de-apoi", "a-doua-venire", "invierea-mortilor", "parusía"]
 related: ["raiul", "iadul", "mantuirea"]
 completeness: "stub"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Definiție

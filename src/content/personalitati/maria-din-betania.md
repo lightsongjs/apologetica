@@ -4,6 +4,7 @@ title: "Sora lui Lazăr și a Martei, sec. I d.Hr."
 image: "/images/personalitati/maria-din-betania.jpg"
 order: 66
 tip: "sfant"
+verify: false
 ---
 
 ## Bio

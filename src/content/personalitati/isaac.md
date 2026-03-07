@@ -4,6 +4,7 @@ title: "Fiul făgăduinței, c. 2000-1800 î.Hr."
 image: "/images/personalitati/isaac.jpg"
 order: 84
 tip: "patriarh"
+verify: false
 ---
 
 ## Bio
@@ -57,8 +58,20 @@ Cel prefigurat de Isaac: Fiul unic al Tatălui, adus la jertfă pe același munt
 ### [[personalitati/avraam|Sfântul Patriarh Avraam]] (c. 2000 î.Hr.)
 Tatăl său, care l-a adus la jertfă pe Moria prin credință: „A socotit că Dumnezeu poate și din morți să învieze" (Evrei 11:19).
 
+### [[personalitati/sarra|Sfânta Matriarhă Sarra]] (c. 2080-1947 î.Hr.)
+Mama sa, care l-a născut la 90 de ani printr-o minune divină. „Râs mi-a făcut mie Dumnezeu" (Facerea 21:6).
+
+### [[personalitati/rebeca|Sfânta Matriarhă Rebeca]] (c. 1955 î.Hr.)
+Soția sa, aleasă prin providența divină la fântâna din Haran. Mama lui Iacov și Esau.
+
 ### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov/Israel]] (c. 1800 î.Hr.)
 Fiul său, care a primit binecuvântarea și a devenit tatăl celor douăsprezece seminții ale lui Israel.
+
+### [[personalitati/esau|Esau]] (c. 1916 î.Hr.)
+Fiul său mai mare, geamănul lui Iacov, care a vândut dreptul de întâi-născut pentru o farfurie de linte.
+
+### [[personalitati/ismael|Ismael]] (c. 1990-1853 î.Hr.)
+Fratele său vitreg, fiul lui Avraam cu Agar. Deși nu moștenitorul Legământului, a fost binecuvântat de Dumnezeu.
 
 ## Versete cheie
 

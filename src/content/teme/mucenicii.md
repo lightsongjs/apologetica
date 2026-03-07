@@ -7,6 +7,7 @@ tags: ["mucenici", "martiri", "persecutii"]
 related: ["apostolii", "parintii-bisericii"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Introducere
@@ -26,20 +27,20 @@ Biserica Ortodoxă distinge între:
 
 | Mucenic | Dată | Loc | Mod de mucenicie | Note |
 |---------|------|-----|------------------|------|
-| [[personalitati/stefan-intaiul-mucenic\|Sfântul Ștefan]] | c. 34 d.Hr. | Ierusalim | Ucis cu pietre | Primul mucenic creștin; arhidiacon; „Văd cerurile deschise" (Fapte 7:56) |
-| [[personalitati/iacob-zebedeu\|Sfântul Iacob al lui Zebedeu]] | c. 44 d.Hr. | Ierusalim | Decapitat | Primul apostol mucenic (Fapte 12:2) |
-| [[personalitati/longhin\|Sfântul Longhin Sutașul]] | sec. I | Capadocia | Decapitat | Sutașul de la Cruce care a mărturisit: „Cu adevărat Fiul lui Dumnezeu era Acesta" |
-| [[personalitati/sfanta-fotini\|Sfânta Fotini]] | sec. I | Roma (tradiție) | Aruncată într-un puț | Samarineanca de la fântână; a propovăduit în Cartagina și Roma |
+| Sfântul Ștefan | c. 34 d.Hr. | Ierusalim | Ucis cu pietre | Primul mucenic creștin; arhidiacon; „Văd cerurile deschise" (Fapte 7:56) |
+| Sfântul Iacob al lui Zebedeu | c. 44 d.Hr. | Ierusalim | Decapitat | Primul apostol mucenic (Fapte 12:2) |
+| Sfântul Longhin Sutașul | sec. I | Capadocia | Decapitat | Sutașul de la Cruce care a mărturisit: „Cu adevărat Fiul lui Dumnezeu era Acesta" |
+| Sfânta Fotini | sec. I | Roma (tradiție) | Aruncată într-un puț | Samarineanca de la fântână; a propovăduit în Cartagina și Roma |
 
 ### Persecuțiile romane (sec. II–IV)
 
 | Mucenic | Dată | Loc | Mod de mucenicie | Persecutor |
 |---------|------|-----|------------------|------------|
-| [[personalitati/ignatie-teoforul\|Sfântul Ignatie Teoforul]] | c. 107–110 | Roma | Sfâșiat de fiare | Traian |
-| [[personalitati/policarp\|Sfântul Policarp]] | c. 155–167 | Smirna | Ars pe rug | (proconsul local) |
-| [[personalitati/perpetua-din-cartagina\|Sfânta Perpetua]] și Felicitas | 7 martie 203 | Cartagina | Atacate de fiare, ucise de gladiatori | Septimius Sever |
-| [[personalitati/ciprian-al-cartaginei\|Sfântul Ciprian al Cartaginei]] | 14 sept. 258 | Cartagina | Decapitat | Valerian |
-| [[personalitati/teodor-tiron\|Sfântul Teodor Tiron]] | 17 feb. 306 | Amaseia | Ars pe rug | Maximian |
+| Sfântul Ignatie Teoforul | c. 107–110 | Roma | Sfâșiat de fiare | Traian |
+| Sfântul Policarp | c. 155–167 | Smirna | Ars pe rug | (proconsul local) |
+| Sfânta Perpetua și Felicitas | 7 martie 203 | Cartagina | Atacate de fiare, ucise de gladiatori | Septimius Sever |
+| Sfântul Ciprian al Cartaginei | 14 sept. 258 | Cartagina | Decapitat | Valerian |
+| Sfântul Teodor Tiron | 17 feb. 306 | Amaseia | Ars pe rug | Maximian |
 
 ## Neomucenicii
 
@@ -47,17 +48,17 @@ Neomucenicii sunt sfinții care au mărturisit credința ortodoxă sub stăpâni
 
 | Mucenic | Dată | Loc | Note |
 |---------|------|-----|------|
-| [[personalitati/efrem-cel-nou\|Cuviosul Efrem cel Nou]] | 5 mai 1426 | Nea Makri, Grecia | Monah; torturat și spânzurat de un copac; moaștele descoperite în 1950 |
-| [[personalitati/rafael-irina-si-nicolae\|Sf. Rafael, Irina și Nicolae]] | Marți după Paști, 1463 | Thermi, Lesbos | Rafael — monah, ars și tăiat; Irina — fecioara de 12 ani; Nicolae — diaconul; moaștele descoperite în 1959 |
+| Cuviosul Efrem cel Nou | 5 mai 1426 | Nea Makri, Grecia | Monah; torturat și spânzurat de un copac; moaștele descoperite în 1950 |
+| Sf. Rafael, Irina și Nicolae | Marți după Paști, 1463 | Thermi, Lesbos | Rafael — monah, ars și tăiat; Irina — fecioara de 12 ani; Nicolae — diaconul; moaștele descoperite în 1959 |
 
 ## Mucenicii Vechiului Testament
 
 Tradiția ortodoxă cinstește și pe mucenicii dinainte de Hristos:
 
 - **Sfinții Macabei** (7 frați, mama lor Solomonia și bătrânul Eleazar) — uciși de Antioh Epifanes (167 î.Hr.) pentru refuzul de a mânca carne de porc (2 Macabei 6–7). Prăznuiți la **1 august**.
-- **Sfântul Proroc [[personalitati/isaia\|Isaia]]** — tradiția spune că a fost tăiat cu fierăstrăul de regele [[personalitati/manase\|Manase]] (cf. Evrei 11:37).
-- **Sfântul Proroc [[personalitati/ieremia\|Ieremia]]** — tradiția spune că a fost ucis cu pietre de propriul popor în Egipt.
-- **[[personalitati/ioan-botezatorul\|Sfântul Ioan Botezătorul]]** — decapitat de [[personalitati/irod-antipa\|Irod Antipa]] la cererea Irodiadei. Prăznuit ca mucenic la **29 august** (Tăierea Capului).
+- **Sfântul Proroc Isaia** — tradiția spune că a fost tăiat cu fierăstrăul de regele Manase (cf. Evrei 11:37).
+- **Sfântul Proroc Ieremia** — tradiția spune că a fost ucis cu pietre de propriul popor în Egipt.
+- **Sfântul Ioan Botezătorul** — decapitat de Irod Antipa la cererea Irodiadei. Prăznuit ca mucenic la **29 august** (Tăierea Capului).
 
 ## Observații
 

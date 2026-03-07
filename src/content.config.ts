@@ -8,6 +8,7 @@ const conversations = defineCollection({
     title: z.string(),
     denomination: z.string(),
     order: z.number(),
+    verify: z.boolean().default(false),
   }),
 });
 
@@ -24,6 +25,7 @@ const personalitati = defineCollection({
     image: z.string(),
     order: z.number(),
     tip: z.string().optional(),
+    verify: z.boolean().default(false),
   }),
 });
 
@@ -34,6 +36,7 @@ const locuri = defineCollection({
     title: z.string(),
     image: z.string(),
     order: z.number(),
+    verify: z.boolean().default(false),
   }),
 });
 

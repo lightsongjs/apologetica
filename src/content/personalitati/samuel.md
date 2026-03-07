@@ -4,6 +4,7 @@ title: "Profet și Judecător, sec. XI î.Hr."
 image: "/images/personalitati/samuel.jpg"
 order: 17
 tip: "judecator"
+verify: false
 ---
 
 ## Bio

@@ -7,6 +7,7 @@ tags: ["liberul-arbitru", "harul", "vointa"]
 related: ["calvinismul"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Ce este Liberul Arbitru?

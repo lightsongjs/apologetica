@@ -8,6 +8,7 @@ export const ContentTypeEnum = z.enum([
   'doctrina',         // Doctrines
   'personalitate',    // Historical figures (for teme about people)
   'tema-generala',    // General themes
+  'carte-biblica',    // Biblical books
 ]);
 
 export const CategoryEnum = z.enum([
@@ -46,6 +47,7 @@ export const ContentMetadataSchema = z.object({
   // NEW: Content status
   completeness: z.enum(['draft', 'complete', 'needs-review', 'stub']).default('draft'),
   last_updated: z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'Date must be YYYY-MM-DD').optional(),
+  verify: z.boolean().default(false),
 });
 
 export type ContentMetadata = z.infer<typeof ContentMetadataSchema>;
@@ -58,6 +60,7 @@ export const PersonalitatiFrontmatterSchema = z.object({
   image: z.string(),
   order: z.number().int(),
   tip: z.string().optional(),
+  verify: z.boolean().default(false),
 });
 
 export const LocuriFrontmatterSchema = z.object({
@@ -65,10 +68,12 @@ export const LocuriFrontmatterSchema = z.object({
   title: z.string(),
   image: z.string(),
   order: z.number().int(),
+  verify: z.boolean().default(false),
 });
 
 export const ConversationsFrontmatterSchema = z.object({
   title: z.string(),
   denomination: z.string(),
   order: z.number().int(),
+  verify: z.boolean().default(false),
 });

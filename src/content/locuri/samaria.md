@@ -3,6 +3,7 @@ name: "Samaria"
 title: "Regiunea dintre Iudeea și Galileea, locuită de samarineni"
 image: "/images/locuri/samaria.jpg"
 order: 35
+verify: false
 ---
 
 ## Descriere

@@ -7,6 +7,7 @@ tags: ["cosmologic", "cauza-prima", "dumnezeu"]
 related: ["reglajul-fin", "a-doua-lege-termodinamica"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Structura argumentului

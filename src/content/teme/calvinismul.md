@@ -7,6 +7,7 @@ tags: ["calvin", "predestinare", "tulip"]
 related: ["denominatiile-protestante", "luteranismul", "liberul-arbitru"]
 completeness: "complete"
 last_updated: "2026-03-05"
+verify: false
 ---
 
 ## Originea Calvinismului
