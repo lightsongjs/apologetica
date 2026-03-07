@@ -206,23 +206,31 @@ const denominationLabels: Record<string, string> = {
       return removeDiacritics(str.toLowerCase());
     }
 
+    // Match at word boundary (start of word)
+    function matchesWord(text, q) {
+      var n = normalize(text);
+      var regex = new RegExp('(?:^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+      return regex.test(n);
+    }
+
     function highlightMatch(text, query) {
       if (!query) return text;
-      const nq = normalize(query);
-      let pattern = '';
-      for (const ch of nq) {
+      var nq = normalize(query);
+      var pattern = '';
+      for (var i = 0; i < nq.length; i++) {
+        var ch = nq[i];
         if (ch === 'a') pattern += '[aăâĂÂ]';
         else if (ch === 'i') pattern += '[iîïÎÏ]';
         else if (ch === 's') pattern += '[sșşȘŞ]';
         else if (ch === 't') pattern += '[tțţȚŢ]';
         else pattern += ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       }
-      const regex = new RegExp(`(${pattern})`, 'gi');
+      var regex = new RegExp('(?<=^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])(' + pattern + ')', 'gi');
       return text.replace(regex, '<mark class="bg-primary/20 text-primary font-bold px-0.5 rounded">$1</mark>');
     }
 
     function performSearch(query) {
-      const q = normalize(query.trim());
+      var q = normalize(query.trim());
 
       if (!q) {
         sectionsGrid.classList.remove('hidden');
@@ -235,58 +243,51 @@ const denominationLabels: Record<string, string> = {
       sectionsGrid.classList.add('hidden');
       statsRow.classList.add('hidden');
 
-      const results = [];
+      var titleResults = [];
+      var subtitleResults = [];
 
-      conversations.forEach(conv => {
-        const denomLabel = denominationLabels[conv.data.denomination] || conv.data.denomination;
-        if (normalize(conv.data.title).includes(q) || normalize(denomLabel).includes(q)) {
-          const slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
-          results.push({
-            icon: 'forum',
-            label: denomLabel,
-            title: conv.data.title,
-            subtitle: null,
-            href: '/conversatii/' + conv.data.denomination + '/' + slug,
+      conversations.forEach(function(conv) {
+        var denomLabel = denominationLabels[conv.data.denomination] || conv.data.denomination;
+        var titleMatch = matchesWord(conv.data.title, q);
+        var denomMatch = matchesWord(denomLabel, q);
+        if (titleMatch || denomMatch) {
+          var slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
+          titleResults.push({
+            icon: 'forum', label: denomLabel, title: conv.data.title,
+            subtitle: null, href: '/conversatii/' + conv.data.denomination + '/' + slug,
           });
         }
       });
 
-      teme.forEach(tema => {
-        if (normalize(tema.data.title).includes(q) || normalize(tema.data.summary).includes(q)) {
-          results.push({
-            icon: 'auto_stories',
-            label: null,
-            title: tema.data.title,
-            subtitle: tema.data.summary,
-            href: '/teme/' + tema.id.replace('.md', ''),
+      teme.forEach(function(tema) {
+        if (matchesWord(tema.data.title, q)) {
+          titleResults.push({
+            icon: 'auto_stories', label: null, title: tema.data.title,
+            subtitle: tema.data.summary, href: '/teme/' + tema.id.replace('.md', ''),
           });
         }
       });
 
-      personalitati.forEach(pers => {
-        if (normalize(pers.data.name).includes(q) || normalize(pers.data.title).includes(q)) {
-          results.push({
-            icon: 'person_pin',
-            label: null,
-            title: pers.data.name,
-            subtitle: pers.data.title,
-            href: '/personalitati/' + pers.id.replace('.md', ''),
+      personalitati.forEach(function(pers) {
+        if (matchesWord(pers.data.name, q)) {
+          titleResults.push({
+            icon: 'person_pin', label: null, title: pers.data.name,
+            subtitle: pers.data.title, href: '/personalitati/' + pers.id.replace('.md', ''),
             image: pers.data.image,
           });
         }
       });
 
-      locuri.forEach(loc => {
-        if (normalize(loc.data.name).includes(q) || normalize(loc.data.title).includes(q)) {
-          results.push({
-            icon: 'location_on',
-            label: null,
-            title: loc.data.name,
-            subtitle: loc.data.title,
-            href: '/locuri/' + loc.id.replace('.md', ''),
+      locuri.forEach(function(loc) {
+        if (matchesWord(loc.data.name, q)) {
+          titleResults.push({
+            icon: 'location_on', label: null, title: loc.data.name,
+            subtitle: loc.data.title, href: '/locuri/' + loc.id.replace('.md', ''),
           });
         }
       });
+
+      var results = titleResults.concat(subtitleResults);
 
       if (results.length === 0) {
         searchResults.classList.add('hidden');
