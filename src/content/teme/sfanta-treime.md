@@ -21,7 +21,7 @@ verify: false
 - **Trei Persoane** (ὑποστάσεις — hypostaseis, persoane distincte)
 
 **Crezul Niceo-Constantinopolitan:**
-> „Cred într-**un** Dumnezeu, **Tatăl** Atotțitorul... și într-**unul** Domn Iisus Hristos, **Fiul** lui Dumnezeu... și în **Duhul Sfânt**, Domnul..."
+> „Cred într-**un** Dumnezeu, **Tatăl** Atotțiitorul... și într-**unul** Domn Iisus Hristos, **Fiul** lui Dumnezeu... și în **Duhul Sfânt**, Domnul..."
 
 ### Nu este contradicție
 
@@ -285,7 +285,7 @@ verify: false
 ## Simbolul de Credință (Niceo-Constantinopolitan)
 
 **Despre Tatăl:**
-> „Cred într-**un** Dumnezeu, **Tatăl Atotțitorul**, Făcătorul cerului și al pământului, al tuturor celor văzute și nevăzute."
+> „Cred într-**un** Dumnezeu, **Tatăl Atotțiitorul**, Făcătorul cerului și al pământului, al tuturor celor văzute și nevăzute."
 
 **Despre Fiul:**
 > „Și într-**unul** Domn Iisus Hristos, **Fiul lui Dumnezeu**, **Unul-Născut**, Care din Tatăl S-a născut mai înainte de toți vecii. **Lumină din Lumină, Dumnezeu adevărat din Dumnezeu adevărat**, născut, **nu făcut, Cel de o ființă cu Tatăl**, prin Care toate s-au făcut."

@@ -5,7 +5,7 @@
   --color-primary: #1754cf;
   --color-bg: #f6f6f8;
   --color-bg-dark: #111621;
-  --font-family-display: "Newsreader", serif;
+  --font-family-display: "Literata", serif;
 }
 
 html {
@@ -19,8 +19,9 @@ html.light {
 }
 
 body {
-  font-family: "Newsreader", serif;
+  font-family: "Literata", serif;
   -webkit-font-smoothing: antialiased;
+  text-align: justify;
 }
 
 .material-symbols-outlined {

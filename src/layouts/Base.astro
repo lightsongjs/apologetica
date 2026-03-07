@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import FloatingSearch from '../components/FloatingSearch.astro';
+import { getCollection } from 'astro:content';
 
 interface Props {
   title: string;
@@ -17,6 +17,18 @@ const {
   useHistoryBack = false,
   isHomePage = false,
 } = Astro.props;
+
+// Load search data for inline header search (non-homepage only)
+const conversations = !isHomePage ? await getCollection('conversations') : [];
+const teme = !isHomePage ? await getCollection('teme') : [];
+const personalitati = !isHomePage ? await getCollection('personalitati') : [];
+const locuri = !isHomePage ? await getCollection('locuri') : [];
+
+const denominationLabels: Record<string, string> = {
+  'atheist': 'Ateu',
+  'baptist': 'Baptist',
+  'martorii-lui-iehova': 'Martor al lui Iehova',
+};
 ---
 
 <!doctype html>
@@ -26,7 +38,7 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="description" content="Apologetică Ortodoxă - Răspunsuri rapide pentru conversații" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" />
     <title>{title} | Apologetica</title>
   </head>
@@ -34,7 +46,8 @@ const {
 
     <header class="sticky top-0 z-50 bg-bg/80 backdrop-blur-md border-b border-primary/10 px-4 py-3">
       <div class="max-w-xl mx-auto flex items-center justify-between">
-        <div class="flex items-center gap-2">
+        <!-- Normal header content -->
+        <div id="header-normal" class="flex items-center gap-2 flex-1 min-w-0">
           {useHistoryBack ? (
             <div class="flex items-center gap-1 -ml-2">
               <button id="history-back-btn" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
@@ -51,10 +64,28 @@ const {
           ) : (
             <span class="material-symbols-outlined text-primary text-3xl">menu_book</span>
           )}
-          <h1 class="text-xl font-bold tracking-tight text-primary">{headerTitle || title}</h1>
+          <h1 class="text-xl font-bold tracking-tight text-primary truncate">{headerTitle || title}</h1>
         </div>
+
+        <!-- Inline search input (hidden by default) -->
         {!isHomePage && (
-          <div class="flex items-center gap-1">
+          <div id="header-search-mode" class="hidden flex-1 items-center gap-2">
+            <span class="material-symbols-outlined text-primary/40 text-xl flex-shrink-0">search</span>
+            <input
+              type="text"
+              id="header-search-input"
+              placeholder="Caută..."
+              class="flex-1 bg-transparent border-none outline-none text-sm text-gray-900 placeholder:text-gray-400"
+              autocomplete="off"
+            />
+            <button id="header-search-close" class="text-primary/60 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors flex-shrink-0">
+              <span class="material-symbols-outlined text-xl">close</span>
+            </button>
+          </div>
+        )}
+
+        {!isHomePage && (
+          <div id="header-actions" class="flex items-center gap-1">
             <button id="header-search-btn" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors items-center justify-center hidden">
               <span class="material-symbols-outlined text-2xl">search</span>
             </button>
@@ -64,13 +95,22 @@ const {
           </div>
         )}
       </div>
+
+      <!-- Search results dropdown -->
+      {!isHomePage && (
+        <div id="header-search-dropdown" class="hidden max-w-xl mx-auto mt-2">
+          <div id="header-search-results" class="bg-white rounded-xl shadow-lg border border-primary/10 max-h-80 overflow-y-auto"></div>
+          <div id="header-no-results" class="hidden bg-white rounded-xl shadow-lg border border-primary/10 p-6 text-center">
+            <span class="material-symbols-outlined text-primary/20 text-3xl">search_off</span>
+            <p class="text-xs text-gray-500 mt-1">Niciun rezultat</p>
+          </div>
+        </div>
+      )}
     </header>
 
     <main class="flex-1 max-w-xl mx-auto w-full px-4 pb-8">
       <slot />
     </main>
-
-    {!isHomePage && <FloatingSearch />}
 
     <script>
       // Handle history back button
@@ -100,13 +140,185 @@ const {
         const headerSearchBtn = document.getElementById('header-search-btn');
         if (headerSearchBtn) {
           headerSearchBtn.style.display = 'flex';
-          // Connect to search overlay
-          headerSearchBtn.addEventListener('click', () => {
-            const floatingSearchBtn = document.getElementById('floating-search-btn');
-            floatingSearchBtn?.click();
-          });
         }
       }
     </script>
+
+    {!isHomePage && (
+      <script define:vars={{ conversations, teme, personalitati, locuri, denominationLabels }}>
+        const searchBtn = document.getElementById('header-search-btn');
+        const closeBtn = document.getElementById('header-search-close');
+        const headerNormal = document.getElementById('header-normal');
+        const headerActions = document.getElementById('header-actions');
+        const searchMode = document.getElementById('header-search-mode');
+        const searchInput = document.getElementById('header-search-input');
+        const dropdown = document.getElementById('header-search-dropdown');
+        const resultsContainer = document.getElementById('header-search-results');
+        const noResultsEl = document.getElementById('header-no-results');
+
+        function openSearch() {
+          headerNormal.classList.add('hidden');
+          headerActions.classList.add('hidden');
+          searchMode.classList.remove('hidden');
+          searchMode.classList.add('flex');
+          searchInput.focus();
+        }
+
+        function closeSearch() {
+          searchMode.classList.add('hidden');
+          searchMode.classList.remove('flex');
+          headerNormal.classList.remove('hidden');
+          headerActions.classList.remove('hidden');
+          dropdown.classList.add('hidden');
+          searchInput.value = '';
+          resultsContainer.innerHTML = '';
+          noResultsEl.classList.add('hidden');
+        }
+
+        searchBtn?.addEventListener('click', openSearch);
+        closeBtn?.addEventListener('click', closeSearch);
+
+        document.addEventListener('keydown', function(e) {
+          if (e.key === '/' && document.activeElement?.tagName !== 'INPUT' && document.activeElement?.tagName !== 'TEXTAREA') {
+            e.preventDefault();
+            openSearch();
+          }
+          if (e.key === 'Escape' && !searchMode.classList.contains('hidden')) {
+            closeSearch();
+          }
+        });
+
+        function removeDiacritics(str) {
+          return str
+            .replace(/[ăâ]/g, 'a').replace(/[ĂÂ]/g, 'A')
+            .replace(/[îï]/g, 'i').replace(/[ÎÏ]/g, 'I')
+            .replace(/[șş]/g, 's').replace(/[ȘŞ]/g, 'S')
+            .replace(/[țţ]/g, 't').replace(/[ȚŢ]/g, 'T');
+        }
+
+        function normalize(str) {
+          return removeDiacritics(str.toLowerCase());
+        }
+
+        function highlightMatch(text, query) {
+          if (!query) return text;
+          var nq = normalize(query);
+          var pattern = '';
+          for (var i = 0; i < nq.length; i++) {
+            var ch = nq[i];
+            if (ch === 'a') pattern += '[aăâĂÂ]';
+            else if (ch === 'i') pattern += '[iîïÎÏ]';
+            else if (ch === 's') pattern += '[sșşȘŞ]';
+            else if (ch === 't') pattern += '[tțţȚŢ]';
+            else pattern += ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          }
+          var regex = new RegExp('(' + pattern + ')', 'gi');
+          return text.replace(regex, '<mark class="bg-primary/20 text-primary font-bold px-0.5 rounded">$1</mark>');
+        }
+
+        function performSearch(query) {
+          var q = normalize(query.trim());
+
+          if (!q) {
+            dropdown.classList.add('hidden');
+            resultsContainer.innerHTML = '';
+            noResultsEl.classList.add('hidden');
+            return;
+          }
+
+          var results = [];
+
+          conversations.forEach(function(conv) {
+            var denomLabel = denominationLabels[conv.data.denomination] || conv.data.denomination;
+            if (normalize(conv.data.title).includes(q) || normalize(denomLabel).includes(q)) {
+              var slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
+              results.push({
+                icon: 'forum', label: denomLabel, title: conv.data.title,
+                subtitle: null, href: '/conversatii/' + conv.data.denomination + '/' + slug,
+              });
+            }
+          });
+
+          teme.forEach(function(tema) {
+            if (normalize(tema.data.title).includes(q) || normalize(tema.data.summary).includes(q)) {
+              results.push({
+                icon: 'auto_stories', label: null, title: tema.data.title,
+                subtitle: tema.data.summary, href: '/teme/' + tema.id.replace('.md', ''),
+              });
+            }
+          });
+
+          personalitati.forEach(function(pers) {
+            if (normalize(pers.data.name).includes(q) || normalize(pers.data.title).includes(q)) {
+              results.push({
+                icon: 'person_pin', label: null, title: pers.data.name,
+                subtitle: pers.data.title, href: '/personalitati/' + pers.id.replace('.md', ''),
+                image: pers.data.image,
+              });
+            }
+          });
+
+          locuri.forEach(function(loc) {
+            if (normalize(loc.data.name).includes(q) || normalize(loc.data.title).includes(q)) {
+              results.push({
+                icon: 'location_on', label: null, title: loc.data.name,
+                subtitle: loc.data.title, href: '/locuri/' + loc.id.replace('.md', ''),
+              });
+            }
+          });
+
+          if (results.length === 0) {
+            dropdown.classList.remove('hidden');
+            resultsContainer.innerHTML = '';
+            noResultsEl.classList.remove('hidden');
+            return;
+          }
+
+          noResultsEl.classList.add('hidden');
+          dropdown.classList.remove('hidden');
+
+          var oq = query.trim();
+          resultsContainer.innerHTML = results.slice(0, 8).map(function(r) {
+            var iconHtml = r.image
+              ? '<div class="w-8 h-8 flex-shrink-0 bg-cover bg-center rounded-lg border border-gray-200" style="background-image: url(\'' + r.image + '\')"></div>'
+              : '<div class="w-8 h-8 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center"><span class="material-symbols-outlined text-base text-primary">' + r.icon + '</span></div>';
+
+            var labelHtml = r.label
+              ? '<span class="text-[9px] font-bold text-primary/60 uppercase tracking-wider">' + r.label + ' · </span>'
+              : '';
+
+            return '<a href="' + r.href + '" class="flex items-center gap-3 px-3 py-2.5 hover:bg-primary/5 transition-colors border-b border-gray-50 last:border-0">'
+              + iconHtml
+              + '<div class="flex-1 min-w-0">'
+              + '<p class="text-sm font-semibold text-gray-900 truncate">' + labelHtml + highlightMatch(r.title, oq) + '</p>'
+              + (r.subtitle ? '<p class="text-xs text-gray-500 truncate">' + highlightMatch(r.subtitle, oq) + '</p>' : '')
+              + '</div>'
+              + '<span class="material-symbols-outlined text-sm text-primary/30">chevron_right</span>'
+              + '</a>';
+          }).join('');
+        }
+
+        searchInput?.addEventListener('input', function(e) {
+          performSearch(e.target.value);
+        });
+
+        searchInput?.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter') {
+            var firstLink = resultsContainer?.querySelector('a');
+            if (firstLink) {
+              e.preventDefault();
+              window.location.href = firstLink.getAttribute('href');
+            }
+          }
+        });
+
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!searchMode.classList.contains('hidden') && !e.target.closest('header')) {
+            closeSearch();
+          }
+        });
+      </script>
+    )}
   </body>
 </html>
