@@ -2,6 +2,8 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
+// Load collections only for stats display (not embedded in page)
+// Search data will be loaded dynamically via JSON endpoint at runtime
 const conversations = await getCollection('conversations');
 const teme = await getCollection('teme');
 const personalitati = await getCollection('personalitati');
@@ -12,12 +14,6 @@ const stats = {
   teme: teme.length,
   personalitati: personalitati.length,
   locuri: locuri.length,
-};
-
-const denominationLabels: Record<string, string> = {
-  'atheist': 'Ateu',
-  'baptist': 'Baptist',
-  'martorii-lui-iehova': 'Martor al lui Iehova',
 };
 ---
 
@@ -186,13 +182,26 @@ const denominationLabels: Record<string, string> = {
     }
   </style>
 
-  <script define:vars={{ conversations, teme, personalitati, locuri, denominationLabels }}>
+  <script>
+    // Load search data dynamically
+    let searchData = null;
+
     const searchInput = document.getElementById('home-search-input');
     const sectionsGrid = document.getElementById('sections-grid');
     const statsRow = document.getElementById('stats-row');
     const searchResults = document.getElementById('search-results');
     const searchResultsList = document.getElementById('search-results-list');
     const noResultsEl = document.getElementById('no-results');
+
+    // Preload search data on page load
+    fetch('/search-data.json')
+      .then(response => response.json())
+      .then(data => {
+        searchData = data;
+      })
+      .catch(error => {
+        console.error('Failed to load search data:', error);
+      });
 
     function removeDiacritics(str) {
       return str
@@ -230,6 +239,11 @@ const denominationLabels: Record<string, string> = {
     }
 
     function performSearch(query) {
+      if (!searchData) {
+        // Data not loaded yet
+        return;
+      }
+
       var q = normalize(query.trim());
 
       if (!q) {
@@ -246,43 +260,45 @@ const denominationLabels: Record<string, string> = {
       var titleResults = [];
       var subtitleResults = [];
 
+      const { conversations, teme, personalitati, locuri, denominationLabels } = searchData;
+
       conversations.forEach(function(conv) {
-        var denomLabel = denominationLabels[conv.data.denomination] || conv.data.denomination;
-        var titleMatch = matchesWord(conv.data.title, q);
+        var denomLabel = denominationLabels[conv.denomination] || conv.denomination;
+        var titleMatch = matchesWord(conv.title, q);
         var denomMatch = matchesWord(denomLabel, q);
         if (titleMatch || denomMatch) {
           var slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
           titleResults.push({
-            icon: 'forum', label: denomLabel, title: conv.data.title,
-            subtitle: null, href: '/conversatii/' + conv.data.denomination + '/' + slug,
+            icon: 'forum', label: denomLabel, title: conv.title,
+            subtitle: null, href: '/conversatii/' + conv.denomination + '/' + slug,
           });
         }
       });
 
       teme.forEach(function(tema) {
-        if (matchesWord(tema.data.title, q)) {
+        if (matchesWord(tema.title, q)) {
           titleResults.push({
-            icon: 'auto_stories', label: null, title: tema.data.title,
-            subtitle: tema.data.summary, href: '/teme/' + tema.id.replace('.md', ''),
+            icon: 'auto_stories', label: null, title: tema.title,
+            subtitle: tema.summary, href: '/teme/' + tema.id.replace('.md', ''),
           });
         }
       });
 
       personalitati.forEach(function(pers) {
-        if (matchesWord(pers.data.name, q)) {
+        if (matchesWord(pers.name, q)) {
           titleResults.push({
-            icon: 'person_pin', label: null, title: pers.data.name,
-            subtitle: pers.data.title, href: '/personalitati/' + pers.id.replace('.md', ''),
-            image: pers.data.image,
+            icon: 'person_pin', label: null, title: pers.name,
+            subtitle: pers.title, href: '/personalitati/' + pers.id.replace('.md', ''),
+            image: pers.image,
           });
         }
       });
 
       locuri.forEach(function(loc) {
-        if (matchesWord(loc.data.name, q)) {
+        if (matchesWord(loc.name, q)) {
           titleResults.push({
-            icon: 'location_on', label: null, title: loc.data.name,
-            subtitle: loc.data.title, href: '/locuri/' + loc.id.replace('.md', ''),
+            icon: 'location_on', label: null, title: loc.name,
+            subtitle: loc.title, href: '/locuri/' + loc.id.replace('.md', ''),
           });
         }
       });

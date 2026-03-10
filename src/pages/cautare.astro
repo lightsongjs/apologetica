@@ -1,17 +1,7 @@
 ---
-import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 
-const conversations = await getCollection('conversations');
-const teme = await getCollection('teme');
-const personalitati = await getCollection('personalitati');
-const locuri = await getCollection('locuri');
-
-const denominationLabels: Record<string, string> = {
-  'atheist': 'Ateu',
-  'baptist': 'Baptist',
-  'martorii-lui-iehova': 'Martor al lui Iehova',
-};
+// No data loading needed - will fetch dynamically via JSON endpoint
 ---
 
 <Base title="Căutare" headerTitle="Căutare" backHref="/" activeNav="search">
@@ -171,7 +161,22 @@ const denominationLabels: Record<string, string> = {
     .result-card:nth-child(n+6) { animation-delay: 0.30s; }
   </style>
 
-  <script define:vars={{ conversations, teme, personalitati, locuri, denominationLabels }}>
+  <script>
+    // Load search data dynamically
+    let searchData = null;
+
+    // Preload search data on page load
+    fetch('/search-data.json')
+      .then(response => response.json())
+      .then(data => {
+        searchData = data;
+        // Enable search input after data is loaded
+        searchInput.disabled = false;
+      })
+      .catch(error => {
+        console.error('Failed to load search data:', error);
+      });
+
     const searchInput = document.getElementById('search-input');
     const searchHint = document.getElementById('search-hint');
     const resultsContainer = document.getElementById('results-container');
@@ -251,6 +256,13 @@ const denominationLabels: Record<string, string> = {
     }
 
     function performSearch(query) {
+      if (!searchData) {
+        // Data not loaded yet
+        return;
+      }
+
+      const { conversations, teme, personalitati, locuri, denominationLabels } = searchData;
+
       const originalQuery = query.trim();
       query = removeDiacritics(query.toLowerCase().trim());
 
@@ -270,10 +282,10 @@ const denominationLabels: Record<string, string> = {
         .map(conv => {
           let score = 0;
           // Title match = highest priority
-          if (matchesAtWordBoundary(conv.data.title, query)) score += 100;
+          if (matchesAtWordBoundary(conv.title, query)) score += 100;
           // Denomination match = lower priority
-          if (matchesAtWordBoundary(conv.data.denomination, query)) score += 50;
-          if (matchesAtWordBoundary(denominationLabels[conv.data.denomination] || '', query)) score += 50;
+          if (matchesAtWordBoundary(conv.denomination, query)) score += 50;
+          if (matchesAtWordBoundary(denominationLabels[conv.denomination] || '', query)) score += 50;
 
           return { item: conv, score };
         })
@@ -286,9 +298,9 @@ const denominationLabels: Record<string, string> = {
         .map(tema => {
           let score = 0;
           // Title match = highest priority
-          if (matchesAtWordBoundary(tema.data.title, query)) score += 100;
+          if (matchesAtWordBoundary(tema.title, query)) score += 100;
           // Summary match = lower priority
-          if (matchesAtWordBoundary(tema.data.summary, query)) score += 50;
+          if (matchesAtWordBoundary(tema.summary, query)) score += 50;
 
           return { item: tema, score };
         })
@@ -301,9 +313,9 @@ const denominationLabels: Record<string, string> = {
         .map(pers => {
           let score = 0;
           // Name match = highest priority (this is the main identifier)
-          if (matchesAtWordBoundary(pers.data.name, query)) score += 100;
+          if (matchesAtWordBoundary(pers.name, query)) score += 100;
           // Title match = lower priority (description/role)
-          if (matchesAtWordBoundary(pers.data.title, query)) score += 50;
+          if (matchesAtWordBoundary(pers.title, query)) score += 50;
 
           return { item: pers, score };
         })
@@ -316,9 +328,9 @@ const denominationLabels: Record<string, string> = {
         .map(loc => {
           let score = 0;
           // Name match = highest priority
-          if (matchesAtWordBoundary(loc.data.name, query)) score += 100;
+          if (matchesAtWordBoundary(loc.name, query)) score += 100;
           // Title match = lower priority
-          if (matchesAtWordBoundary(loc.data.title, query)) score += 50;
+          if (matchesAtWordBoundary(loc.title, query)) score += 50;
 
           return { item: loc, score };
         })
@@ -343,7 +355,7 @@ const denominationLabels: Record<string, string> = {
         conversationsCount.textContent = matchedConversations.length;
         conversationsResults.innerHTML = matchedConversations.map(conv => {
           const slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
-          const denomination = conv.data.denomination;
+          const denomination = conv.denomination;
           const denominationLabel = denominationLabels[denomination] || denomination;
 
           return `
@@ -353,7 +365,7 @@ const denominationLabels: Record<string, string> = {
               </div>
               <div class="flex-1 min-w-0">
                 <div class="text-xs font-bold text-primary/60 uppercase tracking-wider mb-1">${denominationLabel}</div>
-                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(conv.data.title, originalQuery)}</h3>
+                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(conv.title, originalQuery)}</h3>
               </div>
               <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
             </a>
@@ -375,8 +387,8 @@ const denominationLabels: Record<string, string> = {
                 <span class="material-symbols-outlined text-xl">auto_stories</span>
               </div>
               <div class="flex-1 min-w-0">
-                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(tema.data.title, originalQuery)}</h3>
-                <p class="text-sm text-primary/60 leading-relaxed line-clamp-2">${highlightMatch(tema.data.summary, originalQuery)}</p>
+                <h3 class="font-bold text-base mb-1 group-hover:text-primary transition-colors">${highlightMatch(tema.title, originalQuery)}</h3>
+                <p class="text-sm text-primary/60 leading-relaxed line-clamp-2">${highlightMatch(tema.summary, originalQuery)}</p>
               </div>
               <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
             </a>
@@ -396,11 +408,11 @@ const denominationLabels: Record<string, string> = {
             <a href="/personalitati/${slug}" class="result-card group bg-white rounded-xl p-4 border border-primary/10 hover:border-primary/40 transition-all shadow-sm hover:shadow-md flex items-start gap-3">
               <div
                 class="bg-top bg-no-repeat aspect-square bg-cover rounded-full border-2 border-primary/20 h-12 w-12 flex-shrink-0 group-hover:border-primary/60 transition-colors"
-                style="background-image: url('${pers.data.image}')"
+                style="background-image: url('${pers.image}')"
               ></div>
               <div class="flex-1 min-w-0">
-                <h3 class="font-bold text-base mb-0.5 group-hover:text-primary transition-colors">${highlightMatch(pers.data.name, originalQuery)}</h3>
-                <p class="text-sm text-primary/60 italic">${highlightMatch(pers.data.title, originalQuery)}</p>
+                <h3 class="font-bold text-base mb-0.5 group-hover:text-primary transition-colors">${highlightMatch(pers.name, originalQuery)}</h3>
+                <p class="text-sm text-primary/60 italic">${highlightMatch(pers.title, originalQuery)}</p>
               </div>
               <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
             </a>
@@ -422,8 +434,8 @@ const denominationLabels: Record<string, string> = {
                 <span class="material-symbols-outlined text-xl">location_on</span>
               </div>
               <div class="flex-1 min-w-0">
-                <h3 class="font-bold text-base mb-0.5 group-hover:text-primary transition-colors">${highlightMatch(loc.data.name, originalQuery)}</h3>
-                <p class="text-sm text-primary/60 italic">${highlightMatch(loc.data.title, originalQuery)}</p>
+                <h3 class="font-bold text-base mb-0.5 group-hover:text-primary transition-colors">${highlightMatch(loc.name, originalQuery)}</h3>
+                <p class="text-sm text-primary/60 italic">${highlightMatch(loc.title, originalQuery)}</p>
               </div>
               <span class="material-symbols-outlined text-primary/20 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1">chevron_right</span>
             </a>

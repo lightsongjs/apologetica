@@ -18,17 +18,7 @@ const {
   isHomePage = false,
 } = Astro.props;
 
-// Load search data for inline header search (non-homepage only)
-const conversations = !isHomePage ? await getCollection('conversations') : [];
-const teme = !isHomePage ? await getCollection('teme') : [];
-const personalitati = !isHomePage ? await getCollection('personalitati') : [];
-const locuri = !isHomePage ? await getCollection('locuri') : [];
-
-const denominationLabels: Record<string, string> = {
-  'atheist': 'Ateu',
-  'baptist': 'Baptist',
-  'martorii-lui-iehova': 'Martor al lui Iehova',
-};
+// No data loading needed - will fetch dynamically via JSON endpoint
 ---
 
 <!doctype html>
@@ -145,7 +135,11 @@ const denominationLabels: Record<string, string> = {
     </script>
 
     {!isHomePage && (
-      <script define:vars={{ conversations, teme, personalitati, locuri, denominationLabels }}>
+      <script>
+        // Fetch search data dynamically
+        let searchData = null;
+        let isLoading = false;
+
         const searchBtn = document.getElementById('header-search-btn');
         const closeBtn = document.getElementById('header-search-close');
         const headerNormal = document.getElementById('header-normal');
@@ -156,12 +150,26 @@ const denominationLabels: Record<string, string> = {
         const resultsContainer = document.getElementById('header-search-results');
         const noResultsEl = document.getElementById('header-no-results');
 
+        async function loadSearchData() {
+          if (searchData || isLoading) return;
+          isLoading = true;
+          try {
+            const response = await fetch('/search-data.json');
+            searchData = await response.json();
+          } catch (error) {
+            console.error('Failed to load search data:', error);
+          } finally {
+            isLoading = false;
+          }
+        }
+
         function openSearch() {
           headerNormal.classList.add('hidden');
           headerActions.classList.add('hidden');
           searchMode.classList.remove('hidden');
           searchMode.classList.add('flex');
           searchInput.focus();
+          loadSearchData(); // Load data when search is opened
         }
 
         function closeSearch() {
@@ -223,6 +231,11 @@ const denominationLabels: Record<string, string> = {
         }
 
         function performSearch(query) {
+          if (!searchData) {
+            // Data not loaded yet, show loading or wait
+            return;
+          }
+
           var q = normalize(query.trim());
 
           if (!q) {
@@ -235,41 +248,43 @@ const denominationLabels: Record<string, string> = {
           var titleResults = [];
           var subtitleResults = [];
 
+          const { conversations, teme, personalitati, locuri, denominationLabels } = searchData;
+
           conversations.forEach(function(conv) {
-            var denomLabel = denominationLabels[conv.data.denomination] || conv.data.denomination;
-            if (matchesWord(conv.data.title, q) || matchesWord(denomLabel, q)) {
+            var denomLabel = denominationLabels[conv.denomination] || conv.denomination;
+            if (matchesWord(conv.title, q) || matchesWord(denomLabel, q)) {
               var slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
               titleResults.push({
-                icon: 'forum', label: denomLabel, title: conv.data.title,
-                subtitle: null, href: '/conversatii/' + conv.data.denomination + '/' + slug,
+                icon: 'forum', label: denomLabel, title: conv.title,
+                subtitle: null, href: '/conversatii/' + conv.denomination + '/' + slug,
               });
             }
           });
 
           teme.forEach(function(tema) {
-            if (matchesWord(tema.data.title, q)) {
+            if (matchesWord(tema.title, q)) {
               titleResults.push({
-                icon: 'auto_stories', label: null, title: tema.data.title,
-                subtitle: tema.data.summary, href: '/teme/' + tema.id.replace('.md', ''),
+                icon: 'auto_stories', label: null, title: tema.title,
+                subtitle: tema.summary, href: '/teme/' + tema.id.replace('.md', ''),
               });
             }
           });
 
           personalitati.forEach(function(pers) {
-            if (matchesWord(pers.data.name, q)) {
+            if (matchesWord(pers.name, q)) {
               titleResults.push({
-                icon: 'person_pin', label: null, title: pers.data.name,
-                subtitle: pers.data.title, href: '/personalitati/' + pers.id.replace('.md', ''),
-                image: pers.data.image,
+                icon: 'person_pin', label: null, title: pers.name,
+                subtitle: pers.title, href: '/personalitati/' + pers.id.replace('.md', ''),
+                image: pers.image,
               });
             }
           });
 
           locuri.forEach(function(loc) {
-            if (matchesWord(loc.data.name, q)) {
+            if (matchesWord(loc.name, q)) {
               titleResults.push({
-                icon: 'location_on', label: null, title: loc.data.name,
-                subtitle: loc.data.title, href: '/locuri/' + loc.id.replace('.md', ''),
+                icon: 'location_on', label: null, title: loc.name,
+                subtitle: loc.title, href: '/locuri/' + loc.id.replace('.md', ''),
               });
             }
           });
