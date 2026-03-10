@@ -8,6 +8,7 @@ related: ["sfanta-scriptura", "cartile-deuterocanonice", "increderea-in-biblie"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "apologetica"
 ---
 
 ## Ce înseamnă „canon"

@@ -8,6 +8,7 @@ related: ["luteranismul", "calvinismul", "anglicanismul", "baptistii"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "denominatii-crestine"
 ---
 
 ## Introducere

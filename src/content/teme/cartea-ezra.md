@@ -8,6 +8,8 @@ related: ["cartea-2-cronici", "cartea-neemia", "profetiile-mesianice", "cartea-h
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "carti-istorice"
+order: 10
 ---
 
 ## Prezentare generală

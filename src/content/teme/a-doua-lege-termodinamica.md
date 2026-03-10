@@ -8,6 +8,7 @@ related: ["argumentul-cosmologic", "reglajul-fin"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "apologetica"
 ---
 
 ## Ce este a doua lege?

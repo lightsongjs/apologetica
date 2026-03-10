@@ -8,6 +8,7 @@ related: ["iconoclasmul", "sinoadele-ecumenice"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "sinoadele-ecumenice"
 ---
 
 ## Context istoric

@@ -8,6 +8,8 @@ related: ["evanghelia-marcu", "evanghelia-luca", "evanghelia-ioan", "cartea-isai
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "evanghelii"
+order: 1
 ---
 
 ## Prezentare generală

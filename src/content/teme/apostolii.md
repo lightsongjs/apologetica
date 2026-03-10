@@ -8,6 +8,7 @@ related: ["mucenicii", "parintii-bisericii", "profetiile-mesianice"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "istorie-biblica"
 ---
 
 ## Introducere

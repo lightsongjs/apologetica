@@ -8,6 +8,8 @@ related: ["cartea-daniel", "cartea-ezechiel", "evanghelia-ioan"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "noul-testament"
+order: 5
 ---
 
 ## Prezentare generală

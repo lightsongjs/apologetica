@@ -8,6 +8,8 @@ related: ["cartea-2-samuel", "cartea-2-regi", "psalmi", "profetiile-mesianice", 
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "carti-istorice"
+order: 6
 ---
 
 ## Prezentare generală

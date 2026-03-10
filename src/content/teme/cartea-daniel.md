@@ -8,6 +8,8 @@ related: ["cartea-ezechiel", "apocalipsa", "cartea-isaia", "evanghelia-matei"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mari"
+order: 6
 ---
 
 ## Prezentare generală

@@ -8,6 +8,8 @@ related: ["evanghelia-matei", "evanghelia-marcu", "evanghelia-ioan", "faptele-ap
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "evanghelii"
+order: 3
 ---
 
 ## Prezentare generală

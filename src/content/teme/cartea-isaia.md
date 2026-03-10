@@ -8,6 +8,8 @@ related: ["evanghelia-matei", "evanghelia-luca", "epistola-romani", "cartea-dani
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mari"
+order: 1
 ---
 
 ## Prezentare generală

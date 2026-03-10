@@ -8,6 +8,8 @@ related: ["cartea-avacum", "cartea-iona", "cartea-tefania", "cartea-isaia"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mici"
+order: 7
 ---
 
 ## Prezentare generală

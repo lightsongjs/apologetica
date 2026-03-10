@@ -8,6 +8,8 @@ related: ["evanghelia-luca", "duhul-sfant"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "noul-testament"
+order: 2
 ---
 
 ## Prezentare generală

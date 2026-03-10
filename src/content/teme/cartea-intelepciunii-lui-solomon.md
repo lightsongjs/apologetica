@@ -8,6 +8,8 @@ related: ["psalmi", "proverbe", "cartea-iov"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "cartile-deuterocanonice"
+order: 3
 ---
 
 ## Prezentare generală

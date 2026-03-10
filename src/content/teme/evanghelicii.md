@@ -8,6 +8,7 @@ related: ["denominatiile-protestante", "baptistii", "penticostalismul"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "denominatiile-protestante"
 ---
 
 ## Ce sunt Evanghelicii?

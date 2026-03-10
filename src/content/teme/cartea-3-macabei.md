@@ -8,6 +8,8 @@ related: ["cartea-1-macabei", "cartea-2-macabei", "cartea-ester", "cartea-daniel
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "cartile-deuterocanonice"
+order: 7
 ---
 
 ## Prezentare generală

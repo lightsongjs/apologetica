@@ -9,6 +9,7 @@ related: ["sinodul-2-ecumenic", "sfanta-treime", "dumnezeu-tatal", "sinoadele-ec
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "ereziile"
 ---
 
 ## Fondatorul

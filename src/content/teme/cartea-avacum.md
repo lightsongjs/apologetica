@@ -8,6 +8,8 @@ related: ["cartea-tefania", "cartea-ieremia", "cartea-iov", "psalmi"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mici"
+order: 8
 ---
 
 ## Prezentare generală

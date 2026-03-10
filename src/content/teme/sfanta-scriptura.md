@@ -8,6 +8,7 @@ related: ["canonul-biblic", "cartile-deuterocanonice", "increderea-in-biblie"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "viata-bisericii"
 ---
 
 ## Ce este Sfânta Scriptură

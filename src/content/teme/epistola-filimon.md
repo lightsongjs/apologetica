@@ -8,6 +8,8 @@ related: ["epistola-coloseni", "epistola-efeseni"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "epistole-pauline"
+order: 13
 ---
 
 ## Prezentare generală

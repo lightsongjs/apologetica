@@ -8,6 +8,7 @@ related: ["euharistia", "sfintele-taine", "tainele-bisericii", "pocainta"]
 completeness: "stub"
 last_updated: "2026-03-05"
 verify: false
+parent: "sfintele-taine"
 ---
 
 ## Definiție

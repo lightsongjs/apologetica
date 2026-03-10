@@ -8,6 +8,8 @@ related: ["cartea-judecatorilor", "cartea-2-samuel", "cartea-rut"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "carti-istorice"
+order: 4
 ---
 
 ## Prezentare generală

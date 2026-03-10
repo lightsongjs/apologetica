@@ -10,6 +10,7 @@ related: ["sinoadele-ecumenice", "ereziile"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "ereziile"
 ---
 
 ## Fondatorul

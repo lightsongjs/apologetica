@@ -8,6 +8,7 @@ related: ["duhul-sfant", "sinoadele-ecumenice"]
 completeness: "stub"
 last_updated: "2026-03-05"
 verify: false
+parent: "erezii-si-sinoade"
 ---
 
 ## Definiție

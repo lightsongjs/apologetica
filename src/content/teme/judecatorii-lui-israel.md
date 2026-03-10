@@ -8,6 +8,7 @@ related: ["patriarhii-vechiului-testament", "regii-lui-israel", "profetii-vechiu
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "istorie-biblica"
 ---
 
 ## Introducere

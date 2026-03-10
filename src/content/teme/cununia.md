@@ -8,6 +8,7 @@ related: ["sfintele-taine", "tainele-bisericii"]
 completeness: "stub"
 last_updated: "2026-03-05"
 verify: false
+parent: "sfintele-taine"
 ---
 
 ## Definiție

@@ -8,6 +8,8 @@ related: ["cartea-1-regi", "cartea-1-cronici", "cartea-2-cronici", "profetiile-m
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "carti-istorice"
+order: 7
 ---
 
 ## Prezentare generală

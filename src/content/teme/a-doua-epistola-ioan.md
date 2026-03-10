@@ -8,6 +8,8 @@ related: ["prima-epistola-ioan", "a-treia-epistola-ioan", "evanghelia-ioan"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "epistole-generale"
+order: 5
 ---
 
 ## Prezentare generală

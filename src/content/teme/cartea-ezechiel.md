@@ -8,6 +8,8 @@ related: ["cartea-ieremia", "cartea-daniel", "cartea-isaia", "apocalipsa"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mari"
+order: 5
 ---
 
 ## Prezentare generală

@@ -8,6 +8,8 @@ related: ["cartea-2-samuel", "cartea-2-cronici", "psalmi", "cartea-facerea"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "carti-istorice"
+order: 8
 ---
 
 ## Prezentare generală

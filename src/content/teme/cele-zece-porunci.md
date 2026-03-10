@@ -8,6 +8,7 @@ related: ["patriarhii-vechiului-testament", "profetii-vechiului-testament", "cel
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "istorie-biblica"
 ---
 
 ## Decalogul ortodox

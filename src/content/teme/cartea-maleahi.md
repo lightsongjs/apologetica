@@ -8,6 +8,8 @@ related: ["cartea-zaharia", "cartea-isaia", "evanghelia-matei", "evanghelia-marc
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mici"
+order: 12
 ---
 
 ## Prezentare generală

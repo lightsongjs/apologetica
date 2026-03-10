@@ -8,6 +8,7 @@ related: ["arianismul", "macedonianismul", "nestorianismul", "monofizitismul", "
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "erezii-si-sinoade"
 ---
 
 ## Introducere

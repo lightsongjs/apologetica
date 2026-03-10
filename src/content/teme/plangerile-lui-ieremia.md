@@ -8,6 +8,8 @@ related: ["cartea-ieremia", "psalmi", "cartea-isaia"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mari"
+order: 3
 ---
 
 ## Prezentare generală

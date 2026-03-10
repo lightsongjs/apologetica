@@ -8,6 +8,7 @@ related: ["tainele-bisericii", "sfintele-taine"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "viata-bisericii"
 ---
 
 ## Ce este Succesiunea Apostolică?

@@ -8,6 +8,8 @@ related: ["patriarhii-vechiului-testament", "cele-zece-porunci"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "pentateuhul"
+order: 1
 ---
 
 ## Prezentare generală

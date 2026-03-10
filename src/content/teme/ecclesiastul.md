@@ -8,6 +8,8 @@ related: ["proverbe", "psalmi", "cartea-iov"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "carti-poetice"
+order: 4
 ---
 
 ## Prezentare generală

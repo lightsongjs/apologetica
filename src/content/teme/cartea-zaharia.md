@@ -8,6 +8,8 @@ related: ["cartea-hagai", "cartea-maleahi", "cartea-isaia", "evanghelia-matei", 
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mici"
+order: 11
 ---
 
 ## Prezentare generală

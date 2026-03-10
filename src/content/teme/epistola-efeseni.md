@@ -8,6 +8,8 @@ related: ["epistola-coloseni", "epistola-romani", "faptele-apostolilor"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "epistole-pauline"
+order: 5
 ---
 
 ## Prezentare generală

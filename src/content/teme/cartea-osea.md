@@ -8,6 +8,8 @@ related: ["cartea-amos", "cartea-ioil", "cartea-ieremia", "cartea-ezechiel"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mici"
+order: 1
 ---
 
 ## Prezentare generală

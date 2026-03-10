@@ -8,6 +8,7 @@ related: ["dumnezeu-tatal", "duhul-sfant", "arianismul", "macedonianismul", "sin
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "teologie-dogmatica"
 ---
 
 ## Ce este Sfânta Treime?

@@ -8,6 +8,8 @@ related: ["cartea-ieremia", "plangerile-lui-ieremia", "cartea-daniel", "cartea-i
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mari"
+order: 4
 ---
 
 ## Prezentare generală

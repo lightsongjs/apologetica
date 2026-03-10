@@ -8,6 +8,8 @@ related: ["prima-epistola-petru", "epistola-iuda"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "epistole-generale"
+order: 3
 ---
 
 ## Prezentare generală

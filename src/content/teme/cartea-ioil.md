@@ -8,6 +8,8 @@ related: ["cartea-amos", "cartea-osea", "faptele-apostolilor", "apocalipsa"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mici"
+order: 2
 ---
 
 ## Prezentare generală

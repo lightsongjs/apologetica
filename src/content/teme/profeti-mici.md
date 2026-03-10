@@ -6,6 +6,7 @@ category: "apologetica"
 tags: ["profeti", "osea", "ioel", "amos", "iona"]
 related: ["cartea-osea", "cartea-amos", "cartea-iona", "profetii-vechiului-testament"]
 parent: "vechiul-testament"
+order: 5
 completeness: "complete"
 last_updated: "2026-03-10"
 verify: false

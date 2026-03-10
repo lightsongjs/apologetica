@@ -8,6 +8,8 @@ related: ["cartea-2-macabei", "cartea-3-macabei", "cartea-1-macabei"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "cartile-deuterocanonice"
+order: 8
 ---
 
 ## Prezentare generală

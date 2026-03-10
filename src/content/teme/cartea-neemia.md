@@ -8,6 +8,8 @@ related: ["cartea-ezra", "cartea-2-cronici", "profetiile-mesianice"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "carti-istorice"
+order: 11
 ---
 
 ## Prezentare generală

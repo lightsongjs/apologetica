@@ -8,6 +8,7 @@ related: ["macedonianismul", "duhul-sfant", "sfanta-treime", "sinoadele-ecumenic
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "sinoadele-ecumenice"
 ---
 
 ## Context istoric

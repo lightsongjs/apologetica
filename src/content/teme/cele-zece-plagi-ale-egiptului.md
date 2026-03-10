@@ -8,6 +8,7 @@ related: ["cele-zece-porunci", "patriarhii-vechiului-testament", "profetii-vechi
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "istorie-biblica"
 ---
 
 ## Plăgile ca judecată asupra zeilor Egiptului

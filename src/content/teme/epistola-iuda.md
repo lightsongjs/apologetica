@@ -8,6 +8,8 @@ related: ["a-doua-epistola-petru", "epistola-iacov"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "epistole-generale"
+order: 7
 ---
 
 ## Prezentare generală

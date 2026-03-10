@@ -8,6 +8,8 @@ related: ["cartea-iesirea", "cartea-leviticul", "cartea-deuteronom"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "pentateuhul"
+order: 4
 ---
 
 ## Prezentare generală

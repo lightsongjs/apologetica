@@ -8,6 +8,7 @@ related: ["raiul", "iadul", "mantuirea"]
 completeness: "stub"
 last_updated: "2026-03-05"
 verify: false
+parent: "escatologie"
 ---
 
 ## Definiție

@@ -8,6 +8,8 @@ related: ["cartea-iosua", "cartea-rut", "cartea-1-samuel"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "carti-istorice"
+order: 2
 ---
 
 ## Prezentare generală

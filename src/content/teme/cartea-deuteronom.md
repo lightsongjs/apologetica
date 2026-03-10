@@ -8,6 +8,8 @@ related: ["cartea-numeri", "cele-zece-porunci", "cartea-iosua"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "pentateuhul"
+order: 5
 ---
 
 ## Prezentare generală

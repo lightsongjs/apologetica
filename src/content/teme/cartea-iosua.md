@@ -12,6 +12,8 @@ related: ["cartea-deuteronom", "cartea-judecatorilor"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "carti-istorice"
+order: 1
 ---
 
 ## Prezentare generală

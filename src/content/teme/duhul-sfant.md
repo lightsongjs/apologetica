@@ -8,6 +8,7 @@ related: ["sfanta-treime", "dumnezeu-tatal", "macedonianismul", "sinodul-2-ecume
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "sfanta-treime"
 ---
 
 ## Cine este Duhul Sfânt?

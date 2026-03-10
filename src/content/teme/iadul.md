@@ -8,6 +8,7 @@ related: ["raiul", "judecata-de-apoi", "mantuirea", "pocainta"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "escatologie"
 ---
 
 ## Ce este Iadul?

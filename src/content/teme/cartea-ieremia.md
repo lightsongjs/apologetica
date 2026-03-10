@@ -8,6 +8,8 @@ related: ["cartea-isaia", "plangerile-lui-ieremia", "cartea-ezechiel", "cartea-d
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mari"
+order: 2
 ---
 
 ## Prezentare generală

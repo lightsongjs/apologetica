@@ -8,6 +8,8 @@ related: ["evanghelia-matei", "evanghelia-marcu", "evanghelia-luca", "prima-epis
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "evanghelii"
+order: 4
 ---
 
 ## Prezentare generală

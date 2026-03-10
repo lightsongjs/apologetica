@@ -8,6 +8,8 @@ related: ["epistola-romani", "a-doua-epistola-corinteni", "faptele-apostolilor"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "epistole-pauline"
+order: 2
 ---
 
 ## Prezentare generală

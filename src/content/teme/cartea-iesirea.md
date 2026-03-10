@@ -8,6 +8,8 @@ related: ["cartea-facerea", "cele-zece-porunci", "patriarhii-vechiului-testament
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "pentateuhul"
+order: 2
 ---
 
 ## Prezentare generală

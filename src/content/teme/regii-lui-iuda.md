@@ -8,6 +8,7 @@ related: ["regii-lui-israel", "profetii-vechiului-testament", "profetiile-mesian
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "istorie-biblica"
 ---
 
 ## Introducere

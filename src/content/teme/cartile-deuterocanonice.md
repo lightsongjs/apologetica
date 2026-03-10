@@ -8,6 +8,7 @@ related: ["canonul-biblic", "sfanta-scriptura"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "scriptura-sfanta"
 ---
 
 ## Ce sunt cărțile deuterocanonice

@@ -8,6 +8,7 @@ related: ["patriarhii-vechiului-testament", "profetiile-mesianice", "regii-lui-i
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "istorie-biblica"
 ---
 
 ## Introducere

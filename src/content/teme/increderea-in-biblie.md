@@ -8,6 +8,7 @@ related: ["sfanta-scriptura", "canonul-biblic", "cartile-deuterocanonice"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "apologetica"
 ---
 
 ## Introducere

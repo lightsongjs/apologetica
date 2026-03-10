@@ -8,6 +8,8 @@ related: ["cartea-iesirea", "cartea-facerea"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "pentateuhul"
+order: 3
 ---
 
 ## Prezentare generală

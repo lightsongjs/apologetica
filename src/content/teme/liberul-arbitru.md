@@ -8,6 +8,7 @@ related: ["calvinismul"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "soteriologie"
 ---
 
 ## Ce este Liberul Arbitru?

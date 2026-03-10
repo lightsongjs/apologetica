@@ -8,6 +8,8 @@ related: ["a-doua-epistola-tesaloniceni", "epistola-filipeni", "epistola-romani"
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "epistole-pauline"
+order: 8
 ---
 
 ## Prezentare generală

@@ -8,6 +8,7 @@ related: ["sfanta-treime", "duhul-sfant"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "sfanta-treime"
 ---
 
 ## Cine este Dumnezeu Tatăl?

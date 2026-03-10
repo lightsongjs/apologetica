@@ -8,6 +8,8 @@ related: ["cartea-tobit", "cartea-ester", "profetiile-mesianice"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "cartile-deuterocanonice"
+order: 2
 ---
 
 ## Prezentare generală

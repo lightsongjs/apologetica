@@ -8,6 +8,7 @@ related: ["sinodul-1-ecumenic", "sinodul-2-ecumenic", "sinodul-3-ecumenic", "sin
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "erezii-si-sinoade"
 ---
 
 ## Introducere

@@ -8,6 +8,8 @@ related: ["cartea-naum", "cartea-isaia", "cartea-amos", "cartea-osea"]
 completeness: "complete"
 last_updated: "2026-03-06"
 verify: false
+parent: "profeti-mici"
+order: 6
 ---
 
 ## Prezentare generală

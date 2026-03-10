@@ -8,6 +8,7 @@ related: ["sfintele-taine", "botezul-pruncilor", "succesiunea-apostolica"]
 completeness: "complete"
 last_updated: "2026-03-05"
 verify: false
+parent: "sfintele-taine"
 ---
 
 ## Ce sunt Tainele?
