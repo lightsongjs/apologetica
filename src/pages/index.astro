@@ -1,20 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { getCollection } from 'astro:content';
-
-// Load collections only for stats display (not embedded in page)
 // Search data will be loaded dynamically via JSON endpoint at runtime
-const conversations = await getCollection('conversations');
-const teme = await getCollection('teme');
-const personalitati = await getCollection('personalitati');
-const locuri = await getCollection('locuri');
-
-const stats = {
-  conversations: conversations.length,
-  teme: teme.length,
-  personalitati: personalitati.length,
-  locuri: locuri.length,
-};
 ---
 
 <Base title="Apologetica" isHomePage={true}>
@@ -36,26 +22,6 @@ const stats = {
             autocomplete="off"
           />
           <kbd class="hidden md:inline-block absolute right-3 top-1/2 -translate-y-1/2 px-2 py-1 text-xs bg-gray-50 rounded border border-gray-200 text-gray-500">/</kbd>
-        </div>
-      </div>
-
-      <!-- Stats Row - Compact -->
-      <div id="stats-row" class="grid grid-cols-4 gap-2 max-w-2xl mx-auto opacity-0" style="animation: fadeSlideIn 0.6s ease-out 0.2s forwards;">
-        <div class="bg-white/80 rounded-lg p-2 border border-gray-100">
-          <div class="text-xl font-bold text-primary" style="font-family: 'Literata', serif;">{stats.conversations}</div>
-          <div class="text-[10px] text-gray-600 uppercase tracking-wide font-semibold">Conversații</div>
-        </div>
-        <div class="bg-white/80 rounded-lg p-2 border border-gray-100">
-          <div class="text-xl font-bold text-primary" style="font-family: 'Literata', serif;">{stats.teme}</div>
-          <div class="text-[10px] text-gray-600 uppercase tracking-wide font-semibold">Teme</div>
-        </div>
-        <div class="bg-white/80 rounded-lg p-2 border border-gray-100">
-          <div class="text-xl font-bold text-primary" style="font-family: 'Literata', serif;">{stats.personalitati}</div>
-          <div class="text-[10px] text-gray-600 uppercase tracking-wide font-semibold">Personalități</div>
-        </div>
-        <div class="bg-white/80 rounded-lg p-2 border border-gray-100">
-          <div class="text-xl font-bold text-primary" style="font-family: 'Literata', serif;">{stats.locuri}</div>
-          <div class="text-[10px] text-gray-600 uppercase tracking-wide font-semibold">Locuri</div>
         </div>
       </div>
     </div>
@@ -80,6 +46,24 @@ const stats = {
         </div>
         <p class="text-sm text-gray-600 leading-snug">
           Răspunsuri pentru conversații cu atei, baptiști și alții
+        </p>
+      </div>
+    </a>
+
+    <!-- Biblia -->
+    <a
+      href="/biblia"
+      class="group bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-all shadow hover:shadow-lg"
+    >
+      <div class="p-4">
+        <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mb-2 group-hover:bg-primary group-hover:scale-105 transition-all">
+          <span class="material-symbols-outlined text-xl text-primary group-hover:text-white transition-colors">menu_book</span>
+        </div>
+        <h3 class="text-base font-bold text-gray-900 mb-1 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">
+          Biblia
+        </h3>
+        <p class="text-xs text-gray-600 leading-tight">
+          Sfânta Scriptură
         </p>
       </div>
     </a>
@@ -138,24 +122,6 @@ const stats = {
       </div>
     </a>
 
-    <!-- Biblia -->
-    <a
-      href="/biblia"
-      class="group bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-all shadow hover:shadow-lg"
-    >
-      <div class="p-4">
-        <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mb-2 group-hover:bg-primary group-hover:scale-105 transition-all">
-          <span class="material-symbols-outlined text-xl text-primary group-hover:text-white transition-colors">menu_book</span>
-        </div>
-        <h3 class="text-base font-bold text-gray-900 mb-1 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">
-          Biblia
-        </h3>
-        <p class="text-xs text-gray-600 leading-tight">
-          Exegeză și context
-        </p>
-      </div>
-    </a>
-
   </div>
 
   <!-- Search Results (hidden by default) -->
@@ -188,7 +154,6 @@ const stats = {
 
     const searchInput = document.getElementById('home-search-input');
     const sectionsGrid = document.getElementById('sections-grid');
-    const statsRow = document.getElementById('stats-row');
     const searchResults = document.getElementById('search-results');
     const searchResultsList = document.getElementById('search-results-list');
     const noResultsEl = document.getElementById('no-results');
@@ -248,14 +213,12 @@ const stats = {
 
       if (!q) {
         sectionsGrid.classList.remove('hidden');
-        statsRow.classList.remove('hidden');
         searchResults.classList.add('hidden');
         noResultsEl.classList.add('hidden');
         return;
       }
 
       sectionsGrid.classList.add('hidden');
-      statsRow.classList.add('hidden');
 
       var titleResults = [];
       var subtitleResults = [];
@@ -285,7 +248,9 @@ const stats = {
       });
 
       personalitati.forEach(function(pers) {
-        if (matchesWord(pers.name, q)) {
+        var nameMatch = matchesWord(pers.name, q);
+        var titleMatch = pers.title && matchesWord(pers.title, q);
+        if (nameMatch || titleMatch) {
           titleResults.push({
             icon: 'person_pin', label: null, title: pers.name,
             subtitle: pers.title, href: '/personalitati/' + pers.id.replace('.md', ''),
@@ -295,12 +260,19 @@ const stats = {
       });
 
       locuri.forEach(function(loc) {
-        if (matchesWord(loc.name, q)) {
+        var nameMatch = matchesWord(loc.name, q);
+        var titleMatch = loc.title && matchesWord(loc.title, q);
+        if (nameMatch || titleMatch) {
           titleResults.push({
             icon: 'location_on', label: null, title: loc.name,
             subtitle: loc.title, href: '/locuri/' + loc.id.replace('.md', ''),
           });
         }
+      });
+
+      // Sort results alphabetically by title
+      titleResults.sort(function(a, b) {
+        return normalize(a.title).localeCompare(normalize(b.title));
       });
 
       var results = titleResults.concat(subtitleResults);

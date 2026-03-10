@@ -202,7 +202,7 @@ const {
             e.preventDefault();
             openSearch();
           }
-          if (e.key === 'Escape' && !searchMode.classList.contains('hidden')) {
+          if (e.key === 'Escape' && searchMode && !searchMode.classList.contains('hidden')) {
             closeSearch();
           }
         });
@@ -282,7 +282,9 @@ const {
           });
 
           personalitati.forEach(function(pers) {
-            if (matchesWord(pers.name, q)) {
+            var nameMatch = matchesWord(pers.name, q);
+            var titleMatch = pers.title && matchesWord(pers.title, q);
+            if (nameMatch || titleMatch) {
               titleResults.push({
                 icon: 'person_pin', label: null, title: pers.name,
                 subtitle: pers.title, href: '/personalitati/' + pers.id.replace('.md', ''),
@@ -292,12 +294,19 @@ const {
           });
 
           locuri.forEach(function(loc) {
-            if (matchesWord(loc.name, q)) {
+            var nameMatch = matchesWord(loc.name, q);
+            var titleMatch = loc.title && matchesWord(loc.title, q);
+            if (nameMatch || titleMatch) {
               titleResults.push({
                 icon: 'location_on', label: null, title: loc.name,
                 subtitle: loc.title, href: '/locuri/' + loc.id.replace('.md', ''),
               });
             }
+          });
+
+          // Sort results alphabetically by title
+          titleResults.sort(function(a, b) {
+            return normalize(a.title).localeCompare(normalize(b.title));
           });
 
           var results = titleResults.concat(subtitleResults);
@@ -349,7 +358,7 @@ const {
 
         // Close dropdown when clicking outside
         document.addEventListener('click', function(e) {
-          if (!searchMode.classList.contains('hidden') && !e.target.closest('header')) {
+          if (searchMode && !searchMode.classList.contains('hidden') && !e.target.closest('header')) {
             closeSearch();
           }
         });

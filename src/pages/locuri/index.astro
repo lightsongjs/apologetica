@@ -3,7 +3,9 @@ import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
 const locuri = await getCollection('locuri');
-const sorted = locuri.sort((a, b) => a.data.order - b.data.order);
+const sorted = locuri.sort((a, b) => {
+  return a.data.name.localeCompare(b.data.name, 'ro');
+});
 ---
 
 <Base title="Locuri Biblice" headerTitle="Locuri Biblice" backHref="/" activeNav="home">

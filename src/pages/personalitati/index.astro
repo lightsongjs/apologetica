@@ -4,9 +4,7 @@ import Base from '../../layouts/Base.astro';
 
 const personalitati = await getCollection('personalitati');
 const sorted = personalitati.sort((a, b) => {
-  const orderA = a.data?.order ?? 999;
-  const orderB = b.data?.order ?? 999;
-  return orderA - orderB;
+  return a.data.name.localeCompare(b.data.name, 'ro');
 });
 ---
 
