@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import { getCollection } from 'astro:content';
+import { ViewTransitions } from 'astro:transitions';
 
 interface Props {
   title: string;
@@ -30,6 +31,7 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="description" content="Apologetică Ortodoxă - Răspunsuri rapide pentru conversații" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <ViewTransitions />
 
     <!-- Preconnect to Google Fonts for faster loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
