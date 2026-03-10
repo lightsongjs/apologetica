@@ -40,4 +40,21 @@ const locuri = defineCollection({
   }),
 });
 
-export const collections = { conversations, teme, personalitati, locuri };
+const biblia = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/biblia' }),
+  schema: z.object({
+    testament: z.enum(['OT', 'NT']),
+    book: z.string(),
+    book_romanian: z.string(),
+    chapter: z.number(),
+    pericope: z.number(),
+    pericope_title_en: z.string(),
+    pericope_title_ro: z.string(),
+    verses_start: z.number(),
+    verses_end: z.number(),
+    verses_total: z.number(),
+    language: z.string(),
+  }),
+});
+
+export const collections = { conversations, teme, personalitati, locuri, biblia };
