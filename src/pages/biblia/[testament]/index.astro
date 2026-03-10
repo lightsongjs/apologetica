@@ -1,0 +1,115 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { BOOKS_METADATA, getTestamentCode, getTestamentName } from '../../../lib/bible-books';
+
+export async function getStaticPaths() {
+  return [
+    { params: { testament: 'vechiul-testament' }, props: { testamentCode: 'VT' } },
+    { params: { testament: 'noul-testament' }, props: { testamentCode: 'NT' } },
+  ];
+}
+
+const { testament } = Astro.params;
+const { testamentCode } = Astro.props;
+
+const testamentName = getTestamentName(testamentCode);
+const books = BOOKS_METADATA[testamentCode];
+---
+
+<Base title={testamentName} headerTitle={testamentName} backHref="/biblia" activeNav="home">
+  <!-- Breadcrumbs -->
+  <nav class="flex items-center gap-2 text-sm text-slate-600 flex-wrap mb-4">
+    <a href="/biblia" class="hover:text-primary transition-colors">Biblia</a>
+    <span class="material-symbols-outlined text-base text-slate-400">chevron_right</span>
+    <span class="text-slate-900 font-medium">{testamentName}</span>
+  </nav>
+
+  <!-- Search Bar -->
+  <div class="mb-4 opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
+    <div class="relative">
+      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-primary/40 text-xl">search</span>
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Caută cărți..."
+        class="w-full pl-11 pr-4 py-3 rounded-xl border border-primary/20 bg-white focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
+      />
+    </div>
+  </div>
+
+  <!-- Books Grid -->
+  <div id="books-grid" class="grid grid-cols-1 gap-2">
+    {books.map((book, i) => (
+      <a
+        href={`/biblia/${testament}/${book.slug}/1`}
+        class="item-card group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3 opacity-0"
+        style={`animation: fadeIn 0.4s ease-out ${(i + 1) * 0.02}s forwards;`}
+        data-name={book.name_ro.toLowerCase()}
+      >
+        <!-- Icon -->
+        <div class="w-10 h-10 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all duration-300">
+          <span class="material-symbols-outlined text-xl">article</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+          <h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">{book.name_ro}</h3>
+          <p class="text-xs text-primary/60 truncate">
+            {book.chapters} {book.chapters === 1 ? 'capitol' : 'capitole'}
+            {book.tema_slug && ' · Vezi tema'}
+          </p>
+        </div>
+
+        <!-- Chevron -->
+        <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>
+      </a>
+    ))}
+  </div>
+
+  <!-- No Results -->
+  <div id="no-results" class="hidden text-center py-12">
+    <span class="material-symbols-outlined text-primary/20 text-5xl mb-3">search_off</span>
+    <p class="text-sm text-gray-500">Nicio carte găsită</p>
+  </div>
+
+  <style>
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+
+  <script>
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
+    const noResults = document.getElementById('no-results') as HTMLElement;
+
+    searchInput?.addEventListener('input', () => {
+      const query = searchInput.value.toLowerCase().trim();
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const name = card.dataset.name || '';
+
+        if (name.includes(query)) {
+          card.style.display = 'flex';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (visibleCount === 0 && query !== '') {
+        noResults.classList.remove('hidden');
+      } else {
+        noResults.classList.add('hidden');
+      }
+    });
+  </script>
+</Base>
