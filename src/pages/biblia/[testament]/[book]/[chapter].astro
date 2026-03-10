@@ -121,7 +121,19 @@ const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
         <span class="material-symbols-outlined drawer-chevron">expand_more</span>
       </button>
       <div class="drawer-content" id="drawer-content">
+        <!-- Quick chapter search (mobile) -->
+        <div class="drawer-search">
+          <input
+            type="number"
+            id="drawer-search-input"
+            placeholder="Salt la capitol..."
+            min="1"
+            max={bookMeta.chapters}
+            class="drawer-search-input"
+          />
+        </div>
         <!-- Content loaded dynamically on first open to reduce page size -->
+        <div class="drawer-grid" id="drawer-grid"></div>
       </div>
     </div>
 
@@ -134,11 +146,25 @@ const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
           <span class="material-symbols-outlined">description</span>
           <h2>Capitole</h2>
         </div>
-        <nav class="sidebar-nav">
+
+        <!-- Quick chapter search -->
+        <div class="sidebar-search">
+          <input
+            type="number"
+            id="sidebar-search-input"
+            placeholder="Salt la capitol..."
+            min="1"
+            max={bookMeta.chapters}
+            class="sidebar-search-input"
+          />
+        </div>
+
+        <nav class="sidebar-nav" id="sidebar-nav">
           {chapters.map(ch => (
             <a
               href={`/biblia/${testament}/${bookSlug}/${ch}`}
               class={`sidebar-item ${ch === chapterNum ? 'sidebar-current' : ''}`}
+              data-chapter={ch}
             >
               <div class="icon">
                 <span class="material-symbols-outlined">article</span>
@@ -355,6 +381,48 @@ const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
       color: white;
     }
 
+    /* Sidebar search input */
+    .sidebar-search {
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #e2e8f0;
+    }
+
+    .sidebar-search-input {
+      width: 100%;
+      padding: 0.5rem 0.75rem;
+      border: 1px solid #e2e8f0;
+      border-radius: 0.5rem;
+      font-size: 0.875rem;
+      transition: all 0.2s;
+      outline: none;
+    }
+
+    .sidebar-search-input:focus {
+      border-color: #1754cf;
+      box-shadow: 0 0 0 3px rgba(23, 84, 207, 0.1);
+    }
+
+    .sidebar-search-input::placeholder {
+      color: #94a3b8;
+    }
+
+    /* Hide number input spin buttons */
+    .sidebar-search-input::-webkit-outer-spin-button,
+    .sidebar-search-input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
+    .sidebar-search-input[type=number] {
+      -moz-appearance: textfield;
+    }
+
+    /* Hide filtered items */
+    .sidebar-item.hidden {
+      display: none !important;
+    }
+
     /* Hide mobile drawer on desktop */
     .mobile-drawer {
       display: none;
@@ -533,6 +601,62 @@ const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
 </style>
 
 <script>
+  // Sidebar chapter search (desktop)
+  const sidebarSearchInput = document.getElementById('sidebar-search-input') as HTMLInputElement;
+  const sidebarNav = document.getElementById('sidebar-nav');
+  const sidebarItems = sidebarNav?.querySelectorAll('.sidebar-item') as NodeListOf<HTMLElement>;
+
+  function handleSidebarSearch() {
+    const query = sidebarSearchInput?.value.trim();
+
+    if (!query) {
+      // Show all chapters when search is empty
+      sidebarItems?.forEach(item => item.classList.remove('hidden'));
+      return;
+    }
+
+    const chapterNum = parseInt(query);
+
+    if (chapterNum && !isNaN(chapterNum)) {
+      // Filter to show matching chapter
+      sidebarItems?.forEach(item => {
+        const itemChapter = parseInt(item.dataset.chapter || '0');
+        if (itemChapter.toString().includes(query)) {
+          item.classList.remove('hidden');
+        } else {
+          item.classList.add('hidden');
+        }
+      });
+    }
+  }
+
+  function jumpToChapter() {
+    const query = sidebarSearchInput?.value.trim();
+    if (!query) return;
+
+    const chapterNum = parseInt(query);
+    const maxChapter = parseInt(sidebarSearchInput?.max || '0');
+
+    if (chapterNum && !isNaN(chapterNum) && chapterNum >= 1 && chapterNum <= maxChapter) {
+      // Find the link for this chapter
+      const targetLink = Array.from(sidebarItems || []).find(item =>
+        parseInt(item.dataset.chapter || '0') === chapterNum
+      );
+
+      if (targetLink && targetLink.tagName === 'A') {
+        window.location.href = (targetLink as HTMLAnchorElement).href;
+      }
+    }
+  }
+
+  sidebarSearchInput?.addEventListener('input', handleSidebarSearch);
+  sidebarSearchInput?.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      jumpToChapter();
+    }
+  });
+
   // Lazy-load mobile drawer content on first open (performance optimization)
   const drawerToggle = document.getElementById('drawer-toggle');
   const drawerContent = document.getElementById('drawer-content');
@@ -548,6 +672,21 @@ const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
       const current = parseInt(this.dataset.current);
       const total = parseInt(this.dataset.total);
 
+      // Generate search input for mobile drawer
+      const searchHtml = `
+        <div style="padding: 0.75rem; border-bottom: 1px solid #f1f5f9;">
+          <input
+            type="number"
+            id="drawer-search-input"
+            placeholder="Salt la capitol..."
+            min="1"
+            max="${total}"
+            class="sidebar-search-input"
+            style="width: 100%;"
+          />
+        </div>
+      `;
+
       // Generate chapter links
       const chapters = [];
       for (let ch = 1; ch <= total; ch++) {
@@ -556,6 +695,7 @@ const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
           <a
             href="/biblia/${testament}/${book}/${ch}"
             class="drawer-item ${isCurrent ? 'drawer-current-item' : ''}"
+            data-chapter="${ch}"
           >
             <div class="icon">
               <span class="material-symbols-outlined">article</span>
@@ -568,8 +708,53 @@ const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
         `);
       }
 
-      drawerContent.innerHTML = `<div class="drawer-grid">${chapters.join('')}</div>`;
+      drawerContent.innerHTML = `${searchHtml}<div class="drawer-grid">${chapters.join('')}</div>`;
       drawerLoaded = true;
+
+      // Set up mobile drawer search functionality
+      const drawerSearchInput = document.getElementById('drawer-search-input') as HTMLInputElement;
+      const drawerItems = drawerContent.querySelectorAll('.drawer-item') as NodeListOf<HTMLElement>;
+
+      function handleDrawerSearch() {
+        const query = drawerSearchInput?.value.trim();
+
+        if (!query) {
+          drawerItems?.forEach(item => item.style.display = 'flex');
+          return;
+        }
+
+        const chapterNum = parseInt(query);
+
+        if (chapterNum && !isNaN(chapterNum)) {
+          drawerItems?.forEach(item => {
+            const itemChapter = parseInt(item.dataset.chapter || '0');
+            if (itemChapter.toString().includes(query)) {
+              item.style.display = 'flex';
+            } else {
+              item.style.display = 'none';
+            }
+          });
+        }
+      }
+
+      function jumpToChapterMobile() {
+        const query = drawerSearchInput?.value.trim();
+        if (!query) return;
+
+        const chapterNum = parseInt(query);
+
+        if (chapterNum && !isNaN(chapterNum) && chapterNum >= 1 && chapterNum <= total) {
+          window.location.href = `/biblia/${testament}/${book}/${chapterNum}`;
+        }
+      }
+
+      drawerSearchInput?.addEventListener('input', handleDrawerSearch);
+      drawerSearchInput?.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          jumpToChapterMobile();
+        }
+      });
     }
 
     // Toggle expansion

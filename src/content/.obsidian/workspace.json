@@ -11,14 +11,10 @@
             "id": "6a0623a18750691f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personalitati/manase.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "manase"
+              "title": "New tab"
             }
           }
         ]
@@ -185,8 +181,31 @@
   },
   "active": "6a0623a18750691f",
   "lastOpenFiles": [
-    "personalitati/ieremia.md",
-    "personalitati/daniel.md",
-    "personalitati/andrei-criteanul.md"
+    "personalitati/manase-patriarhul.md",
+    "personalitati/manase-regele.md",
+    "personalitati/rahela.md",
+    "personalitati/rebeca.md",
+    "personalitati/sarra.md",
+    "personalitati/sfantul-drept-iosif.md",
+    "teme/apocalipsa.md",
+    "teme/a-treia-epistola-ioan.md",
+    "teme/a-doua-epistola-ioan.md",
+    "teme/a-doua-epistola-petru.md",
+    "teme/cantarea-cantarilor.md",
+    "teme/a-doua-epistola-timotei.md",
+    "teme/a-doua-epistola-tesaloniceni.md",
+    "teme/a-doua-epistola-corinteni.md",
+    "teme/cartea-1-cronici.md",
+    "teme/epistola-iuda.md",
+    "teme/cartea-osea.md",
+    "teme/cartea-ioil.md",
+    "teme/cartea-iona.md",
+    "teme/cartea-isaia.md",
+    "teme/cartea-miheia.md",
+    "teme/epistola-iacov.md",
+    "teme/cartea-intelepciunii-lui-isus-sirah.md",
+    "teme/epistola-evrei.md",
+    "teme/ecclesiastul.md",
+    "teme/cartea-intelepciunii-lui-solomon.md"
   ]
 }
