@@ -2,7 +2,9 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
-const teme = await getCollection('teme');
+const allTeme = await getCollection('teme');
+// Filter to show only root themes (no parent)
+const teme = allTeme.filter(tema => !tema.data.parent);
 const sorted = teme.sort((a, b) => a.data.title.localeCompare(b.data.title, 'ro'));
 ---
 

@@ -44,6 +44,9 @@ export const ContentMetadataSchema = z.object({
   opposed_to: z.array(z.string()).optional(),        // Opposing heresies/doctrines
   see_also: z.array(z.string()).optional(),          // Explicit cross-refs
 
+  // NEW: Hierarchy
+  parent: z.string().optional(),                     // Parent theme slug for nested navigation
+
   // NEW: Content status
   completeness: z.enum(['draft', 'complete', 'needs-review', 'stub']).default('draft'),
   last_updated: z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'Date must be YYYY-MM-DD').optional(),

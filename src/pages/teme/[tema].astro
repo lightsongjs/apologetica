@@ -17,6 +17,60 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const body = resolveWikiLinks(entry.body || '').replace(/\r\n/g, '\n');
 
+// Get child themes
+const allTeme = await getCollection('teme');
+const children = allTeme
+  .filter(tema => tema.data.parent === entry.id)
+  .sort((a, b) => {
+    // If both have order, sort by order
+    if (a.data.order !== undefined && b.data.order !== undefined) {
+      return a.data.order - b.data.order;
+    }
+    // If only one has order, it comes first
+    if (a.data.order !== undefined) return -1;
+    if (b.data.order !== undefined) return 1;
+    // Otherwise, sort alphabetically
+    return a.data.title.localeCompare(b.data.title, 'ro');
+  });
+
+// Build breadcrumb trail
+const breadcrumbs: Array<{ title: string; href: string }> = [];
+let currentParentSlug = entry.data.parent;
+while (currentParentSlug) {
+  const parentTema = allTeme.find(t => t.id === currentParentSlug);
+  if (parentTema) {
+    breadcrumbs.unshift({ title: parentTema.data.title, href: `/teme/${parentTema.id}` });
+    currentParentSlug = parentTema.data.parent;
+  } else {
+    break;
+  }
+}
+
+// Get siblings (if this is a leaf page with no children but has parent)
+const siblings = entry.data.parent
+  ? allTeme
+      .filter(tema => tema.data.parent === entry.data.parent && tema.id !== entry.id)
+      .sort((a, b) => {
+        // If both have order, sort by order
+        if (a.data.order !== undefined && b.data.order !== undefined) {
+          return a.data.order - b.data.order;
+        }
+        // If only one has order, it comes first
+        if (a.data.order !== undefined) return -1;
+        if (b.data.order !== undefined) return 1;
+        // Otherwise, sort alphabetically
+        return a.data.title.localeCompare(b.data.title, 'ro');
+      })
+  : [];
+
+// Get parent tema
+const parentTema = entry.data.parent
+  ? allTeme.find(t => t.id === entry.data.parent)
+  : null;
+
+// Show sidebar if: has children OR (has parent - meaning it's in a hierarchy)
+const showSidebar = children.length > 0 || entry.data.parent;
+
 // Parse sections
 const sections: Record<string, string> = {};
 const parts = body.split(/^## /gm);
@@ -69,187 +123,639 @@ for (const section of specialSections) {
 const bodyHtml = await marked.parse(bodyToRender);
 ---
 
-<Base title={entry.data.title} headerTitle={entry.data.title} useHistoryBack={true} activeNav="home">
-  <div class="pt-4 pb-8 space-y-6">
+<Base title={entry.data.title} headerTitle={entry.data.title} useHistoryBack={true} activeNav="home" maxWidth={showSidebar ? "full" : "xl"}>
+  <div class="pt-4 pb-8">
+
+    <!-- Breadcrumbs -->
+    {breadcrumbs.length > 0 && (
+      <nav class="flex items-center gap-2 text-sm text-slate-600 flex-wrap mb-6">
+        <a href="/teme" class="hover:text-primary transition-colors">Teme</a>
+        {breadcrumbs.map(crumb => (
+          <>
+            <span class="material-symbols-outlined text-base text-slate-400">chevron_right</span>
+            <a href={crumb.href} class="hover:text-primary transition-colors">{crumb.title}</a>
+          </>
+        ))}
+        <span class="material-symbols-outlined text-base text-slate-400">chevron_right</span>
+        <span class="text-slate-900 font-medium">{entry.data.title}</span>
+      </nav>
+    )}
 
     <!-- Title & Summary -->
-    <div class="text-center">
+    <div class="text-center mb-8">
       <h2 class="text-3xl md:text-4xl font-extrabold leading-tight tracking-tight">{entry.data.title}</h2>
       <p class="mt-3 text-base text-slate-500 leading-relaxed max-w-md mx-auto">{entry.data.summary}</p>
     </div>
 
-    <!-- Prezentare generală (Card with icon) -->
-    {prezentareGenerala && (
-      <section class="bg-blue-50/50 rounded-2xl p-6 border border-slate-200">
-        <div class="flex items-center gap-3 mb-4">
-          <div class="bg-primary text-white p-2 rounded-lg">
-            <span class="material-symbols-outlined text-2xl">info</span>
+    <!-- MOBILE ONLY: Expandable Drawer (expanded by default) -->
+    {showSidebar && (
+      <div class="mobile-drawer mb-6">
+        <button class="drawer-toggle" onclick="this.nextElementSibling.classList.toggle('expanded'); this.querySelector('.drawer-chevron').classList.toggle('expanded');">
+          <div class="drawer-toggle-left">
+            <span class="material-symbols-outlined">{children.length > 0 ? 'folder_open' : 'arrow_back'}</span>
+            <h2>{children.length > 0 ? 'Subteme' : 'Navigare'}</h2>
+            <span class="badge">{children.length > 0 ? children.length : (siblings.length + 1)}</span>
           </div>
-          <h2 class="text-2xl font-bold text-slate-900">Prezentare generală</h2>
+          <span class="material-symbols-outlined drawer-chevron expanded">expand_more</span>
+        </button>
+        <div class="drawer-content expanded">
+          <div class="drawer-grid">
+            {children.length > 0 ? (
+              /* Show children */
+              children.map(child => (
+                <a href={`/teme/${child.id}`} class="drawer-item">
+                  <div class="icon">
+                    <span class="material-symbols-outlined">article</span>
+                  </div>
+                  <div class="text">
+                    <div class="title">{child.data.title}</div>
+                    <div class="summary">{child.data.summary}</div>
+                  </div>
+                  <span class="material-symbols-outlined chevron">chevron_right</span>
+                </a>
+              ))
+            ) : (
+              /* Show backlinks: parent + siblings */
+              <>
+                {parentTema && (
+                  <a href={`/teme/${parentTema.id}`} class="drawer-item drawer-parent-item">
+                    <div class="icon">
+                      <span class="material-symbols-outlined">arrow_upward</span>
+                    </div>
+                    <div class="text">
+                      <div class="title">{parentTema.data.title}</div>
+                      <div class="summary">{parentTema.data.summary}</div>
+                    </div>
+                    <span class="material-symbols-outlined chevron">chevron_right</span>
+                  </a>
+                )}
+                {siblings.map(sibling => (
+                  <a href={`/teme/${sibling.id}`} class="drawer-item">
+                    <div class="icon">
+                      <span class="material-symbols-outlined">article</span>
+                    </div>
+                    <div class="text">
+                      <div class="title">{sibling.data.title}</div>
+                      <div class="summary">{sibling.data.summary}</div>
+                    </div>
+                    <span class="material-symbols-outlined chevron">chevron_right</span>
+                  </a>
+                ))}
+              </>
+            )}
+          </div>
         </div>
-        <div class="prose prose-slate prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800 prose-strong:text-slate-900" set:html={marked(prezentareGenerala)} />
-      </section>
+      </div>
     )}
 
-    <!-- Autor și context (Compact card) -->
-    {autorContext && (
-      <section class="bg-white rounded-xl p-6 border border-slate-200 shadow-sm">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-slate-600">person</span>
-          <h2 class="text-xl font-bold text-slate-900">Autor și context</h2>
-        </div>
-        <div class="prose prose-slate prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800" set:html={marked(autorContext)} />
-      </section>
-    )}
+    <!-- DESKTOP + MOBILE: Main Layout -->
+    <div class="tema-layout">
 
-    <!-- Structură (Table card) -->
-    {structura && (
-      <section class="bg-slate-50/80 rounded-xl p-6 border border-slate-200">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-slate-600">account_tree</span>
-          <h2 class="text-xl font-bold text-slate-900">Structură</h2>
-        </div>
-        <div class="prose prose-slate prose-base max-w-none prose-table:text-sm prose-th:bg-white prose-th:text-left prose-th:text-slate-900 prose-th:font-bold prose-td:py-3 prose-td:text-slate-800" set:html={marked(structura)} />
-      </section>
-    )}
+      <!-- DESKTOP ONLY: Sticky Sidebar -->
+      {showSidebar && (
+        <aside class="sidebar">
+          <div class="sidebar-header">
+            <span class="material-symbols-outlined">{children.length > 0 ? 'folder_open' : 'arrow_back'}</span>
+            <h2>{children.length > 0 ? 'Subteme' : 'Navigare'}</h2>
+          </div>
+          <nav class="sidebar-nav">
+            {children.length > 0 ? (
+              /* Show children */
+              children.map(child => (
+                <a href={`/teme/${child.id}`} class="sidebar-item">
+                  <div class="icon">
+                    <span class="material-symbols-outlined">article</span>
+                  </div>
+                  <div class="text">
+                    <div class="title">{child.data.title}</div>
+                  </div>
+                </a>
+              ))
+            ) : (
+              /* Show backlinks: parent + siblings */
+              <>
+                {parentTema && (
+                  <a href={`/teme/${parentTema.id}`} class="sidebar-item sidebar-parent">
+                    <div class="icon">
+                      <span class="material-symbols-outlined">arrow_upward</span>
+                    </div>
+                    <div class="text">
+                      <div class="title">{parentTema.data.title}</div>
+                    </div>
+                  </a>
+                )}
+                {siblings.length > 0 && parentTema && (
+                  <div class="sidebar-divider">Alte articole</div>
+                )}
+                {siblings.map(sibling => (
+                  <a href={`/teme/${sibling.id}`} class="sidebar-item">
+                    <div class="icon">
+                      <span class="material-symbols-outlined">article</span>
+                    </div>
+                    <div class="text">
+                      <div class="title">{sibling.data.title}</div>
+                    </div>
+                  </a>
+                ))}
+              </>
+            )}
+          </nav>
+        </aside>
+      )}
 
-    <!-- Personaje principale -->
-    {personajePrincipale && (
-      <section class="bg-stone-50/50 rounded-xl p-6 border border-slate-200">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-slate-600">groups</span>
-          <h2 class="text-xl font-bold text-slate-900">Personaje principale</h2>
-        </div>
-        <div class="prose prose-slate prose-base max-w-none prose-ul:space-y-2 prose-li:leading-relaxed prose-li:text-slate-800 prose-h3:text-slate-900 prose-h3:text-lg prose-h3:mt-4 prose-h3:mb-2" set:html={marked(personajePrincipale)} />
-      </section>
-    )}
+      <!-- Main Content -->
+      <main class="tema-content">
+        <div class="space-y-6">
 
-    <!-- Cronologie Section (Timeline style in card) -->
-    {cronologieEntries.length > 0 && (
-      <section class="bg-indigo-50/40 rounded-xl p-6 border border-slate-200">
-        <div class="flex items-center gap-2 mb-5">
-          <span class="material-symbols-outlined text-indigo-600">timeline</span>
-          <h2 class="text-xl font-bold text-slate-900">Cronologie</h2>
-        </div>
-        <div class="relative ml-3 border-l-2 border-slate-300 pl-6 space-y-6">
-          {cronologieEntries.map(entry => (
-            <div class="relative">
-              <div class="absolute -left-[31px] top-1 size-4 rounded-full bg-indigo-500 border-4 border-white"></div>
-              <h4 class="font-bold text-slate-900">{entry.title}</h4>
-              <div class="text-sm text-slate-700 prose prose-slate prose-base max-w-none" set:html={marked(entry.description)} />
-            </div>
-          ))}
-        </div>
-      </section>
-    )}
+          <!-- Prezentare generală (Card with icon) -->
+          {prezentareGenerala && (
+            <section class="bg-blue-50/50 rounded-2xl p-6 border border-slate-200">
+              <div class="flex items-center gap-3 mb-4">
+                <div class="bg-primary text-white p-2 rounded-lg">
+                  <span class="material-symbols-outlined text-2xl">info</span>
+                </div>
+                <h2 class="text-2xl font-bold text-slate-900">Prezentare generală</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800 prose-strong:text-slate-900" set:html={marked(prezentareGenerala)} />
+            </section>
+          )}
 
-    <!-- Teme teologice -->
-    {temeTeo && (
-      <section class="bg-violet-50/40 rounded-xl p-6 border border-slate-200">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-violet-600">psychology</span>
-          <h2 class="text-xl font-bold text-slate-900">Teme teologice</h2>
+          <!-- Autor și context (Compact card) -->
+          {autorContext && (
+            <section class="bg-white rounded-xl p-6 border border-slate-200 shadow-sm">
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-slate-600">person</span>
+                <h2 class="text-xl font-bold text-slate-900">Autor și context</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800" set:html={marked(autorContext)} />
+            </section>
+          )}
+
+          <!-- Structură (Table card) -->
+          {structura && (
+            <section class="bg-slate-50/80 rounded-xl p-6 border border-slate-200">
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-slate-600">account_tree</span>
+                <h2 class="text-xl font-bold text-slate-900">Structură</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none prose-table:text-sm prose-th:bg-white prose-th:text-left prose-th:text-slate-900 prose-th:font-bold prose-td:py-3 prose-td:text-slate-800" set:html={marked(structura)} />
+            </section>
+          )}
+
+          <!-- Personaje principale -->
+          {personajePrincipale && (
+            <section class="bg-stone-50/50 rounded-xl p-6 border border-slate-200">
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-slate-600">groups</span>
+                <h2 class="text-xl font-bold text-slate-900">Personaje principale</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none prose-ul:space-y-2 prose-li:leading-relaxed prose-li:text-slate-800 prose-h3:text-slate-900 prose-h3:text-lg prose-h3:mt-4 prose-h3:mb-2" set:html={marked(personajePrincipale)} />
+            </section>
+          )}
+
+          <!-- Cronologie Section (Timeline style in card) -->
+          {cronologieEntries.length > 0 && (
+            <section class="bg-indigo-50/40 rounded-xl p-6 border border-slate-200">
+              <div class="flex items-center gap-2 mb-5">
+                <span class="material-symbols-outlined text-indigo-600">timeline</span>
+                <h2 class="text-xl font-bold text-slate-900">Cronologie</h2>
+              </div>
+              <div class="relative ml-3 border-l-2 border-slate-300 pl-6 space-y-6">
+                {cronologieEntries.map(entry => (
+                  <div class="relative">
+                    <div class="absolute -left-[31px] top-1 size-4 rounded-full bg-indigo-500 border-4 border-white"></div>
+                    <h4 class="font-bold text-slate-900">{entry.title}</h4>
+                    <div class="text-sm text-slate-700 prose prose-slate prose-base max-w-none" set:html={marked(entry.description)} />
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+
+          <!-- Teme teologice -->
+          {temeTeo && (
+            <section class="bg-violet-50/40 rounded-xl p-6 border border-slate-200">
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-violet-600">psychology</span>
+                <h2 class="text-xl font-bold text-slate-900">Teme teologice</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none
+                prose-h3:text-slate-900 prose-h3:text-base prose-h3:font-bold prose-h3:mt-0 prose-h3:mb-2
+                prose-p:leading-relaxed prose-p:text-slate-800
+                prose-ul:list-disc prose-ul:ml-5 prose-ul:space-y-2
+                prose-li:text-slate-800"
+                set:html={marked(temeTeo)} />
+            </section>
+          )}
+
+          <!-- Versete cheie (Quote style) -->
+          {verseteKey && (
+            <section>
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-primary">format_quote</span>
+                <h2 class="text-xl font-bold">Versete cheie</h2>
+              </div>
+              <div class="space-y-3 prose prose-slate prose-base max-w-none prose-p:bg-primary/5 prose-p:border-l-4 prose-p:border-primary prose-p:pl-4 prose-p:py-3 prose-p:rounded-r-lg prose-p:my-2" set:html={marked(verseteKey)} />
+            </section>
+          )}
+
+          <!-- Tipologie -->
+          {tipologie && (
+            <section class="bg-amber-50/50 rounded-xl p-6 border border-slate-200">
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-amber-600">link</span>
+                <h2 class="text-xl font-bold text-slate-900">Tipologie și profeții mesianice</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none prose-p:text-slate-800 prose-table:text-sm prose-th:bg-amber-50/30 prose-th:text-slate-900 prose-td:text-slate-800" set:html={marked(tipologie)} />
+            </section>
+          )}
+
+          <!-- Importanță în teologia ortodoxă -->
+          {importantaOrtodoxa && (
+            <section class="bg-teal-50/40 rounded-xl p-6 border border-slate-200">
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-teal-600">church</span>
+                <h2 class="text-xl font-bold text-slate-900">Importanță în teologia ortodoxă</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none
+                prose-h3:text-slate-900 prose-h3:text-base prose-h3:font-bold
+                prose-p:text-slate-800 prose-p:leading-relaxed
+                prose-ul:list-disc prose-ul:ml-5
+                prose-li:text-slate-800"
+                set:html={marked(importantaOrtodoxa)} />
+            </section>
+          )}
+
+          <!-- Lecturi liturgice -->
+          {lecturiLiturgice && (
+            <section class="bg-pink-50/40 rounded-xl p-6 border border-slate-200">
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-pink-600">auto_stories</span>
+                <h2 class="text-xl font-bold text-slate-900">Lecturi liturgice</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none
+                prose-p:text-slate-800
+                prose-ul:list-disc prose-ul:ml-5
+                prose-li:text-slate-800"
+                set:html={marked(lecturiLiturgice)} />
+            </section>
+          )}
+
+          <!-- Sfinți Părinți -->
+          {sfintiParinti && (
+            <section class="bg-sky-50/40 rounded-xl p-6 border border-slate-200">
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-sky-600">menu_book</span>
+                <h2 class="text-xl font-bold text-slate-900">Sfinți Părinți</h2>
+              </div>
+              <div class="prose prose-slate prose-base max-w-none
+                prose-p:text-slate-800
+                prose-strong:text-slate-900"
+                set:html={marked(sfintiParinti)} />
+            </section>
+          )}
+
+          <!-- Rest of body content -->
+          {bodyHtml && (
+            <article class="prose prose-slate prose-base max-w-none
+              prose-headings:text-primary prose-headings:font-bold
+              prose-h2:text-xl prose-h2:mt-8 prose-h2:mb-3
+              prose-h3:text-lg prose-h3:mt-6 prose-h3:mb-2
+              prose-strong:text-slate-800
+              prose-ul:space-y-1
+              prose-p:leading-relaxed
+              prose-li:leading-relaxed
+              prose-table:text-base
+              prose-th:text-left prose-th:text-primary prose-th:font-bold
+              prose-td:py-2
+              prose-blockquote:border-primary/30 prose-blockquote:text-slate-600 prose-blockquote:italic">
+              <Fragment set:html={bodyHtml} />
+            </article>
+          )}
+
+          <!-- Related Content -->
+          <RelatedContent
+            related={entry.data.related}
+            opposed_to={entry.data.opposed_to}
+            condemned_at={entry.data.condemned_at}
+          />
+
         </div>
-        <div class="prose prose-slate prose-base max-w-none
-          prose-h3:text-slate-900 prose-h3:text-base prose-h3:font-bold prose-h3:mt-0 prose-h3:mb-2
-          prose-p:leading-relaxed prose-p:text-slate-800
-          prose-ul:list-disc prose-ul:ml-5 prose-ul:space-y-2
-          prose-li:text-slate-800"
-          set:html={marked(temeTeo)} />
-      </section>
-    )}
+      </main>
 
-    <!-- Versete cheie (Quote style) -->
-    {verseteKey && (
-      <section>
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-primary">format_quote</span>
-          <h2 class="text-xl font-bold">Versete cheie</h2>
-        </div>
-        <div class="space-y-3 prose prose-slate prose-base max-w-none prose-p:bg-primary/5 prose-p:border-l-4 prose-p:border-primary prose-p:pl-4 prose-p:py-3 prose-p:rounded-r-lg prose-p:my-2" set:html={marked(verseteKey)} />
-      </section>
-    )}
-
-    <!-- Tipologie -->
-    {tipologie && (
-      <section class="bg-amber-50/50 rounded-xl p-6 border border-slate-200">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-amber-600">link</span>
-          <h2 class="text-xl font-bold text-slate-900">Tipologie și profeții mesianice</h2>
-        </div>
-        <div class="prose prose-slate prose-base max-w-none prose-p:text-slate-800 prose-table:text-sm prose-th:bg-amber-50/30 prose-th:text-slate-900 prose-td:text-slate-800" set:html={marked(tipologie)} />
-      </section>
-    )}
-
-    <!-- Importanță în teologia ortodoxă -->
-    {importantaOrtodoxa && (
-      <section class="bg-teal-50/40 rounded-xl p-6 border border-slate-200">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-teal-600">church</span>
-          <h2 class="text-xl font-bold text-slate-900">Importanță în teologia ortodoxă</h2>
-        </div>
-        <div class="prose prose-slate prose-base max-w-none
-          prose-h3:text-slate-900 prose-h3:text-base prose-h3:font-bold
-          prose-p:text-slate-800 prose-p:leading-relaxed
-          prose-ul:list-disc prose-ul:ml-5
-          prose-li:text-slate-800"
-          set:html={marked(importantaOrtodoxa)} />
-      </section>
-    )}
-
-    <!-- Lecturi liturgice -->
-    {lecturiLiturgice && (
-      <section class="bg-pink-50/40 rounded-xl p-6 border border-slate-200">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-pink-600">auto_stories</span>
-          <h2 class="text-xl font-bold text-slate-900">Lecturi liturgice</h2>
-        </div>
-        <div class="prose prose-slate prose-base max-w-none
-          prose-p:text-slate-800
-          prose-ul:list-disc prose-ul:ml-5
-          prose-li:text-slate-800"
-          set:html={marked(lecturiLiturgice)} />
-      </section>
-    )}
-
-    <!-- Sfinți Părinți -->
-    {sfintiParinti && (
-      <section class="bg-sky-50/40 rounded-xl p-6 border border-slate-200">
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-sky-600">menu_book</span>
-          <h2 class="text-xl font-bold text-slate-900">Sfinți Părinți</h2>
-        </div>
-        <div class="prose prose-slate prose-base max-w-none
-          prose-p:text-slate-800
-          prose-strong:text-slate-900"
-          set:html={marked(sfintiParinti)} />
-      </section>
-    )}
-
-    <!-- Rest of body content -->
-    {bodyHtml && (
-      <article class="prose prose-slate prose-base max-w-none
-        prose-headings:text-primary prose-headings:font-bold
-        prose-h2:text-xl prose-h2:mt-8 prose-h2:mb-3
-        prose-h3:text-lg prose-h3:mt-6 prose-h3:mb-2
-        prose-strong:text-slate-800
-        prose-ul:space-y-1
-        prose-p:leading-relaxed
-        prose-li:leading-relaxed
-        prose-table:text-base
-        prose-th:text-left prose-th:text-primary prose-th:font-bold
-        prose-td:py-2
-        prose-blockquote:border-primary/30 prose-blockquote:text-slate-600 prose-blockquote:italic">
-        <Fragment set:html={bodyHtml} />
-      </article>
-    )}
-
-    <!-- Related Content -->
-    <RelatedContent
-      related={entry.data.related}
-      opposed_to={entry.data.opposed_to}
-      condemned_at={entry.data.condemned_at}
-    />
+    </div>
 
   </div>
 </Base>
+
+<style>
+  /* DESKTOP: Two-column layout with sticky sidebar */
+  @media (min-width: 768px) {
+    .tema-layout {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 3rem;
+      align-items: start;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 2rem;
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 1rem;
+      padding: 1.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .sidebar-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #e2e8f0;
+    }
+
+    .sidebar-header .material-symbols-outlined {
+      color: #1754cf;
+      font-size: 1.25rem;
+    }
+
+    .sidebar-header h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #0f172a;
+    }
+
+    .sidebar-nav {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .sidebar-item {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.625rem;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      color: #475569;
+      transition: all 0.2s;
+      border: 1px solid transparent;
+    }
+
+    .sidebar-item:hover {
+      background: #f1f5f9;
+      color: #1754cf;
+      border-color: #1754cf20;
+    }
+
+    .sidebar-item .icon {
+      width: 2rem;
+      height: 2rem;
+      background: #1754cf10;
+      border-radius: 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: all 0.2s;
+    }
+
+    .sidebar-item:hover .icon {
+      background: #1754cf;
+      color: white;
+    }
+
+    .sidebar-item .material-symbols-outlined {
+      font-size: 1.25rem;
+      color: #1754cf;
+    }
+
+    .sidebar-item:hover .material-symbols-outlined {
+      color: white;
+    }
+
+    .sidebar-item .text {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .sidebar-item .title {
+      font-family: 'Literata', serif;
+      font-weight: 700;
+      font-size: 0.813rem;
+      line-height: 1.3;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .sidebar-parent {
+      background: #f1f5f9;
+      border-color: #1754cf30;
+      font-weight: 600;
+    }
+
+    .sidebar-parent .icon {
+      background: #1754cf;
+    }
+
+    .sidebar-parent .material-symbols-outlined {
+      color: white;
+    }
+
+    .sidebar-divider {
+      font-size: 0.688rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #64748b;
+      padding: 0.75rem 0.625rem 0.5rem;
+      margin-top: 0.5rem;
+    }
+
+    /* Hide mobile drawer on desktop */
+    .mobile-drawer {
+      display: none;
+    }
+  }
+
+  /* MOBILE: Expandable drawer */
+  @media (max-width: 767px) {
+    .sidebar {
+      display: none;
+    }
+
+    .tema-layout {
+      display: block;
+    }
+
+    .mobile-drawer {
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 0.75rem;
+      overflow: hidden;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+    }
+
+    .drawer-toggle {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      background: white;
+      border: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      font-family: inherit;
+    }
+
+    .drawer-toggle:active {
+      background: #f8fafc;
+    }
+
+    .drawer-toggle-left {
+      display: flex;
+      align-items: center;
+      gap: 0.625rem;
+    }
+
+    .drawer-toggle .material-symbols-outlined {
+      color: #1754cf;
+      font-size: 1.125rem;
+    }
+
+    .drawer-toggle h2 {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: #0f172a;
+      letter-spacing: -0.01em;
+    }
+
+    .drawer-toggle .badge {
+      background: #1754cf;
+      color: white;
+      font-size: 0.688rem;
+      font-weight: 600;
+      padding: 0.125rem 0.438rem;
+      border-radius: 9999px;
+      min-width: 1.25rem;
+      text-align: center;
+    }
+
+    .drawer-chevron {
+      transition: transform 0.3s;
+      color: #94a3b8;
+      font-size: 1.25rem;
+    }
+
+    .drawer-chevron.expanded {
+      transform: rotate(180deg);
+    }
+
+    .drawer-content {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+      border-top: 1px solid transparent;
+    }
+
+    .drawer-content.expanded {
+      max-height: 2000px;
+      border-top-color: #f1f5f9;
+    }
+
+    .drawer-grid {
+      padding: 0.5rem 0.75rem 0.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.375rem;
+    }
+
+    .drawer-item {
+      display: flex;
+      align-items: center;
+      gap: 0.625rem;
+      padding: 0.625rem 0.75rem;
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 0.625rem;
+      text-decoration: none;
+      color: #475569;
+      transition: all 0.2s;
+    }
+
+    .drawer-item:active {
+      background: #f1f5f9;
+      border-color: #1754cf;
+      transform: scale(0.98);
+    }
+
+    .drawer-item .icon {
+      width: 2rem;
+      height: 2rem;
+      background: #1754cf10;
+      border-radius: 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .drawer-item .material-symbols-outlined {
+      font-size: 1.125rem;
+      color: #1754cf;
+    }
+
+    .drawer-item .text {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .drawer-item .title {
+      font-family: 'Literata', serif;
+      font-weight: 700;
+      font-size: 0.813rem;
+      line-height: 1.3;
+      margin-bottom: 0.063rem;
+      color: #0f172a;
+    }
+
+    .drawer-item .summary {
+      font-size: 0.688rem;
+      color: #64748b;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      line-height: 1.4;
+    }
+
+    .drawer-item .chevron {
+      color: #cbd5e1;
+      flex-shrink: 0;
+      font-size: 1.125rem;
+    }
+
+    /* Parent link styling in mobile drawer */
+    .drawer-parent-item {
+      background: #eff6ff;
+      border-color: #1754cf50;
+    }
+
+    .drawer-parent-item .icon {
+      background: #1754cf;
+    }
+
+    .drawer-parent-item .material-symbols-outlined {
+      color: white;
+    }
+
+    .drawer-parent-item .title {
+      font-weight: 700;
+    }
+  }
+</style>

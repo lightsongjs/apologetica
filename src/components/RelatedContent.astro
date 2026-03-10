@@ -24,19 +24,25 @@ const condemnedEntry = condemned_at
 ---
 
 {(relatedEntries.length > 0 || opposedEntries.length > 0 || condemnedEntry) && (
-  <section class="related-content mt-8 p-6 bg-gray-50 dark:bg-gray-800 rounded-lg">
-    <h2 class="text-xl font-bold mb-4">Vezi și</h2>
+  <section class="bg-orange-50/30 rounded-xl p-6 border border-slate-200">
+    <div class="flex items-center gap-2 mb-4">
+      <span class="material-symbols-outlined text-orange-600">explore</span>
+      <h2 class="text-xl font-bold text-slate-900">Vezi și</h2>
+    </div>
 
     {relatedEntries.length > 0 && (
-      <div class="mb-4">
-        <h3 class="font-semibold mb-2">Teme conexe:</h3>
-        <ul class="list-disc list-inside space-y-1">
+      <div class="mb-4 last:mb-0">
+        <h3 class="font-semibold mb-3 text-slate-900 text-base">Teme conexe:</h3>
+        <ul class="space-y-3">
           {relatedEntries.map(entry => entry && (
-            <li>
-              <a href={`/teme/${entry.slug}`} class="text-blue-600 hover:underline dark:text-blue-400">
-                {entry.data.title}
-              </a>
-              <span class="text-sm text-gray-600 dark:text-gray-400"> — {entry.data.summary}</span>
+            <li class="flex items-start gap-2">
+              <span class="material-symbols-outlined text-primary text-sm mt-0.5">arrow_forward</span>
+              <div>
+                <a href={`/teme/${entry.slug}`} class="text-primary hover:underline font-medium">
+                  {entry.data.title}
+                </a>
+                <p class="text-sm text-slate-600 mt-0.5">{entry.data.summary}</p>
+              </div>
             </li>
           ))}
         </ul>
@@ -44,12 +50,13 @@ const condemnedEntry = condemned_at
     )}
 
     {opposedEntries.length > 0 && (
-      <div class="mb-4">
-        <h3 class="font-semibold mb-2">Se opune la:</h3>
-        <ul class="list-disc list-inside space-y-1">
+      <div class="mb-4 last:mb-0">
+        <h3 class="font-semibold mb-3 text-slate-900 text-base">Se opune la:</h3>
+        <ul class="space-y-2">
           {opposedEntries.map(entry => entry && (
-            <li>
-              <a href={`/teme/${entry.slug}`} class="text-blue-600 hover:underline dark:text-blue-400">
+            <li class="flex items-center gap-2">
+              <span class="material-symbols-outlined text-red-500 text-sm">close</span>
+              <a href={`/teme/${entry.slug}`} class="text-primary hover:underline font-medium">
                 {entry.data.title}
               </a>
             </li>
@@ -60,12 +67,13 @@ const condemnedEntry = condemned_at
 
     {condemnedEntry && (
       <div>
-        <h3 class="font-semibold mb-2">Condamnat la:</h3>
-        <p>
-          <a href={`/teme/${condemnedEntry.slug}`} class="text-blue-600 hover:underline dark:text-blue-400">
+        <h3 class="font-semibold mb-3 text-slate-900 text-base">Condamnat la:</h3>
+        <div class="flex items-center gap-2">
+          <span class="material-symbols-outlined text-red-600 text-sm">gavel</span>
+          <a href={`/teme/${condemnedEntry.slug}`} class="text-primary hover:underline font-medium">
             {condemnedEntry.data.title}
           </a>
-        </p>
+        </div>
       </div>
     )}
   </section>
