@@ -8,6 +8,7 @@ interface Props {
   backHref?: string;
   useHistoryBack?: boolean;
   isHomePage?: boolean;
+  maxWidth?: 'xl' | 'full';
 }
 
 const {
@@ -16,6 +17,7 @@ const {
   backHref,
   useHistoryBack = false,
   isHomePage = false,
+  maxWidth = 'xl',
 } = Astro.props;
 
 // No data loading needed - will fetch dynamically via JSON endpoint
@@ -42,7 +44,7 @@ const {
   <body class="bg-bg text-[#0e121b] antialiased min-h-screen flex flex-col">
 
     <header class="sticky top-0 z-50 bg-bg/80 backdrop-blur-md border-b border-primary/10 px-4 py-3">
-      <div class="max-w-xl mx-auto flex items-center justify-between">
+      <div class={`${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto flex items-center justify-between`}>
         <!-- Normal header content -->
         <div id="header-normal" class="flex items-center gap-2 flex-1 min-w-0">
           {useHistoryBack ? (
@@ -95,7 +97,7 @@ const {
 
       <!-- Search results dropdown -->
       {!isHomePage && (
-        <div id="header-search-dropdown" class="hidden max-w-xl mx-auto mt-2">
+        <div id="header-search-dropdown" class={`hidden ${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto mt-2`}>
           <div id="header-search-results" class="bg-white rounded-xl shadow-lg border border-primary/10 max-h-80 overflow-y-auto"></div>
           <div id="header-no-results" class="hidden bg-white rounded-xl shadow-lg border border-primary/10 p-6 text-center">
             <span class="material-symbols-outlined text-primary/20 text-3xl">search_off</span>
@@ -105,7 +107,7 @@ const {
       )}
     </header>
 
-    <main class="flex-1 max-w-xl mx-auto w-full px-4 pb-8">
+    <main class={`flex-1 ${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto w-full px-4 pb-8`}>
       <slot />
     </main>
 
