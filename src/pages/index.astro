@@ -40,8 +40,13 @@ import Base from '../layouts/Base.astro';
   </div>
 
   <script>
-    // Persist search data across View Transitions
+    // Use shared preloaded search data
     let homeSearchData = null;
+
+    // Resolve preloaded data immediately
+    if (window.__searchDataPromise) {
+      window.__searchDataPromise.then(d => { if (d) homeSearchData = d; });
+    }
 
     function initHomeSearch() {
       const searchInput = document.getElementById('home-search-input') as HTMLInputElement | null;
@@ -54,12 +59,9 @@ import Base from '../layouts/Base.astro';
 
       if (!searchInput) return;
 
-      // Preload search data
-      if (!homeSearchData) {
-        fetch('/search-data.json')
-          .then(response => response.json())
-          .then(data => { homeSearchData = data; })
-          .catch(error => { console.error('Failed to load search data:', error); });
+      // Ensure data is loaded (should already be from preload)
+      if (!homeSearchData && window.__searchDataPromise) {
+        window.__searchDataPromise.then(d => { if (d) homeSearchData = d; });
       }
 
       function removeDiacritics(str) {

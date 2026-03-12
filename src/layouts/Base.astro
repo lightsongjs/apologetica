@@ -46,9 +46,16 @@ const {
     <link href="https://fonts.googleapis.com/css2?family=Literata:wght@400;700&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@400&display=block" rel="stylesheet" />
 
+    <link rel="preload" href="/search-data.json" as="fetch" crossorigin />
     <title>{title} | Apologetica</title>
   </head>
   <body class="bg-bg text-[#0e121b] antialiased min-h-screen flex flex-col">
+    <script is:inline>
+      // Eagerly fetch search data on every page — shared by home search + header search
+      if (!window.__searchDataPromise) {
+        window.__searchDataPromise = fetch('/search-data.json').then(r => r.json()).catch(() => null);
+      }
+    </script>
 
     <header class="sticky top-0 z-50 bg-bg/80 backdrop-blur-md border-b border-primary/10 px-4 py-3">
       <div class={`${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto flex items-center justify-between`}>
@@ -153,9 +160,13 @@ const {
 
     {!isHomePage && (
       <script>
-        // Persist search data across View Transitions navigations
+        // Use shared preloaded search data
         let searchData = null;
-        let isLoading = false;
+
+        // Resolve preloaded data immediately
+        if (window.__searchDataPromise) {
+          window.__searchDataPromise.then(d => { if (d) searchData = d; });
+        }
 
         function initHeaderSearch() {
           const searchBtn = document.getElementById('header-search-btn');
@@ -170,17 +181,9 @@ const {
 
           if (!searchMode || !searchInput) return;
 
-          async function loadSearchData() {
-            if (searchData || isLoading) return;
-            isLoading = true;
-            try {
-              const response = await fetch('/search-data.json');
-              searchData = await response.json();
-            } catch (error) {
-              console.error('Failed to load search data:', error);
-            } finally {
-              isLoading = false;
-            }
+          // Ensure data is loaded (should already be from preload)
+          if (!searchData && window.__searchDataPromise) {
+            window.__searchDataPromise.then(d => { if (d) searchData = d; });
           }
 
           function openSearch() {
@@ -193,7 +196,6 @@ const {
             }
             var si = document.getElementById('header-search-input');
             if (si) si.focus();
-            loadSearchData();
           }
 
           function closeSearch() {
