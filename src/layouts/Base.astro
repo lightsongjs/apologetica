@@ -184,23 +184,38 @@ const {
           }
 
           function openSearch() {
-            headerNormal?.classList.add('hidden');
-            headerActions?.classList.add('hidden');
-            searchMode.classList.remove('hidden');
-            searchMode.classList.add('flex');
-            searchInput.focus();
+            document.getElementById('header-normal')?.classList.add('hidden');
+            document.getElementById('header-actions')?.classList.add('hidden');
+            var sm = document.getElementById('header-search-mode');
+            if (sm) {
+              sm.classList.remove('hidden');
+              sm.classList.add('flex');
+            }
+            var si = document.getElementById('header-search-input');
+            if (si) si.focus();
             loadSearchData();
           }
 
           function closeSearch() {
-            searchMode.classList.add('hidden');
-            searchMode.classList.remove('flex');
-            headerNormal?.classList.remove('hidden');
-            headerActions?.classList.remove('hidden');
-            dropdown?.classList.add('hidden');
-            searchInput.value = '';
-            if (resultsContainer) resultsContainer.innerHTML = '';
-            noResultsEl?.classList.add('hidden');
+            var sm = document.getElementById('header-search-mode');
+            if (sm) {
+              sm.classList.add('hidden');
+              sm.classList.remove('flex');
+            }
+            document.getElementById('header-normal')?.classList.remove('hidden');
+            document.getElementById('header-actions')?.classList.remove('hidden');
+            document.getElementById('header-search-dropdown')?.classList.add('hidden');
+            var si = document.getElementById('header-search-input');
+            if (si) si.value = '';
+            var rc = document.getElementById('header-search-results');
+            if (rc) rc.innerHTML = '';
+            document.getElementById('header-no-results')?.classList.add('hidden');
+            // Reset cauta tab highlight
+            const cautaTab = document.getElementById('cauta-tab');
+            if (cautaTab) {
+              cautaTab.classList.remove('bg-[#1754cf]', 'text-white');
+              cautaTab.classList.add('text-gray-400');
+            }
           }
 
           function removeDiacritics(str) {
@@ -394,8 +409,12 @@ const {
             }
           });
 
-          // Store references on window for keydown handler
-          window._headerSearch = { openSearch, closeSearch, searchMode };
+          // Store references on window for keydown handler and bottom nav
+          window._headerSearch = {
+            openSearch,
+            closeSearch,
+            get searchMode() { return document.getElementById('header-search-mode'); }
+          };
         }
 
         // Global keydown handler (only added once)
@@ -415,7 +434,7 @@ const {
           document.addEventListener('click', function(e) {
             var hs = window._headerSearch;
             if (!hs) return;
-            if (hs.searchMode && !hs.searchMode.classList.contains('hidden') && !e.target.closest('header')) {
+            if (hs.searchMode && !hs.searchMode.classList.contains('hidden') && !e.target.closest('header') && !e.target.closest('#cauta-tab')) {
               hs.closeSearch();
             }
           });
