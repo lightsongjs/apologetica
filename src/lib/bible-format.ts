@@ -22,7 +22,7 @@ export function formatVerses(body: string): string {
   // Format verse numbers: "1. Text" → "<sup>1</sup> Text"
   cleaned = cleaned.replace(
     /^(\d+)\.\s+/gm,
-    '<sup class="text-primary font-semibold mr-1">$1</sup> '
+    '<sup class="font-semibold mr-1 opacity-60">$1</sup> '
   );
 
   // Trim whitespace

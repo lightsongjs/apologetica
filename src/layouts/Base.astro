@@ -201,12 +201,6 @@ const {
             searchInput.value = '';
             if (resultsContainer) resultsContainer.innerHTML = '';
             noResultsEl?.classList.add('hidden');
-            // Reset cauta tab highlight
-            const cautaTab = document.getElementById('cauta-tab');
-            if (cautaTab) {
-              cautaTab.classList.remove('bg-[#1754cf]', 'text-white');
-              cautaTab.classList.add('text-gray-400');
-            }
           }
 
           function removeDiacritics(str) {

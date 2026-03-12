@@ -40,35 +40,16 @@ const tabs = [
 <script>
   function initBottomNav() {
     const cautaTab = document.getElementById('cauta-tab');
-    if (!cautaTab) return;
-
-    const newCautaTab = cautaTab.cloneNode(true) as HTMLElement;
-    cautaTab.replaceWith(newCautaTab);
-
-    newCautaTab.addEventListener('click', (e) => {
-      const isHome = window.location.pathname === '/';
-
-      if (isHome) {
-        // On home page: focus the home search input
+    if (cautaTab && window.location.pathname === '/') {
+      cautaTab.addEventListener('click', (e) => {
         const searchInput = document.getElementById('home-search-input') as HTMLInputElement;
         if (searchInput) {
           e.preventDefault();
           searchInput.focus();
           searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
-      } else {
-        // On other pages: open header search inline
-        const hs = (window as any)._headerSearch;
-        if (hs) {
-          e.preventDefault();
-          hs.openSearch();
-          // Highlight the cauta tab
-          newCautaTab.classList.add('bg-[#1754cf]', 'text-white');
-          newCautaTab.classList.remove('text-gray-400');
-        }
-        // If no header search available, let the link navigate to /
-      }
-    });
+      });
+    }
   }
   initBottomNav();
   document.addEventListener('astro:page-load', initBottomNav);
