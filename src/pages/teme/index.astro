@@ -8,7 +8,7 @@ const teme = allTeme.filter(tema => !tema.data.parent);
 const sorted = teme.sort((a, b) => a.data.title.localeCompare(b.data.title, 'ro'));
 ---
 
-<Base title="Teme" headerTitle="Teme" backHref="/" activeNav="home">
+<Base title="Teme" headerTitle="Teme" backHref="/" activeNav="home" activeTab="teme">
   <!-- Search Bar -->
   <div class="mb-4 opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
     <div class="relative">

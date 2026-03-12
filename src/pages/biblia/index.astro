@@ -1,176 +1,231 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { TESTAMENT_STATS, BOOKS_METADATA } from '../../lib/bible-books';
+import { BOOKS_METADATA } from '../../lib/bible-books';
 
-const testaments = [
-  {
-    slug: 'vechiul-testament',
-    name: 'Vechiul Testament',
-    icon: 'auto_stories',
-    count: TESTAMENT_STATS.VT,
-    description: 'Legea, Profeții și Scrierile',
-  },
-  {
-    slug: 'noul-testament',
-    name: 'Noul Testament',
-    icon: 'menu_book',
-    count: TESTAMENT_STATS.NT,
-    description: 'Evanghelii, Fapte și Epistole',
-  },
-];
+// Short display names for books with long Romanian names
+const SHORT_NAMES: Record<string, string> = {
+  'deuteronomul': 'Deuteron.',
+  'judecatori': 'Judecăt.',
+  '1-paralipomena': 'I Paral.',
+  '2-paralipomena': 'II Paral.',
+  'ecclesiastul': 'Ecclesiast.',
+  'faptele-apostolilor': 'Fapte',
+  '1-tesaloniceni': 'I Tesal.',
+  '2-tesaloniceni': 'II Tesal.',
+  'ecclesiasticul': 'Ecclesiastic.',
+  'apocalipsa': 'Apocalipsa',
+};
 
-// Get all biblical books from metadata (actual Bible books with chapters)
-const biblicalBooks = [
-  ...BOOKS_METADATA.VT.map(book => ({
-    slug: book.slug,
-    name: book.name_ro,
-    testament: 'vechiul-testament' as const,
-    chapters: book.chapters,
-    code: book.code,
-  })),
-  ...BOOKS_METADATA.NT.map(book => ({
-    slug: book.slug,
-    name: book.name_ro,
-    testament: 'noul-testament' as const,
-    chapters: book.chapters,
-    code: book.code,
-  })),
-];
+function displayName(slug: string, name_ro: string): string {
+  return SHORT_NAMES[slug] || name_ro;
+}
+
+const vtBooks = BOOKS_METADATA.VT.map(book => ({
+  slug: book.slug,
+  name: displayName(book.slug, book.name_ro),
+  fullName: book.name_ro,
+  testament: 'VT',
+  chapters: book.chapters,
+}));
+
+const ntBooks = BOOKS_METADATA.NT.map(book => ({
+  slug: book.slug,
+  name: displayName(book.slug, book.name_ro),
+  fullName: book.name_ro,
+  testament: 'NT',
+  chapters: book.chapters,
+}));
 ---
 
-<Base title="Biblia Ortodoxă" headerTitle="Biblia Ortodoxă" backHref="/" activeNav="home">
-  <!-- Search Bar -->
-  <div class="mb-4 opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
-    <div class="relative">
-      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-primary/40 text-xl">search</span>
-      <input
-        type="text"
-        id="search-input"
-        placeholder="Caută cărți biblice (Ioan, Isaia, Facerea...)..."
-        class="w-full pl-11 pr-4 py-3 rounded-xl border border-primary/20 bg-white focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
-      />
+<Base title="Biblia Ortodoxă" headerTitle="Biblia" backHref="/" activeTab="biblia">
+  <div class="pt-4 pb-6">
+    <!-- In-page search bar (hidden by default) -->
+    <div id="bible-search-wrapper" class="hidden mb-4">
+      <div class="relative">
+        <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-xl">search</span>
+        <input
+          type="text"
+          id="bible-search-input"
+          placeholder="Caută o carte..."
+          class="w-full pl-10 pr-10 py-3 bg-white border border-gray-200 rounded-xl text-sm text-gray-900 placeholder:text-gray-400 outline-none focus:border-primary/40 focus:ring-2 focus:ring-primary/10"
+          autocomplete="off"
+        />
+        <button id="bible-search-close" class="absolute right-2 top-1/2 -translate-y-1/2 p-1 text-gray-400 hover:text-gray-600 rounded-full hover:bg-gray-100">
+          <span class="material-symbols-outlined text-lg">close</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Vechiul Testament -->
+    <p class="text-[10px] font-semibold tracking-widest uppercase text-gray-400 font-sans mb-2" data-section="vt">Vechiul Testament</p>
+    <div class="grid grid-cols-4 gap-2">
+      {vtBooks.map(book => (
+        <button
+          type="button"
+          class="book-card bg-white rounded-lg border border-gray-200 p-3 flex items-center justify-center min-h-[52px] hover:border-primary/40 hover:shadow-sm active:bg-primary/5 transition-all cursor-pointer"
+          data-book-slug={book.slug}
+          data-testament={book.testament}
+          data-chapters={book.chapters}
+          data-full-name={book.fullName}
+        >
+          <span class="text-xs font-medium text-gray-900 text-center leading-tight" style="font-family: 'Literata', serif;">{book.name}</span>
+        </button>
+      ))}
+    </div>
+
+    <!-- Noul Testament -->
+    <p class="text-[10px] font-semibold tracking-widest uppercase text-gray-400 font-sans mb-2 mt-6" data-section="nt">Noul Testament</p>
+    <div class="grid grid-cols-4 gap-2">
+      {ntBooks.map(book => (
+        <button
+          type="button"
+          class="book-card bg-white rounded-lg border border-gray-200 p-3 flex items-center justify-center min-h-[52px] hover:border-primary/40 hover:shadow-sm active:bg-primary/5 transition-all cursor-pointer"
+          data-book-slug={book.slug}
+          data-testament={book.testament}
+          data-chapters={book.chapters}
+          data-full-name={book.fullName}
+        >
+          <span class="text-xs font-medium text-gray-900 text-center leading-tight" style="font-family: 'Literata', serif;">{book.name}</span>
+        </button>
+      ))}
     </div>
   </div>
 
-  <!-- Cards Grid -->
-  <div id="cards-grid" class="grid grid-cols-1 gap-2">
-    <!-- Testaments (shown by default) -->
-    {testaments.map((testament, i) => (
-      <a
-        href={`/biblia/${testament.slug}`}
-        class="item-card testament-card group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3 opacity-0"
-        style={`animation: fadeIn 0.4s ease-out ${(i + 1) * 0.05}s forwards;`}
-        data-name={testament.name.toLowerCase()}
-        data-type="testament"
-      >
-        <!-- Icon -->
-        <div class="w-10 h-10 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all duration-300">
-          <span class="material-symbols-outlined text-xl">{testament.icon}</span>
-        </div>
+  <!-- Chapter Popup Overlay -->
+  <div id="chapter-popup-overlay" class="fixed inset-0 bg-black/40 z-50 hidden"></div>
 
-        <!-- Content -->
-        <div class="flex-1 min-w-0">
-          <h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">{testament.name}</h3>
-          <p class="text-xs text-primary/60 truncate">{testament.count} {testament.count === 1 ? 'carte' : 'cărți'} · {testament.description}</p>
-        </div>
-
-        <!-- Chevron -->
-        <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>
-      </a>
-    ))}
-
-    <!-- Biblical Books (hidden by default, shown when searching) -->
-    {biblicalBooks.map((book, i) => (
-      <a
-        href={`/biblia/${book.testament}/${book.slug}/1`}
-        class="item-card book-card hidden group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3"
-        data-name={book.name.toLowerCase()}
-        data-testament={book.testament}
-        data-type="book"
-      >
-        <!-- Icon -->
-        <div class="w-10 h-10 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all duration-300">
-          <span class="material-symbols-outlined text-xl">menu_book</span>
-        </div>
-
-        <!-- Content -->
-        <div class="flex-1 min-w-0">
-          <h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">{book.name}</h3>
-          <p class="text-xs text-primary/60">{book.chapters} {book.chapters === 1 ? 'capitol' : 'capitole'}</p>
-        </div>
-
-        <!-- Chevron -->
-        <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>
-      </a>
-    ))}
+  <!-- Chapter Popup Bottom Sheet -->
+  <div id="chapter-popup" class="fixed bottom-0 left-0 right-0 z-50 bg-white rounded-t-2xl shadow-2xl translate-y-full transition-transform duration-300 ease-out flex flex-col" style="height: 65vh;">
+    <!-- Drag handle -->
+    <div class="flex justify-center pt-3 pb-1 flex-shrink-0">
+      <div class="w-10 h-1 bg-gray-300 rounded-full"></div>
+    </div>
+    <!-- Header -->
+    <div class="flex items-center justify-between px-5 pb-3 flex-shrink-0">
+      <h3 id="popup-book-name" class="text-xl font-bold text-gray-900" style="font-family: 'Literata', serif;"></h3>
+      <button id="popup-close" class="w-9 h-9 flex items-center justify-center bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <span class="material-symbols-outlined text-lg text-gray-500">close</span>
+      </button>
+    </div>
+    <!-- Chapter grid (scrollable) -->
+    <div id="popup-chapters" class="grid grid-cols-6 gap-2 px-5 pb-8 overflow-y-auto flex-1 min-h-0 content-start">
+    </div>
   </div>
-
-  <!-- No Results -->
-  <div id="no-results" class="hidden text-center py-12">
-    <span class="material-symbols-outlined text-primary/20 text-5xl mb-3">search_off</span>
-    <p class="text-sm text-gray-500">Nicio carte biblică găsită</p>
-  </div>
-
-  <style>
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(10px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
 
   <script>
-    const searchInput = document.getElementById('search-input') as HTMLInputElement;
-    const testamentCards = document.querySelectorAll('.testament-card') as NodeListOf<HTMLElement>;
-    const bookCards = document.querySelectorAll('.book-card') as NodeListOf<HTMLElement>;
-    const noResults = document.getElementById('no-results') as HTMLElement;
+    function initBibliaPage() {
+      const overlay = document.getElementById('chapter-popup-overlay');
+      const popup = document.getElementById('chapter-popup');
+      const popupBookName = document.getElementById('popup-book-name');
+      const popupChapters = document.getElementById('popup-chapters');
+      const popupClose = document.getElementById('popup-close');
+      const bookCards = document.querySelectorAll('.book-card');
+      const bottomNav = document.getElementById('bottom-nav');
+      const searchWrapper = document.getElementById('bible-search-wrapper');
+      const searchInput = document.getElementById('bible-search-input') as HTMLInputElement | null;
+      const searchCloseBtn = document.getElementById('bible-search-close');
+      const headerSearchBtn = document.getElementById('header-search-btn');
 
-    searchInput?.addEventListener('input', () => {
-      const query = searchInput.value.toLowerCase().trim();
-      let visibleCount = 0;
+      if (!overlay || !popup || !popupBookName || !popupChapters) return;
 
-      if (query === '') {
-        // No search query - show only testaments
-        testamentCards.forEach(card => {
-          card.style.display = 'flex';
-          card.classList.remove('hidden');
-          visibleCount++;
+      function getTestamentPath(testament: string): string {
+        return testament === 'VT' ? 'vechiul-testament' : 'noul-testament';
+      }
+
+      function openPopup(slug: string, testament: string, chapters: number, fullName: string) {
+        popupBookName.textContent = fullName;
+        const testamentPath = getTestamentPath(testament);
+        let html = '';
+        for (let i = 1; i <= chapters; i++) {
+          html += `<a href="/biblia/${testamentPath}/${slug}/${i}" class="bg-gray-50 rounded-lg border border-gray-200 h-12 flex items-center justify-center text-sm font-medium text-gray-900 hover:bg-primary hover:text-white hover:border-primary transition-colors">${i}</a>`;
+        }
+        popupChapters.innerHTML = html;
+
+        overlay.classList.remove('hidden');
+        void popup.offsetHeight;
+        popup.classList.remove('translate-y-full');
+        popup.classList.add('translate-y-0');
+        document.body.style.overflow = 'hidden';
+        if (bottomNav) bottomNav.style.display = 'none';
+      }
+
+      function closePopup() {
+        popup.classList.remove('translate-y-0');
+        popup.classList.add('translate-y-full');
+        overlay.classList.add('hidden');
+        document.body.style.overflow = '';
+        if (bottomNav) bottomNav.style.display = '';
+      }
+
+      bookCards.forEach(card => {
+        card.addEventListener('click', () => {
+          const el = card as HTMLElement;
+          openPopup(
+            el.dataset.bookSlug!,
+            el.dataset.testament!,
+            parseInt(el.dataset.chapters!, 10),
+            el.dataset.fullName!
+          );
         });
+      });
+
+      popupClose?.addEventListener('click', closePopup);
+      overlay.addEventListener('click', closePopup);
+
+      // In-page search for books
+      function openBibleSearch() {
+        if (searchWrapper && searchInput) {
+          searchWrapper.classList.remove('hidden');
+          searchInput.focus();
+        }
+      }
+
+      function closeBibleSearch() {
+        if (searchWrapper && searchInput) {
+          searchWrapper.classList.add('hidden');
+          searchInput.value = '';
+          filterBooks('');
+        }
+      }
+
+      function filterBooks(query: string) {
+        const q = query.toLowerCase().replace(/[ăâ]/g, 'a').replace(/[îï]/g, 'i').replace(/[șş]/g, 's').replace(/[țţ]/g, 't');
         bookCards.forEach(card => {
-          card.style.display = 'none';
-          card.classList.add('hidden');
+          const el = card as HTMLElement;
+          const name = (el.dataset.fullName || '').toLowerCase().replace(/[ăâ]/g, 'a').replace(/[îï]/g, 'i').replace(/[șş]/g, 's').replace(/[țţ]/g, 't');
+          el.style.display = (!q || name.includes(q)) ? '' : 'none';
         });
-      } else {
-        // Searching - hide testaments, show matching books
-        testamentCards.forEach(card => {
-          card.style.display = 'none';
-          card.classList.add('hidden');
+      }
+
+      // Intercept header search button to open in-page search instead
+      if (headerSearchBtn) {
+        headerSearchBtn.replaceWith(headerSearchBtn.cloneNode(true));
+        const newBtn = document.getElementById('header-search-btn');
+        newBtn?.addEventListener('click', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          openBibleSearch();
         });
+      }
 
-        bookCards.forEach(card => {
-          const name = card.dataset.name || '';
+      searchCloseBtn?.addEventListener('click', closeBibleSearch);
+      searchInput?.addEventListener('input', (e) => {
+        filterBooks((e.target as HTMLInputElement).value);
+      });
 
-          if (name.includes(query)) {
-            card.style.display = 'flex';
-            card.classList.remove('hidden');
-            visibleCount++;
-          } else {
-            card.style.display = 'none';
-            card.classList.add('hidden');
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          if (!overlay.classList.contains('hidden')) {
+            closePopup();
+          } else if (searchWrapper && !searchWrapper.classList.contains('hidden')) {
+            closeBibleSearch();
           }
-        });
-      }
+        }
+      });
+    }
 
-      if (visibleCount === 0 && query !== '') {
-        noResults.classList.remove('hidden');
-      } else {
-        noResults.classList.add('hidden');
-      }
-    });
+    // Run on initial load and after View Transitions
+    initBibliaPage();
+    document.addEventListener('astro:page-load', initBibliaPage);
   </script>
 </Base>

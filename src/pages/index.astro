@@ -3,125 +3,29 @@ import Base from '../layouts/Base.astro';
 // Search data will be loaded dynamically via JSON endpoint at runtime
 ---
 
-<Base title="Apologetica" isHomePage={true}>
-  <!-- Hero Section - Compact -->
-  <div class="relative py-6">
-    <!-- Background Decoration -->
-    <div class="absolute inset-0 -mx-4 bg-gradient-to-br from-amber-50/40 via-transparent to-blue-50/40 rounded-2xl -z-10"></div>
-
-    <div class="text-center space-y-4">
-      <!-- Inline Search Bar -->
-      <div class="opacity-0" style="animation: fadeSlideIn 0.6s ease-out 0.1s forwards;">
-        <div class="relative max-w-2xl mx-auto">
-          <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-primary/40 text-xl">search</span>
-          <input
-            type="text"
-            id="home-search-input"
-            placeholder="Caută conversații, teme, personalități..."
-            class="w-full pl-12 pr-10 py-3.5 rounded-xl border border-gray-200 bg-white shadow-lg focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
-            autocomplete="off"
-          />
-          <kbd class="hidden md:inline-block absolute right-3 top-1/2 -translate-y-1/2 px-2 py-1 text-xs bg-gray-50 rounded border border-gray-200 text-gray-500">/</kbd>
-        </div>
-      </div>
+<Base title="Apologetica" isHomePage={true} activeTab="none">
+  <!-- Search Bar -->
+  <div class="pt-4">
+    <div class="relative max-w-2xl">
+      <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-primary/40 text-xl">search</span>
+      <input
+        type="text"
+        id="home-search-input"
+        placeholder="Caută conversații, teme, personalități..."
+        class="w-full pl-12 pr-10 py-3.5 rounded-xl border border-gray-200 bg-white shadow-sm focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
+        autocomplete="off"
+      />
+      <button id="home-search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-primary/40 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors">
+        <span class="material-symbols-outlined text-xl">close</span>
+      </button>
+      <kbd id="home-search-kbd" class="hidden md:inline-block absolute right-3 top-1/2 -translate-y-1/2 px-2 py-1 text-xs bg-gray-50 rounded border border-gray-200 text-gray-500">/</kbd>
     </div>
   </div>
 
-  <!-- Main Sections Grid - Compact -->
-  <div id="sections-grid" class="mt-4 grid grid-cols-2 md:grid-cols-4 gap-3 opacity-0" style="animation: fadeSlideIn 0.6s ease-out 0.3s forwards;">
-
-    <!-- Conversations - Featured -->
-    <a
-      href="/conversatii"
-      class="col-span-2 group bg-gradient-to-br from-primary/5 via-white to-blue-50/30 rounded-xl border border-primary/10 hover:border-primary/30 transition-all shadow hover:shadow-lg"
-    >
-      <div class="p-4">
-        <div class="flex items-center gap-3 mb-2">
-          <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center group-hover:bg-primary transition-colors">
-            <span class="material-symbols-outlined text-xl text-primary group-hover:text-white transition-colors">forum</span>
-          </div>
-          <h3 class="text-lg font-bold text-gray-900 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">
-            "Vorbesc cu un..."
-          </h3>
-        </div>
-        <p class="text-sm text-gray-600 leading-snug">
-          Răspunsuri pentru conversații cu atei, baptiști și alții
-        </p>
-      </div>
-    </a>
-
-    <!-- Biblia -->
-    <a
-      href="/biblia"
-      class="group bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-all shadow hover:shadow-lg"
-    >
-      <div class="p-4">
-        <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mb-2 group-hover:bg-primary group-hover:scale-105 transition-all">
-          <span class="material-symbols-outlined text-xl text-primary group-hover:text-white transition-colors">menu_book</span>
-        </div>
-        <h3 class="text-base font-bold text-gray-900 mb-1 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">
-          Biblia
-        </h3>
-        <p class="text-xs text-gray-600 leading-tight">
-          Sfânta Scriptură
-        </p>
-      </div>
-    </a>
-
-    <!-- Teme -->
-    <a
-      href="/teme"
-      class="group bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-all shadow hover:shadow-lg"
-    >
-      <div class="p-4">
-        <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mb-2 group-hover:bg-primary group-hover:scale-105 transition-all">
-          <span class="material-symbols-outlined text-xl text-primary group-hover:text-white transition-colors">auto_stories</span>
-        </div>
-        <h3 class="text-base font-bold text-gray-900 mb-1 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">
-          Teme
-        </h3>
-        <p class="text-xs text-gray-600 leading-tight">
-          Doctrine ortodoxe
-        </p>
-      </div>
-    </a>
-
-    <!-- Personalități -->
-    <a
-      href="/personalitati"
-      class="group bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-all shadow hover:shadow-lg"
-    >
-      <div class="p-4">
-        <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mb-2 group-hover:bg-primary group-hover:scale-105 transition-all">
-          <span class="material-symbols-outlined text-xl text-primary group-hover:text-white transition-colors">person_pin</span>
-        </div>
-        <h3 class="text-base font-bold text-gray-900 mb-1 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">
-          Personalități
-        </h3>
-        <p class="text-xs text-gray-600 leading-tight">
-          Sfinți și apologeți
-        </p>
-      </div>
-    </a>
-
-    <!-- Locuri -->
-    <a
-      href="/locuri"
-      class="group bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-all shadow hover:shadow-lg"
-    >
-      <div class="p-4">
-        <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center mb-2 group-hover:bg-primary group-hover:scale-105 transition-all">
-          <span class="material-symbols-outlined text-xl text-primary group-hover:text-white transition-colors">location_on</span>
-        </div>
-        <h3 class="text-base font-bold text-gray-900 mb-1 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">
-          Locuri
-        </h3>
-        <p class="text-xs text-gray-600 leading-tight">
-          Geografia biblică
-        </p>
-      </div>
-    </a>
-
+  <!-- Descriptive content -->
+  <div id="sections-grid" class="mt-6">
+    <h2 class="text-lg text-gray-500" style="font-family: 'Literata', serif;">Ce cauți?</h2>
+    <p class="mt-1 text-sm text-gray-400" style="font-family: 'Inter', sans-serif;">Caută conversații, teme, personalități, locuri și cărți din Biblie</p>
   </div>
 
   <!-- Search Results (hidden by default) -->
@@ -135,202 +39,252 @@ import Base from '../layouts/Base.astro';
     <p class="text-sm text-gray-500">Niciun rezultat găsit</p>
   </div>
 
-  <style>
-    @keyframes fadeSlideIn {
-      from {
-        opacity: 0;
-        transform: translateY(30px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
-
   <script>
-    // Load search data dynamically
-    let searchData = null;
+    // Persist search data across View Transitions
+    let homeSearchData = null;
 
-    const searchInput = document.getElementById('home-search-input');
-    const sectionsGrid = document.getElementById('sections-grid');
-    const searchResults = document.getElementById('search-results');
-    const searchResultsList = document.getElementById('search-results-list');
-    const noResultsEl = document.getElementById('no-results');
+    function initHomeSearch() {
+      const searchInput = document.getElementById('home-search-input') as HTMLInputElement | null;
+      const searchClearBtn = document.getElementById('home-search-clear');
+      const searchKbd = document.getElementById('home-search-kbd');
+      const sectionsGrid = document.getElementById('sections-grid');
+      const searchResults = document.getElementById('search-results');
+      const searchResultsList = document.getElementById('search-results-list');
+      const noResultsEl = document.getElementById('no-results');
 
-    // Preload search data on page load
-    fetch('/search-data.json')
-      .then(response => response.json())
-      .then(data => {
-        searchData = data;
-      })
-      .catch(error => {
-        console.error('Failed to load search data:', error);
-      });
+      if (!searchInput) return;
 
-    function removeDiacritics(str) {
-      return str
-        .replace(/[ăâ]/g, 'a').replace(/[ĂÂ]/g, 'A')
-        .replace(/[îï]/g, 'i').replace(/[ÎÏ]/g, 'I')
-        .replace(/[șş]/g, 's').replace(/[ȘŞ]/g, 'S')
-        .replace(/[țţ]/g, 't').replace(/[ȚŢ]/g, 'T');
-    }
-
-    function normalize(str) {
-      return removeDiacritics(str.toLowerCase());
-    }
-
-    // Match at word boundary (start of word)
-    function matchesWord(text, q) {
-      var n = normalize(text);
-      var regex = new RegExp('(?:^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-      return regex.test(n);
-    }
-
-    function highlightMatch(text, query) {
-      if (!query) return text;
-      var nq = normalize(query);
-      var pattern = '';
-      for (var i = 0; i < nq.length; i++) {
-        var ch = nq[i];
-        if (ch === 'a') pattern += '[aăâĂÂ]';
-        else if (ch === 'i') pattern += '[iîïÎÏ]';
-        else if (ch === 's') pattern += '[sșşȘŞ]';
-        else if (ch === 't') pattern += '[tțţȚŢ]';
-        else pattern += ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      }
-      var regex = new RegExp('(?<=^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])(' + pattern + ')', 'gi');
-      return text.replace(regex, '<mark class="bg-primary/20 text-primary font-bold px-0.5 rounded">$1</mark>');
-    }
-
-    function performSearch(query) {
-      if (!searchData) {
-        // Data not loaded yet
-        return;
+      // Preload search data
+      if (!homeSearchData) {
+        fetch('/search-data.json')
+          .then(response => response.json())
+          .then(data => { homeSearchData = data; })
+          .catch(error => { console.error('Failed to load search data:', error); });
       }
 
-      var q = normalize(query.trim());
-
-      if (!q) {
-        sectionsGrid.classList.remove('hidden');
-        searchResults.classList.add('hidden');
-        noResultsEl.classList.add('hidden');
-        return;
+      function removeDiacritics(str) {
+        return str
+          .replace(/[ăâ]/g, 'a').replace(/[ĂÂ]/g, 'A')
+          .replace(/[îï]/g, 'i').replace(/[ÎÏ]/g, 'I')
+          .replace(/[șş]/g, 's').replace(/[ȘŞ]/g, 'S')
+          .replace(/[țţ]/g, 't').replace(/[ȚŢ]/g, 'T');
       }
 
-      sectionsGrid.classList.add('hidden');
+      function normalize(str) {
+        return removeDiacritics(str.toLowerCase());
+      }
 
-      var titleResults = [];
-      var subtitleResults = [];
+      function matchesWord(text, q) {
+        var n = normalize(text);
+        var regex = new RegExp('(?:^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+        return regex.test(n);
+      }
 
-      const { conversations, teme, personalitati, locuri, denominationLabels } = searchData;
+      function highlightMatch(text, query) {
+        if (!query) return text;
+        var nq = normalize(query);
+        var pattern = '';
+        for (var i = 0; i < nq.length; i++) {
+          var ch = nq[i];
+          if (ch === 'a') pattern += '[aăâĂÂ]';
+          else if (ch === 'i') pattern += '[iîïÎÏ]';
+          else if (ch === 's') pattern += '[sșşȘŞ]';
+          else if (ch === 't') pattern += '[tțţȚŢ]';
+          else pattern += ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+        var regex = new RegExp('(?<=^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])(' + pattern + ')', 'gi');
+        return text.replace(regex, '<mark class="bg-primary/20 text-primary font-bold px-0.5 rounded">$1</mark>');
+      }
 
-      conversations.forEach(function(conv) {
-        var denomLabel = denominationLabels[conv.denomination] || conv.denomination;
-        var titleMatch = matchesWord(conv.title, q);
-        var denomMatch = matchesWord(denomLabel, q);
-        if (titleMatch || denomMatch) {
-          var slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
-          titleResults.push({
-            icon: 'forum', label: denomLabel, title: conv.title,
-            subtitle: null, href: '/conversatii/' + conv.denomination + '/' + slug,
+      function getTestamentPath(testament) {
+        return testament === 'VT' ? 'vechiul-testament' : 'noul-testament';
+      }
+
+      function performSearch(query) {
+        if (!homeSearchData) return;
+
+        var q = normalize(query.trim());
+
+        if (!q) {
+          sectionsGrid?.classList.remove('hidden');
+          searchResults?.classList.add('hidden');
+          noResultsEl?.classList.add('hidden');
+          return;
+        }
+
+        sectionsGrid?.classList.add('hidden');
+
+        // Group results by category, each sorted internally
+        var bookResults = [];
+        var convResults = [];
+        var temeResults = [];
+        var persResults = [];
+        var locuriResults = [];
+
+        const { bibleBooks, conversations, teme, personalitati, locuri, denominationLabels } = homeSearchData;
+
+        // Bible books — match only on name, keep canonical order (code)
+        var bibleTemaIds = new Set();
+        if (bibleBooks) {
+          bibleBooks.forEach(function(book) {
+            if (matchesWord(book.name, q)) {
+              bookResults.push({
+                icon: 'menu_book', label: book.testament === 'VT' ? 'Vechiul Testament' : 'Noul Testament',
+                title: book.name, subtitle: book.chapters + ' capitole',
+                href: '/biblia/' + getTestamentPath(book.testament) + '/' + book.slug + '/1',
+                code: book.code,
+              });
+            }
+            // Track tema slugs linked to bible books to avoid duplicates
+            if (book.tema_slug) bibleTemaIds.add(book.tema_slug);
           });
+          bookResults.sort(function(a, b) { return a.code - b.code; });
+        }
+
+        // Conversations — match only on title
+        conversations.forEach(function(conv) {
+          if (matchesWord(conv.title, q)) {
+            var denomLabel = denominationLabels[conv.denomination] || conv.denomination;
+            var slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
+            convResults.push({
+              icon: 'forum', label: denomLabel, title: conv.title,
+              subtitle: null, href: '/conversatii/' + conv.denomination + '/' + slug,
+            });
+          }
+        });
+        convResults.sort(function(a, b) { return normalize(a.title).localeCompare(normalize(b.title)); });
+
+        // Teme — match only on title, skip teme that are bible book pages
+        teme.forEach(function(tema) {
+          var temaSlug = tema.id.replace('.md', '');
+          if (bibleTemaIds.has(temaSlug)) return;
+          if (matchesWord(tema.title, q)) {
+            temeResults.push({
+              icon: 'auto_stories', label: null, title: tema.title,
+              subtitle: tema.summary, href: '/teme/' + temaSlug,
+            });
+          }
+        });
+        temeResults.sort(function(a, b) { return normalize(a.title).localeCompare(normalize(b.title)); });
+
+        // Personalitati — match only on name (NOT title/description)
+        personalitati.forEach(function(pers) {
+          if (matchesWord(pers.name, q)) {
+            persResults.push({
+              icon: 'person_pin', label: null, title: pers.name,
+              subtitle: pers.title, href: '/personalitati/' + pers.id.replace('.md', ''),
+              image: pers.image,
+            });
+          }
+        });
+        persResults.sort(function(a, b) { return normalize(a.title).localeCompare(normalize(b.title)); });
+
+        // Locuri — match only on name (NOT title/description)
+        locuri.forEach(function(loc) {
+          if (matchesWord(loc.name, q)) {
+            locuriResults.push({
+              icon: 'location_on', label: null, title: loc.name,
+              subtitle: loc.title, href: '/locuri/' + loc.id.replace('.md', ''),
+            });
+          }
+        });
+        locuriResults.sort(function(a, b) { return normalize(a.title).localeCompare(normalize(b.title)); });
+
+        // Final order: bible books > conversations > teme > personalitati > locuri
+        var results = bookResults.concat(convResults, temeResults, persResults, locuriResults);
+
+        if (results.length === 0) {
+          searchResults?.classList.add('hidden');
+          noResultsEl?.classList.remove('hidden');
+          return;
+        }
+
+        noResultsEl?.classList.add('hidden');
+        searchResults?.classList.remove('hidden');
+
+        const oq = query.trim();
+        if (searchResultsList) {
+          searchResultsList.innerHTML = results.map(function(r) {
+            var iconHtml = r.image
+              ? '<div class="w-10 h-10 flex-shrink-0 bg-cover bg-center rounded-lg border border-gray-200 group-hover:border-primary/50 transition-colors" style="background-image: url(\'' + r.image + '\')"></div>'
+              : '<div class="w-10 h-10 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all duration-300"><span class="material-symbols-outlined text-xl">' + r.icon + '</span></div>';
+
+            var labelHtml = r.label
+              ? '<span class="text-[10px] font-bold text-primary/70 uppercase tracking-wider">' + r.label + '</span>'
+              : '';
+
+            var subtitleHtml = r.subtitle
+              ? '<p class="text-xs text-primary/60 truncate">' + highlightMatch(r.subtitle, oq) + '</p>'
+              : '';
+
+            return '<a href="' + r.href + '" class="group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3">'
+              + iconHtml
+              + '<div class="flex-1 min-w-0">'
+              + labelHtml
+              + '<h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: \'Literata\', serif;">' + highlightMatch(r.title, oq) + '</h3>'
+              + subtitleHtml
+              + '</div>'
+              + '<span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>'
+              + '</a>';
+          }).join('');
+        }
+      }
+
+      // Clone input to clear old listeners
+      const newInput = searchInput.cloneNode(true) as HTMLInputElement;
+      searchInput.replaceWith(newInput);
+
+      newInput.addEventListener('input', function(e) {
+        const value = (e.target as HTMLInputElement).value;
+        performSearch(value);
+        if (value.trim()) {
+          searchClearBtn?.classList.remove('hidden');
+          searchKbd?.classList.add('hidden');
+        } else {
+          searchClearBtn?.classList.add('hidden');
+          searchKbd?.classList.remove('hidden');
         }
       });
 
-      teme.forEach(function(tema) {
-        if (matchesWord(tema.title, q)) {
-          titleResults.push({
-            icon: 'auto_stories', label: null, title: tema.title,
-            subtitle: tema.summary, href: '/teme/' + tema.id.replace('.md', ''),
-          });
+      newInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') {
+          var firstLink = searchResultsList?.querySelector('a');
+          if (firstLink) {
+            e.preventDefault();
+            window.location.href = firstLink.getAttribute('href');
+          }
         }
       });
 
-      personalitati.forEach(function(pers) {
-        var nameMatch = matchesWord(pers.name, q);
-        var titleMatch = pers.title && matchesWord(pers.title, q);
-        if (nameMatch || titleMatch) {
-          titleResults.push({
-            icon: 'person_pin', label: null, title: pers.name,
-            subtitle: pers.title, href: '/personalitati/' + pers.id.replace('.md', ''),
-            image: pers.image,
-          });
-        }
-      });
-
-      locuri.forEach(function(loc) {
-        var nameMatch = matchesWord(loc.name, q);
-        var titleMatch = loc.title && matchesWord(loc.title, q);
-        if (nameMatch || titleMatch) {
-          titleResults.push({
-            icon: 'location_on', label: null, title: loc.name,
-            subtitle: loc.title, href: '/locuri/' + loc.id.replace('.md', ''),
-          });
-        }
-      });
-
-      // Sort results alphabetically by title
-      titleResults.sort(function(a, b) {
-        return normalize(a.title).localeCompare(normalize(b.title));
-      });
-
-      var results = titleResults.concat(subtitleResults);
-
-      if (results.length === 0) {
-        searchResults.classList.add('hidden');
-        noResultsEl.classList.remove('hidden');
-        return;
+      // Clone clear button
+      if (searchClearBtn) {
+        const newClearBtn = searchClearBtn.cloneNode(true);
+        searchClearBtn.replaceWith(newClearBtn);
+        newClearBtn.addEventListener('click', function() {
+          newInput.value = '';
+          performSearch('');
+          (newClearBtn as HTMLElement).classList.add('hidden');
+          searchKbd?.classList.remove('hidden');
+          newInput.focus();
+        });
       }
 
-      noResultsEl.classList.add('hidden');
-      searchResults.classList.remove('hidden');
-
-      const oq = query.trim();
-      searchResultsList.innerHTML = results.map(function(r) {
-        var iconHtml = r.image
-          ? '<div class="w-10 h-10 flex-shrink-0 bg-cover bg-center rounded-lg border border-gray-200 group-hover:border-primary/50 transition-colors" style="background-image: url(\'' + r.image + '\')"></div>'
-          : '<div class="w-10 h-10 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all duration-300"><span class="material-symbols-outlined text-xl">' + r.icon + '</span></div>';
-
-        var labelHtml = r.label
-          ? '<span class="text-[10px] font-bold text-primary/70 uppercase tracking-wider">' + r.label + '</span>'
-          : '';
-
-        var subtitleHtml = r.subtitle
-          ? '<p class="text-xs text-primary/60 truncate">' + highlightMatch(r.subtitle, oq) + '</p>'
-          : '';
-
-        return '<a href="' + r.href + '" class="group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3">'
-          + iconHtml
-          + '<div class="flex-1 min-w-0">'
-          + labelHtml
-          + '<h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: \'Literata\', serif;">' + highlightMatch(r.title, oq) + '</h3>'
-          + subtitleHtml
-          + '</div>'
-          + '<span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>'
-          + '</a>';
-      }).join('');
+      // Store ref for global keydown
+      window._homeSearchInput = newInput;
     }
 
-    searchInput?.addEventListener('input', function(e) {
-      performSearch(e.target.value);
-    });
-
-    searchInput?.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter') {
-        var firstLink = searchResultsList?.querySelector('a');
-        if (firstLink) {
+    // Global keydown (only once)
+    if (!window._homeSearchKeydown) {
+      window._homeSearchKeydown = true;
+      document.addEventListener('keydown', function(e) {
+        if (e.key === '/' && document.activeElement?.tagName !== 'INPUT') {
           e.preventDefault();
-          window.location.href = firstLink.getAttribute('href');
+          window._homeSearchInput?.focus();
         }
-      }
-    });
+      });
+    }
 
-    document.addEventListener('keydown', function(e) {
-      if (e.key === '/' && document.activeElement?.tagName !== 'INPUT') {
-        e.preventDefault();
-        searchInput?.focus();
-      }
-    });
+    initHomeSearch();
+    document.addEventListener('astro:page-load', initHomeSearch);
   </script>
 </Base>

@@ -16,7 +16,7 @@ const testamentName = getTestamentName(testamentCode);
 const books = BOOKS_METADATA[testamentCode];
 ---
 
-<Base title={testamentName} headerTitle={testamentName} backHref="/biblia" activeNav="home">
+<Base title={testamentName} headerTitle={testamentName} backHref="/biblia" activeNav="home" activeTab="biblia">
   <!-- Breadcrumbs -->
   <nav class="flex items-center gap-2 text-sm text-slate-600 flex-wrap mb-4">
     <a href="/biblia" class="hover:text-primary transition-colors">Biblia</a>
@@ -32,8 +32,11 @@ const books = BOOKS_METADATA[testamentCode];
         type="text"
         id="search-input"
         placeholder="Caută cărți..."
-        class="w-full pl-11 pr-4 py-3 rounded-xl border border-primary/20 bg-white focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
+        class="w-full pl-11 pr-11 py-3 rounded-xl border border-primary/20 bg-white focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
       />
+      <button id="search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-primary/40 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors">
+        <span class="material-symbols-outlined text-xl">close</span>
+      </button>
     </div>
   </div>
 
@@ -87,12 +90,20 @@ const books = BOOKS_METADATA[testamentCode];
 
   <script>
     const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const searchClearBtn = document.getElementById('search-clear') as HTMLButtonElement;
     const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
     const noResults = document.getElementById('no-results') as HTMLElement;
 
     searchInput?.addEventListener('input', () => {
       const query = searchInput.value.toLowerCase().trim();
       let visibleCount = 0;
+
+      // Toggle clear button visibility
+      if (searchInput.value.trim()) {
+        searchClearBtn?.classList.remove('hidden');
+      } else {
+        searchClearBtn?.classList.add('hidden');
+      }
 
       cards.forEach(card => {
         const name = card.dataset.name || '';
@@ -110,6 +121,14 @@ const books = BOOKS_METADATA[testamentCode];
       } else {
         noResults.classList.add('hidden');
       }
+    });
+
+    // Clear search on button click
+    searchClearBtn?.addEventListener('click', () => {
+      searchInput.value = '';
+      searchInput.dispatchEvent(new Event('input'));
+      searchClearBtn.classList.add('hidden');
+      searchInput?.focus();
     });
   </script>
 </Base>

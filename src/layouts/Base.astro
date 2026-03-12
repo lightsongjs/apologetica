@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import { getCollection } from 'astro:content';
 import { ViewTransitions } from 'astro:transitions';
+import BottomNav from '../components/BottomNav.astro';
 
 interface Props {
   title: string;
@@ -10,6 +11,8 @@ interface Props {
   useHistoryBack?: boolean;
   isHomePage?: boolean;
   maxWidth?: 'xl' | 'full';
+  activeTab?: string;
+  hideBottomNav?: boolean;
 }
 
 const {
@@ -19,6 +22,8 @@ const {
   useHistoryBack = false,
   isHomePage = false,
   maxWidth = 'xl',
+  activeTab,
+  hideBottomNav = false,
 } = Astro.props;
 
 // No data loading needed - will fetch dynamically via JSON endpoint
@@ -109,260 +114,318 @@ const {
       )}
     </header>
 
-    <main class={`flex-1 ${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto w-full px-4 pb-8`}>
+    <main class={`flex-1 ${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto w-full px-4 pb-8 ${!hideBottomNav ? 'pb-24' : ''}`}>
       <slot />
     </main>
 
     <script>
-      // Handle history back button
-      const historyBackBtn = document.getElementById('history-back-btn');
-      historyBackBtn?.addEventListener('click', () => {
-        window.history.back();
-      });
+      function initBaseLayout() {
+        const historyBackBtn = document.getElementById('history-back-btn');
+        historyBackBtn?.addEventListener('click', () => {
+          window.history.back();
+        });
 
-      // Handle history forward button
-      const historyForwardBtn = document.getElementById('history-forward-btn');
-      historyForwardBtn?.addEventListener('click', () => {
-        window.history.forward();
-      });
+        const historyForwardBtn = document.getElementById('history-forward-btn');
+        historyForwardBtn?.addEventListener('click', () => {
+          window.history.forward();
+        });
 
-      // Show header search button only on individual card pages (not list pages)
-      const path = window.location.pathname;
-      const isListPage =
-        path === '/conversatii' || path === '/conversatii/' ||
-        path === '/teme' || path === '/teme/' ||
-        path === '/personalitati' || path === '/personalitati/' ||
-        path === '/locuri' || path === '/locuri/' ||
-        path === '/conversatii/atheist' || path === '/conversatii/atheist/' ||
-        path === '/conversatii/baptist' || path === '/conversatii/baptist/' ||
-        path === '/conversatii/martorii-lui-iehova' || path === '/conversatii/martorii-lui-iehova/';
+        const path = window.location.pathname;
+        const isListPage =
+          path === '/conversatii' || path === '/conversatii/' ||
+          path === '/teme' || path === '/teme/' ||
+          path === '/personalitati' || path === '/personalitati/' ||
+          path === '/locuri' || path === '/locuri/' ||
+          path === '/conversatii/atheist' || path === '/conversatii/atheist/' ||
+          path === '/conversatii/baptist' || path === '/conversatii/baptist/' ||
+          path === '/conversatii/martorii-lui-iehova' || path === '/conversatii/martorii-lui-iehova/';
 
-      if (!isListPage) {
-        const headerSearchBtn = document.getElementById('header-search-btn');
-        if (headerSearchBtn) {
-          headerSearchBtn.style.display = 'flex';
+        if (!isListPage) {
+          const headerSearchBtn = document.getElementById('header-search-btn');
+          if (headerSearchBtn) {
+            headerSearchBtn.style.display = 'flex';
+          }
         }
       }
+      initBaseLayout();
+      document.addEventListener('astro:page-load', initBaseLayout);
     </script>
 
     {!isHomePage && (
       <script>
-        // Fetch search data dynamically
+        // Persist search data across View Transitions navigations
         let searchData = null;
         let isLoading = false;
 
-        const searchBtn = document.getElementById('header-search-btn');
-        const closeBtn = document.getElementById('header-search-close');
-        const headerNormal = document.getElementById('header-normal');
-        const headerActions = document.getElementById('header-actions');
-        const searchMode = document.getElementById('header-search-mode');
-        const searchInput = document.getElementById('header-search-input');
-        const dropdown = document.getElementById('header-search-dropdown');
-        const resultsContainer = document.getElementById('header-search-results');
-        const noResultsEl = document.getElementById('header-no-results');
+        function initHeaderSearch() {
+          const searchBtn = document.getElementById('header-search-btn');
+          const closeBtn = document.getElementById('header-search-close');
+          const headerNormal = document.getElementById('header-normal');
+          const headerActions = document.getElementById('header-actions');
+          const searchMode = document.getElementById('header-search-mode');
+          const searchInput = document.getElementById('header-search-input');
+          const dropdown = document.getElementById('header-search-dropdown');
+          const resultsContainer = document.getElementById('header-search-results');
+          const noResultsEl = document.getElementById('header-no-results');
 
-        async function loadSearchData() {
-          if (searchData || isLoading) return;
-          isLoading = true;
-          try {
-            const response = await fetch('/search-data.json');
-            searchData = await response.json();
-          } catch (error) {
-            console.error('Failed to load search data:', error);
-          } finally {
-            isLoading = false;
-          }
-        }
+          if (!searchMode || !searchInput) return;
 
-        function openSearch() {
-          headerNormal.classList.add('hidden');
-          headerActions.classList.add('hidden');
-          searchMode.classList.remove('hidden');
-          searchMode.classList.add('flex');
-          searchInput.focus();
-          loadSearchData(); // Load data when search is opened
-        }
-
-        function closeSearch() {
-          searchMode.classList.add('hidden');
-          searchMode.classList.remove('flex');
-          headerNormal.classList.remove('hidden');
-          headerActions.classList.remove('hidden');
-          dropdown.classList.add('hidden');
-          searchInput.value = '';
-          resultsContainer.innerHTML = '';
-          noResultsEl.classList.add('hidden');
-        }
-
-        searchBtn?.addEventListener('click', openSearch);
-        closeBtn?.addEventListener('click', closeSearch);
-
-        document.addEventListener('keydown', function(e) {
-          if (e.key === '/' && document.activeElement?.tagName !== 'INPUT' && document.activeElement?.tagName !== 'TEXTAREA') {
-            e.preventDefault();
-            openSearch();
-          }
-          if (e.key === 'Escape' && searchMode && !searchMode.classList.contains('hidden')) {
-            closeSearch();
-          }
-        });
-
-        function removeDiacritics(str) {
-          return str
-            .replace(/[ăâ]/g, 'a').replace(/[ĂÂ]/g, 'A')
-            .replace(/[îï]/g, 'i').replace(/[ÎÏ]/g, 'I')
-            .replace(/[șş]/g, 's').replace(/[ȘŞ]/g, 'S')
-            .replace(/[țţ]/g, 't').replace(/[ȚŢ]/g, 'T');
-        }
-
-        function normalize(str) {
-          return removeDiacritics(str.toLowerCase());
-        }
-
-        function matchesWord(text, q) {
-          var n = normalize(text);
-          var regex = new RegExp('(?:^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-          return regex.test(n);
-        }
-
-        function highlightMatch(text, query) {
-          if (!query) return text;
-          var nq = normalize(query);
-          var pattern = '';
-          for (var i = 0; i < nq.length; i++) {
-            var ch = nq[i];
-            if (ch === 'a') pattern += '[aăâĂÂ]';
-            else if (ch === 'i') pattern += '[iîïÎÏ]';
-            else if (ch === 's') pattern += '[sșşȘŞ]';
-            else if (ch === 't') pattern += '[tțţȚŢ]';
-            else pattern += ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-          }
-          var regex = new RegExp('(?<=^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])(' + pattern + ')', 'gi');
-          return text.replace(regex, '<mark class="bg-primary/20 text-primary font-bold px-0.5 rounded">$1</mark>');
-        }
-
-        function performSearch(query) {
-          if (!searchData) {
-            // Data not loaded yet, show loading or wait
-            return;
+          async function loadSearchData() {
+            if (searchData || isLoading) return;
+            isLoading = true;
+            try {
+              const response = await fetch('/search-data.json');
+              searchData = await response.json();
+            } catch (error) {
+              console.error('Failed to load search data:', error);
+            } finally {
+              isLoading = false;
+            }
           }
 
-          var q = normalize(query.trim());
-
-          if (!q) {
-            dropdown.classList.add('hidden');
-            resultsContainer.innerHTML = '';
-            noResultsEl.classList.add('hidden');
-            return;
+          function openSearch() {
+            headerNormal?.classList.add('hidden');
+            headerActions?.classList.add('hidden');
+            searchMode.classList.remove('hidden');
+            searchMode.classList.add('flex');
+            searchInput.focus();
+            loadSearchData();
           }
 
-          var titleResults = [];
-          var subtitleResults = [];
+          function closeSearch() {
+            searchMode.classList.add('hidden');
+            searchMode.classList.remove('flex');
+            headerNormal?.classList.remove('hidden');
+            headerActions?.classList.remove('hidden');
+            dropdown?.classList.add('hidden');
+            searchInput.value = '';
+            if (resultsContainer) resultsContainer.innerHTML = '';
+            noResultsEl?.classList.add('hidden');
+          }
 
-          const { conversations, teme, personalitati, locuri, denominationLabels } = searchData;
+          function removeDiacritics(str) {
+            return str
+              .replace(/[ăâ]/g, 'a').replace(/[ĂÂ]/g, 'A')
+              .replace(/[îï]/g, 'i').replace(/[ÎÏ]/g, 'I')
+              .replace(/[șş]/g, 's').replace(/[ȘŞ]/g, 'S')
+              .replace(/[țţ]/g, 't').replace(/[ȚŢ]/g, 'T');
+          }
 
-          conversations.forEach(function(conv) {
-            var denomLabel = denominationLabels[conv.denomination] || conv.denomination;
-            if (matchesWord(conv.title, q) || matchesWord(denomLabel, q)) {
-              var slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
-              titleResults.push({
-                icon: 'forum', label: denomLabel, title: conv.title,
-                subtitle: null, href: '/conversatii/' + conv.denomination + '/' + slug,
+          function normalize(str) {
+            return removeDiacritics(str.toLowerCase());
+          }
+
+          function matchesWord(text, q) {
+            var n = normalize(text);
+            var regex = new RegExp('(?:^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+            return regex.test(n);
+          }
+
+          function highlightMatch(text, query) {
+            if (!query) return text;
+            var nq = normalize(query);
+            var pattern = '';
+            for (var i = 0; i < nq.length; i++) {
+              var ch = nq[i];
+              if (ch === 'a') pattern += '[aăâĂÂ]';
+              else if (ch === 'i') pattern += '[iîïÎÏ]';
+              else if (ch === 's') pattern += '[sșşȘŞ]';
+              else if (ch === 't') pattern += '[tțţȚŢ]';
+              else pattern += ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            }
+            var regex = new RegExp('(?<=^|[\\s,;.!?()\\[\\]"„""\'«»\\-–—/])(' + pattern + ')', 'gi');
+            return text.replace(regex, '<mark class="bg-primary/20 text-primary font-bold px-0.5 rounded">$1</mark>');
+          }
+
+          function getTestamentPath(testament) {
+            return testament === 'VT' ? 'vechiul-testament' : 'noul-testament';
+          }
+
+          function performSearch(query) {
+            if (!searchData) return;
+
+            var q = normalize(query.trim());
+
+            if (!q) {
+              dropdown?.classList.add('hidden');
+              if (resultsContainer) resultsContainer.innerHTML = '';
+              noResultsEl?.classList.add('hidden');
+              return;
+            }
+
+            var bookResults = [];
+            var convResults = [];
+            var temeResults = [];
+            var persResults = [];
+            var locuriResults = [];
+
+            const { bibleBooks, conversations, teme, personalitati, locuri, denominationLabels } = searchData;
+
+            // Bible books — match only on name, keep canonical order
+            var bibleTemaIds = new Set();
+            if (bibleBooks) {
+              bibleBooks.forEach(function(book) {
+                if (matchesWord(book.name, q)) {
+                  bookResults.push({
+                    icon: 'menu_book', label: book.testament === 'VT' ? 'VT' : 'NT',
+                    title: book.name, subtitle: book.chapters + ' capitole',
+                    href: '/biblia/' + getTestamentPath(book.testament) + '/' + book.slug + '/1',
+                    code: book.code,
+                  });
+                }
+                if (book.tema_slug) bibleTemaIds.add(book.tema_slug);
               });
+              bookResults.sort(function(a, b) { return a.code - b.code; });
+            }
+
+            // Conversations — match only on title
+            conversations.forEach(function(conv) {
+              if (matchesWord(conv.title, q)) {
+                var denomLabel = denominationLabels[conv.denomination] || conv.denomination;
+                var slug = conv.id.replace(/^ro\/[^/]+\//, '').replace('.md', '');
+                convResults.push({
+                  icon: 'forum', label: denomLabel, title: conv.title,
+                  subtitle: null, href: '/conversatii/' + conv.denomination + '/' + slug,
+                });
+              }
+            });
+            convResults.sort(function(a, b) { return normalize(a.title).localeCompare(normalize(b.title)); });
+
+            // Teme — match only on title, skip bible book teme
+            teme.forEach(function(tema) {
+              var temaSlug = tema.id.replace('.md', '');
+              if (bibleTemaIds.has(temaSlug)) return;
+              if (matchesWord(tema.title, q)) {
+                temeResults.push({
+                  icon: 'auto_stories', label: null, title: tema.title,
+                  subtitle: tema.summary, href: '/teme/' + temaSlug,
+                });
+              }
+            });
+            temeResults.sort(function(a, b) { return normalize(a.title).localeCompare(normalize(b.title)); });
+
+            // Personalitati — match only on name
+            personalitati.forEach(function(pers) {
+              if (matchesWord(pers.name, q)) {
+                persResults.push({
+                  icon: 'person_pin', label: null, title: pers.name,
+                  subtitle: pers.title, href: '/personalitati/' + pers.id.replace('.md', ''),
+                  image: pers.image,
+                });
+              }
+            });
+            persResults.sort(function(a, b) { return normalize(a.title).localeCompare(normalize(b.title)); });
+
+            // Locuri — match only on name
+            locuri.forEach(function(loc) {
+              if (matchesWord(loc.name, q)) {
+                locuriResults.push({
+                  icon: 'location_on', label: null, title: loc.name,
+                  subtitle: loc.title, href: '/locuri/' + loc.id.replace('.md', ''),
+                });
+              }
+            });
+            locuriResults.sort(function(a, b) { return normalize(a.title).localeCompare(normalize(b.title)); });
+
+            // Final order: bible books > conversations > teme > personalitati > locuri
+            var results = bookResults.concat(convResults, temeResults, persResults, locuriResults);
+
+            if (results.length === 0) {
+              dropdown?.classList.remove('hidden');
+              if (resultsContainer) resultsContainer.innerHTML = '';
+              noResultsEl?.classList.remove('hidden');
+              return;
+            }
+
+            noResultsEl?.classList.add('hidden');
+            dropdown?.classList.remove('hidden');
+
+            var oq = query.trim();
+            if (resultsContainer) {
+              resultsContainer.innerHTML = results.slice(0, 8).map(function(r) {
+                var iconHtml = r.image
+                  ? '<div class="w-8 h-8 flex-shrink-0 bg-cover bg-center rounded-lg border border-gray-200" style="background-image: url(\'' + r.image + '\')"></div>'
+                  : '<div class="w-8 h-8 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center"><span class="material-symbols-outlined text-base text-primary">' + r.icon + '</span></div>';
+
+                var labelHtml = r.label
+                  ? '<span class="text-[9px] font-bold text-primary/60 uppercase tracking-wider">' + r.label + ' · </span>'
+                  : '';
+
+                return '<a href="' + r.href + '" class="flex items-center gap-3 px-3 py-2.5 hover:bg-primary/5 transition-colors border-b border-gray-50 last:border-0">'
+                  + iconHtml
+                  + '<div class="flex-1 min-w-0">'
+                  + '<p class="text-sm font-semibold text-gray-900 truncate">' + labelHtml + highlightMatch(r.title, oq) + '</p>'
+                  + (r.subtitle ? '<p class="text-xs text-gray-500 truncate">' + highlightMatch(r.subtitle, oq) + '</p>' : '')
+                  + '</div>'
+                  + '<span class="material-symbols-outlined text-sm text-primary/30">chevron_right</span>'
+                  + '</a>';
+              }).join('');
+            }
+          }
+
+          // Use cloneNode trick to remove old event listeners
+          const newSearchBtn = searchBtn ? searchBtn.cloneNode(true) : null;
+          if (searchBtn && newSearchBtn) {
+            searchBtn.replaceWith(newSearchBtn);
+            newSearchBtn.addEventListener('click', openSearch);
+          }
+
+          const newCloseBtn = closeBtn ? closeBtn.cloneNode(true) : null;
+          if (closeBtn && newCloseBtn) {
+            closeBtn.replaceWith(newCloseBtn);
+            newCloseBtn.addEventListener('click', closeSearch);
+          }
+
+          // Re-clone search input to clear old listeners
+          const newSearchInput = searchInput.cloneNode(true);
+          searchInput.replaceWith(newSearchInput);
+
+          newSearchInput.addEventListener('input', function(e) {
+            performSearch(e.target.value);
+          });
+
+          newSearchInput.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') {
+              var firstLink = resultsContainer?.querySelector('a');
+              if (firstLink) {
+                e.preventDefault();
+                window.location.href = firstLink.getAttribute('href');
+              }
             }
           });
 
-          teme.forEach(function(tema) {
-            if (matchesWord(tema.title, q)) {
-              titleResults.push({
-                icon: 'auto_stories', label: null, title: tema.title,
-                subtitle: tema.summary, href: '/teme/' + tema.id.replace('.md', ''),
-              });
-            }
-          });
-
-          personalitati.forEach(function(pers) {
-            var nameMatch = matchesWord(pers.name, q);
-            var titleMatch = pers.title && matchesWord(pers.title, q);
-            if (nameMatch || titleMatch) {
-              titleResults.push({
-                icon: 'person_pin', label: null, title: pers.name,
-                subtitle: pers.title, href: '/personalitati/' + pers.id.replace('.md', ''),
-                image: pers.image,
-              });
-            }
-          });
-
-          locuri.forEach(function(loc) {
-            var nameMatch = matchesWord(loc.name, q);
-            var titleMatch = loc.title && matchesWord(loc.title, q);
-            if (nameMatch || titleMatch) {
-              titleResults.push({
-                icon: 'location_on', label: null, title: loc.name,
-                subtitle: loc.title, href: '/locuri/' + loc.id.replace('.md', ''),
-              });
-            }
-          });
-
-          // Sort results alphabetically by title
-          titleResults.sort(function(a, b) {
-            return normalize(a.title).localeCompare(normalize(b.title));
-          });
-
-          var results = titleResults.concat(subtitleResults);
-
-          if (results.length === 0) {
-            dropdown.classList.remove('hidden');
-            resultsContainer.innerHTML = '';
-            noResultsEl.classList.remove('hidden');
-            return;
-          }
-
-          noResultsEl.classList.add('hidden');
-          dropdown.classList.remove('hidden');
-
-          var oq = query.trim();
-          resultsContainer.innerHTML = results.slice(0, 8).map(function(r) {
-            var iconHtml = r.image
-              ? '<div class="w-8 h-8 flex-shrink-0 bg-cover bg-center rounded-lg border border-gray-200" style="background-image: url(\'' + r.image + '\')"></div>'
-              : '<div class="w-8 h-8 flex-shrink-0 bg-primary/10 rounded-lg flex items-center justify-center"><span class="material-symbols-outlined text-base text-primary">' + r.icon + '</span></div>';
-
-            var labelHtml = r.label
-              ? '<span class="text-[9px] font-bold text-primary/60 uppercase tracking-wider">' + r.label + ' · </span>'
-              : '';
-
-            return '<a href="' + r.href + '" class="flex items-center gap-3 px-3 py-2.5 hover:bg-primary/5 transition-colors border-b border-gray-50 last:border-0">'
-              + iconHtml
-              + '<div class="flex-1 min-w-0">'
-              + '<p class="text-sm font-semibold text-gray-900 truncate">' + labelHtml + highlightMatch(r.title, oq) + '</p>'
-              + (r.subtitle ? '<p class="text-xs text-gray-500 truncate">' + highlightMatch(r.subtitle, oq) + '</p>' : '')
-              + '</div>'
-              + '<span class="material-symbols-outlined text-sm text-primary/30">chevron_right</span>'
-              + '</a>';
-          }).join('');
+          // Store references on window for keydown handler
+          window._headerSearch = { openSearch, closeSearch, searchMode };
         }
 
-        searchInput?.addEventListener('input', function(e) {
-          performSearch(e.target.value);
-        });
-
-        searchInput?.addEventListener('keydown', function(e) {
-          if (e.key === 'Enter') {
-            var firstLink = resultsContainer?.querySelector('a');
-            if (firstLink) {
+        // Global keydown handler (only added once)
+        if (!window._headerSearchKeydown) {
+          window._headerSearchKeydown = true;
+          document.addEventListener('keydown', function(e) {
+            var hs = window._headerSearch;
+            if (!hs) return;
+            if (e.key === '/' && document.activeElement?.tagName !== 'INPUT' && document.activeElement?.tagName !== 'TEXTAREA') {
               e.preventDefault();
-              window.location.href = firstLink.getAttribute('href');
+              hs.openSearch();
             }
-          }
-        });
+            if (e.key === 'Escape' && hs.searchMode && !hs.searchMode.classList.contains('hidden')) {
+              hs.closeSearch();
+            }
+          });
+          document.addEventListener('click', function(e) {
+            var hs = window._headerSearch;
+            if (!hs) return;
+            if (hs.searchMode && !hs.searchMode.classList.contains('hidden') && !e.target.closest('header')) {
+              hs.closeSearch();
+            }
+          });
+        }
 
-        // Close dropdown when clicking outside
-        document.addEventListener('click', function(e) {
-          if (searchMode && !searchMode.classList.contains('hidden') && !e.target.closest('header')) {
-            closeSearch();
-          }
-        });
+        initHeaderSearch();
+        document.addEventListener('astro:page-load', initHeaderSearch);
       </script>
     )}
+
+    {!hideBottomNav && <BottomNav activeTab={activeTab} />}
   </body>
 </html>

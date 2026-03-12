@@ -1,12 +1,11 @@
 ---
 import Base from '../../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { BOOKS_METADATA, getBookBySlug, getTestamentSlug, getTestamentName } from '../../../../lib/bible-books';
+import { BOOKS_METADATA } from '../../../../lib/bible-books';
+import { formatVerses } from '../../../../lib/bible-format';
 
 export async function getStaticPaths() {
-  // Load collection ONCE before the loop - CRITICAL OPTIMIZATION
   const allPericopes = await getCollection('biblia');
-
   const paths = [];
 
   for (const [testamentKey, books] of Object.entries(BOOKS_METADATA)) {
@@ -14,7 +13,6 @@ export async function getStaticPaths() {
 
     for (const book of books) {
       for (let chapter = 1; chapter <= book.chapters; chapter++) {
-        // Filter pericopes for this specific chapter
         const chapterPericopes = allPericopes
           .filter(p =>
             p.data.testament === (testamentKey === 'VT' ? 'OT' : 'NT') &&
@@ -30,10 +28,10 @@ export async function getStaticPaths() {
             chapter: chapter.toString()
           },
           props: {
-            testamentKey,
+            testamentSlug,
             bookMeta: book,
             chapterNum: chapter,
-            chapterPericopes // Pass filtered pericopes as prop
+            chapterPericopes
           }
         });
       }
@@ -43,555 +41,68 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { testament, book: bookSlug, chapter } = Astro.params;
-const { testamentKey, bookMeta, chapterNum, chapterPericopes } = Astro.props;
-
-// Format verse body: remove navigation, heading, and format verse numbers
-function formatVerses(body: string): string {
-  let cleaned = body;
-
-  // Remove wiki-link navigation lines
-  cleaned = cleaned.replace(/^[←→]?\s*\[\[.*?\]\].*$/gm, '');
-
-  // Remove English H1 heading
-  cleaned = cleaned.replace(/^#\s+.+$/m, '');
-
-  // Remove extra blank lines
-  cleaned = cleaned.replace(/\n{3,}/g, '\n\n');
-
-  // Format verse numbers: "1. Text" → "<sup>1</sup> Text"
-  cleaned = cleaned.replace(/^(\d+)\.\s+/gm, '<sup class="text-primary font-semibold mr-1">$1</sup> ');
-
-  // Trim whitespace
-  cleaned = cleaned.trim();
-
-  return cleaned;
-}
-
-// Previous/Next navigation
-const prevChapter = chapterNum > 1 ? chapterNum - 1 : null;
-const nextChapter = chapterNum < bookMeta.chapters ? chapterNum + 1 : null;
-
-// Testament name
-const testamentName = getTestamentName(testamentKey);
-
-// Generate chapter list for sidebar (1 to total chapters)
-const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
+const { book: bookSlug } = Astro.params;
+const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
 ---
 
-<Base title={`${bookMeta.name_ro} ${chapterNum}`} headerTitle={`${bookMeta.name_ro} ${chapterNum}`} useHistoryBack={true} activeNav="home" maxWidth="full">
-  <div class="pt-4 pb-8">
+<Base
+  title={`${bookMeta.name_ro} ${chapterNum}`}
+  headerTitle={bookMeta.name_ro}
+  backHref="/biblia"
+  hideBottomNav={true}
+  maxWidth="xl"
+>
+  <div id="chapters-content" class="pt-2 pb-28">
 
-    <!-- Breadcrumbs -->
-    <nav class="flex items-center gap-2 text-sm text-slate-600 flex-wrap mb-6">
-      <a href="/biblia" class="hover:text-primary transition-colors">Biblia</a>
-      <span class="material-symbols-outlined text-base text-slate-400">chevron_right</span>
-      <a href={`/biblia/${testament}`} class="hover:text-primary transition-colors">{testamentName}</a>
-      <span class="material-symbols-outlined text-base text-slate-400">chevron_right</span>
-      <a href={`/biblia/${testament}/${bookSlug}/1`} class="hover:text-primary transition-colors">{bookMeta.name_ro}</a>
-      <span class="material-symbols-outlined text-base text-slate-400">chevron_right</span>
-      <span class="text-slate-900 font-medium">Capitolul {chapterNum}</span>
-    </nav>
+    <!-- Chapter separator -->
+    <div class="flex flex-col items-center gap-2 py-6" data-chapter-marker={chapterNum}>
+      <div class="w-15 h-0.5 bg-primary/20 rounded-full"></div>
+      <h2 class="font-serif text-xl font-bold text-primary">Capitolul {chapterNum}</h2>
+      <div class="w-15 h-0.5 bg-primary/20 rounded-full"></div>
+    </div>
 
-    <!-- Link to Tema (if exists) -->
-    {bookMeta.tema_slug && (
-      <div class="text-center mb-6">
-        <a href={`/teme/${bookMeta.tema_slug}`} class="inline-flex items-center gap-1 text-sm text-slate-600 hover:text-primary transition-colors">
-          <span class="material-symbols-outlined text-base">article</span>
-          Citește despre {bookMeta.name_ro}
+    <!-- Pericopes -->
+    <div class="space-y-4">
+      {chapterPericopes.map((pericope, i) => (
+        <section
+          class={`rounded-xl p-5 ${i % 2 === 0 ? 'bg-white border border-gray-200/50' : 'bg-primary/5 border border-primary/10'}`}
+          data-chapter={chapterNum}
+        >
+          <h3 class="text-xl font-bold mb-1 text-primary" style="font-family: 'Literata', serif;">
+            {pericope.data.pericope_title_ro}
+          </h3>
+          <div class="text-xs text-slate-600 mb-4">
+            Versetele {pericope.data.verses_start}&ndash;{pericope.data.verses_end}
+          </div>
+          <div class="prose prose-slate prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800 prose-strong:text-slate-900">
+            <div set:html={formatVerses(pericope.body)} style="font-family: 'Literata', serif; line-height: 1.8;" />
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <!-- Sentinel for infinite scroll -->
+    <div id="load-sentinel" class="h-1"></div>
+  </div>
+
+  <!-- Custom bottom bar -->
+  <div class="fixed bottom-0 left-0 right-0 bg-[#FAFAFA] px-2 pt-3" style="padding-bottom: max(1.5rem, env(safe-area-inset-bottom));">
+    <div class="flex bg-white rounded-xl border border-gray-200 shadow-sm h-[54px] p-1 max-w-xl mx-auto">
+      <a href="/biblia" class="flex-1 flex items-center justify-center gap-1.5 rounded-lg text-gray-400">
+        <span class="material-symbols-outlined text-lg">toc</span>
+        <span class="text-[11px] font-semibold">Cuprins</span>
+      </a>
+      {bookMeta.tema_slug && (
+        <a href={`/teme/${bookMeta.tema_slug}`} class="flex-1 flex items-center justify-center gap-1.5 rounded-lg text-gray-400">
+          <span class="material-symbols-outlined text-lg">info</span>
+          <span class="text-[11px] font-semibold">Află mai multe</span>
         </a>
-      </div>
-    )}
-
-    <!-- MOBILE ONLY: Expandable Drawer (lazy-loaded for performance) -->
-    <div class="mobile-drawer mb-6">
-      <button
-        class="drawer-toggle"
-        id="drawer-toggle"
-        data-testament={testament}
-        data-book={bookSlug}
-        data-current={chapterNum}
-        data-total={bookMeta.chapters}
-      >
-        <div class="drawer-toggle-left">
-          <span class="material-symbols-outlined">description</span>
-          <h2>Capitole</h2>
-          <span class="badge">{bookMeta.chapters}</span>
-        </div>
-        <span class="material-symbols-outlined drawer-chevron">expand_more</span>
-      </button>
-      <div class="drawer-content" id="drawer-content">
-        <!-- Quick chapter search (mobile) -->
-        <div class="drawer-search">
-          <input
-            type="number"
-            id="drawer-search-input"
-            placeholder="Salt la capitol..."
-            min="1"
-            max={bookMeta.chapters}
-            class="drawer-search-input"
-          />
-        </div>
-        <!-- Content loaded dynamically on first open to reduce page size -->
-        <div class="drawer-grid" id="drawer-grid"></div>
-      </div>
+      )}
     </div>
-
-    <!-- DESKTOP + MOBILE: Main Layout -->
-    <div class="biblia-layout">
-
-      <!-- DESKTOP ONLY: Sticky Sidebar -->
-      <aside class="sidebar">
-        <div class="sidebar-header">
-          <span class="material-symbols-outlined">description</span>
-          <h2>Capitole</h2>
-        </div>
-
-        <!-- Quick chapter search -->
-        <div class="sidebar-search">
-          <input
-            type="number"
-            id="sidebar-search-input"
-            placeholder="Salt la capitol..."
-            min="1"
-            max={bookMeta.chapters}
-            class="sidebar-search-input"
-          />
-        </div>
-
-        <nav class="sidebar-nav" id="sidebar-nav">
-          {chapters.map(ch => (
-            <a
-              href={`/biblia/${testament}/${bookSlug}/${ch}`}
-              class={`sidebar-item ${ch === chapterNum ? 'sidebar-current' : ''}`}
-              data-chapter={ch}
-            >
-              <div class="icon">
-                <span class="material-symbols-outlined">article</span>
-              </div>
-              <div class="text">
-                <div class="title">Capitolul {ch}</div>
-              </div>
-            </a>
-          ))}
-        </nav>
-      </aside>
-
-      <!-- Main Content -->
-      <main class="biblia-content">
-        <!-- Prev/Next Navigation -->
-        <div class="flex justify-between items-center mb-6">
-          {prevChapter ? (
-            <a href={`/biblia/${testament}/${bookSlug}/${prevChapter}`} class="text-sm text-primary hover:underline flex items-center gap-1">
-              <span class="material-symbols-outlined text-base">chevron_left</span>
-              Capitolul {prevChapter}
-            </a>
-          ) : (
-            <a href={`/biblia/${testament}`} class="text-sm text-slate-500 hover:text-primary transition-colors flex items-center gap-1">
-              <span class="material-symbols-outlined text-base">arrow_back</span>
-              Înapoi la cărți
-            </a>
-          )}
-
-          {nextChapter ? (
-            <a href={`/biblia/${testament}/${bookSlug}/${nextChapter}`} class="text-sm text-primary hover:underline flex items-center gap-1">
-              Capitolul {nextChapter}
-              <span class="material-symbols-outlined text-base">chevron_right</span>
-            </a>
-          ) : (
-            <a href={`/biblia/${testament}`} class="text-sm text-slate-500 hover:text-primary transition-colors flex items-center gap-1">
-              Înapoi la cărți
-              <span class="material-symbols-outlined text-base">arrow_back</span>
-            </a>
-          )}
-        </div>
-
-        <!-- Pericopes -->
-        <div class="space-y-4">
-          {chapterPericopes.map((pericope, i) => (
-            <section class={`pericope-section ${i % 2 === 0 ? 'bg-white' : 'bg-primary/5'} rounded-xl p-6`}>
-              <!-- Pericope title -->
-              <h3 class="text-xl font-bold mb-1 text-primary" style="font-family: 'Literata', serif;">
-                {pericope.data.pericope_title_ro}
-              </h3>
-
-              <!-- Verse range badge -->
-              <div class="text-xs text-slate-600 mb-4">
-                Versetele {pericope.data.verses_start}–{pericope.data.verses_end}
-              </div>
-
-              <!-- Verses -->
-              <div class="prose prose-slate prose-base max-w-none
-                prose-p:leading-relaxed prose-p:text-slate-800
-                prose-strong:text-slate-900">
-                <div set:html={formatVerses(pericope.body)} style="font-family: 'Literata', serif; line-height: 1.8;" />
-              </div>
-            </section>
-          ))}
-        </div>
-
-        <!-- Bottom Navigation -->
-        <div class="flex justify-between items-center mt-8 pt-6 border-t border-slate-200">
-          {prevChapter ? (
-            <a href={`/biblia/${testament}/${bookSlug}/${prevChapter}`} class="text-sm text-primary hover:underline flex items-center gap-1">
-              <span class="material-symbols-outlined text-base">chevron_left</span>
-              Capitolul {prevChapter}
-            </a>
-          ) : (
-            <a href={`/biblia/${testament}`} class="text-sm text-slate-500 hover:text-primary transition-colors flex items-center gap-1">
-              <span class="material-symbols-outlined text-base">arrow_back</span>
-              Înapoi la cărți
-            </a>
-          )}
-
-          {nextChapter ? (
-            <a href={`/biblia/${testament}/${bookSlug}/${nextChapter}`} class="text-sm text-primary hover:underline flex items-center gap-1">
-              Capitolul {nextChapter}
-              <span class="material-symbols-outlined text-base">chevron_right</span>
-            </a>
-          ) : (
-            <a href={`/biblia/${testament}`} class="text-sm text-slate-500 hover:text-primary transition-colors flex items-center gap-1">
-              Înapoi la cărți
-              <span class="material-symbols-outlined text-base">arrow_back</span>
-            </a>
-          )}
-        </div>
-
-      </main>
-
-    </div>
-
   </div>
 </Base>
 
 <style>
-  /* DESKTOP: Two-column layout with sticky sidebar */
-  @media (min-width: 768px) {
-    .biblia-layout {
-      display: grid;
-      grid-template-columns: 280px 1fr;
-      gap: 3rem;
-      align-items: start;
-    }
-
-    .sidebar {
-      position: sticky;
-      top: 2rem;
-      background: white;
-      border: 1px solid #e2e8f0;
-      border-radius: 1rem;
-      padding: 1.5rem;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-      max-height: calc(100vh - 4rem);
-      overflow-y: auto;
-    }
-
-    .sidebar-header {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 1rem;
-      padding-bottom: 1rem;
-      border-bottom: 1px solid #e2e8f0;
-    }
-
-    .sidebar-header .material-symbols-outlined {
-      color: #1754cf;
-      font-size: 1.25rem;
-    }
-
-    .sidebar-header h2 {
-      font-size: 1rem;
-      font-weight: 700;
-      color: #0f172a;
-    }
-
-    .sidebar-nav {
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
-    }
-
-    .sidebar-item {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      padding: 0.625rem;
-      border-radius: 0.5rem;
-      text-decoration: none;
-      color: #475569;
-      transition: all 0.2s;
-      border: 1px solid transparent;
-    }
-
-    .sidebar-item:hover {
-      background: #f1f5f9;
-      color: #1754cf;
-      border-color: #1754cf20;
-    }
-
-    .sidebar-item .icon {
-      width: 2rem;
-      height: 2rem;
-      background: #1754cf10;
-      border-radius: 0.5rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-      transition: all 0.2s;
-    }
-
-    .sidebar-item:hover .icon {
-      background: #1754cf;
-    }
-
-    .sidebar-item .material-symbols-outlined {
-      font-size: 1.25rem;
-      color: #1754cf;
-    }
-
-    .sidebar-item:hover .material-symbols-outlined {
-      color: white;
-    }
-
-    .sidebar-item .text {
-      flex: 1;
-      min-width: 0;
-    }
-
-    .sidebar-item .title {
-      font-family: 'Literata', serif;
-      font-weight: 700;
-      font-size: 0.813rem;
-      line-height: 1.3;
-    }
-
-    .sidebar-current {
-      background: #eff6ff;
-      border-color: #1754cf50;
-      font-weight: 600;
-    }
-
-    .sidebar-current .icon {
-      background: #1754cf;
-    }
-
-    .sidebar-current .material-symbols-outlined {
-      color: white;
-    }
-
-    /* Sidebar search input */
-    .sidebar-search {
-      margin-bottom: 1rem;
-      padding-bottom: 1rem;
-      border-bottom: 1px solid #e2e8f0;
-    }
-
-    .sidebar-search-input {
-      width: 100%;
-      padding: 0.5rem 0.75rem;
-      border: 1px solid #e2e8f0;
-      border-radius: 0.5rem;
-      font-size: 0.875rem;
-      transition: all 0.2s;
-      outline: none;
-    }
-
-    .sidebar-search-input:focus {
-      border-color: #1754cf;
-      box-shadow: 0 0 0 3px rgba(23, 84, 207, 0.1);
-    }
-
-    .sidebar-search-input::placeholder {
-      color: #94a3b8;
-    }
-
-    /* Hide number input spin buttons */
-    .sidebar-search-input::-webkit-outer-spin-button,
-    .sidebar-search-input::-webkit-inner-spin-button {
-      -webkit-appearance: none;
-      margin: 0;
-    }
-
-    .sidebar-search-input[type=number] {
-      -moz-appearance: textfield;
-    }
-
-    /* Hide filtered items */
-    .sidebar-item.hidden {
-      display: none !important;
-    }
-
-    /* Hide mobile drawer on desktop */
-    .mobile-drawer {
-      display: none;
-    }
-  }
-
-  /* MOBILE: Expandable drawer */
-  @media (max-width: 767px) {
-    .sidebar {
-      display: none;
-    }
-
-    .biblia-layout {
-      display: block;
-    }
-
-    .mobile-drawer {
-      background: white;
-      border: 1px solid #e2e8f0;
-      border-radius: 0.75rem;
-      overflow: hidden;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.04);
-    }
-
-    .drawer-toggle {
-      width: 100%;
-      padding: 0.75rem 1rem;
-      background: white;
-      border: none;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      cursor: pointer;
-      font-family: inherit;
-    }
-
-    .drawer-toggle:active {
-      background: #f8fafc;
-    }
-
-    .drawer-toggle-left {
-      display: flex;
-      align-items: center;
-      gap: 0.625rem;
-    }
-
-    .drawer-toggle .material-symbols-outlined {
-      color: #1754cf;
-      font-size: 1.125rem;
-    }
-
-    .drawer-toggle h2 {
-      font-size: 0.875rem;
-      font-weight: 600;
-      color: #0f172a;
-      letter-spacing: -0.01em;
-    }
-
-    .drawer-toggle .badge {
-      background: #1754cf;
-      color: white;
-      font-size: 0.688rem;
-      font-weight: 600;
-      padding: 0.125rem 0.438rem;
-      border-radius: 9999px;
-      min-width: 1.25rem;
-      text-align: center;
-    }
-
-    .drawer-chevron {
-      transition: transform 0.3s;
-      color: #94a3b8;
-      font-size: 1.25rem;
-    }
-
-    .drawer-chevron.expanded {
-      transform: rotate(180deg);
-    }
-
-    .drawer-content {
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.35s cubic-bezier(0.4, 0, 0.2, 1);
-      border-top: 1px solid transparent;
-    }
-
-    .drawer-content.expanded {
-      max-height: 2000px;
-      border-top-color: #f1f5f9;
-    }
-
-    .drawer-grid {
-      padding: 0.5rem 0.75rem 0.75rem;
-      display: flex;
-      flex-direction: column;
-      gap: 0.375rem;
-    }
-
-    .drawer-item {
-      display: flex;
-      align-items: center;
-      gap: 0.625rem;
-      padding: 0.625rem 0.75rem;
-      background: #f8fafc;
-      border: 1px solid #e2e8f0;
-      border-radius: 0.625rem;
-      text-decoration: none;
-      color: #475569;
-      transition: all 0.2s;
-    }
-
-    .drawer-item:active {
-      background: #f1f5f9;
-      border-color: #1754cf;
-      transform: scale(0.98);
-    }
-
-    .drawer-item .icon {
-      width: 2rem;
-      height: 2rem;
-      background: #1754cf10;
-      border-radius: 0.5rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-    }
-
-    .drawer-item .material-symbols-outlined {
-      font-size: 1.125rem;
-      color: #1754cf;
-    }
-
-    .drawer-item .text {
-      flex: 1;
-      min-width: 0;
-    }
-
-    .drawer-item .title {
-      font-family: 'Literata', serif;
-      font-weight: 700;
-      font-size: 0.813rem;
-      line-height: 1.3;
-      color: #0f172a;
-    }
-
-    .drawer-current-item {
-      background: #eff6ff;
-      border-color: #1754cf50;
-    }
-
-    .drawer-current-item .icon {
-      background: #1754cf;
-    }
-
-    .drawer-current-item .material-symbols-outlined {
-      color: white;
-    }
-
-    .drawer-current-item .title {
-      font-weight: 700;
-    }
-  }
-
-  /* Pericope sections */
-  .pericope-section {
-    border: 1px solid #e2e8f0;
-  }
-
   /* Verse styling */
   sup {
     vertical-align: super;
@@ -600,165 +111,81 @@ const chapters = Array.from({ length: bookMeta.chapters }, (_, i) => i + 1);
   }
 </style>
 
-<script>
-  // Sidebar chapter search (desktop)
-  const sidebarSearchInput = document.getElementById('sidebar-search-input') as HTMLInputElement;
-  const sidebarNav = document.getElementById('sidebar-nav');
-  const sidebarItems = sidebarNav?.querySelectorAll('.sidebar-item') as NodeListOf<HTMLElement>;
+<script define:vars={{ initialChapter: chapterNum, totalChapters: bookMeta.chapters, bookSlug, testament: testamentSlug }}>
+  let currentChapter = initialChapter;
+  const maxChapter = totalChapters;
+  let loadingNext = false;
+  const contentContainer = document.getElementById('chapters-content');
+  const sentinel = document.getElementById('load-sentinel');
 
-  function handleSidebarSearch() {
-    const query = sidebarSearchInput?.value.trim();
+  // Track total pericope count for alternating backgrounds across chapters
+  let globalPericopeIndex = document.querySelectorAll('[data-chapter]').length;
 
-    if (!query) {
-      // Show all chapters when search is empty
-      sidebarItems?.forEach(item => item.classList.remove('hidden'));
-      return;
+  const loadObserver = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting && !loadingNext && currentChapter < maxChapter) {
+      loadNextChapter();
     }
+  }, { rootMargin: '400px' });
 
-    const chapterNum = parseInt(query);
-
-    if (chapterNum && !isNaN(chapterNum)) {
-      // Filter to show matching chapter
-      sidebarItems?.forEach(item => {
-        const itemChapter = parseInt(item.dataset.chapter || '0');
-        if (itemChapter.toString().includes(query)) {
-          item.classList.remove('hidden');
-        } else {
-          item.classList.add('hidden');
-        }
-      });
-    }
+  if (sentinel) {
+    loadObserver.observe(sentinel);
   }
 
-  function jumpToChapter() {
-    const query = sidebarSearchInput?.value.trim();
-    if (!query) return;
+  async function loadNextChapter() {
+    loadingNext = true;
+    const nextChap = currentChapter + 1;
 
-    const chapterNum = parseInt(query);
-    const maxChapter = parseInt(sidebarSearchInput?.max || '0');
+    try {
+      const res = await fetch(`/biblia/api/${testament}/${bookSlug}/${nextChap}.json`);
+      const data = await res.json();
 
-    if (chapterNum && !isNaN(chapterNum) && chapterNum >= 1 && chapterNum <= maxChapter) {
-      // Find the link for this chapter
-      const targetLink = Array.from(sidebarItems || []).find(item =>
-        parseInt(item.dataset.chapter || '0') === chapterNum
-      );
+      // Build chapter separator
+      const separatorHtml =
+        '<div class="flex flex-col items-center gap-2 py-6" data-chapter-marker="' + data.chapterNum + '">' +
+          '<div class="w-15 h-0.5 bg-primary/20 rounded-full"></div>' +
+          '<h2 class="font-serif text-xl font-bold text-primary">Capitolul ' + data.chapterNum + '</h2>' +
+          '<div class="w-15 h-0.5 bg-primary/20 rounded-full"></div>' +
+        '</div>';
 
-      if (targetLink && targetLink.tagName === 'A') {
-        window.location.href = (targetLink as HTMLAnchorElement).href;
+      // Build pericopes with alternating backgrounds
+      let pericopesHtml = '<div class="space-y-4">';
+      for (let i = 0; i < data.pericopes.length; i++) {
+        const p = data.pericopes[i];
+        const idx = globalPericopeIndex + i;
+        const isEven = idx % 2 === 0;
+        const bgClass = isEven
+          ? 'bg-white border border-gray-200/50'
+          : 'bg-primary/5 border border-primary/10';
+
+        pericopesHtml +=
+          '<section class="rounded-xl p-5 ' + bgClass + '" data-chapter="' + data.chapterNum + '">' +
+            '<h3 class="text-xl font-bold mb-1 text-primary" style="font-family: \'Literata\', serif;">' +
+              p.title +
+            '</h3>' +
+            '<div class="text-xs text-slate-600 mb-4">' +
+              'Versetele ' + p.versesStart + '\u2013' + p.versesEnd +
+            '</div>' +
+            '<div class="prose prose-slate prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800 prose-strong:text-slate-900">' +
+              '<div style="font-family: \'Literata\', serif; line-height: 1.8;">' + p.versesHtml + '</div>' +
+            '</div>' +
+          '</section>';
       }
+      pericopesHtml += '</div>';
+
+      // Insert before sentinel
+      const fragment = document.createElement('div');
+      fragment.innerHTML = separatorHtml + pericopesHtml;
+
+      while (fragment.firstChild) {
+        sentinel.parentNode.insertBefore(fragment.firstChild, sentinel);
+      }
+
+      globalPericopeIndex += data.pericopes.length;
+      currentChapter = nextChap;
+    } catch (e) {
+      console.error('Failed to load chapter', nextChap, e);
     }
+
+    loadingNext = false;
   }
-
-  sidebarSearchInput?.addEventListener('input', handleSidebarSearch);
-  sidebarSearchInput?.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      jumpToChapter();
-    }
-  });
-
-  // Lazy-load mobile drawer content on first open (performance optimization)
-  const drawerToggle = document.getElementById('drawer-toggle');
-  const drawerContent = document.getElementById('drawer-content');
-  let drawerLoaded = false;
-
-  drawerToggle?.addEventListener('click', function() {
-    const chevron = this.querySelector('.drawer-chevron');
-
-    // Load content on first open
-    if (!drawerLoaded) {
-      const testament = this.dataset.testament;
-      const book = this.dataset.book;
-      const current = parseInt(this.dataset.current);
-      const total = parseInt(this.dataset.total);
-
-      // Generate search input for mobile drawer
-      const searchHtml = `
-        <div style="padding: 0.75rem; border-bottom: 1px solid #f1f5f9;">
-          <input
-            type="number"
-            id="drawer-search-input"
-            placeholder="Salt la capitol..."
-            min="1"
-            max="${total}"
-            class="sidebar-search-input"
-            style="width: 100%;"
-          />
-        </div>
-      `;
-
-      // Generate chapter links
-      const chapters = [];
-      for (let ch = 1; ch <= total; ch++) {
-        const isCurrent = ch === current;
-        chapters.push(`
-          <a
-            href="/biblia/${testament}/${book}/${ch}"
-            class="drawer-item ${isCurrent ? 'drawer-current-item' : ''}"
-            data-chapter="${ch}"
-          >
-            <div class="icon">
-              <span class="material-symbols-outlined">article</span>
-            </div>
-            <div class="text">
-              <div class="title">Capitolul ${ch}</div>
-            </div>
-            ${isCurrent ? '<span class="material-symbols-outlined text-primary">check_circle</span>' : ''}
-          </a>
-        `);
-      }
-
-      drawerContent.innerHTML = `${searchHtml}<div class="drawer-grid">${chapters.join('')}</div>`;
-      drawerLoaded = true;
-
-      // Set up mobile drawer search functionality
-      const drawerSearchInput = document.getElementById('drawer-search-input') as HTMLInputElement;
-      const drawerItems = drawerContent.querySelectorAll('.drawer-item') as NodeListOf<HTMLElement>;
-
-      function handleDrawerSearch() {
-        const query = drawerSearchInput?.value.trim();
-
-        if (!query) {
-          drawerItems?.forEach(item => item.style.display = 'flex');
-          return;
-        }
-
-        const chapterNum = parseInt(query);
-
-        if (chapterNum && !isNaN(chapterNum)) {
-          drawerItems?.forEach(item => {
-            const itemChapter = parseInt(item.dataset.chapter || '0');
-            if (itemChapter.toString().includes(query)) {
-              item.style.display = 'flex';
-            } else {
-              item.style.display = 'none';
-            }
-          });
-        }
-      }
-
-      function jumpToChapterMobile() {
-        const query = drawerSearchInput?.value.trim();
-        if (!query) return;
-
-        const chapterNum = parseInt(query);
-
-        if (chapterNum && !isNaN(chapterNum) && chapterNum >= 1 && chapterNum <= total) {
-          window.location.href = `/biblia/${testament}/${book}/${chapterNum}`;
-        }
-      }
-
-      drawerSearchInput?.addEventListener('input', handleDrawerSearch);
-      drawerSearchInput?.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') {
-          e.preventDefault();
-          jumpToChapterMobile();
-        }
-      });
-    }
-
-    // Toggle expansion
-    drawerContent.classList.toggle('expanded');
-    chevron.classList.toggle('expanded');
-  });
 </script>

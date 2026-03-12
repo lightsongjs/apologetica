@@ -1,0 +1,56 @@
+---
+interface Props {
+  activeTab?: "biblia" | "discutii" | "teme" | "persoane" | "locuri" | "cauta" | "none";
+}
+
+const { activeTab = "none" } = Astro.props;
+
+const tabs = [
+  { id: "biblia", label: "BIBLIA", icon: "menu_book", href: "/biblia" },
+  { id: "discutii", label: "DISCUȚII", icon: "forum", href: "/conversatii" },
+  { id: "teme", label: "TEME", icon: "auto_stories", href: "/teme" },
+  { id: "persoane", label: "PERSOANE", icon: "person", href: "/personalitati" },
+  { id: "locuri", label: "LOCURI", icon: "location_on", href: "/locuri" },
+  { id: "cauta", label: "CAUTĂ", icon: "search", href: "/" },
+];
+---
+
+<nav id="bottom-nav" class="fixed bottom-0 left-0 right-0 z-40 px-2 pt-2 pb-4 bg-[#FAFAFA]" style="padding-bottom: max(1rem, env(safe-area-inset-bottom));">
+  <div class="w-full h-[54px] bg-white rounded-xl border border-gray-200 shadow-sm flex items-center">
+    {tabs.map((tab) => {
+      const isActive = activeTab === tab.id;
+      const isSearch = tab.id === "cauta";
+      return (
+        <a
+          href={tab.href}
+          id={isSearch ? "cauta-tab" : undefined}
+          class:list={[
+            "flex-1 flex flex-col items-center justify-center gap-0.5 rounded-lg h-full",
+            isActive ? "bg-[#1754cf] text-white" : "text-gray-400",
+          ]}
+        >
+          <span class="material-symbols-outlined text-lg leading-none">{tab.icon}</span>
+          <span class="text-[8px] font-semibold tracking-wide uppercase font-sans leading-none">{tab.label}</span>
+        </a>
+      );
+    })}
+  </div>
+</nav>
+
+<script>
+  function initBottomNav() {
+    const cautaTab = document.getElementById('cauta-tab');
+    if (cautaTab && window.location.pathname === '/') {
+      cautaTab.addEventListener('click', (e) => {
+        const searchInput = document.getElementById('home-search-input') as HTMLInputElement;
+        if (searchInput) {
+          e.preventDefault();
+          searchInput.focus();
+          searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      });
+    }
+  }
+  initBottomNav();
+  document.addEventListener('astro:page-load', initBottomNav);
+</script>
