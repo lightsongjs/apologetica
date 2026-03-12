@@ -8,6 +8,7 @@ const conversations = defineCollection({
     title: z.string(),
     denomination: z.string(),
     order: z.number(),
+    parent: z.string().optional(),
     verify: z.boolean().default(false),
   }),
 });

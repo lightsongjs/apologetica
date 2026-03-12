@@ -12,6 +12,7 @@ export const GET: APIRoute = async () => {
     'atheist': 'Ateu',
     'baptist': 'Baptist',
     'martorii-lui-iehova': 'Martor al lui Iehova',
+    'catehumen': 'Catehumen',
   };
 
   // Bible books with canonical order

@@ -17,59 +17,46 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const body = resolveWikiLinks(entry.body || '').replace(/\r\n/g, '\n');
 
-// Get child themes
 const allTeme = await getCollection('teme');
-const children = allTeme
-  .filter(tema => tema.data.parent === entry.id)
-  .sort((a, b) => {
-    // If both have order, sort by order
-    if (a.data.order !== undefined && b.data.order !== undefined) {
-      return a.data.order - b.data.order;
-    }
-    // If only one has order, it comes first
-    if (a.data.order !== undefined) return -1;
-    if (b.data.order !== undefined) return 1;
-    // Otherwise, sort alphabetically
-    return a.data.title.localeCompare(b.data.title, 'ro');
-  });
+
+function sortTeme(a: any, b: any) {
+  if (a.data.order !== undefined && b.data.order !== undefined) return a.data.order - b.data.order;
+  if (a.data.order !== undefined) return -1;
+  if (b.data.order !== undefined) return 1;
+  return a.data.title.localeCompare(b.data.title, 'ro');
+}
+
+// Determine the parent slug: either this IS the parent, or it has one
+const parentSlug = entry.data.parent || entry.id;
+const parentTema = allTeme.find(t => t.id === parentSlug) || null;
+
+// All children of that parent
+const allChildren = allTeme
+  .filter(tema => tema.data.parent === parentSlug)
+  .sort(sortTeme);
+
+const showSidebar = allChildren.length > 0;
+
+// Build unified sidebar: parent + all children, with current marked active
+const sidebarItems = showSidebar
+  ? [
+      { id: parentSlug, title: parentTema?.data.title || '', active: entry.id === parentSlug, isParent: true },
+      ...allChildren.map(c => ({ id: c.id, title: c.data.title, active: c.id === entry.id, isParent: false })),
+    ]
+  : [];
 
 // Build breadcrumb trail
 const breadcrumbs: Array<{ title: string; href: string }> = [];
 let currentParentSlug = entry.data.parent;
 while (currentParentSlug) {
-  const parentTema = allTeme.find(t => t.id === currentParentSlug);
-  if (parentTema) {
-    breadcrumbs.unshift({ title: parentTema.data.title, href: `/teme/${parentTema.id}` });
-    currentParentSlug = parentTema.data.parent;
+  const crumbTema = allTeme.find(t => t.id === currentParentSlug);
+  if (crumbTema) {
+    breadcrumbs.unshift({ title: crumbTema.data.title, href: `/teme/${crumbTema.id}` });
+    currentParentSlug = crumbTema.data.parent;
   } else {
     break;
   }
 }
-
-// Get siblings (if this is a leaf page with no children but has parent)
-const siblings = entry.data.parent
-  ? allTeme
-      .filter(tema => tema.data.parent === entry.data.parent && tema.id !== entry.id)
-      .sort((a, b) => {
-        // If both have order, sort by order
-        if (a.data.order !== undefined && b.data.order !== undefined) {
-          return a.data.order - b.data.order;
-        }
-        // If only one has order, it comes first
-        if (a.data.order !== undefined) return -1;
-        if (b.data.order !== undefined) return 1;
-        // Otherwise, sort alphabetically
-        return a.data.title.localeCompare(b.data.title, 'ro');
-      })
-  : [];
-
-// Get parent tema
-const parentTema = entry.data.parent
-  ? allTeme.find(t => t.id === entry.data.parent)
-  : null;
-
-// Show sidebar if: has children OR (has parent - meaning it's in a hierarchy)
-const showSidebar = children.length > 0 || entry.data.parent;
 
 // Parse sections
 const sections: Record<string, string> = {};
@@ -152,57 +139,28 @@ const bodyHtml = await marked.parse(bodyToRender);
       <div class="mobile-drawer mb-6">
         <button class="drawer-toggle" onclick="this.nextElementSibling.classList.toggle('expanded'); this.querySelector('.drawer-chevron').classList.toggle('expanded');">
           <div class="drawer-toggle-left">
-            <span class="material-symbols-outlined">{children.length > 0 ? 'folder_open' : 'arrow_back'}</span>
-            <h2>{children.length > 0 ? 'Subteme' : 'Navigare'}</h2>
-            <span class="badge">{children.length > 0 ? children.length : (siblings.length + 1)}</span>
+            <span class="material-symbols-outlined">folder_open</span>
+            <h2>Subteme</h2>
+            <span class="badge">{sidebarItems.length}</span>
           </div>
           <span class="material-symbols-outlined drawer-chevron expanded">expand_more</span>
         </button>
         <div class="drawer-content expanded">
           <div class="drawer-grid">
-            {children.length > 0 ? (
-              /* Show children */
-              children.map(child => (
-                <a href={`/teme/${child.id}`} class="drawer-item">
-                  <div class="icon">
-                    <span class="material-symbols-outlined">article</span>
-                  </div>
-                  <div class="text">
-                    <div class="title">{child.data.title}</div>
-                    <div class="summary">{child.data.summary}</div>
-                  </div>
-                  <span class="material-symbols-outlined chevron">chevron_right</span>
-                </a>
-              ))
-            ) : (
-              /* Show backlinks: parent + siblings */
-              <>
-                {parentTema && (
-                  <a href={`/teme/${parentTema.id}`} class="drawer-item drawer-parent-item">
-                    <div class="icon">
-                      <span class="material-symbols-outlined">arrow_upward</span>
-                    </div>
-                    <div class="text">
-                      <div class="title">{parentTema.data.title}</div>
-                      <div class="summary">{parentTema.data.summary}</div>
-                    </div>
-                    <span class="material-symbols-outlined chevron">chevron_right</span>
-                  </a>
-                )}
-                {siblings.map(sibling => (
-                  <a href={`/teme/${sibling.id}`} class="drawer-item">
-                    <div class="icon">
-                      <span class="material-symbols-outlined">article</span>
-                    </div>
-                    <div class="text">
-                      <div class="title">{sibling.data.title}</div>
-                      <div class="summary">{sibling.data.summary}</div>
-                    </div>
-                    <span class="material-symbols-outlined chevron">chevron_right</span>
-                  </a>
-                ))}
-              </>
-            )}
+            {sidebarItems.map((item: any) => (
+              <a
+                href={`/teme/${item.id}`}
+                class={`drawer-item ${item.active ? 'drawer-active-item' : ''} ${item.isParent ? 'drawer-parent-item' : ''}`}
+              >
+                <div class="icon">
+                  <span class="material-symbols-outlined">{item.isParent ? 'folder_open' : 'article'}</span>
+                </div>
+                <div class="text">
+                  <div class="title">{item.title}</div>
+                </div>
+                <span class="material-symbols-outlined chevron">chevron_right</span>
+              </a>
+            ))}
           </div>
         </div>
       </div>
@@ -215,50 +173,23 @@ const bodyHtml = await marked.parse(bodyToRender);
       {showSidebar && (
         <aside class="sidebar">
           <div class="sidebar-header">
-            <span class="material-symbols-outlined">{children.length > 0 ? 'folder_open' : 'arrow_back'}</span>
-            <h2>{children.length > 0 ? 'Subteme' : 'Navigare'}</h2>
+            <span class="material-symbols-outlined">folder_open</span>
+            <h2>Subteme</h2>
           </div>
           <nav class="sidebar-nav">
-            {children.length > 0 ? (
-              /* Show children */
-              children.map(child => (
-                <a href={`/teme/${child.id}`} class="sidebar-item">
-                  <div class="icon">
-                    <span class="material-symbols-outlined">article</span>
-                  </div>
-                  <div class="text">
-                    <div class="title">{child.data.title}</div>
-                  </div>
-                </a>
-              ))
-            ) : (
-              /* Show backlinks: parent + siblings */
-              <>
-                {parentTema && (
-                  <a href={`/teme/${parentTema.id}`} class="sidebar-item sidebar-parent">
-                    <div class="icon">
-                      <span class="material-symbols-outlined">arrow_upward</span>
-                    </div>
-                    <div class="text">
-                      <div class="title">{parentTema.data.title}</div>
-                    </div>
-                  </a>
-                )}
-                {siblings.length > 0 && parentTema && (
-                  <div class="sidebar-divider">Alte articole</div>
-                )}
-                {siblings.map(sibling => (
-                  <a href={`/teme/${sibling.id}`} class="sidebar-item">
-                    <div class="icon">
-                      <span class="material-symbols-outlined">article</span>
-                    </div>
-                    <div class="text">
-                      <div class="title">{sibling.data.title}</div>
-                    </div>
-                  </a>
-                ))}
-              </>
-            )}
+            {sidebarItems.map((item: any) => (
+              <a
+                href={`/teme/${item.id}`}
+                class={`sidebar-item ${item.active ? 'sidebar-active' : ''} ${item.isParent ? 'sidebar-parent' : ''}`}
+              >
+                <div class="icon">
+                  <span class="material-symbols-outlined">{item.isParent ? 'folder_open' : 'article'}</span>
+                </div>
+                <div class="text">
+                  <div class="title">{item.title}</div>
+                </div>
+              </a>
+            ))}
           </nav>
         </aside>
       )}
@@ -554,28 +485,50 @@ const bodyHtml = await marked.parse(bodyToRender);
       overflow: hidden;
     }
 
-    .sidebar-parent {
+    .sidebar-active {
+      background: #1754cf;
+      border-color: #1754cf;
+      color: white;
+    }
+
+    .sidebar-active .icon {
+      background: rgba(255,255,255,0.2);
+    }
+
+    .sidebar-active .material-symbols-outlined {
+      color: white;
+    }
+
+    .sidebar-active .title {
+      color: white;
+    }
+
+    .sidebar-active:hover {
+      background: #1754cf;
+      color: white;
+      border-color: #1754cf;
+    }
+
+    .sidebar-active:hover .icon {
+      background: rgba(255,255,255,0.3);
+    }
+
+    .sidebar-active:hover .material-symbols-outlined {
+      color: white;
+    }
+
+    .sidebar-parent:not(.sidebar-active) {
       background: #f1f5f9;
       border-color: #1754cf30;
       font-weight: 600;
     }
 
-    .sidebar-parent .icon {
+    .sidebar-parent:not(.sidebar-active) .icon {
       background: #1754cf;
     }
 
-    .sidebar-parent .material-symbols-outlined {
+    .sidebar-parent:not(.sidebar-active) .material-symbols-outlined {
       color: white;
-    }
-
-    .sidebar-divider {
-      font-size: 0.688rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      color: #64748b;
-      padding: 0.75rem 0.625rem 0.5rem;
-      margin-top: 0.5rem;
     }
 
     /* Hide mobile drawer on desktop */
@@ -740,21 +693,40 @@ const bodyHtml = await marked.parse(bodyToRender);
       font-size: 1.125rem;
     }
 
+    /* Active item in mobile drawer */
+    .drawer-active-item {
+      background: #1754cf;
+      border-color: #1754cf;
+    }
+
+    .drawer-active-item .title {
+      color: white;
+    }
+
+    .drawer-active-item .icon {
+      background: rgba(255,255,255,0.2);
+    }
+
+    .drawer-active-item .material-symbols-outlined,
+    .drawer-active-item .chevron {
+      color: white;
+    }
+
     /* Parent link styling in mobile drawer */
-    .drawer-parent-item {
+    .drawer-parent-item:not(.drawer-active-item) {
       background: #eff6ff;
       border-color: #1754cf50;
     }
 
-    .drawer-parent-item .icon {
+    .drawer-parent-item:not(.drawer-active-item) .icon {
       background: #1754cf;
     }
 
-    .drawer-parent-item .material-symbols-outlined {
+    .drawer-parent-item:not(.drawer-active-item) .material-symbols-outlined {
       color: white;
     }
 
-    .drawer-parent-item .title {
+    .drawer-parent-item:not(.drawer-active-item) .title {
       font-weight: 700;
     }
   }

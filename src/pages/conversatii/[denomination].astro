@@ -6,12 +6,7 @@ const denominationLabels: Record<string, string> = {
   atheist: 'Ateu',
   baptist: 'Baptist',
   'martorii-lui-iehova': 'Martor al lui Iehova',
-};
-
-const denominationIcons: Record<string, string> = {
-  atheist: 'science',
-  baptist: 'water_drop',
-  'martorii-lui-iehova': 'menu_book',
+  catehumen: 'Catehumen',
 };
 
 export async function getStaticPaths() {
@@ -22,7 +17,7 @@ export async function getStaticPaths() {
     params: { denomination },
     props: {
       topics: allTopics
-        .filter((t) => t.data.denomination === denomination)
+        .filter((t) => t.data.denomination === denomination && !t.data.parent)
         .sort((a, b) => a.data.order - b.data.order),
     },
   }));

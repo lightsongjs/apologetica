@@ -8,25 +8,45 @@ const denominationLabels: Record<string, string> = {
   atheist: 'Ateu',
   baptist: 'Baptist',
   'martorii-lui-iehova': 'Martor al lui Iehova',
+  catehumen: 'Catehumen',
 };
 
 export async function getStaticPaths() {
   const allTopics = await getCollection('conversations');
+  const slugOf = (t: any) => t.id.split('/').pop()!.replace('.md', '');
 
   return allTopics.map((topic) => {
-    const slug = topic.id.split('/').pop()!;
+    const slug = slugOf(topic);
+    const den = topic.data.denomination;
+
+    // Determine the parent slug: either this IS the parent, or it has one
+    const parentSlug = topic.data.parent || slug;
+    const parentEntry = allTopics.find((t) => slugOf(t) === parentSlug && t.data.denomination === den) || null;
+
+    // All children of that parent
+    const allChildren = allTopics
+      .filter((t) => t.data.parent === parentSlug && t.data.denomination === den)
+      .sort((a, b) => a.data.order - b.data.order);
+
+    const showSidebar = allChildren.length > 0;
+
+    // Build sidebar items: parent first, then children, with current marked active
+    const sidebarItems = showSidebar
+      ? [
+          { slug: parentSlug, title: parentEntry?.data.title || '', active: slug === parentSlug, isParent: true },
+          ...allChildren.map((c) => ({ slug: slugOf(c), title: c.data.title, active: slugOf(c) === slug, isParent: false })),
+        ]
+      : [];
+
     return {
-      params: {
-        denomination: topic.data.denomination,
-        topic: slug,
-      },
-      props: { entry: topic },
+      params: { denomination: den, topic: topic.id.split('/').pop()! },
+      props: { entry: topic, showSidebar, sidebarItems, denomination: den },
     };
   });
 }
 
 const { denomination } = Astro.params;
-const { entry } = Astro.props;
+const { entry, showSidebar, sidebarItems } = Astro.props;
 const groupLabel = denominationLabels[denomination!] || denomination;
 
 // --- Extract all ## sections dynamically ---
@@ -128,73 +148,489 @@ const iconMap: Record<string, string> = {
 };
 ---
 
-<Base title={entry.data.title} headerTitle={entry.data.title} useHistoryBack={true} activeNav="home" activeTab="discutii">
-  <div class="pt-4 pb-8 space-y-8">
+<Base title={entry.data.title} headerTitle={entry.data.title} useHistoryBack={true} activeNav="home" maxWidth={showSidebar ? "full" : "xl"} activeTab="discutii">
+  <div class="pt-4 pb-8">
 
-    <!-- Title -->
-    <div class="text-center">
-      <p class="text-sm font-semibold uppercase tracking-widest text-primary/50 mb-2">Anchetă teologică</p>
-      <h2 class="text-3xl md:text-4xl font-extrabold leading-tight tracking-tight italic">"{entry.data.title}"</h2>
+    <!-- MOBILE ONLY: Expandable Drawer -->
+    {showSidebar && (
+      <div class="mobile-drawer mb-6">
+        <button class="drawer-toggle" onclick="this.nextElementSibling.classList.toggle('expanded'); this.querySelector('.drawer-chevron').classList.toggle('expanded');">
+          <div class="drawer-toggle-left">
+            <span class="material-symbols-outlined">folder_open</span>
+            <h2>Subteme</h2>
+            <span class="badge">{sidebarItems.length}</span>
+          </div>
+          <span class="material-symbols-outlined drawer-chevron expanded">expand_more</span>
+        </button>
+        <div class="drawer-content expanded">
+          <div class="drawer-grid">
+            {sidebarItems.map((item: any) => (
+              <a
+                href={`/conversatii/${denomination}/${item.slug}`}
+                class={`drawer-item ${item.active ? 'drawer-active-item' : ''} ${item.isParent ? 'drawer-parent-item' : ''}`}
+              >
+                <div class="icon">
+                  <span class="material-symbols-outlined">{item.isParent ? 'church' : 'article'}</span>
+                </div>
+                <div class="text">
+                  <div class="title">{item.title}</div>
+                </div>
+                <span class="material-symbols-outlined chevron">chevron_right</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    )}
+
+    <!-- DESKTOP + MOBILE: Main Layout -->
+    <div class="tema-layout">
+
+      <!-- DESKTOP ONLY: Sticky Sidebar -->
+      {showSidebar && (
+        <aside class="sidebar">
+          <div class="sidebar-header">
+            <span class="material-symbols-outlined">folder_open</span>
+            <h2>Subteme</h2>
+          </div>
+          <nav class="sidebar-nav">
+            {sidebarItems.map((item: any) => (
+              <a
+                href={`/conversatii/${denomination}/${item.slug}`}
+                class={`sidebar-item ${item.active ? 'sidebar-active' : ''} ${item.isParent ? 'sidebar-parent' : ''}`}
+              >
+                <div class="icon">
+                  <span class="material-symbols-outlined">{item.isParent ? 'church' : 'article'}</span>
+                </div>
+                <div class="text">
+                  <div class="title">{item.title}</div>
+                </div>
+              </a>
+            ))}
+          </nav>
+        </aside>
+      )}
+
+      <!-- Main Content -->
+      <main class="tema-content">
+        <div class="space-y-8">
+
+          <!-- Title -->
+          <div class="text-center">
+            <p class="text-sm font-semibold uppercase tracking-widest text-primary/50 mb-2">Anchetă teologică</p>
+            <h2 class="text-3xl md:text-4xl font-extrabold leading-tight tracking-tight italic">"{entry.data.title}"</h2>
+          </div>
+
+          <!-- Their Claim (always first, special red style) -->
+          {claimSection && (
+            <section>
+              <div class="flex items-center gap-2 mb-3">
+                <span class="material-symbols-outlined text-red-700">format_quote</span>
+                <h3 class="text-sm font-bold uppercase tracking-widest text-red-700">Ce spun ei</h3>
+              </div>
+              <div class="bg-red-50 border border-red-200/60 rounded-xl p-5">
+                <p class="text-red-900/80 italic leading-relaxed text-lg">"{claimQuote}"</p>
+              </div>
+            </section>
+          )}
+
+          <!-- Generic sections with rotating backgrounds -->
+          {flatSections.map((s) => (
+            <section>
+              <div class="flex items-center gap-2 mb-3">
+                <span class="material-symbols-outlined text-primary">{iconMap[s.heading] || 'article'}</span>
+                <h3 class="text-sm font-bold uppercase tracking-widest text-primary">{s.heading}</h3>
+              </div>
+              <div class="space-y-4">
+                {s.blocks.map((block) => (
+                  <div class={`${block.bg} border rounded-xl p-5`}>
+                    {block.subheading && (
+                      <h4 class="text-base font-bold text-primary mb-3">{block.subheading}</h4>
+                    )}
+                    <article class="prose prose-slate prose-base max-w-none
+                      prose-headings:text-primary prose-headings:font-bold
+                      prose-h4:text-base prose-h4:mt-4 prose-h4:mb-2
+                      prose-strong:text-slate-800
+                      prose-ul:space-y-1
+                      prose-p:leading-relaxed
+                      prose-li:leading-relaxed">
+                      <Fragment set:html={block.html} />
+                    </article>
+                  </div>
+                ))}
+              </div>
+            </section>
+          ))}
+
+          <!-- Scripture (always last, special card style) -->
+          {scriptureRefs.length > 0 && (
+            <section>
+              <div class="flex items-center gap-2 mb-4">
+                <span class="material-symbols-outlined text-primary">menu_book</span>
+                <h3 class="text-sm font-bold uppercase tracking-widest text-primary">Versete cheie</h3>
+              </div>
+              <div class="space-y-3">
+                {scriptureRefs.map((s) => (
+                  <div class="flex items-start gap-3 p-4 bg-white border border-primary/10 rounded-xl">
+                    <span class="font-bold text-primary text-base whitespace-nowrap mt-0.5">{s.ref}</span>
+                    <p class="text-base text-slate-600 italic leading-relaxed">{s.text}</p>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+
+        </div>
+      </main>
+
     </div>
-
-    <!-- Their Claim (always first, special red style) -->
-    {claimSection && (
-      <section>
-        <div class="flex items-center gap-2 mb-3">
-          <span class="material-symbols-outlined text-red-700">format_quote</span>
-          <h3 class="text-sm font-bold uppercase tracking-widest text-red-700">Ce spun ei</h3>
-        </div>
-        <div class="bg-red-50 border border-red-200/60 rounded-xl p-5">
-          <p class="text-red-900/80 italic leading-relaxed text-lg">"{claimQuote}"</p>
-        </div>
-      </section>
-    )}
-
-    <!-- Generic sections with rotating backgrounds -->
-    {flatSections.map((s) => (
-      <section>
-        <div class="flex items-center gap-2 mb-3">
-          <span class="material-symbols-outlined text-primary">{iconMap[s.heading] || 'article'}</span>
-          <h3 class="text-sm font-bold uppercase tracking-widest text-primary">{s.heading}</h3>
-        </div>
-        <div class="space-y-4">
-          {s.blocks.map((block) => (
-            <div class={`${block.bg} border rounded-xl p-5`}>
-              {block.subheading && (
-                <h4 class="text-base font-bold text-primary mb-3">{block.subheading}</h4>
-              )}
-              <article class="prose prose-slate prose-base max-w-none
-                prose-headings:text-primary prose-headings:font-bold
-                prose-h4:text-base prose-h4:mt-4 prose-h4:mb-2
-                prose-strong:text-slate-800
-                prose-ul:space-y-1
-                prose-p:leading-relaxed
-                prose-li:leading-relaxed">
-                <Fragment set:html={block.html} />
-              </article>
-            </div>
-          ))}
-        </div>
-      </section>
-    ))}
-
-    <!-- Scripture (always last, special card style) -->
-    {scriptureRefs.length > 0 && (
-      <section>
-        <div class="flex items-center gap-2 mb-4">
-          <span class="material-symbols-outlined text-primary">menu_book</span>
-          <h3 class="text-sm font-bold uppercase tracking-widest text-primary">Versete cheie</h3>
-        </div>
-        <div class="space-y-3">
-          {scriptureRefs.map((s) => (
-            <div class="flex items-start gap-3 p-4 bg-white border border-primary/10 rounded-xl">
-              <span class="font-bold text-primary text-base whitespace-nowrap mt-0.5">{s.ref}</span>
-              <p class="text-base text-slate-600 italic leading-relaxed">{s.text}</p>
-            </div>
-          ))}
-        </div>
-      </section>
-    )}
-
   </div>
 </Base>
+
+<style>
+  /* DESKTOP: Two-column layout with sticky sidebar */
+  @media (min-width: 768px) {
+    .tema-layout {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 3rem;
+      align-items: start;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 2rem;
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 1rem;
+      padding: 1.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .sidebar-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #e2e8f0;
+    }
+
+    .sidebar-header .material-symbols-outlined {
+      color: #1754cf;
+      font-size: 1.25rem;
+    }
+
+    .sidebar-header h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #0f172a;
+    }
+
+    .sidebar-nav {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .sidebar-item {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.625rem;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      color: #475569;
+      transition: all 0.2s;
+      border: 1px solid transparent;
+    }
+
+    .sidebar-item:hover {
+      background: #f1f5f9;
+      color: #1754cf;
+      border-color: #1754cf20;
+    }
+
+    .sidebar-item .icon {
+      width: 2rem;
+      height: 2rem;
+      background: #1754cf10;
+      border-radius: 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: all 0.2s;
+    }
+
+    .sidebar-item:hover .icon {
+      background: #1754cf;
+      color: white;
+    }
+
+    .sidebar-item .material-symbols-outlined {
+      font-size: 1.25rem;
+      color: #1754cf;
+    }
+
+    .sidebar-item:hover .material-symbols-outlined {
+      color: white;
+    }
+
+    .sidebar-item .text {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .sidebar-item .title {
+      font-family: 'Literata', serif;
+      font-weight: 700;
+      font-size: 0.813rem;
+      line-height: 1.3;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .sidebar-active {
+      background: #1754cf;
+      border-color: #1754cf;
+      color: white;
+    }
+
+    .sidebar-active .icon {
+      background: rgba(255,255,255,0.2);
+    }
+
+    .sidebar-active .material-symbols-outlined {
+      color: white;
+    }
+
+    .sidebar-active .title {
+      color: white;
+    }
+
+    .sidebar-active:hover {
+      background: #1754cf;
+      color: white;
+      border-color: #1754cf;
+    }
+
+    .sidebar-active:hover .icon {
+      background: rgba(255,255,255,0.3);
+    }
+
+    .sidebar-active:hover .material-symbols-outlined {
+      color: white;
+    }
+
+    .sidebar-parent:not(.sidebar-active) {
+      background: #f1f5f9;
+      border-color: #1754cf30;
+      font-weight: 600;
+    }
+
+    .sidebar-parent:not(.sidebar-active) .icon {
+      background: #1754cf;
+    }
+
+    .sidebar-parent:not(.sidebar-active) .material-symbols-outlined {
+      color: white;
+    }
+
+    /* Hide mobile drawer on desktop */
+    .mobile-drawer {
+      display: none;
+    }
+  }
+
+  /* No sidebar: single column */
+  @media (min-width: 768px) {
+    .tema-layout:not(:has(.sidebar)) {
+      display: block;
+    }
+  }
+
+  /* MOBILE: Expandable drawer */
+  @media (max-width: 767px) {
+    .sidebar {
+      display: none;
+    }
+
+    .tema-layout {
+      display: block;
+    }
+
+    .mobile-drawer {
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 0.75rem;
+      overflow: hidden;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+    }
+
+    .drawer-toggle {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      background: white;
+      border: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      font-family: inherit;
+    }
+
+    .drawer-toggle:active {
+      background: #f8fafc;
+    }
+
+    .drawer-toggle-left {
+      display: flex;
+      align-items: center;
+      gap: 0.625rem;
+    }
+
+    .drawer-toggle .material-symbols-outlined {
+      color: #1754cf;
+      font-size: 1.125rem;
+    }
+
+    .drawer-toggle h2 {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: #0f172a;
+      letter-spacing: -0.01em;
+    }
+
+    .drawer-toggle .badge {
+      background: #1754cf;
+      color: white;
+      font-size: 0.688rem;
+      font-weight: 600;
+      padding: 0.125rem 0.438rem;
+      border-radius: 9999px;
+      min-width: 1.25rem;
+      text-align: center;
+    }
+
+    .drawer-chevron {
+      transition: transform 0.3s;
+      color: #94a3b8;
+      font-size: 1.25rem;
+    }
+
+    .drawer-chevron.expanded {
+      transform: rotate(180deg);
+    }
+
+    .drawer-content {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+      border-top: 1px solid transparent;
+    }
+
+    .drawer-content.expanded {
+      max-height: 2000px;
+      border-top-color: #f1f5f9;
+    }
+
+    .drawer-grid {
+      padding: 0.5rem 0.75rem 0.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.375rem;
+    }
+
+    .drawer-item {
+      display: flex;
+      align-items: center;
+      gap: 0.625rem;
+      padding: 0.625rem 0.75rem;
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 0.625rem;
+      text-decoration: none;
+      color: #475569;
+      transition: all 0.2s;
+    }
+
+    .drawer-item:active {
+      background: #f1f5f9;
+      border-color: #1754cf;
+      transform: scale(0.98);
+    }
+
+    .drawer-item .icon {
+      width: 2rem;
+      height: 2rem;
+      background: #1754cf10;
+      border-radius: 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .drawer-item .material-symbols-outlined {
+      font-size: 1.125rem;
+      color: #1754cf;
+    }
+
+    .drawer-item .text {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .drawer-item .title {
+      font-family: 'Literata', serif;
+      font-weight: 700;
+      font-size: 0.813rem;
+      line-height: 1.3;
+      color: #0f172a;
+    }
+
+    .drawer-item .chevron {
+      color: #cbd5e1;
+      flex-shrink: 0;
+      font-size: 1.125rem;
+    }
+
+    .drawer-active-item {
+      background: #1754cf;
+      border-color: #1754cf;
+    }
+
+    .drawer-active-item .title {
+      color: white;
+    }
+
+    .drawer-active-item .icon {
+      background: rgba(255,255,255,0.2);
+    }
+
+    .drawer-active-item .material-symbols-outlined,
+    .drawer-active-item .chevron {
+      color: white;
+    }
+
+    .drawer-parent-item:not(.drawer-active-item) {
+      background: #eff6ff;
+      border-color: #1754cf50;
+    }
+
+    .drawer-parent-item:not(.drawer-active-item) .icon {
+      background: #1754cf;
+    }
+
+    .drawer-parent-item:not(.drawer-active-item) .material-symbols-outlined {
+      color: white;
+    }
+
+    .drawer-parent-item:not(.drawer-active-item) .title {
+      font-weight: 700;
+    }
+  }
+</style>

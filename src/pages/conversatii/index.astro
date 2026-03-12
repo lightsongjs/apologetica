@@ -5,9 +5,10 @@ import { getCollection } from 'astro:content';
 const allTopics = await getCollection('conversations');
 
 const groups = [
-  { slug: 'atheist', name: 'Ateu', icon: 'science' },
-  { slug: 'baptist', name: 'Baptist', icon: 'water_drop' },
-  { slug: 'martorii-lui-iehova', name: 'Martor al lui Iehova', icon: 'menu_book' },
+  { slug: 'atheist', name: 'Ateu', icon: 'forum' },
+  { slug: 'baptist', name: 'Baptist', icon: 'forum' },
+  { slug: 'martorii-lui-iehova', name: 'Martor al lui Iehova', icon: 'forum' },
+  { slug: 'catehumen', name: 'Catehumen', icon: 'forum' },
 ];
 
 const topicCounts = groups.map((g) => ({
