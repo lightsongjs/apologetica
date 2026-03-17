@@ -1,7 +1,7 @@
 import type { APIRoute, GetStaticPaths } from 'astro';
 import { getCollection } from 'astro:content';
 import { BOOKS_METADATA } from '../../../../../lib/bible-books';
-import { formatVerses } from '../../../../../lib/bible-format';
+import { formatVerses, filterDuplicateVerses } from '../../../../../lib/bible-format';
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const allPericopes = await getCollection('biblia');
@@ -48,12 +48,21 @@ export const GET: APIRoute = async ({ props }) => {
   const { bookName, bookSlug, testament, chapterNum, totalChapters, temaSlug, chapterPericopes } =
     props as any;
 
-  const pericopes = chapterPericopes.map((p: any) => ({
-    title: p.data.pericope_title_ro,
-    versesStart: p.data.verses_start,
-    versesEnd: p.data.verses_end,
-    versesHtml: formatVerses(p.body ?? ''),
-  }));
+  // Track displayed verses to filter overlaps
+  const displayedVerses = new Set<number>();
+
+  const pericopes = chapterPericopes.map((p: any) => {
+    // Filter out duplicate verses, then format
+    const filteredBody = filterDuplicateVerses(p.body ?? '', displayedVerses);
+    const versesHtml = formatVerses(filteredBody);
+
+    return {
+      title: p.data.pericope_title_ro,
+      versesStart: p.data.verses_start,
+      versesEnd: p.data.verses_end,
+      versesHtml,
+    };
+  });
 
   return new Response(
     JSON.stringify({

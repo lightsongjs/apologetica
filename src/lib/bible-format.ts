@@ -30,3 +30,34 @@ export function formatVerses(body: string): string {
 
   return cleaned;
 }
+
+/**
+ * Filter out verses that have already been displayed (to handle pericope overlaps).
+ * @param body - Raw markdown body with verses
+ * @param displayedVerses - Set of verse numbers already displayed
+ * @returns Filtered body with duplicate verses removed
+ */
+export function filterDuplicateVerses(body: string, displayedVerses: Set<number>): string {
+  const lines = body.split('\n');
+  const filteredLines: string[] = [];
+
+  for (const line of lines) {
+    // Check if line starts with a verse number (e.g., "1. Text" or "12. Text")
+    const verseMatch = line.match(/^(\d+)\.\s+/);
+
+    if (verseMatch) {
+      const verseNum = parseInt(verseMatch[1], 10);
+
+      // Only include if not already displayed
+      if (!displayedVerses.has(verseNum)) {
+        filteredLines.push(line);
+        displayedVerses.add(verseNum);
+      }
+    } else {
+      // Keep non-verse lines (blank lines, paragraphs, etc.)
+      filteredLines.push(line);
+    }
+  }
+
+  return filteredLines.join('\n');
+}

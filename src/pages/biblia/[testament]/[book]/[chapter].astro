@@ -2,7 +2,7 @@
 import Base from '../../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { BOOKS_METADATA } from '../../../../lib/bible-books';
-import { formatVerses } from '../../../../lib/bible-format';
+import { formatVerses, filterDuplicateVerses } from '../../../../lib/bible-format';
 
 export async function getStaticPaths() {
   const allPericopes = await getCollection('biblia');
@@ -43,6 +43,9 @@ export async function getStaticPaths() {
 
 const { book: bookSlug } = Astro.params;
 const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
+
+// Track displayed verses to filter overlaps
+const displayedVerses = new Set<number>();
 ---
 
 <Base
@@ -56,29 +59,35 @@ const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
 
     <!-- Chapter separator -->
     <div class="flex flex-col items-center gap-2 py-6" data-chapter-marker={chapterNum}>
-      <div class="w-15 h-0.5 bg-primary/20 rounded-full"></div>
-      <h2 class="font-serif text-xl font-bold text-primary">Capitolul {chapterNum}</h2>
-      <div class="w-15 h-0.5 bg-primary/20 rounded-full"></div>
+      <div class="w-15 h-0.5 bg-primary/20 dark:bg-[#6366F1]/20 rounded-full"></div>
+      <h2 class="font-serif text-xl font-bold text-primary dark:text-[#6366F1]">Capitolul {chapterNum}</h2>
+      <div class="w-15 h-0.5 bg-primary/20 dark:bg-[#6366F1]/20 rounded-full"></div>
     </div>
 
     <!-- Pericopes -->
     <div class="space-y-4">
-      {chapterPericopes.map((pericope, i) => (
-        <section
-          class={`rounded-xl p-5 ${i % 2 === 0 ? 'bg-white border border-gray-200/50' : 'bg-primary/5 border border-primary/10'}`}
-          data-chapter={chapterNum}
-        >
-          <h3 class="text-xl font-bold mb-1 text-primary" style="font-family: 'Literata', serif;">
-            {pericope.data.pericope_title_ro}
-          </h3>
-          <div class="text-xs text-slate-600 mb-4">
-            Versetele {pericope.data.verses_start}&ndash;{pericope.data.verses_end}
-          </div>
-          <div class="prose prose-slate prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800 prose-strong:text-slate-900">
-            <div set:html={formatVerses(pericope.body)} style="font-family: 'Literata', serif; line-height: 1.8;" />
-          </div>
-        </section>
-      ))}
+      {chapterPericopes.map((pericope, i) => {
+        // Filter out duplicate verses, then format
+        const filteredBody = filterDuplicateVerses(pericope.body, displayedVerses);
+        const formattedVerses = formatVerses(filteredBody);
+
+        return (
+          <section
+            class={`rounded-xl p-5 ${i % 2 === 0 ? 'bg-white dark:bg-[#16161A] border border-gray-200/50 dark:border-[#2A2A2E]' : 'bg-primary/5 dark:bg-[#1A1A1E] border border-primary/10 dark:border-[#2A2A2E]'}`}
+            data-chapter={chapterNum}
+          >
+            <h3 class="text-xl font-bold mb-1 text-primary dark:text-[#FAFAF9]" style="font-family: 'Literata', serif;">
+              {pericope.data.pericope_title_ro}
+            </h3>
+            <div class="text-xs text-slate-600 dark:text-[#6B6B70] mb-4">
+              Versetele {pericope.data.verses_start}&ndash;{pericope.data.verses_end}
+            </div>
+            <div class="prose prose-slate dark:prose-invert prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800 dark:prose-p:text-[#FAFAF9] prose-strong:text-slate-900 dark:prose-strong:text-[#FAFAF9]">
+              <div set:html={formattedVerses} style="font-family: 'Literata', serif; line-height: 1.8;" />
+            </div>
+          </section>
+        );
+      })}
     </div>
 
     <!-- Sentinel for infinite scroll -->
@@ -86,14 +95,14 @@ const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
   </div>
 
   <!-- Custom bottom bar -->
-  <div class="fixed bottom-0 left-0 right-0 bg-[#FAFAFA] px-2 pt-3" style="padding-bottom: max(1.5rem, env(safe-area-inset-bottom));">
-    <div class="flex bg-white rounded-xl border border-gray-200 shadow-sm h-[54px] p-1 max-w-xl mx-auto">
-      <a href="/biblia" class="flex-1 flex items-center justify-center gap-1.5 rounded-lg text-gray-400">
+  <div class="fixed bottom-0 left-0 right-0 bg-[#FAFAFA] dark:bg-[#0B0B0E] px-2 pt-3" style="padding-bottom: max(1.5rem, env(safe-area-inset-bottom));">
+    <div class="flex bg-white dark:bg-[#1A1A1E] rounded-xl border border-gray-200 dark:border-[#2A2A2E] shadow-sm dark:shadow-[0_-4px_24px_rgba(0,0,0,0.25)] h-[54px] p-1 max-w-xl mx-auto">
+      <a href="/biblia" class="flex-1 flex items-center justify-center gap-1.5 rounded-lg text-gray-400 dark:text-[#6B6B70]">
         <span class="material-symbols-outlined text-lg">toc</span>
         <span class="text-[11px] font-semibold">Cuprins</span>
       </a>
       {bookMeta.tema_slug && (
-        <a href={`/teme/${bookMeta.tema_slug}`} class="flex-1 flex items-center justify-center gap-1.5 rounded-lg text-gray-400">
+        <a href={`/teme/${bookMeta.tema_slug}`} class="flex-1 flex items-center justify-center gap-1.5 rounded-lg text-gray-400 dark:text-[#6B6B70]">
           <span class="material-symbols-outlined text-lg">info</span>
           <span class="text-[11px] font-semibold">Află mai multe</span>
         </a>
@@ -142,9 +151,9 @@ const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
       // Build chapter separator
       const separatorHtml =
         '<div class="flex flex-col items-center gap-2 py-6" data-chapter-marker="' + data.chapterNum + '">' +
-          '<div class="w-15 h-0.5 bg-primary/20 rounded-full"></div>' +
-          '<h2 class="font-serif text-xl font-bold text-primary">Capitolul ' + data.chapterNum + '</h2>' +
-          '<div class="w-15 h-0.5 bg-primary/20 rounded-full"></div>' +
+          '<div class="w-15 h-0.5 bg-primary/20 dark:bg-[#6366F1]/20 rounded-full"></div>' +
+          '<h2 class="font-serif text-xl font-bold text-primary dark:text-[#6366F1]">Capitolul ' + data.chapterNum + '</h2>' +
+          '<div class="w-15 h-0.5 bg-primary/20 dark:bg-[#6366F1]/20 rounded-full"></div>' +
         '</div>';
 
       // Build pericopes with alternating backgrounds
@@ -154,18 +163,18 @@ const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
         const idx = globalPericopeIndex + i;
         const isEven = idx % 2 === 0;
         const bgClass = isEven
-          ? 'bg-white border border-gray-200/50'
-          : 'bg-primary/5 border border-primary/10';
+          ? 'bg-white dark:bg-[#16161A] border border-gray-200/50 dark:border-[#2A2A2E]'
+          : 'bg-primary/5 dark:bg-[#1A1A1E] border border-primary/10 dark:border-[#2A2A2E]';
 
         pericopesHtml +=
           '<section class="rounded-xl p-5 ' + bgClass + '" data-chapter="' + data.chapterNum + '">' +
-            '<h3 class="text-xl font-bold mb-1 text-primary" style="font-family: \'Literata\', serif;">' +
+            '<h3 class="text-xl font-bold mb-1 text-primary dark:text-[#FAFAF9]" style="font-family: \'Literata\', serif;">' +
               p.title +
             '</h3>' +
-            '<div class="text-xs text-slate-600 mb-4">' +
+            '<div class="text-xs text-slate-600 dark:text-[#6B6B70] mb-4">' +
               'Versetele ' + p.versesStart + '\u2013' + p.versesEnd +
             '</div>' +
-            '<div class="prose prose-slate prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800 prose-strong:text-slate-900">' +
+            '<div class="prose prose-slate dark:prose-invert prose-base max-w-none prose-p:leading-relaxed prose-p:text-slate-800 dark:prose-p:text-[#FAFAF9] prose-strong:text-slate-900 dark:prose-strong:text-[#FAFAF9]">' +
               '<div style="font-family: \'Literata\', serif; line-height: 1.8;">' + p.versesHtml + '</div>' +
             '</div>' +
           '</section>';
