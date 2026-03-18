@@ -54,7 +54,7 @@ Moare la Marsilia, în jurul anului 435. Moaștele sale sunt venerate la Mănăs
 7 cărți contra ereziei nestoriene, scrise la cererea arhidiaconului Leon (viitorul papă Leon cel Mare). Demonstrează unitatea Persoanei lui Hristos — Dumnezeu adevărat și Om adevărat.
 
 ### Sfinții Părinți despre Casian
-**Sfântul Benedict de Nursia** — recomandă explicit citirea Convorbirilor și Așezămintelor în Regula sa (cap. 73), făcând din Casian una dintre sursele fundamentale ale monahismului benedictin.
+**[[personalitati/benedict-de-nursia|Sfântul Benedict de Nursia]]** — recomandă explicit citirea Convorbirilor și Așezămintelor în Regula sa (cap. 73), făcând din Casian una dintre sursele fundamentale ale monahismului benedictin.
 **Sfântul [[personalitati/ioan-scararul|Ioan Scărarul]]** — „Scara Raiului" continuă și dezvoltă învățătura casiană despre patimi și virtuți.
 
 ## Contemporani și rude spirituale
@@ -71,7 +71,7 @@ Prietenul și tovarășul de drum al lui Casian din tinerețe. Împreună au tr�
 ### [[personalitati/ioan-scararul|Sfântul Ioan Scărarul]] (c. 579-649)
 Moștenitorul spiritual al lui Casian în sistematizarea vieții ascetice. „Scara Raiului" continuă și dezvoltă învățătura casiană despre cele opt patimi principale.
 
-### Sfântul Benedict de Nursia (c. 480-547)
+### [[personalitati/benedict-de-nursia|Sfântul Benedict de Nursia]] (c. 480-547)
 Deși a trăit la un secol după Casian, Sfântul Benedict a integrat în Regula sa învățătura casiană, făcând din opera lui Casian temelia monahismului apusean.
 
 ## Versete cheie

@@ -64,7 +64,7 @@ Predici rostite la Roma, accesibile și pline de învățătură practică.
 
 ## Contemporani și rude spirituale
 
-### Sfântul Benedict de Nursia (c. 480-547)
+### [[personalitati/benedict-de-nursia|Sfântul Benedict de Nursia]] (c. 480-547)
 Părintele monahismului apusean, a cărui viață a fost scrisă de Grigorie în Dialoguri. Grigorie a fost el însuși monah benedictin și a răspândit Regula benedictină.
 
 ### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)

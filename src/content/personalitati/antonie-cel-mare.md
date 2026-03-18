@@ -84,6 +84,9 @@ Ucenic spiritual al lui Antonie, întemeietorul comunității monahale din Sketi
 ### [[personalitati/vasile-cel-mare|Sfântul Vasile cel Mare]] (c. 330-379)
 Arhiepiscop al Cezareei Capadociei, care a vizitat centrele monahale din Egipt și a transformat modelul pustnicesc antoniar într-un monahism de obște structurat prin Regulile sale monahale.
 
+### [[personalitati/benedict-de-nursia|Sfântul Benedict de Nursia]] (c. 480-547)
+Întemeietorul monahismului benedictin, care a integrat în Regula sa tradiția monahală răsăriteană, influențat indirect de modelul pustnicesc al Sfântului Antonie transmis prin scrierile Părinților.
+
 ## Versete cheie
 
 - **Matei 19:21** — „Dacă voiești să fii desăvârșit, du-te, vinde averea ta, dă-o săracilor și vei avea comoară în cer; și vino de-Mi urmează Mie."
