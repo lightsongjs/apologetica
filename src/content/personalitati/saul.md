@@ -78,8 +78,8 @@ Fiul cel mai mare al lui Saul, prieten credincios al lui David: „sufletul lui 
 ### [[personalitati/goliat|Goliat]] (sec. XI î.Hr.)
 Uriașul filistean din Gat care a sfidat oastea lui Israel timp de patruzeci de zile. Nimeni din tabăra lui Saul nu a îndrăznit să-l înfrunte, subliniind neputința regelui și a oștirii sale în fața amenințării păgâne. Biruința lui David asupra lui Goliat a fost și o mustrare indirectă a lipsei de credință a lui Saul.
 
-### [[personalitati/avesalom|Avesalom]] (sec. X î.Hr.)
-Fiul rebel al lui David care s-a ridicat împotriva tatălui său, la fel cum Saul s-a ridicat împotriva lui Dumnezeu prin neascultare. Ambii au cunoscut un sfârșit tragic — Saul pe Muntele Ghilboa, Avesalom în Pădurea [[personalitati/efraim|Efraim]] — ilustrând consecințele mândriei și ale răzvrătirii împotriva autorității rânduite de Dumnezeu.
+### [[personalitati/abesalom|Abesalom]] (sec. X î.Hr.)
+Fiul rebel al lui David care s-a ridicat împotriva tatălui său, la fel cum Saul s-a ridicat împotriva lui Dumnezeu prin neascultare. Ambii au cunoscut un sfârșit tragic — Saul pe Muntele Ghilboa, Abesalom în Pădurea [[personalitati/efraim|Efraim]] — ilustrând consecințele mândriei și ale răzvrătirii împotriva autorității rânduite de Dumnezeu.
 
 ### [[personalitati/mefiboset|Mefiboșet]] (sec. X î.Hr.)
 Nepotul lui Saul, fiul lui Ionatan, rămas șchiop la căderea casei regale de pe Muntele Ghilboa. Bunătatea pe care David i-a arătat-o lui Mefiboșet, pentru dragostea față de Ionatan, contrastează cu relația tensionată dintre David și Saul. Mefiboșet poartă în trupul său urmele prăbușirii regatului bunicului său.

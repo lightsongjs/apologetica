@@ -48,7 +48,7 @@ Bunicul care l-a adoptat și l-a binecuvântat cu dreapta.
 Regele Israelului care a inițiat Războiul Siro-Efraimitic, numit după seminția lui Efraim, seminția dominantă a Regatului de Nord.
 
 ### [[personalitati/saul|Regele Saul]] (c. 1050-1010 î.Hr.)
-Primul rege al lui Israel, din seminția lui [[personalitati/veniamin|Veniamin]]. Fiul rebel al lui David, [[personalitati/avesalom|Avesalom]], a cunoscut sfârșitul în Pădurea Efraim (2 Regi 18:6).
+Primul rege al lui Israel, din seminția lui [[personalitati/veniamin|Veniamin]]. Fiul rebel al lui David, [[personalitati/abesalom|Abesalom]], a cunoscut sfârșitul în Pădurea Efraim (2 Regi 18:6).
 
 ## Versete cheie
 

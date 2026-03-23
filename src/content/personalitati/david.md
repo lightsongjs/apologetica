@@ -90,14 +90,14 @@ Fiul cel mare al lui Saul și cel mai drag prieten al lui David — „sufletul 
 ### [[personalitati/purtatorul-de-arme-al-lui-saul|Purtătorul de arme al lui Saul]] (†c. 1010 î.Hr.)
 Scutierul anonim care a murit pe Muntele Ghilboa alături de Saul. Contrastul cu David este semnificativ: purtătorul de arme a ales moartea din frică și loialitate față de un rege lepădat de Dumnezeu, în vreme ce David a ales viața și credința în Dumnezeul cel viu.
 
-### [[personalitati/avesalom|Avesalom]] (†c. 971 î.Hr.)
-Al treilea fiu al lui David, de o frumusețe fără seamăn, care s-a răsculat împotriva tatălui său și s-a proclamat rege la Hebron. Rebeliunea lui Avesalom este consecința directă a profeției lui Natan — „Sabia nu se va depărta de casa ta" (2 Regi 12:10). Jalea lui David la moartea lui — „O, de aș fi murit eu în locul tău!" — este una dintre cele mai sfâșietoare expresii ale iubirii părintești din Scriptură.
+### [[personalitati/abesalom|Abesalom]] (†c. 971 î.Hr.)
+Al treilea fiu al lui David, de o frumusețe fără seamăn, care s-a răsculat împotriva tatălui său și s-a proclamat rege la Hebron. Rebeliunea lui Abesalom este consecința directă a profeției lui Natan — „Sabia nu se va depărta de casa ta" (2 Regi 12:10). Jalea lui David la moartea lui — „O, de aș fi murit eu în locul tău!" — este una dintre cele mai sfâșietoare expresii ale iubirii părintești din Scriptură.
 
 ### [[personalitati/simei|Șimei]] (sec. X î.Hr.)
-Om din seminția lui [[personalitati/veniamin|Veniamin]], din casa lui Saul, care l-a blestemat pe David în timpul fugii din fața lui Avesalom, aruncând cu pietre și strigând: „Du-te, omule al sângelui!" David a refuzat să permită uciderea lui, primind blestemul cu smerenie ca pe o îngăduință a lui Dumnezeu — una dintre cele mai înalte expresii de nepătimire din Vechiul Testament.
+Om din seminția lui [[personalitati/veniamin|Veniamin]], din casa lui Saul, care l-a blestemat pe David în timpul fugii din fața lui Abesalom, aruncând cu pietre și strigând: „Du-te, omule al sângelui!" David a refuzat să permită uciderea lui, primind blestemul cu smerenie ca pe o îngăduință a lui Dumnezeu — una dintre cele mai înalte expresii de nepătimire din Vechiul Testament.
 
 ### [[personalitati/adonija|Adonija]] (†c. 970 î.Hr.)
-Al patrulea fiu al lui David, care a încercat să uzurpe tronul spre sfârșitul vieții tatălui său. Scriptura notează că David „nu-l înfruntase niciodată" (3 Regi 1:6) — o lipsă de disciplină paternă care a pregătit căderea fiului. Adonija repetă tragedia lui Avesalom, arătând că păcatele lui David au produs consecințe în propria casă.
+Al patrulea fiu al lui David, care a încercat să uzurpe tronul spre sfârșitul vieții tatălui său. Scriptura notează că David „nu-l înfruntase niciodată" (3 Regi 1:6) — o lipsă de disciplină paternă care a pregătit căderea fiului. Adonija repetă tragedia lui Abesalom, arătând că păcatele lui David au produs consecințe în propria casă.
 
 ### [[personalitati/isaia|Sfântul Proroc Isaia]] (sec. VIII î.Hr.)
 Profetizează despre „Odrasla lui Iesei" (Isaia 11:1) și despre Regele din neamul lui David — profeții mesianice care continuă Legământul davidic.

@@ -71,8 +71,8 @@ Profetul care l-a uns pe Saul și care a vestit că Dumnezeu va da regatul altui
 ### [[personalitati/mefiboset|Mefiboșet]] (sec. X î.Hr.)
 Fiul lui Ionatan, rămas șchiop la căderea din brațele doicii la vestea morții tatălui său pe Muntele Ghilboa. Regele David l-a căutat și l-a primit la masa regală din dragoste pentru Ionatan — împlinind astfel legământul de credință dintre cei doi prieteni.
 
-### [[personalitati/avesalom|Avesalom]] (sec. X î.Hr.)
-Fiul rebel al lui David, a cărui răscoală contra tatălui său a zguduit regatul. Contrast izbitor cu Ionatan: în vreme ce Ionatan a renunțat la tron cu smerenie în favoarea celui ales de Dumnezeu, Avesalom a uzurpat tronul propriului tată din mândrie și ambiție neînfrânată.
+### [[personalitati/abesalom|Abesalom]] (sec. X î.Hr.)
+Fiul rebel al lui David, a cărui răscoală contra tatălui său a zguduit regatul. Contrast izbitor cu Ionatan: în vreme ce Ionatan a renunțat la tron cu smerenie în favoarea celui ales de Dumnezeu, Abesalom a uzurpat tronul propriului tată din mândrie și ambiție neînfrânată.
 
 ## Versete cheie
 
