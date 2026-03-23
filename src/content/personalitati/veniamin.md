@@ -57,6 +57,15 @@ Mama sa, care a murit dându-i naștere. „Ben-Oni" (Fiul durerii) a fost ultim
 ### [[personalitati/iosif-patriarhul|Sfântul Patriarh Iosif]] (c. 1860 î.Hr.)
 Singurul său frate din aceeași mamă. Când l-a văzut în Egipt, Iosif „a căutat unde să plângă" (Facerea 43:30).
 
+### [[personalitati/iuda-patriarhul|Iuda Patriarhul]] (c. 1865 î.Hr.)
+Fratele mai mare care și-a dat chezășie pentru Veniamin și s-a oferit să rămână rob în locul lui înaintea lui Iosif: „Să rămână robul tău în locul băiatului" (Facerea 44:33). Jertfirea de sine a lui Iuda pentru Veniamin este modelul pocăinței autentice care transformă un om.
+
+### [[personalitati/david|Sfântul Proroc și Rege David]] (c. 1040-970 î.Hr.)
+Din seminția lui Veniamin a venit regele [[personalitati/saul|Saul]], dar și apostolul Pavel. [[personalitati/david|David]] a respectat seminția lui Veniamin chiar și în conflict cu casa lui [[personalitati/saul|Saul]].
+
+### [[personalitati/efraim|Efraim]] (c. 1715 î.Hr.)
+Fratele lui [[personalitati/manase-patriarhul|Manase]], fiul lui [[personalitati/iosif-patriarhul|Iosif]]. Seminția lui Efraim a devenit cea mai puternică din Regatul de Nord, iar numele „Efraim" a ajuns sinonim cu Israelul de Nord.
+
 ## Versete cheie
 
 - **Facerea 35:18** — „Pe când sufletul ei ieșea — căci murea — i-a pus numele Ben-Oni, dar tatăl său l-a numit Veniamin."

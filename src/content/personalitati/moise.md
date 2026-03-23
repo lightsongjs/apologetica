@@ -78,6 +78,9 @@ Sora lui Moise și a lui Aaron, proorocița care a condus cântarea femeilor dup
 ### Ietro (Raguel)
 Socrul lui Moise, preotul din Madian. L-a sfătuit pe Moise să numească judecători peste popor pentru a ușura povara conducerii (Ieșirea 18).
 
+### [[personalitati/balaam|Balaam]] (sec. XIII î.Hr.)
+Profetul păgân chemat de regele Balac al Moabului să blesteme Israel. Dumnezeu a prefăcut blestemul în binecuvântare, iar Balaam a rostit profeția mesianică: „O stea va răsări din Iacov" (Numeri 24:17). Cu toate acestea, Balaam a dat sfatul viclean care a provocat căderea Israelului la Baal-Peor. Moise a condamnat apostazia și l-a amintit pe Balaam în cuvântările sale (Deuteronom 23:4-5).
+
 ### [[personalitati/samuel|Sfântul Proroc Samuel]] (sec. XI î.Hr.)
 Ultimul judecător și primul mare profet după Moise. Samuel a continuat rolul lui Moise de mijlocitor între Dumnezeu și popor, judecând pe Israel și chemându-l la pocăință. Psalmul 98:6 îi menționează pe Moise și Samuel împreună ca mari mijlocitori ai lui Israel.
 

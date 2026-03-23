@@ -72,11 +72,32 @@ Genealogia lui David, organizarea cultului, pregătirea Templului.
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 „Fiul lui David" (Matei 1:1) — moștenitorul Legământului veșnic. Hristos Însuși citează Psalmii lui David și îi interpretează mesianic (Matei 22:43-44).
 
+### [[personalitati/boaz|Boaz]] (sec. XII-XI î.Hr.)
+Strămoșul lui David, soțul Rutei moabiteanca și goel (răscumpărător de neam) din Betleem. Prin Boaz și Rut s-a născut Obed, tatăl lui Iesei, tatăl lui David — linia mesianică din care S-a întrupat Hristos. Bunătatea și dreptatea lui Boaz prefigurează pe Hristos, Răscumpărătorul întregii omeniri.
+
 ### [[personalitati/samuel|Sfântul Proroc Samuel]] (sec. XI î.Hr.)
 Cel care l-a uns pe David rege, alegându-l pe cel mai mic dintre fii: „Omul privește la înfățișare, dar Domnul privește la inimă."
 
 ### [[personalitati/saul|Regele Saul]] (c. 1050-1010 î.Hr.)
 Primul rege al lui Israel. David a fost muzicianul, războinicul și ginerele lui Saul, dar și proscrisul pe care Saul l-a urmărit. David nu și-a ridicat niciodată mâna asupra „unsului Domnului."
+
+### [[personalitati/goliat|Goliat]] (sec. XI î.Hr.)
+Uriașul filistean din Gat pe care tânărul David l-a ucis cu praștia și cu o piatră, în numele Domnului Savaot. Biruința asupra lui Goliat a fost prima mare manifestare a vocației regale a lui David și prefigurare patristică a biruinței lui Hristos asupra diavolului și a morții.
+
+### [[personalitati/ionatan|Ionatan]] (†c. 1010 î.Hr.)
+Fiul cel mare al lui Saul și cel mai drag prieten al lui David — „sufletul lui Ionatan s-a legat de sufletul lui David" (1 Regi 18:1). Ionatan a renunțat la dreptul său la tron recunoscând alegerea divină a lui David și l-a apărat de mânia tatălui său cu prețul propriei vieți. Prietenia lor este modelul suprem al prieteniei dezinteresate în Tradiția ortodoxă.
+
+### [[personalitati/purtatorul-de-arme-al-lui-saul|Purtătorul de arme al lui Saul]] (†c. 1010 î.Hr.)
+Scutierul anonim care a murit pe Muntele Ghilboa alături de Saul. Contrastul cu David este semnificativ: purtătorul de arme a ales moartea din frică și loialitate față de un rege lepădat de Dumnezeu, în vreme ce David a ales viața și credința în Dumnezeul cel viu.
+
+### [[personalitati/avesalom|Avesalom]] (†c. 971 î.Hr.)
+Al treilea fiu al lui David, de o frumusețe fără seamăn, care s-a răsculat împotriva tatălui său și s-a proclamat rege la Hebron. Rebeliunea lui Avesalom este consecința directă a profeției lui Natan — „Sabia nu se va depărta de casa ta" (2 Regi 12:10). Jalea lui David la moartea lui — „O, de aș fi murit eu în locul tău!" — este una dintre cele mai sfâșietoare expresii ale iubirii părintești din Scriptură.
+
+### [[personalitati/simei|Șimei]] (sec. X î.Hr.)
+Om din seminția lui [[personalitati/veniamin|Veniamin]], din casa lui Saul, care l-a blestemat pe David în timpul fugii din fața lui Avesalom, aruncând cu pietre și strigând: „Du-te, omule al sângelui!" David a refuzat să permită uciderea lui, primind blestemul cu smerenie ca pe o îngăduință a lui Dumnezeu — una dintre cele mai înalte expresii de nepătimire din Vechiul Testament.
+
+### [[personalitati/adonija|Adonija]] (†c. 970 î.Hr.)
+Al patrulea fiu al lui David, care a încercat să uzurpe tronul spre sfârșitul vieții tatălui său. Scriptura notează că David „nu-l înfruntase niciodată" (3 Regi 1:6) — o lipsă de disciplină paternă care a pregătit căderea fiului. Adonija repetă tragedia lui Avesalom, arătând că păcatele lui David au produs consecințe în propria casă.
 
 ### [[personalitati/isaia|Sfântul Proroc Isaia]] (sec. VIII î.Hr.)
 Profetizează despre „Odrasla lui Iesei" (Isaia 11:1) și despre Regele din neamul lui David — profeții mesianice care continuă Legământul davidic.
@@ -87,6 +108,9 @@ Legislatorul prin care a venit Legea. David completează pe Moise: dacă Moise a
 ### [[personalitati/solomon|Regele Solomon]] (c. 970-931 î.Hr.)
 Fiul și moștenitorul lui David, cel care a zidit Templul Domnului pe care David l-a pregătit. Solomon a primit înțelepciunea, dar nu și credincioșia tatălui său.
 
+### [[personalitati/rut|Sfânta Rut]] (sec. XII-XI î.Hr.)
+Străbunica lui David, moabiteanca primită în poporul lui Dumnezeu prin credință și dragoste. Din căsătoria ei cu Boaz s-a născut Obed, tatăl lui Iesei, tatăl lui David — astfel o păgână a intrat în linia mesianică din care S-a întrupat Hristos.
+
 ### [[personalitati/ieroboam|Regele Ieroboam I]] (c. 931-910 î.Hr.)
 Primul rege al Regatului de Nord, care a rupt cele zece seminții de la casa lui David. Ieroboam a primit o promisiune condiționată similară cu Legământul davidic, dar nu a păzit-o.
 
@@ -95,6 +119,9 @@ Cea mai mare amenințare la adresa dinastiei davidice. A ucis toată sămânța 
 
 ### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
 În cuvântarea din fața Sinedriului (Faptele Apostolilor 7:45-46), Ștefan evocă pe David ca cel care „a aflat har înaintea lui Dumnezeu și a cerut să găsească locuință Dumnezeului lui Iacob" — subliniind dorința lui David de a zidi un Templu pentru Domnul.
+
+### [[personalitati/mefiboset|Mefiboșet]] (sec. X î.Hr.)
+Fiul lui Ionatan și nepotul regelui Saul, pe care David l-a chemat la curtea sa din dragoste pentru prietenul său Ionatan. David i-a redat moșiile lui Saul și l-a primit la masa sa regală pentru totdeauna — unul dintre cele mai luminoase gesturi de bunătate din istoria Regilor (2 Regi 9).
 
 ## Versete cheie
 

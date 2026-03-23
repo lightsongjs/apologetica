@@ -44,6 +44,12 @@ Fratele său mai mare, care a primit binecuvântarea secundară.
 ### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov]] (c. 1800 î.Hr.)
 Bunicul care l-a adoptat și l-a binecuvântat cu dreapta.
 
+### [[personalitati/pecah|Regele Pecah]] (c. 742-732 î.Hr.)
+Regele Israelului care a inițiat Războiul Siro-Efraimitic, numit după seminția lui Efraim, seminția dominantă a Regatului de Nord.
+
+### [[personalitati/saul|Regele Saul]] (c. 1050-1010 î.Hr.)
+Primul rege al lui Israel, din seminția lui [[personalitati/veniamin|Veniamin]]. Fiul rebel al lui David, [[personalitati/avesalom|Avesalom]], a cunoscut sfârșitul în Pădurea Efraim (2 Regi 18:6).
+
 ## Versete cheie
 
 - **Facerea 41:52** — „Dumnezeu m-a făcut roditor în țara necazului meu."

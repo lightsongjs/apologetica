@@ -77,7 +77,7 @@ Pavel nu atacă pe Ismael ca persoană, ci folosește povestea ca tipologie: Ism
 ### [[personalitati/avraam|Sfântul Patriarh Avraam]] (c. 2000 î.Hr.)
 Tatăl său, care l-a iubit și s-a rugat: „O, de ar trăi Ismael înaintea Ta!" (Facerea 17:18).
 
-### Agar (c. 2010 î.Hr.)
+### [[personalitati/agar|Agar]] (c. 2010 î.Hr.)
 Mama sa, roaba egipteancă a Sarrei, care a fugit în pustie și a fost salvată de înger.
 
 ### [[personalitati/sarra|Sfânta Matriarhă Sarra]] (c. 2080 î.Hr.)
@@ -85,6 +85,9 @@ Stăpâna Agarei, care a cerut alungarea lui Ismael pentru a proteja moștenirea
 
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 1975 î.Hr.)
 Fratele său vitreg, fiul făgăduinței, prin care a fost Legământul. Au îngropat împreună pe tatăl lor.
+
+### [[personalitati/lot|Lot]] (epoca patriarhală)
+Vărul tatălui său, nepotul lui Avraam. Contemporan al lui Ismael în vremea vieții comune a familiei patriarhale din Canaan, înainte de despărțirea lui Lot spre Sodoma.
 
 ## Versete cheie
 

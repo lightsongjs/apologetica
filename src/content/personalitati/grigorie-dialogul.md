@@ -70,6 +70,9 @@ Părintele monahismului apusean, a cărui viață a fost scrisă de Grigorie în
 ### [[personalitati/ioan-gura-de-aur|Sfântul Ioan Gură de Aur]] (c. 347-407)
 Predecesorul spiritual în arta predicii și a pastoralei. „Despre preoție" al Hrisostomului a inspirat „Regula pastorală" a lui Grigorie.
 
+### [[personalitati/iov|Sfântul Drept Iov]] (sec. XX-XV î.Hr.)
+Subiectul „Moraliilor la Iov" — cel mai amplu comentariu patristic la o singură carte biblică, în 35 de cărți. Grigorie a scris această operă ca monah, găsind în Iov un model pentru propria sa suferință și viață contemplativă. Interpretarea literală, alegorică și morală a Cărții lui Iov a modelat înțelegerea patristică a tainei suferinței nevinovate.
+
 ### Sfântul Augustin de Canterbury (†604)
 Monahul trimis de Grigorie în 596 să evanghelizeze Anglia. Misiunea sa a fondat Biserica engleză — una dintre cele mai importante misiuni din istoria creștinismului.
 

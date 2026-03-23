@@ -86,6 +86,9 @@ Soțul ei, care a iubit-o mai puțin decât pe Rahela, dar și-a găsit odihna f
 ### [[personalitati/rahela|Sfânta Matriarhă Rahela]]
 Sora ei mai mică, rivala ei în iubire, dar parteneră în zidirea celor douăsprezece seminții.
 
+### [[personalitati/iuda-patriarhul|Iuda Patriarhul]] (c. 1865 î.Hr.)
+Al patrulea fiu al Leei, al cărui nume înseamnă „Laudă" — pentru prima dată, Lea nu a cerut iubirea soțului, ci a lăudat pe Dumnezeu (Facerea 29:35). Din seminția lui Iuda au ieșit regii lui Israel și Hristos Însuși.
+
 ## Versete cheie
 
 - **Facerea 29:25** — „Dimineața, iată că era Lea!"

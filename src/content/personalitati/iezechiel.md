@@ -59,6 +59,9 @@ Viziunea unui Templu perfect, cu un râu de viață care curge de sub prag — p
 ### [[personalitati/ieremia|Profetul Ieremia]] (c. 650-570 î.Hr.)
 Contemporan mai în vârstă, a rămas în Ierusalim în timp ce Iezechiel era în exil. Amândoi au profețit distrugerea Templului, dar din locuri diferite.
 
+### [[personalitati/iov|Sfântul Drept Iov]] (sec. XX-XV î.Hr.)
+Invocat de Iezechiel alături de Noe și Daniel ca prototip al dreptății desăvârșite (Iezechiel 14:14, 20). Iezechiel cunoaște tradiția lui Iov ca pe un reper absolut al sfinților Vechiului Testament — singurii care, prin dreptatea lor, ar putea salva un pământ păcătos.
+
 ### [[personalitati/daniel|Profetul Daniel]] (sec. VI î.Hr.)
 Contemporan în exilul babilonian, deși la curtea regală, nu printre exilați. Iezechiel îl menționează ca exemplu de dreptate alături de Noe și Iov (Iezechiel 14:14).
 
@@ -70,6 +73,9 @@ Ultimul rege legitim al lui Iuda, deportat împreună cu Iezechiel. Exilații da
 
 ### [[personalitati/sedechia|Regele Sedechia]] (597-586 î.Hr.)
 Ultimul rege al lui Iuda. Iezechiel a prorocit despre soarta sa: „Îl voi duce la Babilon, dar n-o va vedea" (Iezechiel 12:13).
+
+### [[personalitati/noe|Sfântul Drept Noe]]
+Menționat de Iezechiel alături de Iov și Daniel ca prototip al dreptății desăvârșite: „chiar dacă ar fi în mijlocul ei Noe, Daniel și Iov, ei și-ar mântui numai sufletul lor prin dreptatea lor" (Iezechiel 14:14).
 
 ## Versete cheie din epistolele sale
 

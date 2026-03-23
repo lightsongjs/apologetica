@@ -59,6 +59,9 @@ Cel Care a folosit exemplul lui Noe ca avertisment escatologic (Matei 24:37). Co
 ### [[personalitati/avraam|Sfântul Patriarh Avraam]] (c. 2000 î.Hr.)
 Moștenitorul spiritual al lui Noe. Dacă Noe a primit Legământul universal (pentru toată omenirea), Avraam a primit Legământul particular (pentru poporul ales), care se va desăvârși în Hristos.
 
+### [[personalitati/iov|Sfântul Drept Iov]] (sec. XX-XV î.Hr.)
+Menționat alături de Noe în [[personalitati/iezechiel|Iezechiel]] 14:14 ca prototip al dreptului desăvârșit. Amândoi au trecut prin catastrofe totale — Noe prin potopul lumii, Iov prin ruina personală — și amândoi au ieșit biruitori prin credință și ascultare necondiționată față de Dumnezeu.
+
 ### [[personalitati/moise|Sfântul Proroc Moise]] (sec. XIII î.Hr.)
 Precum Noe a salvat omenirea prin apă, Moise a salvat Israelul prin apa Mării Roșii. Ambele treceri prin apă sunt tipuri ale Botezului.
 

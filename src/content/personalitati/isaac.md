@@ -71,7 +71,10 @@ Fiul său, care a primit binecuvântarea și a devenit tatăl celor douăsprezec
 Fiul său mai mare, geamănul lui Iacov, care a vândut dreptul de întâi-născut pentru o farfurie de linte.
 
 ### [[personalitati/ismael|Ismael]] (c. 1990-1853 î.Hr.)
-Fratele său vitreg, fiul lui Avraam cu Agar. Deși nu moștenitorul Legământului, a fost binecuvântat de Dumnezeu.
+Fratele său vitreg, fiul lui Avraam cu [[personalitati/agar|Agar]]. Deși nu moștenitorul Legământului, a fost binecuvântat de Dumnezeu.
+
+### [[personalitati/lot|Lot]] (epoca patriarhală)
+Vărul său, nepotul lui Avraam. Deși nu există o relație directă consemnată între Isaac și Lot în Scriptură, amândoi fac parte din prima generație a patriarhilor care au trăit în Canaan.
 
 ## Versete cheie
 

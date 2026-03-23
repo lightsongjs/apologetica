@@ -52,11 +52,17 @@ Ilie a fost înălțat la cer în carul de foc la începutul domniei lui Ioram (
 ### [[personalitati/ahazia-al-lui-israel|Regele Ahazia al lui Israel]] (c. 853-852 î.Hr.)
 Fratele lui Ioram, care a domnit doi ani înaintea sa. Ambii fii ai lui Ahab au continuat idolatria părintească.
 
+### [[personalitati/iezabel|Iezabel]] (sec. IX î.Hr.)
+Mama lui Ioram, prințesă feniciană, care a introdus cultul lui Baal în Israel. Deși Ioram a îndepărtat stâlpul lui Baal ridicat de tatăl său, nu s-a depărtat pe deplin de influența casei părintești. Când [[personalitati/iehu|Iehu]] a venit la Izreel, Iezabel încă trăia la palat — ambii, mamă și fiu, au pierit în aceeași zi sub judecata divină.
+
 ### [[personalitati/ahab|Regele Ahab]] (c. 874-853 î.Hr.)
 Tatăl lui Ioram, ale cărui păcate au determinat judecata care s-a împlinit în uciderea lui Ioram.
 
 ### [[personalitati/iehu|Regele Iehu]] (c. 841-814 î.Hr.)
 Ucigașul lui Ioram și noul rege, instrument al judecății divine asupra casei lui [[personalitati/omri|Omri]].
+
+### [[personalitati/naaman|Naaman Sirianul]] (sec. IX î.Hr.)
+Generalul sirian vindecat de lepră în timpul domniei lui Ioram, când [[personalitati/elisei|Elisei]] l-a trimis să se scalde de șapte ori în Iordan. Scrisoarea regelui Siriei către Ioram, cerând vindecarea lui Naaman, l-a îngrozit pe rege, care a crezut că era o provocare de război (4 Regi 5:7).
 
 ## Versete cheie
 

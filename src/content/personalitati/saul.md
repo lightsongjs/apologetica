@@ -72,8 +72,23 @@ Cel care l-a uns pe Saul și tot el l-a respins din porunca lui Dumnezeu. Relaț
 ### [[personalitati/david|Sfântul Proroc și Rege David]] (c. 1040-970 î.Hr.)
 Ginerele lui Saul și moștenitorul tronului ales de Dumnezeu. David a fost muzicianul care alina duhul rău al lui Saul, războinicul care l-a ucis pe Goliat, și proscrisul pe care Saul l-a urmărit ani de zile. David nu l-a ucis pe Saul, cinstind în el ungerea Domnului.
 
-### Ionatan (sec. XI î.Hr.)
+### [[personalitati/ionatan|Ionatan]] (sec. XI î.Hr.)
 Fiul cel mai mare al lui Saul, prieten credincios al lui David: „sufletul lui Ionatan s-a legat de sufletul lui David" (1 Regi 18:1). A ales prietenia cu David peste loialitatea față de tatăl său, recunoscând planul lui Dumnezeu.
+
+### [[personalitati/goliat|Goliat]] (sec. XI î.Hr.)
+Uriașul filistean din Gat care a sfidat oastea lui Israel timp de patruzeci de zile. Nimeni din tabăra lui Saul nu a îndrăznit să-l înfrunte, subliniind neputința regelui și a oștirii sale în fața amenințării păgâne. Biruința lui David asupra lui Goliat a fost și o mustrare indirectă a lipsei de credință a lui Saul.
+
+### [[personalitati/avesalom|Avesalom]] (sec. X î.Hr.)
+Fiul rebel al lui David care s-a ridicat împotriva tatălui său, la fel cum Saul s-a ridicat împotriva lui Dumnezeu prin neascultare. Ambii au cunoscut un sfârșit tragic — Saul pe Muntele Ghilboa, Avesalom în Pădurea [[personalitati/efraim|Efraim]] — ilustrând consecințele mândriei și ale răzvrătirii împotriva autorității rânduite de Dumnezeu.
+
+### [[personalitati/mefiboset|Mefiboșet]] (sec. X î.Hr.)
+Nepotul lui Saul, fiul lui Ionatan, rămas șchiop la căderea casei regale de pe Muntele Ghilboa. Bunătatea pe care David i-a arătat-o lui Mefiboșet, pentru dragostea față de Ionatan, contrastează cu relația tensionată dintre David și Saul. Mefiboșet poartă în trupul său urmele prăbușirii regatului bunicului său.
+
+### [[personalitati/purtatorul-de-arme-al-lui-saul|Purtătorul de arme al lui Saul]] (sec. XI î.Hr.)
+Scutierul anonim care l-a însoțit pe Saul până în ultimele clipe de viață, pe Muntele Ghilboa. A refuzat din frică să-l ucidă pe rege la cererea acestuia, dar după sinuciderea lui Saul s-a aruncat și el în sabie, murind alături de stăpânul său — mărturie a loialității absolute față de un rege lepădat de Dumnezeu.
+
+### [[personalitati/veniamin|Veniamin]] (c. 1843 î.Hr.)
+Strămoșul seminției din care a provenit Saul. Seminția lui Veniamin, deși cea mai mică, a dat primul rege al lui Israel.
 
 ## Versete cheie
 

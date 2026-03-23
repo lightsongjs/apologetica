@@ -75,7 +75,7 @@ Hristos Însuși îl menționează pe Elisei: „Și mulți leproși erau în Is
 ### Ghehazi
 Slujitorul lui Elisei, care l-a însoțit în multe minuni, dar a căzut prin lăcomie când a cerut daruri de la Neeman vindecatul, în pofida refuzului lui Elisei. A fost lovit de lepra lui Neeman (4 Regi 5:20-27).
 
-### Neeman Sirianul
+### [[personalitati/naaman|Naaman Sirianul]] (sec. IX î.Hr.)
 Comandantul armatei Siriei, vindecat de lepră prin cuvântul lui Elisei. Convertirea lui este un semn al universalității harului divin, invocat de Hristos Însuși (Luca 4:27).
 
 ### [[personalitati/ahab|Regele Ahab]] (c. 874-853 î.Hr.)

@@ -56,7 +56,7 @@ Confirmă cucerirea teritoriilor nordice ale Israelului și deportarea populați
 Atacul lui Pecah asupra Ierusalimului este contextul direct al profeției Emanuelului (Isaia 7:14). Isaia l-a descris pe Pecah cu dispreț: „o coadă de tăciune fumegând" (Isaia 7:4). Amenințarea lui Pecah a fost ocazia uneia dintre cele mai mari revelații mesianice din Vechiul Testament.
 
 ### [[personalitati/osea|Sfântul Proroc Osea]]
-Osea profețește în aceeași perioadă, denunțând alianțele politice ca formă de necredință: „Efraim este ca o turturică prostită... Cheamă Egiptul, aleargă la Asiria" (Osea 7:11).
+Osea profețește în aceeași perioadă, denunțând alianțele politice ca formă de necredință: „[[personalitati/efraim|Efraim]] este ca o turturică prostită... Cheamă Egiptul, aleargă la Asiria" (Osea 7:11).
 
 ### [[personalitati/ahaz|Regele Ahaz al lui Iuda]] (c. 736-726 î.Hr.)
 Ținta atacului lui Pecah. Ahaz a ales să cheme Asiria în ajutor — o decizie cu consecințe dezastruoase pe termen lung, dar care a salvat Ierusalimul pe termen scurt.

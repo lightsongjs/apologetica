@@ -85,6 +85,9 @@ Evocat de Ștefan (Faptele Apostolilor 7:45-46) ca cel care „a aflat har înai
 ### [[personalitati/solomon|Regele Solomon]]
 Menționat în cuvântarea lui Ștefan (Faptele Apostolilor 7:47) ca ziditorul Templului, dar cu sublinierea că „Cel Preaînalt nu locuiește în temple făcute de mâini" (7:48).
 
+### [[personalitati/sfantul-drept-iosif|Sfântul Drept Iosif]] (sec. I)
+Logodnicul Fecioarei Maria, păzitorul tainei Întrupării. În cuvântarea din fața Sinedriului (Faptele Apostolilor 7:9-16), Ștefan evocă pe patriarhul Iosif — vândut de frații săi în Egipt, dar înălțat de Dumnezeu — ca exemplu al celui respins dar înălțat, prefigurând pe Hristos Cel respins de poporul Său.
+
 ## Versete cheie
 
 - **Faptele Apostolilor 6:5** — „Și au ales pe Ștefan, bărbat plin de credință și de Duh Sfânt..."

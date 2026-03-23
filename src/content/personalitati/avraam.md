@@ -76,8 +76,14 @@ Fiul făgăduinței, pe care l-a adus la jertfă pe Moria. Isaac este tipul lui 
 ### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov/Israel]] (c. 1800 î.Hr.)
 Nepotul său, tatăl celor douăsprezece seminții, care a continuat Legământul.
 
+### [[personalitati/agar|Agar]] (c. 2010 î.Hr.)
+Roaba egipteancă a Sarrei, dăruită lui Avraam ca soție secundară. Mama lui Ismael. Prima femeie din Scriptură care a primit o vizitație angelică directă și care I-a dat lui Dumnezeu un nume — El Roi, „Dumnezeul Care mă vede" (Facerea 16:13).
+
 ### [[personalitati/ismael|Ismael]] (c. 1990-1853 î.Hr.)
 Fiul său cu roaba Agar. Deși nu moștenitorul Legământului, a fost binecuvântat de Dumnezeu: „L-am binecuvântat și-l voi face roditor... El va naște doisprezece voievozi" (Facerea 17:20).
+
+### [[personalitati/iov|Sfântul Drept Iov]] (sec. XX-XV î.Hr.)
+Contemporan probabil sau din aceeași epocă patriarhală. Ca și Avraam în jertfirea lui Isaac, Iov a trecut printr-o încercare absolută a credinței. Ambii au acceptat voia lui Dumnezeu fără a înțelege rațional și ambii au primit înapoi ceea ce pierduseră — restaurarea lui Iov oglindind restituirea lui Isaac.
 
 ### [[personalitati/noe|Sfântul Patriarh Noe]] (pre-Avraam)
 Dreptul care a salvat omenirea prin arcă. Legământul lui Dumnezeu cu Noe (Facerea 9) prefigurează și pregătește Legământul cu Avraam — de la salvarea universală la alegerea unui neam.
@@ -90,6 +96,9 @@ Marele interpret teologic al lui Avraam: credința lui Avraam ca model al justif
 
 ### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
 În cuvântarea sa din fața Sinedriului (Faptele Apostolilor 7:2-8), Ștefan începe recapitularea istoriei mântuirii cu chemarea lui Avraam din Mesopotamia, legământul circumciziunii și nașterea lui Isaac — arătând că Dumnezeu a lucrat prin credința patriarhului mult înainte de existența Templului.
+
+### [[personalitati/lot|Lot]] (epoca patriarhală)
+Nepotul lui Avraam, fiul lui Haran, care a plecat împreună cu el din Ur și a peregrinat în Canaan. Avraam i-a dat dreptul de a alege pământul, l-a salvat din captivitate prin campanie militară și a mijlocit pentru Sodoma la rugul lui Dumnezeu. Contrastul dintre cei doi arată diferența dintre credința care urmează pe Dumnezeu și alegerea care urmează ochii trupului.
 
 ## Versete cheie
 

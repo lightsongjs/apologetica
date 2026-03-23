@@ -86,16 +86,16 @@ Text apocrif deuterocanonic (acceptat în unele canoane ortodoxe), atribuit trad
 Tatăl său, rege drept și reformator, care a curățit Templul și a distrus înălțimile. Contrastul dramatic: tatăl cel mai evlavios, fiul cel mai rău.
 
 ### [[personalitati/isaia|Profetul Isaia]] (c. 740-686 î.Hr.)
-Consilierul spiritual al lui Ezechia. Tradiția spune că Manase l-a martirizat, tăindu-l cu fierăstrăul.
+Consilierul spiritual al lui Ezechia. Tradiția spune că [[personalitati/manase-regele|Manase]] l-a martirizat, tăindu-l cu fierăstrăul.
 
 ### [[personalitati/ieremia|Profetul Ieremia]] (c. 627-586 î.Hr.)
-S-a născut în ultimii ani ai lui Manase. A prorocit că păcatele lui Manase vor aduce exilul (Ieremia 15:4).
+S-a născut în ultimii ani ai lui [[personalitati/manase-regele|Manase]]. A prorocit că păcatele lui [[personalitati/manase-regele|Manase]] vor aduce exilul (Ieremia 15:4).
 
 ### [[personalitati/amon|Regele Amon]] (642-640 î.Hr.)
 Fiul său, rege rău care a continuat idolatria fără pocăință. Asasinat după 2 ani.
 
 ### [[personalitati/iosia|Regele Iosia]] (640-609 î.Hr.)
-Nepotul său, ultimul mare reformator, care a curățat Iudeea de toate urmele idolatriei introduse de Manase.
+Nepotul său, ultimul mare reformator, care a curățat Iudeea de toate urmele idolatriei introduse de [[personalitati/manase-regele|Manase]].
 
 ## Versete cheie
 

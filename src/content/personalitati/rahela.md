@@ -83,7 +83,7 @@ Soțul ei, care a iubit-o mai presus de orice: „Iacov a slujit pentru Rahela �
 ### [[personalitati/iosif-patriarhul|Sfântul Patriarh Iosif]] (c. 1860 î.Hr.)
 Primul ei fiu, născut după ani de sterilitate, cel mai iubit fiu al lui Iacov, tipul lui Hristos.
 
-### Veniamin (c. 1843 î.Hr.)
+### [[personalitati/veniamin|Veniamin]] (c. 1843 î.Hr.)
 Al doilea ei fiu, pentru care și-a dat viața, ultimul dintre cei doisprezece fii ai lui Iacov.
 
 ### [[personalitati/lea|Sfânta Matriarhă Lea]]

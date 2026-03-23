@@ -87,6 +87,12 @@ Judecătorul galaaditul care a eliberat Israelul de amoniți. Samuel îl mențio
 ### [[personalitati/samson|Samson]]
 Ultimul mare Judecător dinaintea lui Samuel, nazireu din seminția lui Dan, care a luptat contra filistenilor. Samuel a preluat conducerea spirituală a Israelului după epoca lui Samson.
 
+### [[personalitati/boaz|Boaz]] (sec. XII-XI î.Hr.)
+Proprietarul evlavios din Betleem care a răscumpărat-o pe Rut moabiteanca și a devenit strămoșul lui David. Boaz este contemporan aproximativ cu sfârșitul epocii judecătorilor, iar Samuel este cel care va unge pe David, strănepotul lui Boaz, ca rege al lui Israel.
+
+### [[personalitati/ionatan|Ionatan]] (sec. XI î.Hr.)
+Fiul cel mai mare al regelui Saul și războinic viteaz. Ionatan a trăit sub umbra profeției lui Samuel că Dumnezeu va lua regatul de la Saul și îl va da altuia. A acceptat cu smerenie planul divin, recunoscând în David pe cel ales de Dumnezeu, și a căzut alături de tatăl său pe Muntele Ghilboa.
+
 ## Versete cheie
 
 **1 Regi 3:9-10** — „Vorbește, Doamne, că robul Tău ascultă."

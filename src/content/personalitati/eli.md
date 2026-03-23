@@ -47,6 +47,9 @@ Mama lui Samuel, care l-a adus pe copil la Șilo și l-a încredințat lui Eli.
 ### [[personalitati/samson|Samson]]
 Contemporan. Samson judeca în sud-vest (contra filistenilor), iar Eli conducea cultul la Șilo în centru.
 
+### [[personalitati/adonija|Adonija]] (sec. X î.Hr.)
+Fiul lui David care a uzurpat tronul cu sprijinul preotului Abiatar. [[personalitati/solomon|Solomon]] l-a exilat pe Abiatar la Anatot, împlinind astfel profeția despre casa lui Eli — că preoția va fi luată din mâna urmașilor săi din cauza nevrednicie fiilor săi (1 Regi 2:27).
+
 ## Versete cheie
 
 - **1 Regi 2:12** — „Iar fiii lui Eli erau fii ai lui Belial, care nu cunoșteau pe Domnul."

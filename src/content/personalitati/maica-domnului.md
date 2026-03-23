@@ -116,6 +116,9 @@ Evanghelistul care a consemnat cel mai detaliat viața Maicii Domnului: Buna Ves
 ### [[personalitati/petru|Sfântul Apostol Petru]] (†c. 64-68)
 Corifeu al apostolilor, prezent alături de Maica Domnului în comunitatea primară din Ierusalim.
 
+### [[personalitati/iosif-patriarhul|Sfântul Patriarh Iosif]] (c. 1700 î.Hr.)
+Fiul lui Iacov și al Rahelei, vizir al Egiptului, unul dintre cele mai clare tipuri ale lui Hristos din Vechiul Testament. Durerea lui Iacov la pierderea lui Iosif prefigurează durerea Maicii Domnului la picioarele Crucii.
+
 ## Versete cheie
 
 - **Luca 1:28** — „Bucură-te, ceea ce ești plină de har, Domnul este cu tine! Binecuvântată ești tu între femei."

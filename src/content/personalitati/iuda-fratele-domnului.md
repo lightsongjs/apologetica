@@ -58,6 +58,9 @@ Fratele său, menționat alături de el în Matei 13:55.
 ### [[personalitati/simon-fratele-domnului|Sfântul Simon, fratele Domnului]] (†c. 107)
 Fratele său, al doilea episcop al Ierusalimului.
 
+### [[personalitati/balaam|Balaam]] (sec. XIII î.Hr.)
+Profetul păgân pe care Iuda îl citează în epistola sa ca exemplu al corupției spirituale prin iubire de câștig: „S-au rătăcit în rătăcirea lui Balaam" (Iuda 1:11). Alături de Cain și Core, Balaam este un avertisment pentru învățătorii mincinoși care pervertesc harul lui Dumnezeu.
+
 ## Versete cheie
 
 - **Iuda 1:1** — „Iuda, rob al lui Iisus Hristos și frate al lui Iacov, celor chemați, care sunt iubiți întru Dumnezeu-Tatăl și păziți pentru Iisus Hristos."

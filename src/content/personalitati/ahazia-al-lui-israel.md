@@ -39,6 +39,9 @@ Narațiunea despre domnia scurtă, boala, trimiterea la Baal-Zebub și moartea.
 ### [[personalitati/ahab|Regele Ahab]] (c. 874-853 î.Hr.)
 Tatăl lui Ahazia, de la care a moștenit atât tronul, cât și idolatria.
 
+### [[personalitati/iezabel|Iezabel]] (sec. IX î.Hr.)
+Mama lui Ahazia, prințesă feniciană și soția lui [[personalitati/ahab|Ahab]]. Ahazia a continuat idolatria introdusă de ea în Israel, slujind lui Baal „întocmai cum făcuse tatăl său" (3 Regi 22:54). Influența ei spirituală distrugătoare s-a transmis fiului, care a murit sub judecata profetică a lui [[personalitati/ilie|Ilie]].
+
 ### [[personalitati/ilie|Sfântul Proroc Ilie Tesviteanul]]
 Profetul care i-a vestit moartea și a chemat foc din cer asupra soldaților trimiși să-l aresteze.
 

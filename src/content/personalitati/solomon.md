@@ -64,8 +64,20 @@ Fiul lui Solomon, sub care regatul s-a scindat din cauza idolatriei lui Solomon.
 ### [[personalitati/ieroboam|Regele Ieroboam I]] (c. 931-910 î.Hr.)
 Slujitorul lui Solomon care a primit profeția lui Ahia despre stăpânirea peste zece seminții. Solomon a căutat să-l ucidă, iar Ieroboam a fugit în Egipt. După moartea lui Solomon, a devenit primul rege al Regatului de Nord.
 
+### [[personalitati/adonija|Adonija]] (sec. X î.Hr.)
+Al patrulea fiu al lui David, care a încercat să uzurpe tronul spre sfârșitul vieții tatălui său. Solomon, uns la porunca lui David prin intervenția profetului Natan, l-a iertat inițial, dar l-a executat după ce Adonija a cerut mâna Abișagei Sunameancei — cerere interpretată ca o nouă revendicare a puterii regale.
+
+### [[personalitati/avesalom|Avesalom]] (sec. X î.Hr.)
+Fratele vitreg al lui Solomon, fiul lui David din Maaca, care s-a răsculat împotriva tatălui său și a pierit prins cu părul în ramurile unui stejar. Tragedia lui Avesalom și a lui Adonija arată că tronul lui Israel nu era drept de primogenitură, ci alegere divină — iar Solomon a fost cel ales de Dumnezeu.
+
 ### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
 În cuvântarea sa din fața Sinedriului (Faptele Apostolilor 7:47), Ștefan menționează că „Solomon I-a zidit Lui casă", dar subliniază imediat că „Cel Preaînalt nu locuiește în temple făcute de mâini" — arătând că Templul lui Solomon, oricât de măreț, nu putea cuprinde pe Dumnezeu.
+
+### [[personalitati/eli|Eli]] (sec. XI î.Hr.)
+Mare Preot la Șilo și judecător al lui Israel. Profeția rostită împotriva casei lui Eli — că preoția va fi luată de la urmașii săi — s-a împlinit în timpul lui Solomon, când acesta l-a exilat pe Abiatar (ultimul preot din linia lui Eli) la Anatot, pentru că îl sprijinise pe [[personalitati/adonija|Adonija]] în uzurparea tronului (3 Regi 2:27).
+
+### [[personalitati/simei|Șimei]] (sec. X î.Hr.)
+Bărbat din casa primei dinastii regale care l-a blestemat pe regele-psalmist în timpul fugii din fața lui Avesalom. Pe patul morții, tatăl lui Solomon l-a sfătuit să nu-l lase nepedepsit pe Șimei. Solomon i-a impus arest la domiciliu în Ierusalim, iar când Șimei a încălcat condiția, l-a executat prin Benaia (3 Regi 2:36-46).
 
 ## Versete cheie
 

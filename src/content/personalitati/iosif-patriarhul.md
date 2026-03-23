@@ -97,6 +97,9 @@ Fratele care a propus vânzarea lui în loc de ucidere (Facerea 37:26-27). Mai t
 ### [[personalitati/manase-patriarhul|Manase]] și [[personalitati/efraim|Efraim]]
 Cei doi fii ai lui Iosif, adoptați de [[personalitati/iacov-patriarhul|Iacov]] ca fii proprii, primind locul de seminții ale lui Israel. [[personalitati/iacov-patriarhul|Iacov]] i-a binecuvântat încrucișat, punând dreapta pe Efraim, cel mai tânăr (Facerea 48:14).
 
+### [[personalitati/stefan-intaiul-mucenic|Sfântul Ștefan, Întâiul Mucenic]] (†c. 34 d.Hr.)
+În cuvântarea din fața Sinedriului (Faptele Apostolilor 7:9-16), Ștefan evocă pe patriarhul Iosif ca exemplu al celui respins de frații săi dar înălțat de Dumnezeu — prefigurare a lui Hristos Cel respins de poporul Său.
+
 ## Versete cheie
 
 - **Facerea 37:28** — „Și au vândut pe Iosif ismailiților cu douăzeci de arginți."

@@ -78,8 +78,8 @@ Rege drept al lui Iuda, contemporan al lui Ilie, care a însoțit pe Ahab la Ram
 ### [[personalitati/ioram-al-lui-iuda|Regele Ioram al lui Iuda]] (c. 848-841 î.Hr.)
 Rege rău al lui Iuda, căruia Ilie i-a trimis o scrisoare de judecată (2 Paralipomena 21:12-15) — ultimul act profetic consemnat al lui Ilie.
 
-### Regina Izabela
-Prințesă feniciană, soția lui Ahab, care a impus cultul lui Baal în Israel și i-a ucis pe profeții Domnului. A fost cea mai înverșunată dușmană a lui Ilie.
+### [[personalitati/iezabel|Iezabel]] (sec. IX î.Hr.)
+Prințesă feniciană, soția lui [[personalitati/ahab|Ahab]], care a impus cultul lui Baal în Israel și a ucis pe profeții Domnului. A fost cea mai înverșunată dușmană a lui Ilie — după biruința de pe Carmel, a jurat să-l ucidă, provocându-i fuga la Horeb. Moartea ei, mâncată de câini la Izreel, a împlinit exact profeția rostită de Ilie.
 
 ### Sfântul Proroc Obadia (majordomul lui Ahab)
 Slujitorul temător de Dumnezeu al lui Ahab, care a ascuns 100 de profeți ai Domnului în peșteri, hrănindu-i cu pâine și apă, în timp ce Izabela îi persecuta (3 Regi 18:3-4).
@@ -89,6 +89,9 @@ Deși au trăit la secole distanță, ultimele cuvinte ale Vechiului Testament (
 
 ### [[personalitati/iisus-hristos|Domnul nostru Iisus Hristos]]
 Cel pentru Care a pregătit calea prin duhul și puterea sa, transmise [[personalitati/ioan-botezatorul|Înaintemergătorului]]. S-a arătat alături de [[personalitati/moise|Moise]] la Schimbarea la Față pe Tabor, mărturisind dumnezeirea lui Hristos (Matei 17:3).
+
+### [[personalitati/naaman|Naaman Sirianul]] (sec. IX î.Hr.)
+Generalul sirian vindecat de lepră prin cuvântul ucenicului lui Ilie, [[personalitati/elisei|Elisei]]. Hristos menționează împreună pe Ilie (la văduva din Sarepta) și pe Elisei (la Naaman) în predica de la Nazaret (Luca 4:25-27), arătând universalitatea harului divin.
 
 ## Versete cheie
 

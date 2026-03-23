@@ -79,6 +79,9 @@ Moștenitorul în teologia mariologică. Imnele mariologice ale lui Efrem pregă
 ### Sfântul Iacob al Nisibisului (†338)
 Episcopul care l-a format pe Efrem, participant la Sinodul de la Niceea. Iacob este figura paternă a vieții duhovnicești a lui Efrem.
 
+### [[personalitati/iov|Sfântul Drept Iov]]
+Efrem a compus poezie și meditații asupra suferinței lui Iov în tradiția siriacă, explorând prin imagini poetice taina răbdării nevinovatului. Ca și în celelalte scrieri ale sale, Efrem nu explică suferința prin argumente, ci o cântă — transformând agonia lui Iov în imn de nădejde și încredere în Dumnezeu.
+
 ### [[personalitati/efrem-cel-nou|Sfântul Efrem cel Nou]] (†1426)
 Sfânt neomartiric care poartă numele Sfântului Efrem Sirul. Deși despărțiți de un mileniu, amândoi au trăit o viață de asceză profundă și au mărturisit pe Hristos prin suferință — Efrem Sirul în slujirea celor bolnavi, Efrem cel Nou prin martiriul sub ocupația otomană.
 

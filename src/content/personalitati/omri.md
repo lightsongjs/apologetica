@@ -67,6 +67,9 @@ Executorul judecății divine asupra dinastiei lui Omri. A nimicit toată casa l
 ### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Condamnă retrospectiv „hotărârile lui Omri" (Miheia 6:16) ca simbol al idolatriei instituționalizate.
 
+### [[personalitati/iezabel|Iezabel]] (sec. IX î.Hr.)
+Nora lui Omri, soția fiului său Ahab. Căsătoria lui Ahab cu Iezabel a fost cel mai dezastruos moștenire al dinastiei lui Omri, aducând cultul lui Baal în Israel.
+
 ## Versete cheie
 
 - **3 Regi 16:24** — „Și a cumpărat muntele Samariei de la Șemer cu doi talanți de argint, și a zidit pe munte, și a numit cetatea pe care a zidit-o Samaria, după numele lui Șemer, stăpânul muntelui."

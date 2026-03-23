@@ -45,6 +45,9 @@ Atalia a fost cea mai mare amenințare la adresa dinastiei davidice. Dar Dumneze
 ### [[personalitati/ahazia-al-lui-iuda|Regele Ahazia al lui Iuda]] (c. 841 î.Hr.)
 Fiul Ataliei, ucis de [[personalitati/iehu|Iehu]] împreună cu casa lui [[personalitati/ahab|Ahab]]. Moartea lui a declanșat uzurparea Ataliei.
 
+### [[personalitati/iezabel|Iezabel]] (sec. IX î.Hr.)
+Mama (sau bunica) Ataliei, regina care a impus cultul lui Baal în Regatul de Nord. Atalia a reprodus în Iuda exact modelul Iezabelei din Israel: a introdus idolatria lui Baal, a ridicat templu păgân și a persecutat credincioșii. Ambele au pierit în mod violent, sub judecata divină.
+
 ### [[personalitati/ioram-al-lui-iuda|Regele Ioram al lui Iuda]] (c. 848-841 î.Hr.)
 Soțul Ataliei, rege rău al lui Iuda care a umblat pe căile casei lui Ahab sub influența ei.
 

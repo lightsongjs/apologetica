@@ -70,8 +70,8 @@ Ucenicul lui Ilie, chemat în timpul domniei lui Ahab (3 Regi 19:19-21). Elisei 
 ### [[personalitati/omri|Regele Omri]] (c. 885-874 î.Hr.)
 Tatăl lui Ahab, fondatorul dinastiei. Ahab a dus mai departe și a amplificat idolatria instituită de Omri.
 
-### Izabela, fiica lui Etbaal
-Soția lui Ahab, principala promotoare a cultului lui Baal în Israel. Forța ei diabolică a dominat pe slabul Ahab. Va muri aruncată de la fereastră din porunca lui [[personalitati/iehu|Iehu]], mâncată de câini, după profeția lui Ilie.
+### [[personalitati/iezabel|Iezabel]] (sec. IX î.Hr.)
+Soția lui Ahab, prințesă feniciană, fiica lui Etbaal, regele Sidonului, și principala promotoare a cultului lui Baal în Israel. Forța ei de dominare spirituală l-a amăgit pe Ahab, determinându-l să facă „ce este rău înaintea Domnului, mai mult decât toți cei dinaintea lui" (3 Regi 16:30). A fost aruncată de la fereastră din porunca lui [[personalitati/iehu|Iehu]] și mâncată de câini, după profeția lui [[personalitati/ilie|Ilie]].
 
 ### [[personalitati/ahazia-al-lui-israel|Regele Ahazia al lui Israel]] (c. 853-852 î.Hr.)
 Fiul lui Ahab, care i-a urmat la tron și a continuat idolatria, dar a domnit doar doi ani.

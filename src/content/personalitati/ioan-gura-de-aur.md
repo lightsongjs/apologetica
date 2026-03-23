@@ -87,6 +87,9 @@ Cea mai apropiată colaboratoare și fiică duhovnicească, căreia i-a adresat 
 ### [[personalitati/grigorie-dialogul|Sfântul Grigorie Dialogul]] (c. 540-604)
 Papa Romei, autorul Liturghiei Darurilor Mai Înainte Sfințite. „Regula pastorală" a lui Grigorie este inspirată de tratatul „Despre preoție" al Hrisostomului.
 
+### [[personalitati/iov|Sfântul Drept Iov]]
+Hrisostom a dedicat omilii răbdării lui Iov, prezentându-l ca model suprem pentru creștinii aflați în suferință și persecuție. Cuvântările sale la Cartea lui Iov subliniază că dreptul nu slujește lui Dumnezeu pentru răsplată, ci din iubire curată — lecție pe care Hrisostom însuși a trăit-o în exilurile sale.
+
 ### [[personalitati/anania-si-safira|Anania și Safira]]
 Hrisostom comentează episodul din Faptele Apostolilor 5:1-11 în omiliile sale la Fapte, explicând că pedeapsa nu a fost disproporționată, ci pedagogică — menită să protejeze tânăra Biserică de corupția morală încă de la început.
 

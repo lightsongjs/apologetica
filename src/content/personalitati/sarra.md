@@ -71,6 +71,15 @@ Soțul ei, cu care a împărțit chemarea, pribegiile și făgăduința. Relați
 ### [[personalitati/isaac|Sfântul Patriarh Isaac]] (c. 1974 î.Hr.)
 Fiul ei, născut prin minune la 90 de ani. „Fiul făgăduinței", prin care s-a împlinit promisiunea divină.
 
+### [[personalitati/agar|Agar]] (c. 2010 î.Hr.)
+Roaba ei egipteancă, dăruită lui Avraam ca soție secundară. Mama lui Ismael. Relația lor, marcată de tensiune și suferință, este tipologizată de Pavel ca imagine a celor două legăminte — Legea (Agar) și Harul (Sarra).
+
+### [[personalitati/ismael|Ismael]] (c. 1990-1853 î.Hr.)
+Fiul lui Avraam cu Agar, fratele vitreg al lui Isaac. Sarra a cerut alungarea lui împreună cu Agar, pentru a proteja moștenirea lui Isaac: „Nu va moșteni fiul roabei împreună cu fiul meu" (Facerea 21:10). Dumnezeu a confirmat cererea Sarrei (21:12).
+
+### [[personalitati/lot|Lot]] (epoca patriarhală)
+Nepotul soțului ei, care a călătorit împreună cu Avraam și Sarra din Ur în Canaan. Prezent în peregrinările comune ale familiei patriarhale, până la despărțirea de la Betel, când Lot a ales câmpia Iordanului și s-a mutat spre Sodoma.
+
 ## Versete cheie
 
 - **Facerea 17:15-16** — „Numelui Sarai, femeia ta, să nu-i mai zici Sarai, ci numele ei să fie Sarra. O voi binecuvânta și îți voi da și din ea un fiu; o voi binecuvânta și va fi maica neamurilor."

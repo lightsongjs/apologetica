@@ -187,6 +187,12 @@ Tâlharul eliberat în locul lui Hristos — imaginea schimbului soteriologic: C
 ### [[personalitati/abel|Dreptul Abel]]
 Primul martir, al cărui sânge „strigă din pământ" (Facerea 4:10), dar sângele lui Hristos „grăiește mai bine decât al lui Abel" (Evrei 12:24).
 
+### [[personalitati/iosif-patriarhul|Sfântul Patriarh Iosif]] (c. 1745-1635 î.Hr.)
+Unul dintre cele mai complete tipuri ale lui Hristos din Vechiul Testament: iubit de tatăl său, urât de frații săi, vândut pentru arginți, suferind nedrept, înălțat la putere, mântuitorul care iartă și hrănește. „Voi ați cugetat rău împotriva mea, dar Dumnezeu a prefăcut în bine" (Facerea 50:20).
+
+### [[personalitati/iov|Sfântul Drept Iov]] (sec. XX-XV î.Hr.)
+Dreptul mult-răbdător care a prefigurat Patimile lui Hristos prin suferința sa nevinovată. Profeția sa „Știu că Răscumpărătorul meu este viu" (Iov 19:25) este o vestire a Învierii. Citirile din Cartea lui Iov în Săptămâna Patimilor subliniază tipologia: în agonia Golgotei răsună întrebările lui Iov, dar acolo primesc răspuns definitiv.
+
 ### [[personalitati/iacov-patriarhul|Sfântul Patriarh Iacov/Israel]] (c. 1800 î.Hr.)
 Tatăl celor douăsprezece seminții, care a profetizat: „Nu se va depărta sceptrul de la Iuda... până va veni Șilo" (Facerea 49:10).
 
@@ -285,6 +291,9 @@ Marele legiuitor al Vechiului Testament, care a profetizat despre Hristos: „Pr
 
 ### [[personalitati/stefan-intaiul-mucenic|Sfântul Arhidiacon Ștefan]] (†c. 33)
 Primul mucenic al Bisericii, care L-a văzut pe Hristos stând de-a dreapta lui Dumnezeu în momentul morții sale: „Iată, văd cerurile deschise și pe Fiul Omului stând de-a dreapta lui Dumnezeu!" (Faptele Apostolilor 7:56). Rugăciunea lui Ștefan — „Doamne, nu le socoti lor păcatul acesta" — oglindește rugăciunea lui Hristos de pe Cruce.
+
+### [[personalitati/rut|Sfânta Rut]] (sec. XII-XI î.Hr.)
+Moabiteanca primită în poporul lui Dumnezeu prin credință și dragoste, inclusă în genealogia Mântuitorului (Matei 1:5). Prin ea, sângele neamurilor se împletește cu linia mesianică a lui Israel — semn că mântuirea este pentru toate popoarele.
 
 ## Versete cheie
 

@@ -89,6 +89,9 @@ Monahul care a descoperit-o pe Maria Egipteanca în pustie și a transmis povest
 ### [[personalitati/maria-egipteanca|Sfânta Maria Egipteanca]] (†c. 421)
 Deși Maria a trăit cu secole înainte de Andrei, el i se atribuie redactarea sau popularizarea narațiunii despre viața sa, care este citită în timpul cântării Marelui Canon în Joia din Săptămâna a V-a a Postului Mare.
 
+### [[personalitati/avesalom|Avesalom]] (sec. X î.Hr.)
+Fiul rebel al regelui David, pomenit de Sfântul Andrei în Canonul cel Mare ca pildă de cădere prin frumusețe trupească și mândrie neînfrânată. Părul lui Avesalom — semnul vanității sale — i-a pricinuit moartea, iar Andrei folosește acest chip pentru a îndemna pe credincios la pocăință.
+
 ## Versete cheie din epistolele sale
 
 **Marele Canon, Cântarea 1** — „De unde să încep să plâng faptele vieții mele celei de mult păcătoase? Ce temelie voi pune, Hristoase, pentru această plângere de acum?"

@@ -34,6 +34,9 @@ Tatăl său, care i-a pus numele „Cel care face să uiț" — semn al vindecă
 ### [[personalitati/efraim|Efraim]] (c. 1713 î.Hr.)
 Fratele său mai mic, binecuvântat cu mâna dreaptă de [[personalitati/iacov-patriarhul|Iacov]] — ambii adoptați ca fii ai patriarhului.
 
+### [[personalitati/veniamin|Veniamin]] (c. 1843 î.Hr.)
+Unchiul său, cel mai mic fiu al lui [[personalitati/iacov-patriarhul|Iacov]], fratele lui [[personalitati/iosif-patriarhul|Iosif]].
+
 ## Versete cheie
 
 - **Facerea 41:51** — „Dumnezeu m-a făcut să uit toate necazurile mele și toată casa tatălui meu."

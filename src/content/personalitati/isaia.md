@@ -66,7 +66,7 @@ Regele din a cărui seminție a profetizat Isaia despre „Odrasla lui Iesei" (I
 Unul dintre cei mai evlavioși regi ai lui Iuda. Isaia l-a sfătuit în timpul invaziei asiriene și i-a transmis vindecarea de la Dumnezeu când era bolnav de moarte (Isaia 38).
 
 ### [[personalitati/manase-regele|Regele Manase]] (697-642 î.Hr.)
-Fiul lui Iezechia, care a domnit după el și, conform tradiției, l-a martirizat pe Isaia, tăindu-l cu fierăstrăul de lemn. Contrastul între evlavia lui Iezechia și idolatria lui Manase este dramatic - iar Isaia a plătit cu viața pentru credincioșia sa profetică.
+Fiul lui Iezechia, care a domnit după el și, conform tradiției, l-a martirizat pe Isaia, tăindu-l cu fierăstrăul de lemn. Contrastul între evlavia lui Iezechia și idolatria lui [[personalitati/manase-regele|Manase]] este dramatic - iar Isaia a plătit cu viața pentru credincioșia sa profetică.
 
 ### [[personalitati/miheia|Profetul Miheia]] (sec. VIII î.Hr.)
 Contemporan cu Isaia, a profețit în aceeași perioadă. Miheia a prezis nașterea lui Mesia în Betleem (Miheia 5:2).

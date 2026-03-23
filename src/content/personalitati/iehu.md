@@ -76,6 +76,9 @@ Cel care a trimis tânărul profet să-l ungă pe Iehu. Elisei a fost instrument
 ### [[personalitati/ilie|Sfântul Proroc Ilie Tesviteanul]]
 Deși înălțat la cer înainte de domnia lui Iehu, Ilie a fost cel care a profețit nimicirea casei lui [[personalitati/ahab|Ahab]]. Iehu este executorul profeției lui Ilie.
 
+### [[personalitati/iezabel|Iezabel]] (sec. IX î.Hr.)
+Soția lui [[personalitati/ahab|Ahab]], regina idolatră care a impus cultul lui Baal în Israel. Iehu a poruncit eunucilor să o arunce de la fereastra palatului din Izreel, iar câinii i-au mâncat trupul — împlinind profeția lui [[personalitati/ilie|Ilie]] (4 Regi 9:30-37).
+
 ### [[personalitati/ahab|Regele Ahab]] (c. 874-853 î.Hr.)
 Regele a cărui casă a nimicit-o Iehu. Tot ce a construit Ahab în materie de idolatrie a fost distrus de Iehu.
 
@@ -102,6 +105,9 @@ Asasinul lui [[personalitati/zaharia-al-lui-israel|Zaharia al lui Israel]], cel 
 
 ### [[personalitati/osea|Profetul Osea]] (sec. VIII î.Hr.)
 Profetul care condamnă retrospectiv violența excesivă a lui Iehu: „Voi pedepsi casa lui Iehu pentru sângele din Izreel."
+
+### [[personalitati/naaman|Naaman Sirianul]] (sec. IX î.Hr.)
+Generalul sirian vindecat de lepră prin cuvântul lui [[personalitati/elisei|Elisei]], profetul activ în perioada în care Iehu a domnit peste Israel. Vindecarea lui Naaman a avut loc în proximitatea temporală a domniei lui Iehu, în contextul conflictelor dintre Israel și Siria.
 
 ## Versete cheie
 

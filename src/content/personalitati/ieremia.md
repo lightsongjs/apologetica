@@ -62,6 +62,9 @@ Contemporan mai tânăr, deportat în Babilon în 597 î.Hr. Iezechiel a profeț
 ### [[personalitati/sofonie|Profetul Sofonie]] (sec. VII î.Hr.)
 Contemporan cu Ieremia, a profețit în Iuda în timpul domniei lui Iosia. Mesajul său central este „Ziua Domnului" — o zi de judecată universală, dar și de restaurare pentru cei smeriți. Amândoi au predicat chemând poporul la pocăință.
 
+### [[personalitati/iov|Sfântul Drept Iov]] (sec. XX-XV î.Hr.)
+Cel mai apropiat paralel spiritual al lui Ieremia în Vechiul Testament. Și Ieremia a blestemat ziua nașterii sale în agonie (Ieremia 20:14-18), ca și Iov (Iov 3). Amândoi au plâns și s-au rugat din adâncul suferinței, mărturisind că durerea dreaptă nu neagă prezența lui Dumnezeu, ci o adâncește.
+
 ### [[personalitati/daniel|Profetul Daniel]] (sec. VI î.Hr.)
 Contemporan mai tânăr, deportat în Babilon în 605 î.Hr. Daniel a slujit la curtea regilor babilonieni și a primit viziuni apocaliptice despre cursul istoriei universale, în timp ce Ieremia profețea în Iuda și apoi în Egipt.
 
@@ -69,7 +72,7 @@ Contemporan mai tânăr, deportat în Babilon în 605 î.Hr. Daniel a slujit la 
 Tovarăși ai lui Daniel în exilul babilonian. Ieremia a profețit exilul pe care acești tineri credincioși l-au trăit direct. Credincioșia lor în cuptor împlinește chemarea lui Ieremia la perseverență în credință chiar și în mijlocul judecății.
 
 ### [[personalitati/manase-regele|Regele Manase]] (697-642 î.Hr.)
-Ieremia s-ar fi născut în timpul târziei domnii a lui Manase sau sub fiul acestuia, [[personalitati/amon|Amon]]. Păcatele lui Manase — idolatria extremă și vărsarea de sânge nevinovat — erau încă proaspete în memoria colectivă și au contribuit la căderea finală a Ierusalimului pe care Ieremia a profețit-o.
+Ieremia s-ar fi născut în timpul târziei domnii a lui [[personalitati/manase-regele|Manase]] sau sub fiul acestuia, [[personalitati/amon|Amon]]. Păcatele lui [[personalitati/manase-regele|Manase]] — idolatria extremă și vărsarea de sânge nevinovat — erau încă proaspete în memoria colectivă și au contribuit la căderea finală a Ierusalimului pe care Ieremia a profețit-o.
 
 ### [[personalitati/avacum|Profetul Avacum (Habacuc)]] (sec. VII î.Hr.)
 Contemporan cu Ieremia, a pus întrebări îndrăznețe lui Dumnezeu despre nedreptate și suferință, primind răspunsul: „Cel drept va trăi prin credința sa" (Avacum 2:4).
