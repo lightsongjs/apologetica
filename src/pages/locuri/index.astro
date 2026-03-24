@@ -6,117 +6,182 @@ const locuri = await getCollection('locuri');
 const sorted = locuri.sort((a, b) => {
   return a.data.name.localeCompare(b.data.name, 'ro');
 });
+
+const BATCH_SIZE = 50;
+const initial = sorted.slice(0, BATCH_SIZE);
+const remaining = sorted.slice(BATCH_SIZE).map(l => ({
+  slug: l.id.replace('.md', ''),
+  name: l.data.name,
+  title: l.data.title,
+  image: l.data.image,
+}));
 ---
 
-<Base title="Locuri Biblice" headerTitle="Locuri Biblice" backHref="/" activeNav="home" activeTab="locuri">
+<Base title="Locuri Biblice" headerTitle="Apologetica" backHref="/" activeNav="home" activeTab="locuri">
   <!-- Search Bar -->
-  <div class="mb-4 opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
-    <div class="relative">
-      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-primary/40 text-xl">search</span>
+  <div class="mb-6 flex flex-col items-center">
+    <div class="relative w-full">
+      <span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-lg">search</span>
       <input
         type="text"
         id="search-input"
         placeholder="Caută locuri..."
-        class="w-full pl-11 pr-11 py-3 rounded-xl border border-primary/20 bg-white focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
+        class="w-full bg-slate-50 dark:bg-[#1A1A1E] border border-slate-200 dark:border-[#2A2A2E] rounded-xl py-2 pl-10 pr-10 text-xs focus:ring-1 focus:ring-primary/20 focus:border-primary/30 focus:bg-white dark:focus:bg-[#16161A] transition-all placeholder:text-slate-400"
       />
-      <button id="search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-primary/40 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors">
-        <span class="material-symbols-outlined text-xl">close</span>
+      <button id="search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors">
+        <span class="material-symbols-outlined text-lg">close</span>
       </button>
     </div>
   </div>
 
-  <!-- Cards Grid -->
-  <div id="cards-grid" class="grid grid-cols-1 gap-2">
-    {sorted.map((l, i) => {
+  <!-- Cards List -->
+  <div id="cards-grid" class="grid grid-cols-1 gap-3">
+    {initial.map((l) => {
       const slug = l.id.replace('.md', '');
       return (
         <a
           href={`/locuri/${slug}`}
-          class="item-card group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3 opacity-0"
-          style={`animation: fadeIn 0.4s ease-out ${(i + 1) * 0.05}s forwards;`}
+          class="item-card flex bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-lg overflow-hidden hover:shadow-md transition-shadow duration-300"
           data-name={l.data.name.toLowerCase()}
           data-title={l.data.title.toLowerCase()}
         >
-          <!-- Image -->
-          <div
-            class="w-10 h-10 flex-shrink-0 bg-cover bg-center rounded-lg border-2 border-primary/20 group-hover:border-primary/40 transition-all duration-300"
-            style={`background-image: url("${l.data.image}")`}
-          />
-
-          <!-- Content -->
-          <div class="flex-1 min-w-0">
-            <h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">{l.data.name}</h3>
-            <p class="text-xs text-primary/60 truncate italic">{l.data.title}</p>
+          <div class="w-[80px] h-[80px] shrink-0 flex items-center justify-center p-2">
+            <div class="w-full h-full rounded-2xl overflow-hidden bg-slate-100 dark:bg-[#1A1A1E] flex items-center justify-center">
+              <img
+                src={l.data.image}
+                alt=""
+                class="w-full h-full object-cover"
+                loading="lazy"
+                onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+              />
+              <span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E] hidden items-center justify-center w-full h-full">location_on</span>
+            </div>
           </div>
-
-          <!-- Chevron -->
-          <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>
+          <div class="p-2.5 flex flex-col justify-center min-w-0">
+            <h2 class="text-sm font-bold text-primary dark:text-[#c4d0fd] truncate">{l.data.name}</h2>
+            <p class="text-on-surface-variant dark:text-[#6B6B70] text-[11px] leading-tight line-clamp-2">{l.data.title}</p>
+          </div>
         </a>
       );
     })}
   </div>
 
+  <!-- Scroll sentinel + loading spinner -->
+  <div id="scroll-sentinel" class="h-1"></div>
+  <div id="loading-spinner" class="hidden flex justify-center py-6">
+    <span class="material-symbols-outlined text-primary/40 text-2xl animate-spin">progress_activity</span>
+  </div>
+
   <!-- No Results -->
   <div id="no-results" class="hidden text-center py-12">
     <span class="material-symbols-outlined text-primary/20 text-5xl mb-3">search_off</span>
-    <p class="text-sm text-gray-500">Niciun loc găsit</p>
+    <p class="text-sm text-slate-500">Niciun loc găsit</p>
   </div>
 
-  <style>
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(10px);
+  <script is:inline define:vars={{ remaining, BATCH_SIZE }}>
+    (function() {
+      var grid = document.getElementById('cards-grid');
+      var searchInput = document.getElementById('search-input');
+      var searchClearBtn = document.getElementById('search-clear');
+      var noResults = document.getElementById('no-results');
+      var sentinel = document.getElementById('scroll-sentinel');
+      var spinner = document.getElementById('loading-spinner');
+
+      var allCards = [];
+      grid.querySelectorAll('.item-card').forEach(function(card) {
+        allCards.push({ el: card, name: card.dataset.name, title: card.dataset.title });
+      });
+
+      var loadedIndex = 0;
+      var isSearching = false;
+
+      function createCard(p) {
+        var a = document.createElement('a');
+        a.href = '/locuri/' + p.slug;
+        a.className = 'item-card flex bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-lg overflow-hidden hover:shadow-md transition-shadow duration-300';
+        a.dataset.name = p.name.toLowerCase();
+        a.dataset.title = p.title.toLowerCase();
+        a.innerHTML = '<div class="w-[80px] h-[80px] shrink-0 flex items-center justify-center p-2">'
+          + '<div class="w-full h-full rounded-2xl overflow-hidden bg-slate-100 dark:bg-[#1A1A1E] flex items-center justify-center">'
+          + '<img src="' + p.image + '" alt="" class="w-full h-full object-cover" loading="lazy" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\';">'
+          + '<span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E] hidden items-center justify-center w-full h-full">location_on</span>'
+          + '</div></div>'
+          + '<div class="p-2.5 flex flex-col justify-center min-w-0">'
+          + '<h2 class="text-sm font-bold text-primary dark:text-[#c4d0fd] truncate">' + p.name + '</h2>'
+          + '<p class="text-on-surface-variant dark:text-[#6B6B70] text-[11px] leading-tight line-clamp-2">' + p.title + '</p>'
+          + '</div>';
+        return a;
       }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
 
-  <script>
-    const searchInput = document.getElementById('search-input') as HTMLInputElement;
-    const searchClearBtn = document.getElementById('search-clear') as HTMLButtonElement;
-    const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
-    const noResults = document.getElementById('no-results') as HTMLElement;
-
-    searchInput?.addEventListener('input', () => {
-      const query = searchInput.value.toLowerCase().trim();
-      let visibleCount = 0;
-
-      // Toggle clear button visibility
-      if (searchInput.value.trim()) {
-        searchClearBtn?.classList.remove('hidden');
-      } else {
-        searchClearBtn?.classList.add('hidden');
+      function loadNextBatch() {
+        if (loadedIndex >= remaining.length) return false;
+        var end = Math.min(loadedIndex + BATCH_SIZE, remaining.length);
+        var fragment = document.createDocumentFragment();
+        for (var i = loadedIndex; i < end; i++) {
+          var card = createCard(remaining[i]);
+          if (isSearching) card.style.display = 'none';
+          fragment.appendChild(card);
+          allCards.push({ el: card, name: remaining[i].name.toLowerCase(), title: remaining[i].title.toLowerCase() });
+        }
+        grid.appendChild(fragment);
+        loadedIndex = end;
+        return loadedIndex < remaining.length;
       }
 
-      cards.forEach(card => {
-        const name = card.dataset.name || '';
-        const title = card.dataset.title || '';
+      var observer = new IntersectionObserver(function(entries) {
+        if (!entries[0].isIntersecting || isSearching) return;
+        spinner?.classList.remove('hidden');
+        var hasMore = loadNextBatch();
+        spinner?.classList.add('hidden');
+        if (!hasMore) observer.disconnect();
+      }, { rootMargin: '300px' });
 
-        if (name.includes(query) || title.includes(query)) {
-          card.style.display = 'flex';
-          visibleCount++;
+      if (sentinel && remaining.length > 0) observer.observe(sentinel);
+
+      searchInput?.addEventListener('input', function() {
+        var query = searchInput.value.toLowerCase().trim();
+        isSearching = query !== '';
+        var visibleCount = 0;
+
+        if (searchInput.value.trim()) {
+          searchClearBtn?.classList.remove('hidden');
         } else {
-          card.style.display = 'none';
+          searchClearBtn?.classList.add('hidden');
+        }
+
+        if (isSearching && loadedIndex < remaining.length) {
+          while (loadedIndex < remaining.length) { loadNextBatch(); }
+          observer.disconnect();
+        }
+
+        for (var i = 0; i < allCards.length; i++) {
+          var c = allCards[i];
+          if (isSearching) {
+            if (c.name.includes(query) || c.title.includes(query)) {
+              c.el.style.display = 'flex';
+              visibleCount++;
+            } else {
+              c.el.style.display = 'none';
+            }
+          } else {
+            c.el.style.display = '';
+            visibleCount++;
+          }
+        }
+
+        if (visibleCount === 0 && isSearching) {
+          noResults?.classList.remove('hidden');
+        } else {
+          noResults?.classList.add('hidden');
         }
       });
 
-      if (visibleCount === 0 && query !== '') {
-        noResults.classList.remove('hidden');
-      } else {
-        noResults.classList.add('hidden');
-      }
-    });
-
-    // Clear search on button click
-    searchClearBtn?.addEventListener('click', () => {
-      searchInput.value = '';
-      searchInput.dispatchEvent(new Event('input'));
-      searchClearBtn.classList.add('hidden');
-      searchInput?.focus();
-    });
+      searchClearBtn?.addEventListener('click', function() {
+        searchInput.value = '';
+        searchInput.dispatchEvent(new Event('input'));
+        searchClearBtn.classList.add('hidden');
+        searchInput?.focus();
+      });
+    })();
   </script>
 </Base>
