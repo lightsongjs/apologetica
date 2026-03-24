@@ -3,6 +3,7 @@ import '../styles/global.css';
 import { getCollection } from 'astro:content';
 import { ViewTransitions } from 'astro:transitions';
 import BottomNav from '../components/BottomNav.astro';
+// Settings panel handles theme toggle inline
 
 interface Props {
   title: string;
@@ -30,26 +31,37 @@ const {
 ---
 
 <!doctype html>
-<html lang="ro" class="light">
+<html lang="ro">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="description" content="Apologetică Ortodoxă - Răspunsuri rapide pentru conversații" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Prevent flash of wrong theme (FOUC) - runs BEFORE any CSS -->
+    <script is:inline>
+      (function() {
+        const theme = localStorage.getItem('theme')
+          || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.classList.toggle('dark', theme === 'dark');
+        document.documentElement.classList.toggle('light', theme === 'light');
+      })();
+    </script>
+
     <ViewTransitions />
 
     <!-- Preconnect to Google Fonts for faster loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-    <!-- Optimized font loading: only weights 400 and 700 -->
-    <link href="https://fonts.googleapis.com/css2?family=Literata:wght@400;700&display=swap" rel="stylesheet" />
+    <!-- Optimized font loading -->
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Inter:wght@100..900&family=Literata:wght@400;700&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@400&display=block" rel="stylesheet" />
 
     <link rel="preload" href="/search-data.json" as="fetch" crossorigin />
     <title>{title} | Apologetica</title>
   </head>
-  <body class="bg-bg text-[#0e121b] antialiased min-h-screen flex flex-col">
+  <body class="bg-bg dark:bg-[#0B0B0E] text-on-surface dark:text-[#FAFAF9] antialiased min-h-screen flex flex-col">
     <script is:inline>
       // Eagerly fetch search data on every page — shared by home search + header search
       if (!window.__searchDataPromise) {
@@ -57,7 +69,7 @@ const {
       }
     </script>
 
-    <header class="sticky top-0 z-50 bg-bg/80 backdrop-blur-md border-b border-primary/10 px-4 py-3">
+    <header class="sticky top-0 z-50 bg-bg/80 dark:bg-[#0B0B0E]/80 backdrop-blur-md border-b border-primary/10 dark:border-[#2A2A2E] px-4 py-3">
       <div class={`${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto flex items-center justify-between`}>
         <!-- Normal header content -->
         <div id="header-normal" class="flex items-center gap-2 flex-1 min-w-0">
@@ -88,7 +100,7 @@ const {
               type="text"
               id="header-search-input"
               placeholder="Caută..."
-              class="flex-1 bg-transparent border-none outline-none text-sm text-gray-900 placeholder:text-gray-400"
+              class="flex-1 bg-transparent border-none outline-none text-sm text-gray-900 dark:text-[#FAFAF9] placeholder:text-gray-400 dark:placeholder:text-[#6B6B70]"
               autocomplete="off"
             />
             <button id="header-search-close" class="text-primary/60 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors flex-shrink-0">
@@ -102,9 +114,42 @@ const {
             <button id="header-search-btn" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors items-center justify-center hidden">
               <span class="material-symbols-outlined text-2xl">search</span>
             </button>
-            <a href="/" class="text-primary hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
-              <span class="material-symbols-outlined text-2xl">home</span>
-            </a>
+            <div class="relative">
+              <button id="settings-btn" class="text-primary/70 hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
+                <span class="material-symbols-outlined text-xl">settings</span>
+              </button>
+              <div id="settings-panel" class="hidden absolute right-0 top-full mt-2 w-56 bg-white dark:bg-[#16161A] rounded-xl shadow-lg border border-slate-100 dark:border-[#2A2A2E] py-2 z-50">
+                <div class="px-4 py-2 flex items-center justify-between">
+                  <div class="flex items-center gap-2">
+                    <span class="material-symbols-outlined text-lg text-on-surface-variant dark:text-[#6B6B70]">dark_mode</span>
+                    <span class="text-sm text-on-surface dark:text-[#FAFAF9]">Mod întunecat</span>
+                  </div>
+                  <button id="theme-toggle" class="relative w-10 h-5 rounded-full bg-slate-200 dark:bg-primary transition-colors" aria-label="Schimbă tema">
+                    <span class="absolute top-0.5 left-0.5 w-4 h-4 rounded-full bg-white shadow transition-transform dark:translate-x-5"></span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+        {isHomePage && (
+          <div class="flex items-center gap-1">
+            <div class="relative">
+              <button id="settings-btn" class="text-primary/70 hover:bg-primary/10 p-2 rounded-full transition-colors flex items-center justify-center">
+                <span class="material-symbols-outlined text-xl">settings</span>
+              </button>
+              <div id="settings-panel" class="hidden absolute right-0 top-full mt-2 w-56 bg-white dark:bg-[#16161A] rounded-xl shadow-lg border border-slate-100 dark:border-[#2A2A2E] py-2 z-50">
+                <div class="px-4 py-2 flex items-center justify-between">
+                  <div class="flex items-center gap-2">
+                    <span class="material-symbols-outlined text-lg text-on-surface-variant dark:text-[#6B6B70]">dark_mode</span>
+                    <span class="text-sm text-on-surface dark:text-[#FAFAF9]">Mod întunecat</span>
+                  </div>
+                  <button id="theme-toggle" class="relative w-10 h-5 rounded-full bg-slate-200 dark:bg-primary transition-colors" aria-label="Schimbă tema">
+                    <span class="absolute top-0.5 left-0.5 w-4 h-4 rounded-full bg-white shadow transition-transform dark:translate-x-5"></span>
+                  </button>
+                </div>
+              </div>
+            </div>
           </div>
         )}
       </div>
@@ -112,16 +157,16 @@ const {
       <!-- Search results dropdown -->
       {!isHomePage && (
         <div id="header-search-dropdown" class={`hidden ${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto mt-2`}>
-          <div id="header-search-results" class="bg-white rounded-xl shadow-lg border border-primary/10 max-h-80 overflow-y-auto"></div>
-          <div id="header-no-results" class="hidden bg-white rounded-xl shadow-lg border border-primary/10 p-6 text-center">
+          <div id="header-search-results" class="bg-white dark:bg-[#16161A] rounded-xl shadow-lg border border-primary/10 dark:border-[#2A2A2E] max-h-80 overflow-y-auto"></div>
+          <div id="header-no-results" class="hidden bg-white dark:bg-[#16161A] rounded-xl shadow-lg border border-primary/10 dark:border-[#2A2A2E] p-6 text-center">
             <span class="material-symbols-outlined text-primary/20 text-3xl">search_off</span>
-            <p class="text-xs text-gray-500 mt-1">Niciun rezultat</p>
+            <p class="text-xs text-gray-500 dark:text-[#6B6B70] mt-1">Niciun rezultat</p>
           </div>
         </div>
       )}
     </header>
 
-    <main class={`flex-1 ${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto w-full px-4 pb-8 ${!hideBottomNav ? 'pb-24' : ''}`}>
+    <main class={`flex-1 ${maxWidth === 'full' ? 'max-w-7xl' : 'max-w-xl'} mx-auto w-full px-4 pt-6 pb-8 ${!hideBottomNav ? 'pb-24' : ''}`}>
       <slot />
     </main>
 
@@ -147,15 +192,67 @@ const {
           path === '/conversatii/baptist' || path === '/conversatii/baptist/' ||
           path === '/conversatii/martorii-lui-iehova' || path === '/conversatii/martorii-lui-iehova/';
 
-        if (!isListPage) {
-          const headerSearchBtn = document.getElementById('header-search-btn');
-          if (headerSearchBtn) {
-            headerSearchBtn.style.display = 'flex';
+        const headerSearchBtn = document.getElementById('header-search-btn');
+        if (headerSearchBtn) {
+          headerSearchBtn.style.display = 'flex';
+
+          if (isListPage) {
+            // On list pages: scroll to page search input + focus
+            const newBtn = headerSearchBtn.cloneNode(true);
+            headerSearchBtn.replaceWith(newBtn);
+            newBtn.style.display = 'flex';
+            newBtn.addEventListener('click', (e) => {
+              e.preventDefault();
+              const pageSearch = document.getElementById('search-input');
+              if (pageSearch) {
+                pageSearch.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                setTimeout(() => pageSearch.focus(), 300);
+              }
+            });
           }
         }
       }
       initBaseLayout();
       document.addEventListener('astro:page-load', initBaseLayout);
+
+      // Settings panel
+      function initSettingsPanel() {
+        const btn = document.getElementById('settings-btn');
+        const panel = document.getElementById('settings-panel');
+        const themeToggle = document.getElementById('theme-toggle');
+        if (!btn || !panel) return;
+
+        const newBtn = btn.cloneNode(true);
+        btn.replaceWith(newBtn);
+
+        newBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          panel.classList.toggle('hidden');
+        });
+
+        // Close on outside click
+        document.addEventListener('click', (e) => {
+          if (!e.target.closest('#settings-panel') && !e.target.closest('#settings-btn')) {
+            panel.classList.add('hidden');
+          }
+        });
+
+        // Theme toggle
+        const newThemeToggle = themeToggle?.cloneNode(true);
+        if (themeToggle && newThemeToggle) {
+          themeToggle.replaceWith(newThemeToggle);
+          newThemeToggle.addEventListener('click', () => {
+            const html = document.documentElement;
+            const isDark = html.classList.contains('dark');
+            const newTheme = isDark ? 'light' : 'dark';
+            html.classList.toggle('dark', newTheme === 'dark');
+            html.classList.toggle('light', newTheme === 'light');
+            localStorage.setItem('theme', newTheme);
+          });
+        }
+      }
+      initSettingsPanel();
+      document.addEventListener('astro:page-load', initSettingsPanel);
     </script>
 
     {!isHomePage && (
@@ -215,7 +312,7 @@ const {
             // Reset cauta tab highlight
             const cautaTab = document.getElementById('cauta-tab');
             if (cautaTab) {
-              cautaTab.classList.remove('bg-[#1754cf]', 'text-white');
+              cautaTab.classList.remove('bg-primary', 'text-white');
               cautaTab.classList.add('text-gray-400');
             }
           }

@@ -2,26 +2,56 @@
 @plugin "@tailwindcss/typography";
 
 @theme {
-  --color-primary: #1754cf;
-  --color-bg: #f6f6f8;
+  --color-primary: #1A237E;
+  --color-primary-dim: #151b60;
+  --color-bg: #f7f9fc;
   --color-bg-dark: #111621;
   --font-family-display: "Literata", serif;
+  --font-family-headline: "Newsreader", serif;
+  --font-family-body: "Inter", sans-serif;
+
+  /* Scholarly Editorial surface hierarchy */
+  --color-surface: #ffffff;
+  --color-surface-container: #e8eff4;
+  --color-surface-container-low: #f0f4f8;
+  --color-surface-container-lowest: #ffffff;
+  --color-on-surface: #29343a;
+  --color-on-surface-variant: #566168;
+  --color-outline: #717c84;
+  --color-outline-variant: #a8b3bb;
+
+  /* Dark mode colors - based on Pencil design */
+  --color-dark-bg-page: #0B0B0E;
+  --color-dark-bg-surface: #16161A;
+  --color-dark-bg-elevated: #1A1A1E;
+  --color-dark-text-primary: #FAFAF9;
+  --color-dark-text-secondary: #6B6B70;
+  --color-dark-border: #2A2A2E;
+  --color-dark-accent: #6366F1;
 }
+
+@variant dark (&:where(.dark, .dark *));
 
 html {
   -webkit-tap-highlight-color: transparent;
   color-scheme: light;
 }
 
-/* Force light mode */
-html.light {
-  color-scheme: light;
+html.dark {
+  color-scheme: dark;
 }
 
 body {
   font-family: "Literata", serif;
   -webkit-font-smoothing: antialiased;
   text-align: justify;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .material-symbols-outlined {

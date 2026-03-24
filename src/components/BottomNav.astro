@@ -1,75 +1,39 @@
 ---
 interface Props {
-  activeTab?: "biblia" | "discutii" | "teme" | "persoane" | "locuri" | "cauta" | "none";
+  activeTab?: "biblia" | "discutii" | "teme" | "persoane" | "locuri" | "none";
 }
 
 const { activeTab = "none" } = Astro.props;
 
 const tabs = [
-  { id: "biblia", label: "BIBLIA", icon: "menu_book", href: "/biblia" },
-  { id: "discutii", label: "DISCUȚII", icon: "forum", href: "/conversatii" },
-  { id: "teme", label: "TEME", icon: "auto_stories", href: "/teme" },
-  { id: "persoane", label: "PERSOANE", icon: "person", href: "/personalitati" },
-  { id: "locuri", label: "LOCURI", icon: "location_on", href: "/locuri" },
-  { id: "cauta", label: "CAUTĂ", icon: "search", href: "/" },
+  { id: "biblia", label: "Biblia", icon: "menu_book", href: "/biblia" },
+  { id: "discutii", label: "Discuții", icon: "forum", href: "/conversatii" },
+  { id: "teme", label: "Teme", icon: "auto_stories", href: "/teme" },
+  { id: "persoane", label: "Persoane", icon: "group", href: "/personalitati" },
+  { id: "locuri", label: "Locuri", icon: "location_on", href: "/locuri" },
 ];
 ---
 
-<nav id="bottom-nav" class="fixed bottom-0 left-0 right-0 z-40 px-2 pt-2 pb-4 bg-[#FAFAFA]" style="padding-bottom: max(1rem, env(safe-area-inset-bottom));">
-  <div class="w-full h-[54px] bg-white rounded-xl border border-gray-200 shadow-sm flex items-center">
-    {tabs.map((tab) => {
-      const isActive = activeTab === tab.id;
-      const isSearch = tab.id === "cauta";
-      return (
-        <a
-          href={tab.href}
-          id={isSearch ? "cauta-tab" : undefined}
-          class:list={[
-            "flex-1 flex flex-col items-center justify-center gap-0.5 rounded-lg h-full",
-            isActive ? "bg-[#1754cf] text-white" : "text-gray-400",
-          ]}
-        >
-          <span class="material-symbols-outlined text-2xl leading-none">{tab.icon}</span>
-          <span class="text-xs font-semibold tracking-wide uppercase font-sans leading-none">{tab.label}</span>
-        </a>
-      );
-    })}
-  </div>
+<nav id="bottom-nav" class="fixed bottom-0 left-0 w-full z-50 flex justify-around items-center h-14 px-2 bg-white/95 dark:bg-[#16161A]/95 backdrop-blur-md border-t border-slate-100 dark:border-[#2A2A2E]" style="padding-bottom: env(safe-area-inset-bottom);">
+  {tabs.map((tab) => {
+    const isActive = activeTab === tab.id;
+    return (
+      <a
+        href={tab.href}
+        class:list={[
+          "flex flex-col items-center justify-center transition-colors",
+          isActive ? "text-primary" : "text-slate-400 dark:text-[#6B6B70] hover:text-primary",
+        ]}
+      >
+        <span
+          class="material-symbols-outlined text-xl"
+          style={isActive ? "font-variation-settings: 'FILL' 1;" : ""}
+        >{tab.icon}</span>
+        <span class:list={[
+          "text-[9px] tracking-tight mt-0.5",
+          isActive ? "font-medium" : "",
+        ]}>{tab.label}</span>
+      </a>
+    );
+  })}
 </nav>
-
-<script>
-  function initBottomNav() {
-    const cautaTab = document.getElementById('cauta-tab');
-    if (!cautaTab) return;
-
-    const newCautaTab = cautaTab.cloneNode(true) as HTMLElement;
-    cautaTab.replaceWith(newCautaTab);
-
-    newCautaTab.addEventListener('click', (e) => {
-      const isHome = window.location.pathname === '/';
-
-      if (isHome) {
-        // On home page: focus the home search input
-        const searchInput = document.getElementById('home-search-input') as HTMLInputElement;
-        if (searchInput) {
-          e.preventDefault();
-          searchInput.focus();
-          searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-      } else {
-        // On other pages: open header search inline
-        const hs = (window as any)._headerSearch;
-        if (hs) {
-          e.preventDefault();
-          hs.openSearch();
-          // Highlight the cauta tab
-          newCautaTab.classList.add('bg-[#1754cf]', 'text-white');
-          newCautaTab.classList.remove('text-gray-400');
-        }
-        // If no header search available, let the link navigate to /
-      }
-    });
-  }
-  initBottomNav();
-  document.addEventListener('astro:page-load', initBottomNav);
-</script>

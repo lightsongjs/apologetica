@@ -6,60 +6,78 @@ const personalitati = await getCollection('personalitati');
 const sorted = personalitati.sort((a, b) => {
   return a.data.name.localeCompare(b.data.name, 'ro');
 });
+
+const INITIAL_COUNT = 20;
 ---
 
-<Base title="Personalități" headerTitle="Personalități" backHref="/" activeNav="home" activeTab="persoane">
+<Base title="Personalități" headerTitle="Apologetica" backHref="/" activeNav="home" activeTab="persoane">
   <!-- Search Bar -->
-  <div class="mb-4 opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
-    <div class="relative">
-      <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-primary/40 text-xl">search</span>
+  <div class="mb-6 flex flex-col items-center opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
+    <div class="relative w-full">
+      <span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-lg">search</span>
       <input
         type="text"
         id="search-input"
         placeholder="Caută personalități..."
-        class="w-full pl-11 pr-11 py-3 rounded-xl border border-primary/20 bg-white focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-sm"
+        class="w-full bg-slate-50 dark:bg-[#1A1A1E] border border-slate-200 dark:border-[#2A2A2E] rounded-xl py-2 pl-10 pr-10 text-xs focus:ring-1 focus:ring-primary/20 focus:border-primary/30 focus:bg-white dark:focus:bg-[#16161A] transition-all placeholder:text-slate-400"
       />
-      <button id="search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-primary/40 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors">
-        <span class="material-symbols-outlined text-xl">close</span>
+      <button id="search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors">
+        <span class="material-symbols-outlined text-lg">close</span>
       </button>
     </div>
   </div>
 
-  <!-- Cards Grid -->
-  <div id="cards-grid" class="grid grid-cols-1 gap-2">
+  <!-- Dense List Layout -->
+  <div id="cards-grid" class="grid grid-cols-1 gap-3">
     {sorted.map((p, i) => {
       const slug = p.id.replace('.md', '');
+      const isHidden = i >= INITIAL_COUNT;
       return (
         <a
           href={`/personalitati/${slug}`}
-          class="item-card group bg-white rounded-xl p-3 border border-primary/10 hover:border-primary/30 transition-all duration-300 shadow-sm hover:shadow-md flex items-center gap-3 opacity-0"
-          style={`animation: fadeIn 0.4s ease-out ${(i + 1) * 0.05}s forwards;`}
+          class:list={[
+            "item-card flex bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-lg overflow-hidden hover:shadow-md transition-shadow duration-300 opacity-0",
+            isHidden ? "hidden" : "",
+          ]}
+          style={`animation: fadeIn 0.4s ease-out ${Math.min(i, INITIAL_COUNT) * 0.03}s forwards;`}
           data-name={p.data.name.toLowerCase()}
           data-title={p.data.title.toLowerCase()}
         >
-          <!-- Image -->
-          <div
-            class="w-10 h-10 flex-shrink-0 bg-cover bg-center rounded-full border-2 border-primary/20 group-hover:border-primary/40 transition-all duration-300"
-            style={`background-image: url("${p.data.image}")`}
-          />
-
-          <!-- Content -->
-          <div class="flex-1 min-w-0">
-            <h3 class="font-bold text-sm mb-0.5 group-hover:text-primary transition-colors" style="font-family: 'Literata', serif;">{p.data.name}</h3>
-            <p class="text-xs text-primary/60 truncate italic">{p.data.title}</p>
+          <!-- Rounded Square Image -->
+          <div class="w-[80px] h-[80px] shrink-0 flex items-center justify-center p-2">
+            <div class="w-full h-full rounded-2xl overflow-hidden bg-slate-100 dark:bg-[#1A1A1E] flex items-center justify-center">
+              <img
+                src={p.data.image}
+                alt=""
+                class="w-full h-full object-cover grayscale"
+                loading="lazy"
+                onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+              />
+              <span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E] hidden items-center justify-center w-full h-full">person</span>
+            </div>
           </div>
 
-          <!-- Chevron -->
-          <span class="material-symbols-outlined text-lg text-primary/30 group-hover:translate-x-1 group-hover:text-primary transition-all duration-300 flex-shrink-0">chevron_right</span>
+          <!-- Content -->
+          <div class="p-2.5 flex flex-col justify-center min-w-0">
+            <h2 class="text-sm font-bold text-primary dark:text-[#c4d0fd] truncate">{p.data.name}</h2>
+            <p class="text-on-surface-variant dark:text-[#6B6B70] text-[11px] leading-tight line-clamp-2">{p.data.title}</p>
+          </div>
         </a>
       );
     })}
   </div>
 
+  <!-- Load More Button -->
+  <div id="load-more-container" class="mt-8 flex justify-center">
+    <button id="load-more-btn" class="text-primary italic text-sm hover:underline underline-offset-4 transition-all">
+      Încarcă mai multe personalități
+    </button>
+  </div>
+
   <!-- No Results -->
   <div id="no-results" class="hidden text-center py-12">
     <span class="material-symbols-outlined text-primary/20 text-5xl mb-3">search_off</span>
-    <p class="text-sm text-gray-500">Nicio personalitate găsită</p>
+    <p class="text-sm text-slate-500">Nicio personalitate găsită</p>
   </div>
 
   <style>
@@ -75,48 +93,100 @@ const sorted = personalitati.sort((a, b) => {
     }
   </style>
 
-  <script>
-    const searchInput = document.getElementById('search-input') as HTMLInputElement;
-    const searchClearBtn = document.getElementById('search-clear') as HTMLButtonElement;
-    const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
-    const noResults = document.getElementById('no-results') as HTMLElement;
+  <script define:vars={{ INITIAL_COUNT, totalCount: sorted.length }}>
+    function initPersonalitati() {
+      const searchInput = document.getElementById('search-input');
+      const searchClearBtn = document.getElementById('search-clear');
+      const cards = document.querySelectorAll('.item-card');
+      const noResults = document.getElementById('no-results');
+      const loadMoreBtn = document.getElementById('load-more-btn');
+      const loadMoreContainer = document.getElementById('load-more-container');
 
-    searchInput?.addEventListener('input', () => {
-      const query = searchInput.value.toLowerCase().trim();
-      let visibleCount = 0;
+      let showCount = INITIAL_COUNT;
+      let isSearching = false;
 
-      // Toggle clear button visibility
-      if (searchInput.value.trim()) {
-        searchClearBtn?.classList.remove('hidden');
-      } else {
-        searchClearBtn?.classList.add('hidden');
+      // Hide load more if all items shown
+      if (totalCount <= INITIAL_COUNT && loadMoreContainer) {
+        loadMoreContainer.classList.add('hidden');
       }
 
-      cards.forEach(card => {
-        const name = card.dataset.name || '';
-        const title = card.dataset.title || '';
+      // Load more handler
+      loadMoreBtn?.addEventListener('click', () => {
+        showCount = totalCount; // Show all
+        cards.forEach((card, i) => {
+          if (i >= INITIAL_COUNT) {
+            card.classList.remove('hidden');
+            card.style.animation = `fadeIn 0.3s ease-out ${(i - INITIAL_COUNT) * 0.02}s forwards`;
+          }
+        });
+        loadMoreContainer?.classList.add('hidden');
+      });
 
-        if (name.includes(query) || title.includes(query)) {
-          card.style.display = 'flex';
-          visibleCount++;
+      // Search handler
+      searchInput?.addEventListener('input', () => {
+        const query = searchInput.value.toLowerCase().trim();
+        isSearching = query !== '';
+        let visibleCount = 0;
+
+        // Toggle clear button
+        if (searchInput.value.trim()) {
+          searchClearBtn?.classList.remove('hidden');
         } else {
-          card.style.display = 'none';
+          searchClearBtn?.classList.add('hidden');
+        }
+
+        cards.forEach((card, i) => {
+          const name = card.dataset.name || '';
+          const title = card.dataset.title || '';
+
+          if (isSearching) {
+            // When searching, show/hide based on match (ignore load-more state)
+            if (name.includes(query) || title.includes(query)) {
+              card.style.display = 'flex';
+              card.classList.remove('hidden');
+              card.style.opacity = '1';
+              visibleCount++;
+            } else {
+              card.style.display = 'none';
+            }
+          } else {
+            // When not searching, restore load-more state
+            card.style.display = '';
+            card.style.opacity = '';
+            if (i >= showCount) {
+              card.classList.add('hidden');
+            } else {
+              card.classList.remove('hidden');
+            }
+            visibleCount++;
+          }
+        });
+
+        // Toggle no results
+        if (visibleCount === 0 && isSearching) {
+          noResults?.classList.remove('hidden');
+        } else {
+          noResults?.classList.add('hidden');
+        }
+
+        // Hide load more when searching
+        if (isSearching) {
+          loadMoreContainer?.classList.add('hidden');
+        } else if (showCount < totalCount) {
+          loadMoreContainer?.classList.remove('hidden');
         }
       });
 
-      if (visibleCount === 0 && query !== '') {
-        noResults.classList.remove('hidden');
-      } else {
-        noResults.classList.add('hidden');
-      }
-    });
+      // Clear search
+      searchClearBtn?.addEventListener('click', () => {
+        searchInput.value = '';
+        searchInput.dispatchEvent(new Event('input'));
+        searchClearBtn.classList.add('hidden');
+        searchInput?.focus();
+      });
+    }
 
-    // Clear search on button click
-    searchClearBtn?.addEventListener('click', () => {
-      searchInput.value = '';
-      searchInput.dispatchEvent(new Event('input'));
-      searchClearBtn.classList.add('hidden');
-      searchInput?.focus();
-    });
+    initPersonalitati();
+    document.addEventListener('astro:page-load', initPersonalitati);
   </script>
 </Base>

@@ -156,5 +156,44 @@ Implementation: `src/lib/wiki-links.ts` — applied to conversation responses, p
 - **Astro 5** (static output)
 - **Tailwind CSS 4** + Typography plugin
 - **Marked** for markdown → HTML (not Astro's `<Content />`)
-- **Newsreader** serif font, Material Symbols Outlined icons
-- Primary color: `#1754cf`
+- **Literata** serif font (primary, everywhere), Material Symbols Outlined icons
+- Primary color: `#1A237E` (oxford-navy)
+
+---
+
+## Design System — Scholarly Editorial
+
+Design mockups are in `stitch_extracted/stitch/` with `screen.png` + `code.html` per page. Design rules in `stitch_extracted/stitch/oxford_scholarly/DESIGN.md`.
+
+### Core Decisions (apply to all pages)
+
+| Decision | Rule |
+|----------|------|
+| **Primary color** | `#1A237E` (oxford-navy), not `#1754cf` |
+| **Font** | Literata serif everywhere (body + headlines) |
+| **Body text color** | `#29343a` (on-surface), never pure black |
+| **Header title** | Always "Apologetica" — section is indicated by bottom nav active state |
+| **Header left** | Back button (arrow_back) on inner pages, menu_book icon on home |
+| **Header right** | Search icon + Settings icon (gear dropdown with theme toggle) |
+| **Bottom nav** | 5 tabs: Biblia, Discuții, Teme, Persoane, Locuri — no CAUTĂ tab |
+| **Bottom nav style** | Frosted glass (`bg-white/95 backdrop-blur-md`), thin top border, no pill container |
+| **Bottom nav active** | Primary color + filled icon (`FILL 1`), inactive = `slate-400` |
+| **No borders** | Prefer tonal shifts (background color changes) over 1px borders for sectioning |
+| **Shadows** | Ambient shadows only (6% opacity, 24px blur), no harsh drop shadows |
+| **Image placeholders** | Missing images show `person` / `location_on` icon on slate-100 background |
+
+### List Page Pattern (Persoane, Locuri, Teme, Discuții)
+
+| Element | Rule |
+|---------|------|
+| **Search bar** | On page (not pinned), header search icon scrolls to it + auto-focus |
+| **Card images** | `rounded-2xl` (rounded square), `grayscale` filter, 80×80px area |
+| **Card name** | `text-sm font-bold text-primary`, truncate |
+| **Card description** | `text-[11px] text-on-surface-variant`, `line-clamp-2` |
+| **Load more** | "Încarcă mai multe..." italic link, first 20 items shown |
+| **Card spacing** | `gap-3` between cards |
+
+### Exceptions
+
+- **Biblia page** has its own layout (3-column grid, search toggles, VT/NT tabs) — treat separately
+- Each page gets redesigned individually — do not batch-apply changes without reviewing mockup
