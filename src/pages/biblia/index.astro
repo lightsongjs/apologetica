@@ -2,7 +2,6 @@
 import Base from '../../layouts/Base.astro';
 import { BOOKS_METADATA } from '../../lib/bible-books';
 
-// Short display names for books with long Romanian names
 const SHORT_NAMES: Record<string, string> = {
   'deuteronomul': 'Deuteron.',
   'judecatori': 'Judecăt.',
@@ -37,110 +36,499 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
 }));
 ---
 
-<Base title="Biblia Ortodoxă" headerTitle="Biblia" backHref="/" activeTab="biblia">
-  <div class="pt-4 pb-6">
-    <!-- In-page search bar (hidden by default) -->
-    <div id="bible-search-wrapper" class="hidden mb-4">
+<Base title="Biblia Ortodoxă" headerTitle="Apologetica" backHref="/" activeTab="biblia">
+  <div class="pt-2 pb-6">
+    <!-- Search Bar -->
+    <div class="mb-4">
       <div class="relative">
-        <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-xl">search</span>
+        <span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-lg">search</span>
         <input
           type="text"
           id="bible-search-input"
-          placeholder="Caută o carte..."
-          class="w-full pl-10 pr-10 py-3 bg-white border border-gray-200 rounded-xl text-sm text-gray-900 placeholder:text-gray-400 outline-none focus:border-primary/40 focus:ring-2 focus:ring-primary/10"
+          placeholder="Facerea, Psalmi, Matei..."
+          class="w-full bg-slate-50 dark:bg-[#1A1A1E] border border-slate-200 dark:border-[#2A2A2E] rounded-xl py-2.5 pl-10 pr-10 text-xs focus:ring-1 focus:ring-primary/20 focus:border-primary/30 focus:bg-white dark:focus:bg-[#16161A] transition-all placeholder:text-slate-400"
           autocomplete="off"
         />
-        <button id="bible-search-close" class="absolute right-2 top-1/2 -translate-y-1/2 p-1 text-gray-400 hover:text-gray-600 rounded-full hover:bg-gray-100">
+        <button id="bible-search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors">
           <span class="material-symbols-outlined text-lg">close</span>
         </button>
       </div>
     </div>
 
-    <!-- Vechiul Testament -->
-    <p class="text-xs font-bold tracking-widest uppercase text-primary/70 font-sans mb-2" data-section="vt">Vechiul Testament</p>
-    <div class="grid grid-cols-4 gap-2">
-      {vtBooks.map(book => (
-        <button
-          type="button"
-          class="book-card bg-white rounded-lg border border-gray-200 p-3 flex items-center justify-center min-h-[52px] hover:border-primary/40 hover:shadow-sm active:bg-primary/5 transition-all cursor-pointer"
-          data-book-slug={book.slug}
-          data-testament={book.testament}
-          data-chapters={book.chapters}
-          data-full-name={book.fullName}
-        >
-          <span class="text-xs font-medium text-gray-900 text-center leading-tight" style="font-family: 'Literata', serif;">{book.name}</span>
-        </button>
-      ))}
+    <!-- Mode Segmented Control -->
+    <div id="mode-track" class="relative flex mb-5 bg-slate-100 dark:bg-[#1A1A1E] rounded-full p-0.5 border border-slate-200 dark:border-[#2A2A2E]">
+      <div id="mode-slider" class="absolute top-0.5 left-0.5 h-[calc(100%-4px)] rounded-full bg-primary shadow-md transition-all duration-300 ease-out" style="width: calc(33.333% - 2px);"></div>
+      <button id="mode-books" class="mode-btn relative z-10 flex-1 py-1.5 rounded-full text-[11px] font-medium text-white transition-colors duration-200">Cărți</button>
+      <button id="mode-verse" class="mode-btn relative z-10 flex-1 py-1.5 rounded-full text-[11px] font-medium text-on-surface-variant dark:text-[#6B6B70] transition-colors duration-200">Verset</button>
+      <button id="mode-text" class="mode-btn relative z-10 flex-1 py-1.5 rounded-full text-[11px] font-medium text-on-surface-variant dark:text-[#6B6B70] transition-colors duration-200">În Text</button>
     </div>
 
-    <!-- Noul Testament -->
-    <p class="text-xs font-bold tracking-widest uppercase text-primary/70 font-sans mb-2 mt-6" data-section="nt">Noul Testament</p>
-    <div class="grid grid-cols-4 gap-2">
-      {ntBooks.map(book => (
-        <button
-          type="button"
-          class="book-card bg-white rounded-lg border border-gray-200 p-3 flex items-center justify-center min-h-[52px] hover:border-primary/40 hover:shadow-sm active:bg-primary/5 transition-all cursor-pointer"
-          data-book-slug={book.slug}
-          data-testament={book.testament}
-          data-chapters={book.chapters}
-          data-full-name={book.fullName}
-        >
-          <span class="text-xs font-medium text-gray-900 text-center leading-tight" style="font-family: 'Literata', serif;">{book.name}</span>
-        </button>
-      ))}
-    </div>
-  </div>
-
-  <!-- Chapter Popup Overlay -->
-  <div id="chapter-popup-overlay" class="fixed inset-0 bg-black/40 z-50 hidden"></div>
-
-  <!-- Chapter Popup Bottom Sheet -->
-  <div id="chapter-popup" class="fixed bottom-0 left-0 right-0 z-50 bg-white rounded-t-2xl shadow-2xl translate-y-full transition-transform duration-300 ease-out flex flex-col" style="height: 65vh;">
-    <!-- Drag handle -->
-    <div class="flex justify-center pt-3 pb-1 flex-shrink-0">
-      <div class="w-10 h-1 bg-gray-300 rounded-full"></div>
-    </div>
-    <!-- Header -->
-    <div class="flex items-center justify-between px-5 pb-3 flex-shrink-0">
-      <h3 id="popup-book-name" class="text-xl font-bold text-gray-900" style="font-family: 'Literata', serif;"></h3>
-      <button id="popup-close" class="w-9 h-9 flex items-center justify-center bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
-        <span class="material-symbols-outlined text-lg text-gray-500">close</span>
+    <!-- Text Search Action (shown in text mode) -->
+    <div id="text-search-action" class="hidden mb-5">
+      <button id="text-search-btn" class="w-full py-2.5 bg-primary hover:bg-primary-dim text-white rounded-xl text-sm font-medium flex items-center justify-center gap-2 transition-colors">
+        <span class="material-symbols-outlined text-lg">search</span>
+        Caută în Scriptură
       </button>
     </div>
-    <!-- Chapter grid (scrollable) -->
-    <div id="popup-chapters" class="grid grid-cols-6 gap-2 px-5 pb-8 overflow-y-auto flex-1 min-h-0 content-start">
+
+    <!-- Text Search Loading -->
+    <div id="text-search-loading" class="hidden py-16 text-center">
+      <span class="material-symbols-outlined text-primary/40 text-3xl animate-spin">progress_activity</span>
+      <p class="text-sm text-slate-500 mt-3">Se caută în Scriptură...</p>
     </div>
+
+    <!-- Text Search Results -->
+    <div id="text-results-count" class="hidden text-[11px] text-on-surface-variant mb-3"></div>
+    <div id="text-results" class="hidden space-y-3"></div>
+
+    <!-- Verse Finder: Step-by-step flow -->
+    <div id="verse-finder" class="hidden space-y-4">
+      <!-- Step 1: Book selected -->
+      <div id="vf-book-bar" class="hidden flex items-center gap-2 bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-xl p-3">
+        <span class="material-symbols-outlined text-primary text-lg">menu_book</span>
+        <span id="vf-book-name" class="text-sm font-bold text-primary dark:text-[#c4d0fd] flex-1"></span>
+        <button id="vf-reset" class="text-on-surface-variant hover:text-primary text-xs transition-colors flex items-center gap-0.5">
+          <span class="material-symbols-outlined text-sm">close</span> Altă carte
+        </button>
+      </div>
+
+      <!-- Step 2: Chapter grid -->
+      <div id="vf-chapters" class="hidden">
+        <p class="text-[11px] text-on-surface-variant mb-2">Alege capitolul:</p>
+        <div id="vf-chapters-grid" class="grid grid-cols-6 gap-2"></div>
+      </div>
+
+      <!-- Step 3: Verse input -->
+      <div id="vf-verse-input" class="hidden">
+        <div class="flex items-center gap-2 bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-xl p-3">
+          <span id="vf-ref-label" class="text-sm font-bold text-primary dark:text-[#c4d0fd]"></span>
+          <span class="text-on-surface-variant">:</span>
+          <input id="vf-verse-num" type="number" min="1" placeholder="Verset" class="w-20 bg-slate-50 dark:bg-[#1A1A1E] border border-slate-200 dark:border-[#2A2A2E] rounded-lg py-1.5 px-2 text-sm text-center focus:ring-1 focus:ring-primary/20 focus:border-primary/30 transition-all" />
+          <button id="vf-search-btn" class="ml-auto py-1.5 px-4 bg-primary hover:bg-primary-dim text-white rounded-lg text-xs font-medium flex items-center gap-1 transition-colors">
+            <span class="material-symbols-outlined text-sm">search</span> Caută
+          </button>
+        </div>
+      </div>
+
+      <!-- Step 4: Verse result -->
+      <div id="vf-result" class="hidden"></div>
+    </div>
+
+    <!-- Testament Tabs -->
+    <div id="tabs-container" class="flex mb-5 bg-slate-100 dark:bg-[#1A1A1E] rounded-lg overflow-hidden border border-slate-200 dark:border-[#2A2A2E]">
+      <button id="tab-vt" class="flex-1 py-2 text-xs font-bold tracking-wider uppercase text-on-surface-variant dark:text-[#6B6B70] transition-all">Vechiul Testament</button>
+      <button id="tab-nt" class="flex-1 py-2 text-xs font-bold tracking-wider uppercase bg-white dark:bg-[#16161A] text-primary dark:text-[#c4d0fd] shadow-sm transition-all">Noul Testament</button>
+    </div>
+
+    <!-- VT Books Grid -->
+    <div id="grid-vt" class="hidden grid grid-cols-3 gap-2.5">
+      {vtBooks.map(book => (
+        <button type="button"
+          class="book-card bg-white dark:bg-[#16161A] rounded-xl border border-slate-100 dark:border-[#2A2A2E] p-3 flex items-center justify-center min-h-[56px] hover:border-primary/40 hover:shadow-md active:bg-primary/5 transition-all cursor-pointer"
+          data-book-slug={book.slug} data-testament={book.testament} data-chapters={book.chapters} data-full-name={book.fullName}
+        >
+          <span class="text-xs font-medium text-on-surface dark:text-[#FAFAF9] text-center leading-tight">{book.name}</span>
+        </button>
+      ))}
+    </div>
+
+    <!-- NT Books Grid (default visible) -->
+    <div id="grid-nt" class="grid grid-cols-3 gap-2.5">
+      {ntBooks.map(book => (
+        <button type="button"
+          class="book-card bg-white dark:bg-[#16161A] rounded-xl border border-slate-100 dark:border-[#2A2A2E] p-3 flex items-center justify-center min-h-[56px] hover:border-primary/40 hover:shadow-md active:bg-primary/5 transition-all cursor-pointer"
+          data-book-slug={book.slug} data-testament={book.testament} data-chapters={book.chapters} data-full-name={book.fullName}
+        >
+          <span class="text-xs font-medium text-on-surface dark:text-[#FAFAF9] text-center leading-tight">{book.name}</span>
+        </button>
+      ))}
+    </div>
+
+    <!-- No Results -->
+    <div id="no-results" class="hidden text-center py-8">
+      <span class="material-symbols-outlined text-primary/20 text-4xl mb-2">search_off</span>
+      <p class="text-sm text-slate-500">Niciun rezultat găsit</p>
+    </div>
+
+    <!-- Quote -->
+    <p id="bible-quote" class="mt-10 text-center text-primary/40 dark:text-[#c4d0fd]/30 text-sm italic leading-relaxed px-4">
+      "Căutând vei afla, bătând ți se va deschide, cerând vei primi – căci toată Scriptura este de Dumnezeu insuflată."
+    </p>
   </div>
 
-  <script>
-    function initBibliaPage() {
-      const overlay = document.getElementById('chapter-popup-overlay');
-      const popup = document.getElementById('chapter-popup');
-      const popupBookName = document.getElementById('popup-book-name');
-      const popupChapters = document.getElementById('popup-chapters');
-      const popupClose = document.getElementById('popup-close');
-      const bookCards = document.querySelectorAll('.book-card');
-      const bottomNav = document.getElementById('bottom-nav');
-      const searchWrapper = document.getElementById('bible-search-wrapper');
-      const searchInput = document.getElementById('bible-search-input') as HTMLInputElement | null;
-      const searchCloseBtn = document.getElementById('bible-search-close');
-      const headerSearchBtn = document.getElementById('header-search-btn');
+  <!-- Chapter Popup (for Caută Cărți mode) -->
+  <div id="chapter-popup-overlay" class="fixed inset-0 bg-black/40 z-50 hidden"></div>
+  <div id="chapter-popup" class="fixed bottom-0 left-0 right-0 z-50 bg-white dark:bg-[#16161A] rounded-t-2xl shadow-2xl translate-y-full transition-transform duration-300 ease-out flex flex-col" style="height: 65vh;">
+    <div class="flex justify-center pt-3 pb-1 flex-shrink-0"><div class="w-10 h-1 bg-slate-300 dark:bg-[#2A2A2E] rounded-full"></div></div>
+    <div class="flex items-center justify-between px-5 pb-3 flex-shrink-0">
+      <h3 id="popup-book-name" class="text-xl font-bold text-on-surface dark:text-[#FAFAF9]"></h3>
+      <button id="popup-close" class="w-9 h-9 flex items-center justify-center bg-slate-100 dark:bg-[#1A1A1E] rounded-full hover:bg-slate-200 dark:hover:bg-[#2A2A2E] transition-colors">
+        <span class="material-symbols-outlined text-lg text-slate-500 dark:text-[#6B6B70]">close</span>
+      </button>
+    </div>
+    <div id="popup-chapters" class="grid grid-cols-6 gap-2 px-5 pb-8 overflow-y-auto flex-1 min-h-0 content-start"></div>
+  </div>
 
-      if (!overlay || !popup || !popupBookName || !popupChapters) return;
+  <script is:inline>
+    (function() {
+      // DOM refs
+      var searchInput = document.getElementById('bible-search-input');
+      var searchClear = document.getElementById('bible-search-clear');
+      var modeBooks = document.getElementById('mode-books');
+      var modeVerse = document.getElementById('mode-verse');
+      var modeText = document.getElementById('mode-text');
+      var tabsContainer = document.getElementById('tabs-container');
+      var tabVT = document.getElementById('tab-vt');
+      var tabNT = document.getElementById('tab-nt');
+      var gridVT = document.getElementById('grid-vt');
+      var gridNT = document.getElementById('grid-nt');
+      var noResults = document.getElementById('no-results');
+      var bibleQuote = document.getElementById('bible-quote');
+      var bookCards = document.querySelectorAll('.book-card');
+      // Text search
+      var textSearchAction = document.getElementById('text-search-action');
+      var textSearchBtn = document.getElementById('text-search-btn');
+      var textSearchLoading = document.getElementById('text-search-loading');
+      var textResults = document.getElementById('text-results');
+      var textResultsCount = document.getElementById('text-results-count');
+      // Verse finder
+      var verseFinder = document.getElementById('verse-finder');
+      var vfBookBar = document.getElementById('vf-book-bar');
+      var vfBookName = document.getElementById('vf-book-name');
+      var vfReset = document.getElementById('vf-reset');
+      var vfChapters = document.getElementById('vf-chapters');
+      var vfChaptersGrid = document.getElementById('vf-chapters-grid');
+      var vfVerseInput = document.getElementById('vf-verse-input');
+      var vfRefLabel = document.getElementById('vf-ref-label');
+      var vfVerseNum = document.getElementById('vf-verse-num');
+      var vfSearchBtn = document.getElementById('vf-search-btn');
+      var vfResult = document.getElementById('vf-result');
+      // Chapter popup
+      var overlay = document.getElementById('chapter-popup-overlay');
+      var popup = document.getElementById('chapter-popup');
+      var popupBookName = document.getElementById('popup-book-name');
+      var popupChapters = document.getElementById('popup-chapters');
+      var popupClose = document.getElementById('popup-close');
+      var bottomNav = document.getElementById('bottom-nav');
 
-      function getTestamentPath(testament: string): string {
-        return testament === 'VT' ? 'vechiul-testament' : 'noul-testament';
+      var activeTab = 'nt';
+      var searchMode = 'books';
+      var verseIndex = null;
+      var selectedBook = null;
+      var selectedChapter = null;
+
+      var modeSlider = document.getElementById('mode-slider');
+      var modeBtns = document.querySelectorAll('.mode-btn');
+      var modeList = ['books', 'verse', 'text'];
+      var activeTabCls = 'bg-white dark:bg-[#16161A] text-primary dark:text-[#c4d0fd] shadow-sm';
+      var inactiveTabCls = 'text-on-surface-variant dark:text-[#6B6B70]';
+
+      // Book index
+      var allBooks = [];
+      bookCards.forEach(function(c) {
+        allBooks.push({ slug: c.dataset.bookSlug, testament: c.dataset.testament, chapters: parseInt(c.dataset.chapters, 10), fullName: c.dataset.fullName, normalized: norm(c.dataset.fullName || '') });
+      });
+
+      function norm(s) { return s.toLowerCase().replace(/[ăâ]/g,'a').replace(/[îï]/g,'i').replace(/[șş]/g,'s').replace(/[țţ]/g,'t'); }
+      function testPath(t) { return t === 'VT' ? 'vechiul-testament' : 'noul-testament'; }
+      function testPathFromSlug(slug) {
+        for (var i = 0; i < allBooks.length; i++) { if (allBooks[i].slug === slug) return testPath(allBooks[i].testament); }
+        return 'noul-testament';
       }
 
-      function openPopup(slug: string, testament: string, chapters: number, fullName: string) {
+      // Tab switching
+      function switchTab(tab) {
+        activeTab = tab;
+        gridVT.classList.toggle('hidden', tab !== 'vt');
+        gridNT.classList.toggle('hidden', tab !== 'nt');
+        tabVT.className = 'flex-1 py-2 text-xs font-bold tracking-wider uppercase transition-all ' + (tab === 'vt' ? activeTabCls : inactiveTabCls);
+        tabNT.className = 'flex-1 py-2 text-xs font-bold tracking-wider uppercase transition-all ' + (tab === 'nt' ? activeTabCls : inactiveTabCls);
+      }
+      tabVT.addEventListener('click', function() { switchTab('vt'); });
+      tabNT.addEventListener('click', function() { switchTab('nt'); });
+
+      function hideAll() {
+        tabsContainer.classList.add('hidden');
+        gridVT.classList.add('hidden');
+        gridNT.classList.add('hidden');
+        bibleQuote.classList.add('hidden');
+        noResults.classList.add('hidden');
+        textSearchAction.classList.add('hidden');
+        textSearchLoading.classList.add('hidden');
+        textResults.classList.add('hidden');
+        textResultsCount.classList.add('hidden');
+        verseFinder.classList.add('hidden');
+      }
+
+      function showDefault() {
+        hideAll();
+        tabsContainer.classList.remove('hidden');
+        bibleQuote.classList.remove('hidden');
+        switchTab(activeTab);
+        bookCards.forEach(function(c) { c.style.display = ''; });
+        selectedBook = null;
+        selectedChapter = null;
+      }
+
+      // Mode switching with slider
+      function setMode(mode) {
+        searchMode = mode;
+        var idx = modeList.indexOf(mode);
+        // Slide indicator
+        modeSlider.style.left = 'calc(' + (idx * 33.333) + '% + 2px)';
+        // Update text colors
+        modeBtns.forEach(function(btn, i) {
+          if (i === idx) { btn.classList.remove('text-on-surface-variant', 'dark:text-[#6B6B70]'); btn.classList.add('text-white'); }
+          else { btn.classList.remove('text-white'); btn.classList.add('text-on-surface-variant', 'dark:text-[#6B6B70]'); }
+        });
+        searchInput.value = '';
+        searchClear.classList.add('hidden');
+        if (mode === 'books') searchInput.placeholder = 'Facerea, Psalmi, Matei...';
+        else if (mode === 'verse') searchInput.placeholder = 'Caută o carte pentru a alege versetul...';
+        else searchInput.placeholder = 'Eu sunt Calea, Adevărul și Viața...';
+        showDefault();
+      }
+      modeBooks.addEventListener('click', function() { setMode('books'); });
+      modeVerse.addEventListener('click', function() { setMode('verse'); });
+      modeText.addEventListener('click', function() { setMode('text'); });
+
+      // === CAUTA CARTI: filter books, click opens chapter popup ===
+      function searchBooksMode(query) {
+        var q = norm(query);
+        if (!q) { showDefault(); return; }
+        hideAll();
+        tabsContainer.classList.add('hidden');
+        gridVT.classList.remove('hidden');
+        gridNT.classList.remove('hidden');
+        var count = 0;
+        bookCards.forEach(function(c) {
+          var match = norm(c.dataset.fullName || '').includes(q);
+          c.style.display = match ? '' : 'none';
+          if (match) count++;
+        });
+        if (!count) { gridVT.classList.add('hidden'); gridNT.classList.add('hidden'); noResults.classList.remove('hidden'); }
+      }
+
+      // === CAUTA VERSET: step-by-step flow ===
+      function searchVerseMode(query) {
+        if (selectedBook) return; // Already selected
+        var q = norm(query);
+        if (!q) { showDefault(); return; }
+        hideAll();
+        gridVT.classList.remove('hidden');
+        gridNT.classList.remove('hidden');
+        var count = 0;
+        bookCards.forEach(function(c) {
+          var match = norm(c.dataset.fullName || '').includes(q);
+          c.style.display = match ? '' : 'none';
+          if (match) count++;
+        });
+        if (!count) { gridVT.classList.add('hidden'); gridNT.classList.add('hidden'); noResults.classList.remove('hidden'); }
+      }
+
+      function selectBookForVerse(book) {
+        selectedBook = book;
+        selectedChapter = null;
+        hideAll();
+        verseFinder.classList.remove('hidden');
+        vfBookBar.classList.remove('hidden');
+        vfBookName.textContent = book.fullName;
+        searchInput.value = book.fullName;
+        searchClear.classList.remove('hidden');
+        // Show chapters grid
+        vfChapters.classList.remove('hidden');
+        var html = '';
+        for (var i = 1; i <= book.chapters; i++) {
+          html += '<button type="button" class="vf-ch-btn bg-slate-50 dark:bg-[#1A1A1E] rounded-lg border border-slate-200 dark:border-[#2A2A2E] h-10 flex items-center justify-center text-sm font-medium text-on-surface dark:text-[#FAFAF9] hover:bg-primary hover:text-white hover:border-primary transition-colors" data-ch="' + i + '">' + i + '</button>';
+        }
+        vfChaptersGrid.innerHTML = html;
+        vfVerseInput.classList.add('hidden');
+        vfResult.classList.add('hidden');
+        // Scroll to chapters
+        vfChapters.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        // Attach chapter click handlers
+        vfChaptersGrid.querySelectorAll('.vf-ch-btn').forEach(function(btn) {
+          btn.addEventListener('click', function() {
+            selectChapter(parseInt(btn.dataset.ch, 10));
+          });
+        });
+      }
+
+      function selectChapter(ch) {
+        selectedChapter = ch;
+        // Highlight selected chapter
+        vfChaptersGrid.querySelectorAll('.vf-ch-btn').forEach(function(btn) {
+          if (parseInt(btn.dataset.ch, 10) === ch) {
+            btn.className = btn.className.replace('bg-slate-50', 'bg-primary').replace('text-on-surface', 'text-white');
+            btn.classList.add('ring-2', 'ring-primary/30');
+          }
+        });
+        // Show verse input
+        vfRefLabel.textContent = selectedBook.fullName + ' ' + ch;
+        vfVerseInput.classList.remove('hidden');
+        vfVerseNum.value = '';
+        vfResult.classList.add('hidden');
+        setTimeout(function() {
+          vfVerseInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          vfVerseNum.focus();
+        }, 200);
+      }
+
+      function searchVerseResult() {
+        if (!selectedBook || !selectedChapter) return;
+        var verseNum = parseInt(vfVerseNum.value, 10);
+        if (!verseNum || verseNum < 1) { vfVerseNum.focus(); return; }
+
+        vfResult.innerHTML = '<div class="py-8 text-center"><span class="material-symbols-outlined text-primary/40 text-2xl animate-spin">progress_activity</span></div>';
+        vfResult.classList.remove('hidden');
+
+        // Fetch chapter data from API
+        var apiPath = '/biblia/api/' + testPath(selectedBook.testament) + '/' + selectedBook.slug + '/' + selectedChapter + '.json';
+        fetch(apiPath).then(function(r) { return r.json(); }).then(function(data) {
+          // Find the verse in pericopes
+          var verseText = null;
+          if (data.pericopes) {
+            for (var p = 0; p < data.pericopes.length; p++) {
+              var pericope = data.pericopes[p];
+              if (verseNum >= pericope.versesStart && verseNum <= pericope.versesEnd) {
+                // Extract verse from HTML
+                var tmp = document.createElement('div');
+                tmp.innerHTML = pericope.versesHtml;
+                var sups = tmp.querySelectorAll('sup');
+                for (var s = 0; s < sups.length; s++) {
+                  if (parseInt(sups[s].textContent, 10) === verseNum) {
+                    // Get text after this sup until next sup
+                    var textParts = [];
+                    var node = sups[s].nextSibling;
+                    while (node && !(node.nodeType === 1 && node.tagName === 'SUP')) {
+                      textParts.push(node.textContent || '');
+                      node = node.nextSibling;
+                    }
+                    verseText = textParts.join('').trim();
+                    break;
+                  }
+                }
+                if (verseText) break;
+              }
+            }
+          }
+
+          if (verseText) {
+            var href = '/biblia/' + testPath(selectedBook.testament) + '/' + selectedBook.slug + '/' + selectedChapter;
+            vfResult.innerHTML = '<a href="' + href + '" class="block bg-white dark:bg-[#16161A] border border-primary/20 dark:border-[#2A2A2E] rounded-xl p-4 hover:shadow-md transition-shadow">'
+              + '<div class="flex items-center gap-2 mb-2">'
+              + '<span class="material-symbols-outlined text-primary text-sm">menu_book</span>'
+              + '<span class="text-xs font-bold text-primary dark:text-[#c4d0fd]">' + selectedBook.fullName + ' ' + selectedChapter + ':' + verseNum + '</span>'
+              + '</div>'
+              + '<p class="text-sm text-on-surface dark:text-[#FAFAF9] leading-relaxed italic">"' + verseText + '"</p>'
+              + '<p class="text-[10px] text-on-surface-variant mt-2 flex items-center gap-1"><span class="material-symbols-outlined text-xs">open_in_new</span> Deschide capitolul</p>'
+              + '</a>';
+          } else {
+            vfResult.innerHTML = '<div class="text-center py-4"><p class="text-sm text-slate-500">Versetul ' + verseNum + ' nu a fost găsit în ' + selectedBook.fullName + ' ' + selectedChapter + '</p></div>';
+          }
+        }).catch(function() {
+          vfResult.innerHTML = '<div class="text-center py-4"><p class="text-sm text-slate-500">Eroare la încărcare</p></div>';
+        });
+      }
+
+      vfSearchBtn.addEventListener('click', searchVerseResult);
+      vfVerseNum.addEventListener('keydown', function(e) { if (e.key === 'Enter') searchVerseResult(); });
+      vfReset.addEventListener('click', function() {
+        selectedBook = null;
+        selectedChapter = null;
+        searchInput.value = '';
+        searchClear.classList.add('hidden');
+        showDefault();
+        searchInput.focus();
+      });
+
+      // === CAUTA IN TEXT: full-text search ===
+      function loadVerseIndex() {
+        if (verseIndex) return Promise.resolve(verseIndex);
+        return fetch('/biblia/api/verse-search.json').then(function(r) { return r.json(); }).then(function(d) { verseIndex = d; return d; });
+      }
+
+      function highlightText(text, query) {
+        var pat = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').split('').map(function(ch) {
+          if (ch === 'a') return '[aăâ]'; if (ch === 'i') return '[iîï]'; if (ch === 's') return '[sșş]'; if (ch === 't') return '[tțţ]'; return ch;
+        }).join('');
+        return text.replace(new RegExp('(' + pat + ')', 'gi'), '<mark class="bg-primary/15 text-primary font-semibold rounded px-0.5">$1</mark>');
+      }
+
+      function performTextSearch() {
+        var query = searchInput.value.trim();
+        if (!query || query.length < 3) return;
+        hideAll();
+        textSearchLoading.classList.remove('hidden');
+        loadVerseIndex().then(function(data) {
+          var q = norm(query);
+          var results = [];
+          for (var i = 0; i < data.length && results.length < 50; i++) {
+            if (norm(data[i].t).includes(q)) results.push(data[i]);
+          }
+          textSearchLoading.classList.add('hidden');
+          if (!results.length) { noResults.classList.remove('hidden'); return; }
+          textResultsCount.textContent = results.length >= 50 ? 'Primele 50 rezultate' : results.length + (results.length === 1 ? ' rezultat' : ' rezultate');
+          textResultsCount.classList.remove('hidden');
+          var html = '';
+          results.forEach(function(v) {
+            var href = '/biblia/' + testPathFromSlug(v.b) + '/' + v.b + '/' + v.c;
+            html += '<a href="' + href + '" class="block bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-lg p-3 hover:shadow-md transition-shadow">'
+              + '<div class="flex items-center gap-2 mb-1"><span class="material-symbols-outlined text-primary/40 text-sm">menu_book</span><span class="text-[11px] font-bold text-primary dark:text-[#c4d0fd]">' + v.n + ' ' + v.c + ':' + v.v + '</span></div>'
+              + '<p class="text-xs text-on-surface dark:text-[#FAFAF9] leading-relaxed">' + highlightText(v.t, query) + '</p></a>';
+          });
+          textResults.innerHTML = html;
+          textResults.classList.remove('hidden');
+        }).catch(function() { textSearchLoading.classList.add('hidden'); noResults.classList.remove('hidden'); });
+      }
+
+      // Input handler
+      searchInput.addEventListener('input', function() {
+        var val = searchInput.value.trim();
+        searchClear.classList.toggle('hidden', !val);
+        if (searchMode === 'books') { searchBooksMode(val); }
+        else if (searchMode === 'verse') { searchVerseMode(val); }
+        else {
+          if (val.length >= 3) { hideAll(); textSearchAction.classList.remove('hidden'); }
+          else { textSearchAction.classList.add('hidden'); if (!val) showDefault(); }
+        }
+      });
+
+      searchInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' && searchMode === 'text' && searchInput.value.trim().length >= 3) {
+          e.preventDefault();
+          performTextSearch();
+        }
+      });
+
+      textSearchBtn.addEventListener('click', performTextSearch);
+
+      searchClear.addEventListener('click', function() {
+        searchInput.value = '';
+        searchClear.classList.add('hidden');
+        selectedBook = null; selectedChapter = null;
+        showDefault();
+        searchInput.focus();
+      });
+
+      // Book card click
+      bookCards.forEach(function(card) {
+        card.addEventListener('click', function() {
+          var book = { slug: card.dataset.bookSlug, testament: card.dataset.testament, chapters: parseInt(card.dataset.chapters, 10), fullName: card.dataset.fullName };
+          if (searchMode === 'verse') { selectBookForVerse(book); }
+          else { openPopup(book.slug, book.testament, book.chapters, book.fullName); }
+        });
+      });
+
+      // Chapter popup (for Caută Cărți mode)
+      function openPopup(slug, testament, chapters, fullName) {
         popupBookName.textContent = fullName;
-        const testamentPath = getTestamentPath(testament);
-        let html = '';
-        for (let i = 1; i <= chapters; i++) {
-          html += `<a href="/biblia/${testamentPath}/${slug}/${i}" class="bg-gray-50 rounded-lg border border-gray-200 h-12 flex items-center justify-center text-sm font-medium text-gray-900 hover:bg-primary hover:text-white hover:border-primary transition-colors">${i}</a>`;
+        var p = testPath(testament);
+        var html = '';
+        for (var i = 1; i <= chapters; i++) {
+          html += '<a href="/biblia/' + p + '/' + slug + '/' + i + '" class="bg-slate-50 dark:bg-[#1A1A1E] rounded-lg border border-slate-200 dark:border-[#2A2A2E] h-12 flex items-center justify-center text-sm font-medium text-on-surface dark:text-[#FAFAF9] hover:bg-primary hover:text-white hover:border-primary transition-colors">' + i + '</a>';
         }
         popupChapters.innerHTML = html;
-
         overlay.classList.remove('hidden');
         void popup.offsetHeight;
         popup.classList.remove('translate-y-full');
@@ -157,75 +545,22 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
         if (bottomNav) bottomNav.style.display = '';
       }
 
-      bookCards.forEach(card => {
-        card.addEventListener('click', () => {
-          const el = card as HTMLElement;
-          openPopup(
-            el.dataset.bookSlug!,
-            el.dataset.testament!,
-            parseInt(el.dataset.chapters!, 10),
-            el.dataset.fullName!
-          );
-        });
-      });
-
-      popupClose?.addEventListener('click', closePopup);
+      popupClose.addEventListener('click', closePopup);
       overlay.addEventListener('click', closePopup);
+      document.addEventListener('keydown', function(e) { if (e.key === 'Escape' && !overlay.classList.contains('hidden')) closePopup(); });
 
-      // In-page search for books
-      function openBibleSearch() {
-        if (searchWrapper && searchInput) {
-          searchWrapper.classList.remove('hidden');
-          searchInput.focus();
-        }
-      }
-
-      function closeBibleSearch() {
-        if (searchWrapper && searchInput) {
-          searchWrapper.classList.add('hidden');
-          searchInput.value = '';
-          filterBooks('');
-        }
-      }
-
-      function filterBooks(query: string) {
-        const q = query.toLowerCase().replace(/[ăâ]/g, 'a').replace(/[îï]/g, 'i').replace(/[șş]/g, 's').replace(/[țţ]/g, 't');
-        bookCards.forEach(card => {
-          const el = card as HTMLElement;
-          const name = (el.dataset.fullName || '').toLowerCase().replace(/[ăâ]/g, 'a').replace(/[îï]/g, 'i').replace(/[șş]/g, 's').replace(/[țţ]/g, 't');
-          el.style.display = (!q || name.includes(q)) ? '' : 'none';
-        });
-      }
-
-      // Intercept header search button to open in-page search instead
+      // Header search scrolls to bible search
+      var headerSearchBtn = document.getElementById('header-search-btn');
       if (headerSearchBtn) {
-        headerSearchBtn.replaceWith(headerSearchBtn.cloneNode(true));
-        const newBtn = document.getElementById('header-search-btn');
-        newBtn?.addEventListener('click', (e) => {
+        var newBtn = headerSearchBtn.cloneNode(true);
+        headerSearchBtn.replaceWith(newBtn);
+        newBtn.style.display = 'flex';
+        newBtn.addEventListener('click', function(e) {
           e.preventDefault();
-          e.stopPropagation();
-          openBibleSearch();
+          searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          setTimeout(function() { searchInput.focus(); }, 300);
         });
       }
-
-      searchCloseBtn?.addEventListener('click', closeBibleSearch);
-      searchInput?.addEventListener('input', (e) => {
-        filterBooks((e.target as HTMLInputElement).value);
-      });
-
-      document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') {
-          if (!overlay.classList.contains('hidden')) {
-            closePopup();
-          } else if (searchWrapper && !searchWrapper.classList.contains('hidden')) {
-            closeBibleSearch();
-          }
-        }
-      });
-    }
-
-    // Run on initial load and after View Transitions
-    initBibliaPage();
-    document.addEventListener('astro:page-load', initBibliaPage);
+    })();
   </script>
 </Base>
