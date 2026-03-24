@@ -7,8 +7,8 @@
   --color-bg: #f7f9fc;
   --color-bg-dark: #111621;
   --font-family-display: "Literata", serif;
-  --font-family-headline: "Newsreader", serif;
-  --font-family-body: "Inter", sans-serif;
+  --font-family-headline: "Literata", serif;
+  --font-family-body: "Literata", serif;
 
   /* Scholarly Editorial surface hierarchy */
   --color-surface: #ffffff;
@@ -65,4 +65,10 @@ body {
 
 .pb-safe {
   padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* Skip rendering for off-screen list items */
+.item-card {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 80px;
 }

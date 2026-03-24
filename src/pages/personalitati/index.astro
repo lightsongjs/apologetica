@@ -7,12 +7,19 @@ const sorted = personalitati.sort((a, b) => {
   return a.data.name.localeCompare(b.data.name, 'ro');
 });
 
-const INITIAL_COUNT = 20;
+const BATCH_SIZE = 50;
+const initial = sorted.slice(0, BATCH_SIZE);
+const remaining = sorted.slice(BATCH_SIZE).map(p => ({
+  slug: p.id.replace('.md', ''),
+  name: p.data.name,
+  title: p.data.title,
+  image: p.data.image,
+}));
 ---
 
 <Base title="Personalități" headerTitle="Apologetica" backHref="/" activeNav="home" activeTab="persoane">
   <!-- Search Bar -->
-  <div class="mb-6 flex flex-col items-center opacity-0" style="animation: fadeIn 0.4s ease-out forwards;">
+  <div class="mb-6 flex flex-col items-center">
     <div class="relative w-full">
       <span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-lg">search</span>
       <input
@@ -27,23 +34,17 @@ const INITIAL_COUNT = 20;
     </div>
   </div>
 
-  <!-- Dense List Layout -->
+  <!-- Cards List -->
   <div id="cards-grid" class="grid grid-cols-1 gap-3">
-    {sorted.map((p, i) => {
+    {initial.map((p) => {
       const slug = p.id.replace('.md', '');
-      const isHidden = i >= INITIAL_COUNT;
       return (
         <a
           href={`/personalitati/${slug}`}
-          class:list={[
-            "item-card flex bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-lg overflow-hidden hover:shadow-md transition-shadow duration-300 opacity-0",
-            isHidden ? "hidden" : "",
-          ]}
-          style={`animation: fadeIn 0.4s ease-out ${Math.min(i, INITIAL_COUNT) * 0.03}s forwards;`}
+          class="item-card flex bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-lg overflow-hidden hover:shadow-md transition-shadow duration-300"
           data-name={p.data.name.toLowerCase()}
           data-title={p.data.title.toLowerCase()}
         >
-          <!-- Rounded Square Image -->
           <div class="w-[80px] h-[80px] shrink-0 flex items-center justify-center p-2">
             <div class="w-full h-full rounded-2xl overflow-hidden bg-slate-100 dark:bg-[#1A1A1E] flex items-center justify-center">
               <img
@@ -56,8 +57,6 @@ const INITIAL_COUNT = 20;
               <span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E] hidden items-center justify-center w-full h-full">person</span>
             </div>
           </div>
-
-          <!-- Content -->
           <div class="p-2.5 flex flex-col justify-center min-w-0">
             <h2 class="text-sm font-bold text-primary dark:text-[#c4d0fd] truncate">{p.data.name}</h2>
             <p class="text-on-surface-variant dark:text-[#6B6B70] text-[11px] leading-tight line-clamp-2">{p.data.title}</p>
@@ -67,11 +66,10 @@ const INITIAL_COUNT = 20;
     })}
   </div>
 
-  <!-- Load More Button -->
-  <div id="load-more-container" class="mt-8 flex justify-center">
-    <button id="load-more-btn" class="text-primary italic text-sm hover:underline underline-offset-4 transition-all">
-      Încarcă mai multe personalități
-    </button>
+  <!-- Scroll sentinel + loading spinner -->
+  <div id="scroll-sentinel" class="h-1"></div>
+  <div id="loading-spinner" class="hidden flex justify-center py-6">
+    <span class="material-symbols-outlined text-primary/40 text-2xl animate-spin">progress_activity</span>
   </div>
 
   <!-- No Results -->
@@ -80,113 +78,117 @@ const INITIAL_COUNT = 20;
     <p class="text-sm text-slate-500">Nicio personalitate găsită</p>
   </div>
 
-  <style>
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(10px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
+  <script is:inline define:vars={{ remaining, BATCH_SIZE }}>
+    (function() {
+      var grid = document.getElementById('cards-grid');
+      var searchInput = document.getElementById('search-input');
+      var searchClearBtn = document.getElementById('search-clear');
+      var noResults = document.getElementById('no-results');
+      var sentinel = document.getElementById('scroll-sentinel');
+      var spinner = document.getElementById('loading-spinner');
 
-  <script define:vars={{ INITIAL_COUNT, totalCount: sorted.length }}>
-    function initPersonalitati() {
-      const searchInput = document.getElementById('search-input');
-      const searchClearBtn = document.getElementById('search-clear');
-      const cards = document.querySelectorAll('.item-card');
-      const noResults = document.getElementById('no-results');
-      const loadMoreBtn = document.getElementById('load-more-btn');
-      const loadMoreContainer = document.getElementById('load-more-container');
-
-      let showCount = INITIAL_COUNT;
-      let isSearching = false;
-
-      // Hide load more if all items shown
-      if (totalCount <= INITIAL_COUNT && loadMoreContainer) {
-        loadMoreContainer.classList.add('hidden');
-      }
-
-      // Load more handler
-      loadMoreBtn?.addEventListener('click', () => {
-        showCount = totalCount; // Show all
-        cards.forEach((card, i) => {
-          if (i >= INITIAL_COUNT) {
-            card.classList.remove('hidden');
-            card.style.animation = `fadeIn 0.3s ease-out ${(i - INITIAL_COUNT) * 0.02}s forwards`;
-          }
-        });
-        loadMoreContainer?.classList.add('hidden');
+      // All card data for search (initial cards from DOM + remaining from JSON)
+      var allCards = [];
+      var initialCards = grid.querySelectorAll('.item-card');
+      initialCards.forEach(function(card) {
+        allCards.push({ el: card, name: card.dataset.name, title: card.dataset.title });
       });
 
-      // Search handler
-      searchInput?.addEventListener('input', () => {
-        const query = searchInput.value.toLowerCase().trim();
-        isSearching = query !== '';
-        let visibleCount = 0;
+      var loadedIndex = 0;
+      var isSearching = false;
 
-        // Toggle clear button
+      function createCard(p) {
+        var a = document.createElement('a');
+        a.href = '/personalitati/' + p.slug;
+        a.className = 'item-card flex bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-lg overflow-hidden hover:shadow-md transition-shadow duration-300';
+        a.dataset.name = p.name.toLowerCase();
+        a.dataset.title = p.title.toLowerCase();
+        a.innerHTML = '<div class="w-[80px] h-[80px] shrink-0 flex items-center justify-center p-2">'
+          + '<div class="w-full h-full rounded-2xl overflow-hidden bg-slate-100 dark:bg-[#1A1A1E] flex items-center justify-center">'
+          + '<img src="' + p.image + '" alt="" class="w-full h-full object-cover grayscale" loading="lazy" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\';">'
+          + '<span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E] hidden items-center justify-center w-full h-full">person</span>'
+          + '</div></div>'
+          + '<div class="p-2.5 flex flex-col justify-center min-w-0">'
+          + '<h2 class="text-sm font-bold text-primary dark:text-[#c4d0fd] truncate">' + p.name + '</h2>'
+          + '<p class="text-on-surface-variant dark:text-[#6B6B70] text-[11px] leading-tight line-clamp-2">' + p.title + '</p>'
+          + '</div>';
+        return a;
+      }
+
+      function loadNextBatch() {
+        if (loadedIndex >= remaining.length) return false;
+        var end = Math.min(loadedIndex + BATCH_SIZE, remaining.length);
+        var fragment = document.createDocumentFragment();
+        for (var i = loadedIndex; i < end; i++) {
+          var card = createCard(remaining[i]);
+          if (isSearching) card.style.display = 'none';
+          fragment.appendChild(card);
+          allCards.push({ el: card, name: remaining[i].name.toLowerCase(), title: remaining[i].title.toLowerCase() });
+        }
+        grid.appendChild(fragment);
+        loadedIndex = end;
+        return loadedIndex < remaining.length;
+      }
+
+      // Infinite scroll
+      var observer = new IntersectionObserver(function(entries) {
+        if (!entries[0].isIntersecting || isSearching) return;
+        spinner?.classList.remove('hidden');
+        var hasMore = loadNextBatch();
+        spinner?.classList.add('hidden');
+        if (!hasMore) observer.disconnect();
+      }, { rootMargin: '300px' });
+
+      if (sentinel && remaining.length > 0) {
+        observer.observe(sentinel);
+      }
+
+      // Search — loads ALL remaining cards first so search covers everything
+      searchInput?.addEventListener('input', function() {
+        var query = searchInput.value.toLowerCase().trim();
+        isSearching = query !== '';
+        var visibleCount = 0;
+
         if (searchInput.value.trim()) {
           searchClearBtn?.classList.remove('hidden');
         } else {
           searchClearBtn?.classList.add('hidden');
         }
 
-        cards.forEach((card, i) => {
-          const name = card.dataset.name || '';
-          const title = card.dataset.title || '';
+        // Ensure all cards exist in DOM for search
+        if (isSearching && loadedIndex < remaining.length) {
+          while (loadedIndex < remaining.length) { loadNextBatch(); }
+          observer.disconnect();
+        }
 
+        for (var i = 0; i < allCards.length; i++) {
+          var c = allCards[i];
           if (isSearching) {
-            // When searching, show/hide based on match (ignore load-more state)
-            if (name.includes(query) || title.includes(query)) {
-              card.style.display = 'flex';
-              card.classList.remove('hidden');
-              card.style.opacity = '1';
+            if (c.name.includes(query) || c.title.includes(query)) {
+              c.el.style.display = 'flex';
               visibleCount++;
             } else {
-              card.style.display = 'none';
+              c.el.style.display = 'none';
             }
           } else {
-            // When not searching, restore load-more state
-            card.style.display = '';
-            card.style.opacity = '';
-            if (i >= showCount) {
-              card.classList.add('hidden');
-            } else {
-              card.classList.remove('hidden');
-            }
+            c.el.style.display = '';
             visibleCount++;
           }
-        });
+        }
 
-        // Toggle no results
         if (visibleCount === 0 && isSearching) {
           noResults?.classList.remove('hidden');
         } else {
           noResults?.classList.add('hidden');
         }
-
-        // Hide load more when searching
-        if (isSearching) {
-          loadMoreContainer?.classList.add('hidden');
-        } else if (showCount < totalCount) {
-          loadMoreContainer?.classList.remove('hidden');
-        }
       });
 
-      // Clear search
-      searchClearBtn?.addEventListener('click', () => {
+      searchClearBtn?.addEventListener('click', function() {
         searchInput.value = '';
         searchInput.dispatchEvent(new Event('input'));
         searchClearBtn.classList.add('hidden');
         searchInput?.focus();
       });
-    }
-
-    initPersonalitati();
-    document.addEventListener('astro:page-load', initPersonalitati);
+    })();
   </script>
 </Base>

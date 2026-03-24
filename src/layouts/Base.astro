@@ -1,7 +1,7 @@
 ---
 import '../styles/global.css';
 import { getCollection } from 'astro:content';
-import { ViewTransitions } from 'astro:transitions';
+// ViewTransitions removed — native navigation is faster on static sites
 import BottomNav from '../components/BottomNav.astro';
 // Settings panel handles theme toggle inline
 
@@ -48,14 +48,14 @@ const {
       })();
     </script>
 
-    <ViewTransitions />
+    <!-- No ViewTransitions — native nav is faster for static sites -->
 
     <!-- Preconnect to Google Fonts for faster loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-    <!-- Optimized font loading -->
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Inter:wght@100..900&family=Literata:wght@400;700&display=swap" rel="stylesheet" />
+    <!-- Optimized font loading: only Literata -->
+    <link href="https://fonts.googleapis.com/css2?family=Literata:wght@400;700&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@400&display=block" rel="stylesheet" />
 
     <link rel="preload" href="/search-data.json" as="fetch" crossorigin />
@@ -213,7 +213,7 @@ const {
         }
       }
       initBaseLayout();
-      document.addEventListener('astro:page-load', initBaseLayout);
+      // No astro:page-load needed — no ViewTransitions
 
       // Settings panel
       function initSettingsPanel() {
@@ -540,7 +540,7 @@ const {
         }
 
         initHeaderSearch();
-        document.addEventListener('astro:page-load', initHeaderSearch);
+        // No astro:page-load needed — no ViewTransitions
       </script>
     )}
 
