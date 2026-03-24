@@ -190,7 +190,8 @@ const {
           path === '/locuri' || path === '/locuri/' ||
           path === '/conversatii/atheist' || path === '/conversatii/atheist/' ||
           path === '/conversatii/baptist' || path === '/conversatii/baptist/' ||
-          path === '/conversatii/martorii-lui-iehova' || path === '/conversatii/martorii-lui-iehova/';
+          path === '/conversatii/martorii-lui-iehova' || path === '/conversatii/martorii-lui-iehova/' ||
+          path === '/biblia' || path === '/biblia/';
 
         const headerSearchBtn = document.getElementById('header-search-btn');
         if (headerSearchBtn) {
@@ -203,7 +204,7 @@ const {
             newBtn.style.display = 'flex';
             newBtn.addEventListener('click', (e) => {
               e.preventDefault();
-              const pageSearch = document.getElementById('search-input');
+              const pageSearch = document.getElementById('search-input') || document.getElementById('bible-search-input');
               if (pageSearch) {
                 pageSearch.scrollIntoView({ behavior: 'smooth', block: 'center' });
                 setTimeout(() => pageSearch.focus(), 300);

@@ -47,7 +47,7 @@ const remaining = sorted.slice(BATCH_SIZE).map(l => ({
         >
           <div class="w-[80px] h-[80px] shrink-0 flex items-center justify-center p-2">
             <div class="w-full h-full rounded-2xl overflow-hidden bg-slate-100 dark:bg-[#1A1A1E] relative">
-              <span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E] absolute inset-0 w-full h-full flex items-center justify-center">location_on</span>
+              <div class="absolute inset-0 flex items-center justify-center"><span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E]">location_on</span></div>
               <img
                 src={l.data.image}
                 alt=""
@@ -103,7 +103,7 @@ const remaining = sorted.slice(BATCH_SIZE).map(l => ({
         a.dataset.title = p.title.toLowerCase();
         a.innerHTML = '<div class="w-[80px] h-[80px] shrink-0 flex items-center justify-center p-2">'
           + '<div class="w-full h-full rounded-2xl overflow-hidden bg-slate-100 dark:bg-[#1A1A1E] relative">'
-          + '<span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E] absolute inset-0 w-full h-full flex items-center justify-center">location_on</span>'
+          + '<div class="absolute inset-0 flex items-center justify-center"><span class="material-symbols-outlined text-3xl text-slate-300 dark:text-[#2A2A2E]">location_on</span></div>'
           + '<img src="' + p.image + '" alt="" class="w-full h-full object-cover relative z-10" loading="lazy" onerror="this.style.display=\'none\';">'
           + '</div></div>'
           + '<div class="p-2.5 flex flex-col justify-center min-w-0">'
