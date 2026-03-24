@@ -59,7 +59,7 @@ const remaining = sorted.slice(BATCH_SIZE).map(l => ({
           </div>
           <div class="p-2.5 flex flex-col justify-center min-w-0">
             <h2 class="text-sm font-bold text-primary dark:text-[#c4d0fd] truncate">{l.data.name}</h2>
-            <p class="text-on-surface-variant dark:text-[#6B6B70] text-[11px] leading-tight line-clamp-2">{l.data.title}</p>
+            <p class="text-on-surface-variant dark:text-on-surface-variant text-[11px] leading-tight line-clamp-2">{l.data.title}</p>
           </div>
         </a>
       );
@@ -108,7 +108,7 @@ const remaining = sorted.slice(BATCH_SIZE).map(l => ({
           + '</div></div>'
           + '<div class="p-2.5 flex flex-col justify-center min-w-0">'
           + '<h2 class="text-sm font-bold text-primary dark:text-[#c4d0fd] truncate">' + p.name + '</h2>'
-          + '<p class="text-on-surface-variant dark:text-[#6B6B70] text-[11px] leading-tight line-clamp-2">' + p.title + '</p>'
+          + '<p class="text-on-surface-variant dark:text-on-surface-variant text-[11px] leading-tight line-clamp-2">' + p.title + '</p>'
           + '</div>';
         return a;
       }
