@@ -153,11 +153,47 @@ Implementation: `src/lib/wiki-links.ts` — applied to conversation responses, p
 
 ## Tech Stack
 
-- **Astro 5** (static output)
+- **Astro 5** (static output, PWA-enabled)
 - **Tailwind CSS 4** + Typography plugin
 - **Marked** for markdown → HTML (not Astro's `<Content />`)
 - **Literata** serif font (primary, everywhere), Material Symbols Outlined icons
 - Primary color: `#1A237E` (oxford-navy)
+
+---
+
+## PWA (Progressive Web App)
+
+The site is a fully offline-capable PWA. Users can install it to their home screen.
+
+### Key files
+
+| File | Purpose |
+|------|---------|
+| `public/manifest.webmanifest` | App name, icons, theme color, display mode |
+| `public/sw.js` | Service worker — caching strategies |
+| `public/pwa-192x192.png` | App icon (192×192) |
+| `public/pwa-512x512.png` | App icon (512×512) |
+| `scripts/generate-sw-precache.js` | Post-build script — generates `dist/sw-precache.json` URL list |
+
+### How caching works
+
+1. **Install**: precaches core shell (homepage, icons, search data)
+2. **Activate**: background-downloads all pages + CSS/JS assets (batches of 10)
+3. **Fetch**: stale-while-revalidate — serves from cache instantly, updates in background
+
+### Cache versioning
+
+The cache name in `public/sw.js` controls cache invalidation:
+
+```js
+const CACHE_NAME = 'apologetica-v1';
+```
+
+**Bump the version** (e.g., `v1` → `v2`) after major deploys (redesigns, structural changes). This wipes the old cache and re-downloads everything. For normal content updates (new pages, edited text), no version bump is needed — stale-while-revalidate handles it automatically.
+
+### Build
+
+`npm run build` runs `astro build` then `generate-sw-precache.js` to produce the URL manifest.
 
 ---
 
