@@ -1,5 +1,5 @@
 // Apologetica Service Worker — Full offline support
-const CACHE_NAME = 'apologetica-v1';
+const CACHE_NAME = 'apologetica-v2';
 
 // Core shell to precache on install (instant)
 const PRECACHE_URLS = [
@@ -69,24 +69,21 @@ self.addEventListener('fetch', (event) => {
   // Only handle same-origin
   if (url.origin !== self.location.origin) return;
 
-  // Everything same-origin: stale-while-revalidate
-  // Serves instantly from cache, updates in background
-  event.respondWith(staleWhileRevalidate(request));
+  // Everything same-origin: network-first, cache fallback for offline
+  event.respondWith(networkFirst(request));
 });
 
-// Serve from cache instantly, fetch update in background for next visit
-async function staleWhileRevalidate(request) {
+// Try network first, fall back to cache when offline
+async function networkFirst(request) {
   const cache = await caches.open(CACHE_NAME);
-  const cached = await cache.match(request);
-
-  // Always try to update in background
-  const fetchPromise = fetch(request).then((response) => {
+  try {
+    const response = await fetch(request);
     if (response.ok) cache.put(request, response.clone());
     return response;
-  }).catch(() => null);
-
-  // Return cached immediately if available, otherwise wait for network
-  return cached || fetchPromise;
+  } catch {
+    const cached = await cache.match(request);
+    return cached || caches.match('/');
+  }
 }
 
 // Simple cache-first for fonts
