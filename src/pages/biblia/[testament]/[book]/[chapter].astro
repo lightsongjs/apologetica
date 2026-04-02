@@ -113,10 +113,44 @@ const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
 
 <script define:vars={{ initialChapter: chapterNum, totalChapters: bookMeta.chapters, bookSlug, testament: testamentSlug }}>
   let currentChapter = initialChapter;
+  let visibleChapter = initialChapter;
   const maxChapter = totalChapters;
   let loadingNext = false;
   const contentContainer = document.getElementById('chapters-content');
   const sentinel = document.getElementById('load-sentinel');
+
+  // Update URL and localStorage as user scrolls past chapter markers
+  const chapterObserver = new IntersectionObserver((entries) => {
+    // Find the topmost visible chapter marker
+    let topChapter = null;
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const ch = parseInt(entry.target.getAttribute('data-chapter-marker'), 10);
+        if (!topChapter || ch < topChapter) topChapter = ch;
+      }
+    });
+    if (topChapter && topChapter !== visibleChapter) {
+      visibleChapter = topChapter;
+      const newPath = '/biblia/' + testament + '/' + bookSlug + '/' + topChapter;
+      history.replaceState(null, '', newPath);
+      localStorage.setItem('pwa-last-path', newPath);
+    }
+  }, { rootMargin: '-20% 0px -60% 0px' });
+
+  // Observe the initial chapter marker
+  document.querySelectorAll('[data-chapter-marker]').forEach((el) => {
+    chapterObserver.observe(el);
+  });
+
+  // Save scroll position periodically for precise restore
+  let scrollTimer = null;
+  window.addEventListener('scroll', function() {
+    clearTimeout(scrollTimer);
+    scrollTimer = setTimeout(function() {
+      localStorage.setItem('pwa-scroll-y', String(window.scrollY));
+      localStorage.setItem('pwa-scroll-path', location.pathname);
+    }, 300);
+  }, { passive: true });
 
   // Track total pericope count for alternating backgrounds across chapters
   let globalPericopeIndex = document.querySelectorAll('[data-chapter]').length;
@@ -182,6 +216,10 @@ const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
 
       globalPericopeIndex += data.pericopes.length;
       currentChapter = nextChap;
+
+      // Observe the new chapter marker for URL updates
+      const newMarker = contentContainer.querySelector('[data-chapter-marker="' + nextChap + '"]');
+      if (newMarker) chapterObserver.observe(newMarker);
     } catch (e) {
       console.error('Failed to load chapter', nextChap, e);
     }
