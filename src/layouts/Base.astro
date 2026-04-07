@@ -65,11 +65,14 @@ const {
           || path === '/biblia' || path === '/biblia/';
 
         if (isLaunchPage) {
-          // App just launched — check if we should restore a previous page
-          var saved = localStorage.getItem('pwa-last-path');
-          if (saved && saved !== '/' && saved !== '/index.html'
-            && saved !== '/biblia' && saved !== '/biblia/') {
-            location.replace(saved);
+          // Only restore once per session (sessionStorage clears when app is killed)
+          if (!sessionStorage.getItem('pwa-session-active')) {
+            sessionStorage.setItem('pwa-session-active', '1');
+            var saved = localStorage.getItem('pwa-last-path');
+            if (saved && saved !== '/' && saved !== '/index.html'
+              && saved !== '/biblia' && saved !== '/biblia/') {
+              location.replace(saved);
+            }
           }
         } else {
           // Not home — save current location for future restore
