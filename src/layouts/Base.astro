@@ -61,12 +61,14 @@ const {
         if (!isStandalone) return;
 
         var path = location.pathname;
-        var isHome = path === '/' || path === '/index.html';
+        var isLaunchPage = path === '/' || path === '/index.html'
+          || path === '/biblia' || path === '/biblia/';
 
-        if (isHome) {
+        if (isLaunchPage) {
           // App just launched — check if we should restore a previous page
           var saved = localStorage.getItem('pwa-last-path');
-          if (saved && saved !== '/' && saved !== '/index.html') {
+          if (saved && saved !== '/' && saved !== '/index.html'
+            && saved !== '/biblia' && saved !== '/biblia/') {
             location.replace(saved);
           }
         } else {

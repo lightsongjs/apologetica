@@ -3,7 +3,7 @@
   "short_name": "Apologetica",
   "description": "Apologetică Ortodoxă - Răspunsuri rapide pentru conversații",
   "lang": "ro",
-  "start_url": "/",
+  "start_url": "/biblia/",
   "scope": "/",
   "display": "standalone",
   "theme_color": "#1A237E",

@@ -1,9 +1,10 @@
 // Apologetica Service Worker — Full offline support
-const CACHE_NAME = 'apologetica-v2';
+const CACHE_NAME = 'apologetica-v3';
 
 // Core shell to precache on install (instant)
 const PRECACHE_URLS = [
   '/',
+  '/biblia/',
   '/favicon.svg',
   '/pwa-192x192.png',
   '/pwa-512x512.png',
