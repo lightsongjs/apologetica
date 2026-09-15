@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jacob Flees with Family and Flocks"
 pericope_title_ro: "Iacov fuge cu familia și turmele"
 verses_start: 1
-verses_end: 31
-verses_total: 31
+verses_end: 21
+verses_total: 21
 language: ro
 ---
 
@@ -33,13 +33,3 @@ language: ro
 19. Iar Laban, ducându-se să-şi tundă oile, Rahila a furat idolii tatălui său.
 20. Deci Iacov a înşelat pe Laban Arameul, căci nu l-a vestit că pleacă,
 21. Ci a fugit cu toate câte avea şi, trecând Eufratul, s-a îndreptat spre Muntele Galaadului.
-22. Iar a treia zi i s-a dat de ştire lui Laban Arameul, că Iacov a fugit.
-23. Atunci, luând Laban cu sine pe feciorii şi pe rudele sale, a alergat după el cale de şapte zile şi l-a ajuns la Muntele Galaadului.
-24. Dar Dumnezeu a venit la Laban Arameul noaptea în vis şi i-a zis: "Fereşte-te, nu cumva să vorbeşti lui Iacov nici de bine, nici de rău".
-25. Şi a ajuns Laban pe Iacov. Iacov însă îşi aşezase cortul său pe munte; şi tot pe Muntele Galaad şi l-a aşezat şi Laban cu rudele sale.
-26. Atunci a zis Laban către Iacov: "Ce ai făcut? Pentru ce mi-ai furat inima şi mi-ai luat fetele, ca şi cum le-ai fi robit cu sabia?
-27. Pentru ce ai fugit pe ascuns şi m-ai înşelat, în loc să mă înştiinţezi pe mine, care ţi-aş fi dat drumul cu veselie şi cu cântări din timpane şi din harfă?
-28. Ba nu mi-ai îngăduit nici măcar să-mi sărut nepoţii şi fetele mele. Te-ai purtat, aşadar, ca un om fără de minte.
-29. Şi acum mâna mea cea puternică ar putea să-ţi facă rău. Dar Dumnezeul tatălui tău mi-a vorbit ieri şi mi-a zis: "Fereşte-te, nu cumva să vorbeşti lui Iacov nici de bine, nici de rău!"
-30. Să zicem că ai plecat, pentru că cu mare aprindere doreai casa tatălui tău. Dar atunci de ce mi-ai furat dumnezeii mei?"
-31. Atunci răspunzând Iacov, a zis către Laban: "M-am temut, căci ziceam: Nu cumva să-ţi iei fetele de la mine şi toate ale mele.

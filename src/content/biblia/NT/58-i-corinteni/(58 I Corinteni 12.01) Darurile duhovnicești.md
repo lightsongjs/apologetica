@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Spiritual Gifts"
 pericope_title_ro: "Darurile duhovnicești"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,4 +23,3 @@ language: ro
 9. Şi unuia i se dă întru acelaşi Duh credinţă, iar altuia, darurile vindecărilor, întru acelaşi Duh;
 10. Unuia faceri de minuni, iar altuia proorocie; unuia deosebirea duhurilor, iar altuia feluri de limbi şi altuia tălmăcirea limbilor.
 11. Şi toate acestea le lucrează unul şi acelaşi Duh, împărţind fiecăruia deosebi, după cum voieşte.
-12. Căci precum trupul unul este, şi are mădulare multe, iar toate mădularele trupului, multe fiind, sunt un trup, aşa şi Hristos.

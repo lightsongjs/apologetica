@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Peaceful Kingdom"
 pericope_title_ro: "Împărăția de pace"
 verses_start: 1
-verses_end: 11
-verses_total: 11
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,5 +21,3 @@ language: ro
 7. Juninca se va duce la păscut împreună cu ursoaica şi puii lor vor sălăşlui la un loc, iar leul ca şi boul va mânca paie;
 8. Pruncul de ţâţă se va juca lângă culcuşul viperei şi în vizuina şarpelui otrăvitor copilul abia înţărcat îşi va întinde mâna.
 9. Nu va fi nici o nenorocire şi nici un prăpăd în tot muntele Meu cel sfânt! Că tot pământul este plin de cunoştinţa şi de temerea de Dumnezeu, precum marea este umplută de ape!
-10. Şi în vremea aceea, Mlădiţa cea din rădăcina lui Iesei, va fi ca un steag pentru popoare; pe Ea o vor căuta neamurile şi sălaşul Ei va fi plin de slavă.
-11. în ziua aceea, Domnul va ridica din nou mâna Sa ca să răscumpere rămăşiţa poporului Său dintre robii din Asiria şi din Egipt, din Patros, din Etiopia, din Elam, din Babilon, din Hamat şi din insulele mării.

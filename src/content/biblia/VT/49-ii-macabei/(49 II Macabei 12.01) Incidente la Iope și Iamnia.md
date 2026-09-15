@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Incidents at Joppa and Jamnia"
 pericope_title_ro: "Incidente la Iope și Iamnia"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,6 +21,3 @@ language: ro
 7. Şi oraşul fiind închis, s-a întors ca să vină a doua oară, şi toată cetatea Iafa de tot să o distrugă.
 8. Aflând că şi cei din Iamnia vreau să facă la fel Iudeilor care locuiau la ei,
 9. Năvălind asupra locuitorilor din Iamnia noaptea, a aprins portul cu corăbiile, încât se vedea lumina flăcării din Ierusalim, de la o depărtare de două sute patruzeci de stadii.
-10. Şi de acolo mergând nouă stadii, îndreptându-se asupra lui Timotei, au năvălit Arabii asupra lui Iuda ca la cinci mii cinci sute de călăreţi.
-11. Şi făcându-se război tare, şi, cu ajutorul lui Dumnezeu biruind cei care erau cu Iuda, şi împuţinându-se Arabii, s-au rugat de Iuda să facă pace cu ei, făgăduind că-i vor da dobitoace, şi întru celelalte îi vor folosi.
-12. Iar Iuda, socotind cu adevărat că în multe îi vor fi de folos, le-a dat pace şi, primind învoiala cu ei, s-au dus la corturile lor.

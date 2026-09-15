@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Bezalel and Oholiab"
 pericope_title_ro: "Bețaleel și Ooliav"
 verses_start: 1
-verses_end: 31
-verses_total: 18
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,10 +23,3 @@ language: ro
 9. Jertfelnicul pentru arderile de tot cu toate obiectele lui; baia şi postamentul ei;
 10. ţesăturile pentru înveliş, veşmintele sfinţite pentru Aaron preotul şi veşmintele de slujbă pentru fiii lui;
 11. Mirul pentru ungere şi aromatele mirositoare pentru locaşul cel sfânt; toate le vor face ei aşa, cum ti-am poruncit Eu ţie".
-12. Şi a mai vorbit Domnul cu Moise şi a zis:
-13. "Spune fiilor lui Israel aşa: Băgaţi de seamă să păziţi zilele Mele de odihnă, căci acestea sunt semn între Mine şi voi din neam în neam, ca să ştiţi că Eu sunt Domnul, Cel ce vă sfinţeşte.
-14. Păziţi deci ziua de odihnă, căci ea este sfântă pentru voi. Cel ce o va întina, acela va fi omorât; tot cel ce va face într-însa vreo lucrare, sufletul acela va fi stârpit din poporul Meu;
-15. Şase zile să lucreze, iar ziua a şaptea este zi de odihnă, închinată Domnului; tot cel ce va munci în ziua odihnei va fi omorât.
-16. Să păzească deci fiii lui Israel ziua odihnei, prăznuind ziua odihnei din neam în neam, ca un legământ veşnic.
-17. Acesta este semn veşnic între Mine şi fiii lui Israel, pentru că în şase zile a făcut Domnul cerul şi pământul, iar în ziua a şaptea a încetat şi S-a odihnit".
-18. După ce a încetat Dumnezeu de a grăi cu Moise, pe Muntele Sinai, i-a dat cele două table ale legii, table de piatră, scrise cu degetul lui Dumnezeu.

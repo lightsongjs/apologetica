@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Military Divisions"
 pericope_title_ro: "Diviziile militare"
 verses_start: 1
-verses_end: 27
-verses_total: 27
+verses_end: 15
+verses_total: 15
 language: ro
 ---
 
@@ -27,15 +27,3 @@ language: ro
 13. A zecea căpetenie, pentru luna a zecea, era Maherai din Netofat, din familia lui Zara; şi în ceata lui erau douăzeci şi patru de mii.
 14. A unsprezecea căpetenie, pentru luna a unsprezecea, era Benaia din Piraton, din fiii lui Efraim; şi în ceata lui erau douăzeci şi patru de mii.
 15. A douăsprezecea căpetenie, pentru luna a douăsprezecea, era Heldai din Netofat, din urmaşii lui Otniel; şi în ceata lui erau douăzeci şi patru de mii.
-16. Iar peste triburile lui Israel căpetenii înalte erau: la Rubeniţi, Eliezer, fiul lui Zicri; la Simeon, Şefatia, fiul lui Maaca;
-17. La leviţi era Haşabia, fiul lui Chemuel; la Aaron era Ţadoc;
-18. La Iuda era Elihu, din fraţii lui David; la Isahar era Omri, fiul lui Micael;
-19. La Zabulon era Işmaia, fiul lui Obadia; la Neftali era Ierimot, fiul lui Azriel;
-20. La fiii lui Efraim era Hoseia, fiul lui Azazia; la jumătatea de trib a lui Manase era Ioil, fiul lui Pedaia;
-21. La jumătatea de trib al lui Manase din Galaad, era Ido, fiul lui Zaharia; la Veniamin era Iaasiel, fiul lui Abner;
-22. La Dan era Azareel, fiul lui Ieroham. Iată căpeteniile triburilor lui Israel.
-23. David n-a făcut numărătoarea acelora, care erau de la douăzeci de ani în jos, pentru că Domnul zisese că El va înmulţi pe Israel ca stelele cerului.
-24. Ioab, fiul Ţeruiei, începuse să facă numărătoarea, dar nu o sfârşise. Şi pentru aceasta a venit mânia lui Dumnezeu asupra lui Israel şi numărătoarea aceea n-a intrat în cronica regelui David.
-25. Peste vistieriile regale era Azmavet, fiul lui Adiel, iar peste depozitele de provizii de la câmp, de prin cetăţi şi de prin sate şi turnuri era Ionatan, fiul lui Uzia.
-26. Peste cei ce se îndeletniceau cu lucrul câmpului, cu agricultura, era Ezri, fiul lui Chelub.
-27. Peste vii era Şimei din Rama, iar peste depozitele de vin din vii era Zabdi, fiul lui Şifmi.

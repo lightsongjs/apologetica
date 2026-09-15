@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Being Subject to Authorities"
 pericope_title_ro: "Supunerea față de autorități"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 7
+verses_total: 7
 language: ro
 ---
 
@@ -19,9 +19,3 @@ language: ro
 5. De aceea este nevoie să vă supuneţi, nu numai pentru mânie, ci şi pentru conştiinţă.
 6. Că pentru aceasta plătiţi şi dări. Căci (dregătorii) sunt slujitorii lui Dumnezeu, stăruind în această slujire neîncetat.
 7. Daţi deci tuturor cele ce sunteţi datori: celui cu darea, darea; celui cu vama, vamă; celui cu teama, teamă; celui cu cinstea, cinste.
-8. Nimănui cu nimic nu fiţi datori, decât cu iubirea unuia faţă de altul; că cel care iubeşte pe aproapele a împlinit legea.
-9. Pentru că (poruncile): Să nu săvârşeşti adulter; să nu ucizi; să nu furi; să nu mărturiseşti strâmb; să nu pofteşti... şi orice altă poruncă ar mai fi se cuprind în acest cuvânt: Să iubeşti pe aproapele tău ca pe tine însuţi.
-10. Iubirea nu face rău aproapelui; iubirea este deci împlinirea legii.
-11. Şi aceasta, fiindcă ştiţi în ce timp ne găsim, căci este chiar ceasul să vă treziţi din somn; căci acum mântuirea este mai aproape de noi, decât atunci când am crezut.
-12. Noaptea e pe sfârşite; ziua este aproape. Să lepădăm dar lucrurile întunericului şi să ne îmbrăcăm cu armele luminii.
-13. Să umblăm cuviincios, ca ziua: nu în ospeţe şi în beţii, nu în desfrânări şi în fapte de ruşine, nu în ceartă şi în pizmă;

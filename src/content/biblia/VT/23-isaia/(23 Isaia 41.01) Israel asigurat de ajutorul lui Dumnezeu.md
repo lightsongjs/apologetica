@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Israel Assured of God's Help"
 pericope_title_ro: "Israel asigurat de ajutorul lui Dumnezeu"
 verses_start: 1
-verses_end: 41
-verses_total: 29
+verses_end: 20
+verses_total: 20
 language: ro
 ---
 
@@ -32,12 +32,3 @@ language: ro
 18. Pe dealuri înalte voi da drumul la râuri şi la izvoare în mijlocul văilor, pustiul îl voi preface în iaz şi pământul uscat în pâraie de apă!
 19. Sădi-voi în pustiu: cedri, salcâmi, mirţi şi măslini şi în lacuri neumblate: chiparoşi, platani şi ienuperi laolaltă,
 20. Ca să vadă şi să-şi dea seama, să cerceteze şi să priceapă cu toţii că mâna Domnului a făcut acestea şi că Sfântul lui Israel le-a zidit!
-21. Veniţi şi vă apăraţi pricina voastră, zice Domnul; apropiaţi-vă cu dovezile voastre, zice regele lui Iacov.
-22. Să se apropie şi să ne spună mai dinainte ceea ce va fi! Vremea cea străveche, aşa cum ne-au dat de ştire, cu de-amănuntul o vom cerceta şi viitorul pe care-l proorocesc vom vedea ce este.
-23. Vestiţi cele ce vor fi în vremile mai de pe urmă, ca să ştim că sunteţi dumnezei! Haidem! Bine sau rău, faceţi ceva ca să ne putem încerca puterea!
-24. Dar iată că lucrarea voastră este nimic şi nimic sânte]i şi voi, urâciune este a vă alege!
-25. De la miazănoapte l-am chemat ca să vină, de la răsărit l-am chemat pe nume. El a călcat în picioare pe satrapi ca pe noroi, cum calcă olarul lutul.
-26. Cine l-a descoperit odinioară ca să-l ştim şi cu mult înainte ca să zicem: "Este adevărat?" Dar nimeni n-a descoperit nimic, nimeni n-a vestit nimic şi nimeni n-a auzit cuvintele voastre.
-27. Eu Cel dintâi am zis Sionului: "Iată-i, iată-i!" şi Ierusalimului am adus veste nouă.
-28. Privesc şi nu este nimeni; printre ei nu se află nici un profet. Eu îi întreb: "De unde vine el?" Dar ei nu răspund nimic!
-29. Drept aceea, toţi sunt nimic, lucrările lor deşertăciune, idolii lor sunt vânare de vânt!

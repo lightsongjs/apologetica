@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Rape of Dinah"
 pericope_title_ro: "Violarea Dinei"
 verses_start: 1
-verses_end: 34
-verses_total: 31
+verses_end: 24
+verses_total: 24
 language: ro
 ---
 
@@ -36,10 +36,3 @@ language: ro
 22. Dar oamenii aceştia numai aşa se învoiesc să trăiască cu noi şi să fie un popor cu noi, dacă şi la noi se vor tăia împrejur toţi cei de parte bărbătească, cum sunt ei tăiaţi împrejur.
 23. Turmele lor, vitele lor şi toate averile lor nu sunt, oare, ale noastre? Să le plinim voia lor, iar ei să se aşeze printre noi!"
 24. Şi au ascultat pe Hemor şi pe Sichem, feciorul lui, toţi cei ce ieşeau pe poarta cetăţii lor şi au fost tăiaţi împrejur toţi cei de parte bărbătească, câţi ieşeau pe poarta cetăţii lor.
-25. Iar a treia zi, când erau ei încă în dureri, cei doi fiii ai lui Iacov, Simeon şi Levi, fraţii Dinei, şi-au luat fiecare sabia şi au intrat fără teamă în cetate şi au ucis pe toţi cei de parte bărbătească.
-26. Au trecut prin ascuţişul sabiei şi pe Hemor şi pe fiul său Sichem şi au luat pe Dina din casa lui Sichem şi au plecat.
-27. Apoi fiii lui Iacov se năpustiră asupra celor morţi şi jefuiră cetatea în care fusese necinstită Dina, sora lor.
-28. Au luat toate oile lor, toţi boii lor, toţi asinii lor, tot ce era în cetate şi tot ce era pe câmp;
-29. Toate bogăţiile lor, toţi copiii şi femeile le-au dus în robie; şi au jefuit tot ce era în cetate şi tot ce era prin case.
-30. Atunci Iacov a zis către Simeon şi către Levi: "Mare tulburare mi-aţi adus, făcându-mă urât înaintea tuturor locuitorilor ţării acesteia, înaintea Canaaneilor şi a Ferezeilor. Eu am oameni puţini la număr; se vor ridica asupra mea şi mă vor ucide şi voi pieri şi eu şi casa mea".
-31. Iar ei au zis: "Dar se putea, oare, ca ei să se poarte cu sora noastră ca şi cu o femeie pierdută?"

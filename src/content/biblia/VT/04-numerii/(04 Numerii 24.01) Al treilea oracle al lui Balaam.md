@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Balaam’s Third Oracle"
 pericope_title_ro: "Al treilea oracle al lui Balaam"
 verses_start: 1
-verses_end: 24
-verses_total: 24
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,13 +26,3 @@ language: ro
 12. Valaam însă a zis către Balac: "N-am spus eu oare solilor tăi pe care i-ai trimis la mine:
 13. Chiar de mi-ar da Balac casa sa plină de argint şi de aur, nu voi putea să calc porunca Domnului, ca să fac ceva bun sau rău după placul meu; câte-mi va spune Domnul, acelea le voi grăi?
 14. Deci, iată, mă duc repede în ţara mea; dar vino să-ţi spun ce are să facă poporul acesta cu poporul tău în vremurile viitoare".
-15. Şi şi-a urmat Valaam cuvântul său şi a zis: "Aşa grăieşte Valaam, fiul lui Beor; aşa grăieşte bărbatul cel ce vede cu adevărat,
-16. Cel ce ascultă cuvintele lui Dumnezeu, cel ce are ştiinţă de la Cel Preaînalt şi vede descoperirile lui Dumnezeu, ca în vis, dar ochii îi sunt deschişi:
-17. Îl văd, dar acum încă nu este; îl privesc, dar nu de aproape; o stea răsare din Iacov; un toiag se ridică din Israel şi va lovi pe căpeteniile Moabului şi pe toţi fiii lui Set îi va zdrobi.
-18. Lua-va de moştenire pe Edom şi va stăpâni Seirul vrăjmaşilor săi şi Israel îşi va arăta puterea.
-19. Din Iacov se va scula Cel ce va stăpâni cu putere şi va pierde pe cei ce vor rămâne în cetate".
-20. Apoi văzând pe Amalec, şi-a urmat cuvântul şi a zis: "Cel întâi dintre popoare e Amalec, dar şi neamul lui va pieri".
-21. Văzând după aceea pe Chenei, şi-a urmat cuvântul şi a zis: "Locuinţa ta e tare şi cuibul tău e aşezat pe stâncă;
-22. Dar Cain va fi dărâmat şi nu este mult până ce Asur te va duce în robie".
-23. Iar când a văzut pe Og, şi-a urmat cuvântul şi a zis: "Vai, vai, cine va mai trăi când Dumnezeu va aduce acestea!
-24. Veni-vor corăbii de la Chitim şi vor smeri pe Asur, vor smeri pe Heber, dar şi acelea vor pieri".

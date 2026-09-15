@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Parable of the Ten Bridesmaids"
 pericope_title_ro: "Pilda celor zece fecioare"
 verses_start: 1
-verses_end: 25
-verses_total: 25
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,15 +25,3 @@ language: ro
 11. Iar mai pe urmă, au sosit şi celelalte fecioare, zicând: Doamne, Doamne, deschide-ne nouă.
 12. Iar el, răspunzând, a zis: Adevărat zic vouă: Nu vă cunosc pe voi.
 13. Drept aceea, privegheaţi, că nu ştiţi ziua, nici ceasul când vine Fiul Omului.
-14. Şi mai este ca un om care, plecând departe, şi-a chemat slugile şi le-a dat pe mână avuţia sa.
-15. Unuia i-a dat cinci talanţi, altuia doi, altuia unul, fiecăruia după puterea lui şi a plecat.
-16. Îndată, mergând, cel ce luase cinci talanţi a lucrat cu ei şi a câştigat alţi cinci talanţi.
-17. De asemenea şi cel cu doi a câştigat alţi doi.
-18. Iar cel ce luase un talant s-a dus, a săpat o groapă în pământ şi a ascuns argintul stăpânului său.
-19. După multă vreme a venit şi stăpânul acelor slugi şi a făcut socoteala cu ele.
-20. Şi apropiindu-se cel care luase cinci talanţi, a adus alţi cinci talanţi, zicând: Doamne, cinci talanţi mi-ai dat, iată alţi cinci talanţi am câştigat cu ei.
-21. Zis-a lui stăpânul: Bine, slugă bună şi credincioasă, peste puţine ai fost credincioasă, peste multe te voi pune; intră întru bucuria domnului tău.
-22. Apropiindu-se şi cel cu doi talanţi, a zis: Doamne, doi talanţi mi-ai dat, iată alţi doi talanţi am câştigat cu ei.
-23. Zis-a lui stăpânul: Bine, slugă bună şi credincioasă, peste puţine ai fost credincioasă, peste multe te voi pune; intră întru bucuria domnului tău.
-24. Apropiindu-se apoi şi cel care primise un talant, a zis: Doamne, te-am ştiut că eşti om aspru, care seceri unde n-ai semănat şi aduni de unde n-ai împrăştiat.
-25. Şi temându-mă, m-am dus de am ascuns talantul tău în pământ; iată ai ce este al tău.

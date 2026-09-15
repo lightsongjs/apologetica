@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The New Life in Christ"
 pericope_title_ro: "Noua viață în Hristos"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 8
+verses_total: 8
 language: ro
 ---
 
@@ -20,7 +20,3 @@ language: ro
 6. Dar avem felurite daruri, după harul ce ni s-a dat. Dacă avem proorocie, să proorocim după  măsura credinţei;
 7. Dacă avem slujbă, să stăruim în slujbă; dacă unul învaţă, să se sârguiască în învăţătură;
 8. Dacă îndeamnă, să fie la îndemnare; dacă împarte altora, să împartă cu firească nevinovăţie; dacă stă în frunte, să fie cu tragere de inimă; dacă miluieşte, să miluiască cu voie bună!
-9. Dragostea să fie nefăţarnică. Urâţi răul, alipiţi-vă de bine.
-10. În iubire frăţească, unii pe alţii iubiţi-vă; în cinste, unii altora daţi-vă întâietate.
-11. La sârguinţă, nu pregetaţi; cu duhul fiţi fierbinţi; Domnului slujiţi.
-12. Bucuraţi-vă în nădejde; în suferinţă fiţi răbdători; la rugăciune stăruiţi.

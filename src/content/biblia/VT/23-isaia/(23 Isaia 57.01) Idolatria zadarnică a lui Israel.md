@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Israel's Futile Idolatry"
 pericope_title_ro: "Idolatria zadarnică a lui Israel"
 verses_start: 1
-verses_end: 57
-verses_total: 21
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,11 +25,3 @@ language: ro
 11. De cine îţi era frică? De cine te temeai ca să Mă mânii pe Mine, să nu-ţi mai aduci aminte şi nici să nu-ţi mai pese? Fiindcă n-am deschis gura şi am închis ochii, tu nu te-ai temut de Mine!
 12. Eu îţi voi face ştiută dreptatea ta, căci lucrurile tale nu slujesc la nimic.
 13. Când tu vei striga, să te izbăvească idolii tăi! Pe toţi ii va duce vântul Şi o suflare îi va face nevăzuţi! Dar cel care îşi pune nădejdea în Mine va moşteni pământul şi va stăpâni în muntele cel sfânt.
-14. Şi li se va zice: Gătiţi, gătiţi, faceţi drum, daţi la o parte orice piedică din calea poporului Meu.
-15. Că aşa zice Domnul, a Cărui locuinţă este veşnică şi al Cărui nume este sfânt: Sălăşluiesc într-un loc înalt şi sfânt şi sunt cu cei smeriţi şi înfrânţi, ca să înviorez pe cei cu duhul umilit şi să îmbărbătez pe cei cu inima frântă.
-16. Căci nu vreau să cert totdeauna şi să stărui în mânie, căci înaintea Mea ar cădea în nesimţire duhul şi sufletele pe care le-am creat.
-17. Pentru fărădelegea sa, M-am întărâtat o clipă şi, stând ascuns, l-am lovit întru mânia Mea. Şi el, răzvrătit, mergea pe calea inimii sale!
-18. Am văzut căile sale şi îl voi vindeca, îl voi povăţui, îl voi odihni şi îl voi mângâia.
-19. Şi cei care îl jeleau vor izbucni în cântări de mulţumire. Pace, pace celor de aproape şi celor de departe, zice Domnul, şi Eu îl voi tămădui.
-20. Cei fără de lege sunt ca marea cea înviforată, care nu se poate astâmpăra şi valurile ei scormonesc tină şi nămol.
-21. Cei fără de lege n-au pace, zice Domnul.

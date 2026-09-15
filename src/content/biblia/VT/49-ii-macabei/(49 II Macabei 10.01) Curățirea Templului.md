@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Purification of the Temple"
 pericope_title_ro: "Curățirea Templului"
 verses_start: 1
-verses_end: 10
-verses_total: 10
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,4 +21,3 @@ language: ro
 7. Pentru aceea stâlpări şi ramuri frumoase, precum şi finici având, laude dădeau Celui care îi învrednicise să sfinţească templul.
 8. Şi a poruncit cu poruncă de obşte şi cu rânduială la tot neamul iudeu, ca din an în an să ţină zilele acestea.
 9. Şi aşa a fost sfârşitul lui Antioh care s-a numit Epifaniu.
-10. Şi acum, vom arăta pe scurt, cele întâmplate în vremea lui Eupator Antioh, fiul nelegiuitului Antioh, spunând relele care s-au întâmplat din războaie.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "A Prayer for God’s People"
 pericope_title_ro: "Rugăciune pentru poporul lui Dumnezeu"
 verses_start: 1
-verses_end: 36
-verses_total: 28
+verses_end: 22
+verses_total: 22
 language: ro
 ---
 
@@ -34,9 +34,3 @@ language: ro
 20. Pântecele primeşte mâncare, însă este o bucată mai bună decât altă bucată.
 21. Gâtlejul cu gustul alege bucatele vânatului; aşa inima cea înţeleaptă, cuvintele cele mincinoase.
 22. Inima îndărătnică aduce mâhnire, însă omul cel învăţat ştie să stea împotriva ei.
-23. Femeia primeşte orice bărbat, dar sunt fete mai bune decât altele.
-24. Frumuseţea femeii veseleşte faţa şi covârşeşte toată pofta omului.
-25. De este pe limba ei milă şi blândeţe, atunci bărbatul ei este rar între oameni.
-26. Cel care îşi câştigă o asemenea femeie are bună agonisită, ajutor după sine şi stâlp de odihnă.
-27. Unde nu este gard, se va jefui agoniseala; şi unde nu este femeie, acolo este suspin şi neorânduială.
-28. Că cine va crede tâlharului celui sprinten, care umblă din cetate în cetate? Aşa şi omului care n-are cuib şi sălăşluieşte oriunde înserează.

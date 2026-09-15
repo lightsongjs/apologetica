@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Deceptiveness of Appearances"
 pericope_title_ro: "Înșelăciunea aparențelor"
 verses_start: 1
-verses_end: 11
-verses_total: 11
+verses_end: 6
+verses_total: 6
 language: ro
 ---
 
@@ -18,8 +18,3 @@ language: ro
 4. Cu îmbrăcămintea hainelor să nu te lauzi, nici în ziua măririi să nu te trufeşti, că minunate sunt lucrurile Domnului şi ascunse faptele Lui între oameni.
 5. Mulţi tirani au căzut pe pământ, iar cel la care nu se gândea nimeni a purtat stema.
 6. Mulţi puternici au fost necinstiţi foarte şi cei măreţi au fost daţi în mâinile altora.
-7. Mai înainte de a cerceta, nu huli; cunoaşte întâi şi atunci dojeneşte.
-8. Mai înainte de a nu auzi, nu răspunde; şi nu tăia nimănui şirul cuvintelor.
-9. Pentru lucrul care nu-ţi este de folos, nu te certa şi la judecata păcătoşilor să nu stai împreună cu ei.
-10. Fiule! Nu te amesteca în multe lucruri,
-11. Că de te vei amesteca în multe lucruri, nu vei fi fără de vină.

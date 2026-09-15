@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Other Half-Tribe of Manasseh (West)"
 pericope_title_ro: "Cealaltă jumătate din seminția lui Manase (Vest)"
 verses_start: 1
-verses_end: 17
-verses_total: 17
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,7 +25,3 @@ language: ro
 11. În Isahar şi Aşer sunt ale lui Manase: Bet-Şean cu locurile care se ţin de el, Ibleam cu locurile care se ţin de el, locuitorii din Dor şi din locurile care lin de el, locuitorii din En-Dor şi locurile care ţin de el, locuitorii din Taanac şi locurile care ţin de el, locuitorii Meghidonului şi locurile care ţin de el, şi a treia parte din Nafet cu satele lui.
 12. Fiii lui Manase n-au putut alunga pe locuitorii acestor oraşe şi Canaaneii au rămas să locuiască în ţara lui.
 13. Când fiii lui Israel au ajuns puternici, atunci Canaaneii au fost făcuţi birnici ai lor, dar de alungat nu i-au alungat.
-14. Fiii lui Iosif au zis către Iosua: "Pentru ce ne-ai dat o singură parte şi un singur sorţ, când noi suntem mulţi, de vreme ce ne-a binecuvântat aşa Domnul?"
-15. Şi Iosua le-a răspuns: "Dacă sunteţi mulţi, duceţi-vă în păduri şi acolo, în ţara Ferezeilor şi Refaimilor, căutaţi-vă loc, dacă muntele Efraim vă e strâmt!"
-16. Iar fiii lui Iosif au zis: "Muntele nu va rămâne al nostru, pentru că toţi Canaaneii care locuiesc în vale au căruţe de fier, atât cei din Bet-Şean şi din locurile care ţin de ea, cât şi cei din şesul Izreel".
-17. Dar Iosua a zis către casa lui Iosif, lui Efraim şi lui Manase: "Tu eşti mult la număr şi ai putere multă. Deci nu vei avea numai o parte.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Joseph Interprets Pharaoh’s Dream"
 pericope_title_ro: "Iosif tâlcuiește visul Faraonului"
 verses_start: 1
-verses_end: 41
-verses_total: 41
+verses_end: 36
+verses_total: 36
 language: ro
 ---
 
@@ -48,8 +48,3 @@ language: ro
 34. Să poruncească dar Faraon să se pună supraveghetori peste ţară, ca să adune în cei şapte ani de belşug a cincea parte din toate roadele pământului Egiptului.
 35. Să strângă aceia toată pâinea de prisos în aceşti ani buni ce vin şi s-o adune în cetăţile pâinii, sub mâna lui Faraon, şi să o păstreze spre hrană;
 36. Hrana aceasta va fi de rezervă în ţară pentru cei şapte ani de foamete, care vor urma în ţara Egiptului, ca să nu piară ţara de foame".
-37. Aceasta a plăcut lui Faraon şi tuturor dregătorilor lui.
-38. Şi a zis Faraon către toţi dregătorii săi: "Am mai putea găsi, oare, un om, ca el, în care să fie duhul lui Dumnezeu?"
-39. Apoi a zis Faraon către Iosif: "De vreme ce Dumnezeu ţi-a descoperit toate acestea, nu se află om mai înţelept şi mai priceput decât tine.
-40. Să fii dar tu peste casa mea. De cuvântul tău se va povăţui tot poporul meu şi numai prin tronul meu voi fi mai mare decât tine!"
-41. Apoi Faraon a zis lui Iosif: "Iată, eu te pun astăzi peste tot pământul Egiptului!"

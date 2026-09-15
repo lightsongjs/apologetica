@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Intertribal Dissension"
 pericope_title_ro: "Neînțelegeri între triburi"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 7
+verses_total: 7
 language: ro
 ---
 
@@ -19,8 +19,3 @@ language: ro
 5. Şi au luat Galaaditenii vadul Iordanului de la Efraimiţi şi când vreunul din Efraimiţi zicea: "Îngăduie-mi să trec", atunci oamenii din Galaad îi răspundeau: "Nu cumva eşti Efraimit?" Acela răspundea: "Nu!"
 6. Ei însă îi ziceau: "Zi: Şibbolet"; el însă zicea: "Sibbolet", că nu putea zice altfel. Atunci ei îl luau şi-l junghiau acolo la vadul Iordanului. Şi au căzut în vremea aceea din Efraimiţi patruzeci şi două de mii.
 7. Şi a fost Ieftae judecător în Israel şase ani; apoi a murit Ieftae Galaaditeanul şi a fost îngropat în unul din oraşele Galaadului.
-8. După el a fost judecător în Israel Ibţan din Betleem.
-9. Acesta a avut treizeci de feciori şi treizeci de fete a dat el din casa sa în căsătorie, iar treizeci de fete a luat de afară pentru fiii săi şi a fost judecător în Israel şapte ani.
-10. Apoi a murit Ibţan şi a fost îngropat în Betleem.
-11. După dânsul a fost judecător în Israel Elon Zabuloneanul şi a judecat pe Israel zece ani.
-12. Apoi a murit Elon Zabuloneanul şi a fost înmormântat la Aialon, în pământul lui Zabulon.

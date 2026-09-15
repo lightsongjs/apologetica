@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Potter and the Clay"
 pericope_title_ro: "Olarul și lutul"
 verses_start: 1
-verses_end: 18
-verses_total: 18
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,10 +23,3 @@ language: ro
 9. Şi dacă acela va face rele înaintea ochilor Mei şi nu va asculta de glasul Meu, atunci voi schimba binele cu care voiam să-l fericesc.
 10. Spune deci bărbaţilor lui Iuda şi locuitorilor Ierusalimului: Aşa zice Domnul: Iată, Eu vă gătesc rele şi uneltiri împotriva voastră. Aşadar să se întoarcă fiecare de la calea lui cea rea; îndreptaţi-vă căile şi purtările voastre!
 11. Dar ei zic: "Este zadarnic! Noi vom trăi după gândul nostru şi ne vom purta fiecare după învârtoşarea inimii noastre celei rele".
-12. De aceea, aşa zice Domnul: "Întrebaţi popoarele: Auzit-a oare cineva asemenea lucru? Lucruri peste măsură de urâcioase a făcut fecioara lui Israel.
-13. Părăseşte oare zăpada Libanului stânca muntelui? Ori seacă apele ce vin de departe şi sunt reci şi curgătoare?
-14. Poporul Meu însă M-a părăsit. Tămâiază idoli, s-a poticnit în căile sale şi a părăsit căile cele vechi, ca să umble pe poteci şi pe drumuri nebătătorite, ca să-şi facă ţara grozăvie şi batjocură veşnică,
-15. Încât tot cel ce va trece prin aceasta să se mire şi să clatine din cap.
-16. Îi voi spulbera înaintea vrăjmaşilor ca vântul cel de la răsărit, şi nu faţa, ci spatele îl voi întoarce spre ei în ziua necazului lor".
-17. Zis-au ei: "Veniţi să uneltim împotriva lui Ieremia, că nu va pieri legea din mâna preotului, nici sfatul de la înţelept, nici cuvântul (lui Dumnezeu) de la prooroc. Veniţi să-l biruim cu limba şi să nu luăm aminte la cuvintele lui!
-18. Ia aminte la mine, Doamne, şi auzi glasul potrivnicilor mei!

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Parable of the Sower"
 pericope_title_ro: "Pilda semănătorului"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,7 +21,3 @@ language: ro
 7. Altele au căzut între spini, dar spinii au crescut şi le-au înăbuşit.
 8. Altele au căzut pe pământ bun şi au dat rod: una o sută, alta şaizeci, alta treizeci.
 9. Cine are urechi de auzit să audă.
-10. Şi ucenicii, apropiindu-se de El, I-au zis: De ce le vorbeşti lor în pilde?
-11. Iar El, răspunzând, le-a zis: Pentru că vouă vi s-a dat să cunoaşteţi tainele împărăţiei cerurilor, pe când acestora nu li s-a dat.
-12. Căci celui ce are i se va da şi-i va prisosi, iar de la cel ce nu are, şi ce are i se va lua.
-13. De aceea le vorbesc în pilde, că, văzând, nu văd şi, auzind, nu aud, nici nu înţeleg.

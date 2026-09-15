@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jacob Brings His Whole Family to Egypt"
 pericope_title_ro: "Iacov își aduce toată familia în Egipt"
 verses_start: 1
-verses_end: 46
-verses_total: 34
+verses_end: 27
+verses_total: 27
 language: ro
 ---
 
@@ -39,10 +39,3 @@ language: ro
 25. Aceştia sunt feciorii şi nepoţii Bilhăi, pe care Laban a dat-o roabă fiicei sale Rahila. Ea a născut lui Iacov de toate şapte suflete.
 26. Iar sufletele, care au intrat cu Iacov în Egipt şi care au ieşit din coapsele lui, au fost de toate şaizeci şi şase afară de femeile fiilor lui Iacov.
 27. Fiii lui Iosif, născuţi în Egipt, erau de toţi nouă suflete. Deci, de toate, sufletele casei lui Iacov, care au venit în Egipt cu el, au fost şaptezeci şi cinci.
-28. Atunci a trimis Iacov pe Iuda înaintea sa, la Iosif, ca să-l întâmpine la Ieroonpolis, în ţinutul Goşen.
-29. Iar Iosif, înhămându-şi caii la căruţa sa, a ieşit în întâmpinarea lui Israel, tatăl său, la Ieroonpolis şi, văzându-l, a căzut pe grumazul lui şi a plâns mult pe grumazul lui.
-30. Israel însă a zis către Iosif: "De acum pot să mor, că am văzut faţa ta şi că trăieşti încă".
-31. Iar Iosif a zis către fraţii săi şi către casa tatălui său: "Mă duc să vestesc pe Faraon şi să-i zic: Fraţii mei şi casa tatălui meu, care erau în pământul Canaan, au venit la mine.
-32. Aceşti oameni sunt păstori de oi, căci trăiesc din creşterea vitelor, şi au adus cu ei oile şi vitele lor şi toate câte au.
-33. Şi dacă vă va chema Faraon şi vă va zice: "Cu ce vă îndeletniciţi?"
-34. Să-i răspundeţi: "Robii tăi am fost crescători de vite din tinereţile noastre până acum, şi noi şi părinţii noştri", ca astfel să vă aşeze în pământul Goşen. Căci pentru Egipteni este spurcat tot păstorul de oi.

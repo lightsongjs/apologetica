@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jeremiah Buys a Field During the Siege"
 pericope_title_ro: "Ieremia cumpără un ogor în timpul asediului"
 verses_start: 1
-verses_end: 32
-verses_total: 33
+verses_end: 15
+verses_total: 15
 language: ro
 ---
 
@@ -27,21 +27,3 @@ language: ro
 13. Şi în faţa tuturor am poruncit lui Baruh:
 14. Aşa zice Domnul Savaot, Dumnezeul lui Israel: "Ia zapisele acestea, - zapisul de cumpărare care este pecetluit şi zapisul acesta deschis - şi le pune într-un vas de lut, ca să stea acolo zile multe.
 15. Că aşa zice Domnul Savant, Dumnezeul lui Israel: Casele, ţarinile şi viile vor fi din nou cumpărate în ţara aceasta".
-16. Dând eu zapisul de cumpărare lui Baruh, fiul lui Neria, m-am rugat Domnului şi am zis:
-17. "O, Doamne Dumnezeule, Tu ai făcut cerul şi pământul cu puterea Ta cea mare şi cu braţ înalt şi pentru Tine nimic nu este cu neputinţă!
-18. Tu arăţi milă la mii şi pedepseşti fărădelegile părinţilor în sânul copiilor lor după ei; Tu eşti Dumnezeu cel mare şi puternic, al Cărui nume este Domnul Savaot;
-19. Cel mare în sfat şi puternic în faptele Tale, ai Cărui ochi sunt deschişi asupra tuturor căilor fiilor oamenilor, ca să dai fiecăruia după căile lui şi după roadele faptelor lui;
-20. Tu ai săvârşit semne şi minuni în ţara Egiptului şi săvârşeşti şi astăzi în Israel şi printre oameni,
-21. Şi ţi-ai făcut nume, ca şi astăzi, şi ai scos pe poporul Tău Israel din pământul Egiptului prin semne şi minuni, cu mână tare şi cu braţ înalt, în groază mare,
-22. Şi le-ai dat lor ţara aceasta, în care curge lapte şi miere, pe care o făgăduiseşi cu jurământ părinţilor lor, că le-o vei da;
-23. Şi ei au intrat şi au pus stăpânire pe ea, dar n-au ascultat glasul Tău ca să se poarte după legea Ta şi n-au făcut ceea ce le-ai poruncit Tu să facă. De aceea ai adus asupra lor toate aceste nenorociri.
-23. Şi Mi-au întors spatele, iar nu faţa şi, când i-am învăţat, dis-de-dimineaţă i-am învăţat şi ei n-au voit să primească învăţătură;
-24. Iată valurile de pământ se întind până la cetate ca să fie luată! Şi cetatea prin sabie, foamete şi ciumă se dă în mâinile Caldeilor, care luptă împotriva ei; ceea ce ai zis Tu, aceea se şi împlineşte. Şi Tu vezi aceasta.
-25. Dar Tu, Doamne Dumnezeule, mi-ai zis: Cumpără-ţi o ţarină cu argint şi cheamă martori, tocmai când cetatea se dă în mâinile Caldeilor".
-26. Atunci a fost cuvântul Domnului către Ieremia şi a zis:
-27. Iată, Eu sunt Domnul Dumnezeu a tot trupul! Este oare ceva cu neputinţă la Mine?
-28. De aceea aşa zice Domnul: "Iată voi da cetatea aceasta în mâinile Caldeilor şi în mâinile lui Nabucodonosor, regele Babilonului, şi acesta o va lua.
-29. Şi vor intra Caldeii, care împresoară cetatea aceasta, vor da foc cetăţii şi o vor arde cu foc pe ea şi casele pe ale căror acoperişuri s-au adus tămâieri lui Baal şi jertfe cu turnare în cinstea dumnezeilor străini, ca să Mă mânie pe Mine.
-30. Că fiii lui Israel şi fiii lui Iuda au făcut numai rău înaintea ochilor Mei din tinereţile lor; fiii lui Israel M-au mâniat necontenit cu faptele mâinilor lor, zice Domnul.
-31. Cetatea aceasta, chiar din ziua zidirii sale şi până astăzi, pare că a fost făcută pentru mânia Mea şi pentru urgia Mea, ca s-o lepăd de la fala Mea,
-32. Din pricina răului fiilor lui Israel şi al fiilor lui Iuda, pe care l-au făcut pentru mânierea Mea, ei şi regii lor, căpeteniile lor, preoţii lor şi proorocii lor, bărbaţii lui Iuda şi locuitorii Ierusalimului.

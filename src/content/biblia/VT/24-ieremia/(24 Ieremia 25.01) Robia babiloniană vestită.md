@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Babylonian Captivity Foretold"
 pericope_title_ro: "Robia babiloniană vestită"
 verses_start: 1
-verses_end: 25
-verses_total: 25
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,14 +26,3 @@ language: ro
 12. Iar când se vor împlini şaptezeci de ani, voi pedepsi pe regele Babilonului şi pe poporul acela, zice Domnul, pentru necredinţa lor, şi ţara Caldeilor o voi pedepsi şi o voi face pustie pentru totdeauna.
 13. Voi împlini asupra ţării acesteia toate cuvintele Mele pe care le-am rostit împotriva ei; tot ce-i scris în cartea aceasta şi ceea ce Ieremia a proorocit împotriva tuturor neamurilor.
 14. Pentru că şi pe ele le vor robi multe popoare şi regi mari şi le voi răsplăti după purtarea lor şi după faptele mâinilor lor.
-15. Că aşa mi-a zis Domnul Dumnezeul lui Israel: "Ia din mâna Mea cupa aceasta cu vinul urgiei şi adapă cu ea toate popoarele la care te voi trimite;
-16. Acelea vor bea şi se vor clătina şi vor înnebuni la vederea sabiei pe care o voi trimite asupra lor!"
-17. Şi am luat cupa din mâna Domnului şi am dat să bea tuturor neamurilor, la care m-a trimis Domnul.
-18. Ierusalimului şi cetăţilor lui Iuda, regilor lui şi căpeteniilor lui, spre pustiire şi groază, spre batjocură şi blestem, precum se şi vede astăzi;
-19. Lui Faraon, regele Egiptului, slujitorilor lui, căpeteniilor lui şi întregului popor al lui;
-20. La toată Arabia, tuturor regilor ţării Uţ, tuturor regilor ţării Filistenilor, Ascalonului, Gazei, Ecronului şi rămăşiţelor din Aşdod;
-21. Edomului, Moabului şi fiilor lui Amon;
-22. Tuturor regilor Tirului, tuturor regilor Sidonului şi regilor insulelor care sunt dincolo de mare:
-23. Dedanului şi Temei, Buzului şi tuturor care-şi rad tâmplele;
-24. Tuturor regilor Arabiei şi tuturor regilor popoarelor amestecate, care locuiesc în pustiu;
-25. Tuturor regilor Zimrei, tuturor regilor Elamului şi tuturor regilor Mediei;

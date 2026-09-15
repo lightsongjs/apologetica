@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Tower of Babel"
 pericope_title_ro: "Turnul Babel"
 verses_start: 1
-verses_end: 11
-verses_total: 11
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,5 +21,3 @@ language: ro
 7. Haidem, dar, să Ne pogorâm şi să amestecăm limbile lor, ca să nu se mai înţeleagă unul cu altul".
 8. Şi i-a împrăştiat Domnul de acolo în tot pământul şi au încetat de a mai zidi cetatea şi turnul.
 9. De aceea s-a numit cetatea aceea Babilon, pentru că acolo a amestecat Domnul limbile a tot pământul şi de acolo i-a împrăştiat Domnul pe toată faţa pământului.
-10. Iată acum istoria vieţii neamului lui Sem: Sem era de o sută de ani, când i s-a născut Arfaxad, la doi ani după potop.
-11. După naşterea lui Arfaxad, Sem a mai trăit cinci sute de ani şi a născut fii şi fiice şi apoi a murit.

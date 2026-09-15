@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Plucking Grain on the Sabbath"
 pericope_title_ro: "Smulgerea spicelor în Sabat"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 8
+verses_total: 8
 language: ro
 ---
 
@@ -20,7 +20,3 @@ language: ro
 6. Ci grăiesc vouă că mai mare decât templul este aici.
 7. Dacă ştiaţi ce înseamnă: Milă voiesc iar nu jertfă, n-aţi fi osândit pe cei nevinovaţi.
 8. Că Domn este şi al sâmbetei Fiul Omului.
-9. Şi trecând de acolo, a venit în sinagoga lor.
-10. Şi iată un om având mâna uscată. Şi L-au întrebat, zicând: Cade-se, oare, a vindeca sâmbăta? Ca să-L învinuiască.
-11. El le-a zis: Cine va fi între voi omul care va avea o oaie şi, de va cădea ea sâmbăta în groapă, nu o va apuca şi o va scoate?
-12. Cu cât se deosebeşte omul de oaie! De aceea se cade a face bine sâmbăta.

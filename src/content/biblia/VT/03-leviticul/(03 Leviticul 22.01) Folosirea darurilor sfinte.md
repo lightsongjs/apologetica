@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Use of Holy Offerings"
 pericope_title_ro: "Folosirea darurilor sfinte"
 verses_start: 1
-verses_end: 22
-verses_total: 22
+verses_end: 16
+verses_total: 16
 language: ro
 ---
 
@@ -28,9 +28,3 @@ language: ro
 14. Dacă cineva mănâncă din greşeală din cele sfinte, să întoarcă preotului preţul lucrului sfânt şi să mai adauge încă a cincea parte din preţul lui:
 15. Preoţii să nu spurce cele sfinte ale fiilor lui Israel, pe care ei le aduc dar Domnului,
 16. Şi să nu atragă asupră-le vinovăţia fărădelegii, când vor mânca cele sfinte ale lor, că Eu sunt Domnul, Cel ce îi sfinţesc".
-17. Grăit-a Domnul cu Moise şi a zis:
-18. "Vorbeşte lui Aaron, fiilor lui şi la toată adunarea fiilor lui Israel şi le zi: Dacă cineva dintre fiii lui Israel, sau dintre străinii care s-au aşezat la ei, în Israel, îşi vor aduce jertfa lor, pe care o aduc Domnului ardere de tot, după făgăduinţă sau de evlavie,
-19. Ca să afle prin aceasta bunăvoinţă la Dumnezeu, jertfa trebuie să fie fără meteahnă, de parte bărbătească, din vitele mari, sau din oi, sau din capre.
-20. Toate câte au meteahnă în sine să nu le aduceţi Domnului, că nu vor fi primite.
-21. De va aduce cineva Domnului jertfă de mântuire, plinind o făgăduinţă, sau aducând jertfă de bună voie, sau la praznicele voastre, din boi, sau din oi, să fie fără meteahnă; ca să fie primită, să nu aibă nici o meteahnă.
-22. Dobitoc orb, vătămat, sau slut, sau bubos, sau răpciugos, sau râios, să nu aduceţi Domnului şi nici să daţi la jertfelnicul Domnului pentru jertfă.

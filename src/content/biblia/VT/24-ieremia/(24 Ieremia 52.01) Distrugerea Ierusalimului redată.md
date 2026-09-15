@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Destruction of Jerusalem Reviewed"
 pericope_title_ro: "Distrugerea Ierusalimului redată"
 verses_start: 1
-verses_end: 52
-verses_total: 34
+verses_end: 30
+verses_total: 30
 language: ro
 ---
 
@@ -42,7 +42,3 @@ language: ro
 28. Iată acum poporul pe care l-a strămutat Nabucodonosor: în luna a şaptea, trei mii douăzeci şi trei de oameni;
 29. În al optsprezecelea an al lui Nabucodonosor au fost strămutaţi din Ierusalim opt sute treizeci şi două de suflete;
 30. În anul al douăzeci şi treilea al lui Nabucodonosor, Nebuzaradan, căpetenia gărzii, a strămutat din Iudei şapte sute patruzeci şi cinci de suflete: în total patru mii şase sute de suflete.
-31. În anul al treizeci şi şaptelea după strămutarea lui Ioiachim, regele lui Iuda, în luna a douăsprezecea, în douăzeci şi cinci ale lunii, Evil-Merodac, regele Babilonului, în anul întâi al domniei lui, s-a îndurat de Ioiachim, regele lui Iuda, şi l-a scos din închisoare;
-32. A vorbit cu el prieteneşte şi a pus scaunul lui mai sus decât al altor regi care erau la el în Babilon.
-33. A schimbat hainele lui de închisoare şi Ioiachim a mâncat întotdeauna la masa regelui în toate zilele lui.
-34. Hrana lui i s-a dat de la rege zilnic, până la moartea sa, în toate zilele vieţii sale.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Etiquette at a Banquet"
 pericope_title_ro: "Eticheta la banchet"
 verses_start: 1
-verses_end: 32
-verses_total: 24
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,14 +25,3 @@ language: ro
 11. Înaintea trăsnetului se grăbeşte fulgerul; şi înaintea celui ruşinos va merge harul.
 12. La vreme te scoală şi nu fi cel mai de pe urmă; aleargă acasă şi nu fi leneş.
 13. Acolo fii mulţumit şi-ţi împlineşte dorinţele tale şi să nu grăieşti cuvânt trufaş.
-14. Şi pentru aceasta binecuvintează pe Cel care te-a făcut şi veseleşte-te din bunătăţile Lui.
-15. Cel care se teme de Domnul va primi învăţătura şi cei care mânecă (îl caută dis-de-dimineaţă) vor afla bunăvoinţă.
-16. Cel care caută legea se va sătura de ea şi cel care se făţărniceşte se va împiedica în ea.
-17. Cei care se tem de Domnul vor afla dreapta judecată şi îndreptări ca lumina vor aprinde.
-18. Omul păcătos se fereşte de mustrare şi după voia lui îşi va afla potrivire.
-19. Bărbatul cel de sfat nu va părăsi cugetarea; iar cel străin şi trufaş nu se va teme de frică, chiar dacă va face ceva fără de sfat.
-20. Fără de sfat nimic să nu faci; şi după ce faci, să nu-ţi pară rău.
-21. Pe cale surpată nu merge, ca să nu te împiedici de pietriş.
-22. Nu te încrede nici în drumul cel drept şi de fiii tăi te păzeşte.
-23. În tot lucrul crede sufletului tău, că aceasta este paza poruncilor.
-24. Cel care crede legii ascultă de porunci; şi cel care nădăjduieşte spre Domnul nu se va lipsi.

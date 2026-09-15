@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Call of Abram"
 pericope_title_ro: "Chemarea lui Avram"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,6 +21,3 @@ language: ro
 7. Acolo S-a arătat Domnul lui Avram şi i-a zis: "ţara aceasta o voi da urmaşilor tăi". Şi a zidit Avram acolo un jertfelnic Domnului, Celui ce Se arătase.
 8. De acolo a pornit el spre muntele care e la răsărit de Betel, şi şi-a întins acolo cortul aşa, încât Betelul era la apus, iar Hai, la răsărit. A zidit acolo un jertfelnic Domnului şi s-a închinat Domnului, Celui ce i Se arătase.
 9. Apoi s-a ridicat Avram şi de acolo şi s-a îndreptat spre miazăzi.
-10. Pe atunci s-a făcut foamete în ţinutul acela şi s-a coborât Avram în Egipt, ca să locuiască acolo, pentru că se înteţise foametea în ţinutul acela.
-11. Când însă s-a apropiat Avram să intre în Egipt, a zis către Sarai, femeia sa: "Ştiu că eşti femeie frumoasă la chip.
-12. De aceea, când te vor vedea Egiptenii, vor zice: "Aceasta-i femeia lui! Şi mă vor ucide pe mine, iar pe tine te vor lăsa cu viaţă.

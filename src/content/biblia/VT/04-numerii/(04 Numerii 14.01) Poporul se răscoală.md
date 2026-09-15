@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The People Rebel"
 pericope_title_ro: "Poporul se răscoală"
 verses_start: 1
-verses_end: 14
-verses_total: 14
+verses_end: 12
+verses_total: 12
 language: ro
 ---
 
@@ -24,5 +24,3 @@ language: ro
 10. Atunci toată obştea a zis: "Să-i ucidem cu pietre!" Dar iată slava Domnului s-a arătat în nor  tuturor fiilor lui Israel la cortul adunării.
 11. Şi a zis Domnul către Moise: "Până când Mă va supăra poporul acesta şi până când nu va crede el în Mine, cu toate minunile ce am făcut în mijlocul lui?
 12. Îl voi lovi cu ciumă şi-l voi pierde şi te voi face pe tine şi casa tatălui tău popor numeros şi mai puternic decât acesta!"
-13. Moise însă a zis către Domnul: "Vor auzi de aceasta Egiptenii, din mijlocul cărora ai scos Tu, cu puterea Ta, pe poporul acesta
-14. Şi vor spune locuitorilor pământului acestuia, care au auzit, că Tu, Doamne, Te afli în mijlocul poporului acestuia şi Tu, Doamne, le dai să Te vadă faţă către faţă, şi că Tu mergi înaintea lor, ziua în stâlp de nor şi noaptea în stâlp de foc.

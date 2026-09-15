@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "A Son Promised to Abraham and Sarah"
 pericope_title_ro: "Un fiu făgăduit lui Avraam și Sara"
 verses_start: 1
-verses_end: 18
-verses_total: 18
+verses_end: 15
+verses_total: 15
 language: ro
 ---
 
@@ -27,6 +27,3 @@ language: ro
 13. Atunci a zis Domnul către Avraam: "Pentru ce a râs Sarra în sine şi a zis: "Oare cu adevărat voi naşte, bătrână cum sunt?"
 14. Este oare ceva cu neputinţă la Dumnezeu? La anul pe vremea aceasta am să vin pe la tine şi Sarra va avea un fiu!"
 15. Iar Sarra a tăgăduit, zicând: "N-am râs", căci se înspăimântase. Acela însă i-a zis: "Ba, ai râs!"
-16. Apoi S-au sculat Oamenii aceia de acolo şi S-au îndreptat spre Sodoma şi Gomora şi s-a dus şi Avraam cu Ei, ca să-I petreacă.
-17. Domnul însă a zis: "Tăinui-voi Eu oare de Avraam, sluga Mea, ceea ce voiesc să fac?
-18. Din Avraam cu adevărat se va ridica un popor mare şi tare şi printr-însul se vor binecuvânta toate neamurile pământului,

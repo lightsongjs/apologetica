@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "God’s Covenant with David"
 pericope_title_ro: "Legământul lui Dumnezeu cu David"
 verses_start: 1
-verses_end: 17
-verses_total: 17
+verses_end: 15
+verses_total: 15
 language: ro
 ---
 
@@ -27,5 +27,3 @@ language: ro
 13. Eu îi voi fi tată şi el Îmi va fi fiu şi mila Mea nu o voi lua de la el, cum am luat-o de la cel ce a fost înaintea ta.
 14. ÎI voi pune pe acela în casa Mea şi în împărăţia Mea pe veci şi tronul lui în veci va fi tare".
 15. Toate cuvintele şi toată vedenia aceasta le-a spus Natan lui David.
-16. Atunci a venit regele David şi a stat înaintea feţei Domnului şi a zis: "Cine sunt eu, Doamne Dumnezeule, şi ce este casa mea, de m-ai înălţat aşa?
-17. Dar şi aceasta s-a părut încă puţin în ochii Tăi, Dumnezeule, căci iată vesteşti despre casa robului Tău în viitor şi priveşti la mine, ca la un om mare, Doamne Dumnezeule!

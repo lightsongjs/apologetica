@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Destruction of the Temple Foretold"
 pericope_title_ro: "Dărâmarea templului vestită"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 8
+verses_total: 8
 language: ro
 ---
 
@@ -20,8 +20,3 @@ language: ro
 6. Căci mulţi vor veni în numele Meu, zicând că sunt Eu, şi vor amăgi pe mulţi.
 7. Iar când veţi auzi de războaie, şi de zvonuri de războaie, să nu vă tulburaţi, căci trebuie să fie, dar încă nu va fi sfârşitul.
 8. Şi se va ridica neam peste neam şi împărăţie peste împărăţie, vor fi cutremure pe alocuri şi foamete şi tulburări vor fi. Iar acestea sunt începutul durerilor.
-9. Luaţi seama la voi înşivă. Că vă vor da în adunări şi veţi fi bătuţi în sinagogi şi veţi sta înaintea conducătorilor şi a regilor, pentru Mine, spre mărturie lor.
-10. Ci mai întâi Evanghelia trebuie să se propovăduiască la toate neamurile.
-11. Iar când vă vor duce ca să vă predea, nu vă îngrijiţi dinainte ce veţi vorbi, ci să vorbiţi ceea ce se va da vouă în ceasul acela. Căci nu voi sunteţi cei care veţi vorbi, ci Duhul Sfânt.
-12. Şi va da frate pe frate la moarte şi tată pe copil şi copiii se vor răzvrăti împotriva părinţilor şi îi vor ucide.
-13. Şi veţi fi urâţi de toţi pentru numele Meu; iar cel ce va răbda până la urmă, acela se va mântui.

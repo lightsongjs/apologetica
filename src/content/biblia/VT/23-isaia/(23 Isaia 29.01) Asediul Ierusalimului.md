@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Siege of Jerusalem"
 pericope_title_ro: "Asediul Ierusalimului"
 verses_start: 1
-verses_end: 29
-verses_total: 24
+verses_end: 16
+verses_total: 16
 language: ro
 ---
 
@@ -28,11 +28,3 @@ language: ro
 14. De aceea voi face pentru poporul acesta minuni fără seamăn. Înţelepciunea celor înţelepţi se va pierde şi isteţimea celor isteţi va pieri.
 15. Vai de cei ce ascund lui Dumnezeu taina planurilor lor, ca faptele lor să se facă la întuneric! Vai de cei care zic: "Cine ne vede? Cine ne ştie?"
 16. Ce stricăciune! Oare olarul poate fi socotit drept lut? Lucrul poate oare zice despre lucrător: "Nu m-a făcut el!" Vasul zice oare despre olar: "El nu pricepe?"
-17. Încă puţină vreme şi Libanul se va schimba în grădină, şi grădina va fi socotită pădure.
-18. În vremea aceea, cei surzi vor auzi cuvintele cărţii şi ochii celor orbi vor vedea fără umbră şi fără întuneric.
-19. Cei smeriţi se vor bucura întru Domnul şi cei săraci se vor veseli de Sfântul lui Israel.
-20. Că apăsătorul nu va mai fi, cel batjocoritor va pieri, distruşi vor fi cei ce pândeau să facă rău,
-21. Cei care găseau vină oricui, pentru un cuvânt în faţa lumii întind cursă judecătorului şi pentru nimic răpesc dreptul celui cinstit.
-22. Pentru aceasta, Domnul, Care a răscumpărat pe Avraam aşa zice către casa lui Iacov: "De aici încolo, nu se va mai ruşina Iacov şi faţa lui nu se va mai îngălbeni.
-23. Şi atunci când vor vedea lucrul mâinilor Mele în mijlocul lor, sfinţi-vor numele Meu, vor chema sfânt pe Sfântul lui Iacov şi se vor teme de Dumnezeul lui Israel.
-24. Cei rătăciţi cu duhul vor căpăta înţelepciune şi cei cârtitori învăţătură".

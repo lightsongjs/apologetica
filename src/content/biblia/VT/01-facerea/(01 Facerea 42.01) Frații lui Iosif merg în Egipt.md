@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Joseph’s Brothers Go to Egypt"
 pericope_title_ro: "Frații lui Iosif merg în Egipt"
 verses_start: 1
-verses_end: 42
-verses_total: 38
+verses_end: 25
+verses_total: 25
 language: ro
 ---
 
@@ -37,16 +37,3 @@ language: ro
 23. Aşa grăiau ei între ei şi nu ştiau că Iosif înţelege, pentru că el grăise cu ei prin tălmaci.
 24. Iar Iosif s-a depărtat de la ei şi a plâns. Apoi întorcându-se iarăşi şi vorbind cu dânşii, a luat dintre ei pe Simeon şi l-a legat înaintea ochilor lor.
 25. După aceea a poruncit Iosif să le umple sacii cu grâu şi argintul lor să-l pună fiecăruia în sacul lui şi să le dea şi de ale mâncării pe cale. Şi li s-a făcut aşa.
-26. Şi punându-şi ei grâul pe asini, s-au dus de acolo.
-27. Dar când au poposit noaptea la gazdă, dezlegându-şi unul sacul, ca să dea de mâncare asinului său, a văzut argintul său în gura sacului
-28. Şi a zis către fraţii săi: "Argintul meu mi s-a dat înapoi şi iată-l în sacul meu". Atunci s-a tulburat inima lor şi cu spaimă zicea unul către altul: "Ce a făcut, oare, Dumnezeu cu noi?"
-29. Iar dacă au venit la Iacov, tatăl lor, în ţara Canaan, i-au povestit toate câte li se întâmplase, zicând:
-30. "Stăpânul ţării aceleia a grăit cu noi aspru şi ne-a pus sub pază, ca pe nişte spioni ai ţării aceleia.
-31. Noi însă i-am spus că suntem oameni cinstiţi; că nu suntem spioni;
-32. Că suntem doisprezece fraţi, fii ai aceluiaşi tată; că unul din noi nu mai trăieşte, iar cel mai mic e cu tatăl nostru în pământul Canaan.
-33. Însă omul, stăpânul ţării aceleia, ne-a zis: "Iată cum am să aflu eu de sunteţi oameni cinstiţi: lăsaţi aici la mine pe un frate, iar grâul ce ari cumpărat luaţi-l şi vă duceţi la casele voastre;
-34. Să aduceri însă la mine pe fratele vostru cel mai mic şi atunci voi şti că nu sunteţi spioni, ci oameni de pace, şi vă voi da pe fratele vostru şi veţi putea face cumpărături în ţara aceasta".
-35. Dar deşertând ei sacii lor, iată, legătura cu argintul fiecăruia era în sacul său; şi văzându-şi ei legăturile cu argintul lor, s-au spăimântat şi ei şi tatăl lor.
-36. Atunci, Iacov, tatăl lor, a zis către ei: "M-aţi lăsat fără copii! Iosif nu mai este! Simeon nu mai este! Şi acum să-mi luaţi şi pe Veniamin? Toate au venit pe capul meu!"
-37. Răspunzând însă Ruben a zis către tatăl său: "Dă-l în seama mea şi ţi-l voi aduce; răspund eu de el; iar de nu ţi-l voi aduce, să omori pe cei doi feciori ai mei!"
-38. Dar el a zis: "Fiul meu nu se va pogorî cu voi în Egipt, pentru că fratele lui a murit şi numai el mi-a mai rămas. Şi de i s-ar întâmpla vreun rău în calea în care aveţi a merge, aţi pogorî cărunteţile mele cu întristare în locuinţa morţilor!"

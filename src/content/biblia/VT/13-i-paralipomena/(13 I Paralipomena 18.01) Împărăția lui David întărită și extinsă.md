@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "David’s Kingdom Established and Extended"
 pericope_title_ro: "Împărăția lui David întărită și extinsă"
 verses_start: 1
-verses_end: 18
-verses_total: 17
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,7 +25,3 @@ language: ro
 11. Regele David a închinat aceste vase Domnului, împreună cu aurul şi argintul pe care-l luase el de la toate popoarele: de la Edomiţi, Moabiţi, Amoniţi, Filisteni şi Amaleciţi.
 12. Şi Abişai, fiul Ţeruiei, a bătut optsprezece mii de Edomiţi în Valea Sărată.
 13. Şi a pus în Edom oaste de pază şi s-au făcut Edomiţii robii lui David, căci Domnul ajuta lui David oriunde mergea.
-14. Şi a domnit David peste tot Israelul şi a făcut judecată şi dreptate la tot poporul său.
-15. Ioab, fiul Ţeruiei, era comandantul oştirii, iar Iosafat, fiul lui Ahilud, era cronicar.
-16. Ţadoc, fiul lui Ahitub, şi Ahimelec, fiul lui Abiatar, au fost preoţi, iar Şausa (Serais) a fost secretar.
-17. Benaia, fiul lui Iehoiada, era căpetenie peste Cheretieni şi Peletieni, iar fiii lui David erau cei întâi pe lângă rege,

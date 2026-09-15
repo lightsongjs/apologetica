@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Divisions of the Priests"
 pericope_title_ro: "Rândurile preoților"
 verses_start: 1
-verses_end: 24
-verses_total: 24
+verses_end: 19
+verses_total: 19
 language: ro
 ---
 
@@ -31,8 +31,3 @@ language: ro
 17. Al douăzeci şi unulea lui Iachin, al douăzeci şi doilea lui Gamul,
 18. Al douăzeci şi treilea lui Delaia şi al douăzeci şi patrulea lui Maazia.
 19. Aceasta era înşirarea lor la slujbă, cum trebuia să vină în templul Domnului, după rânduiala lor dată prin Aaron, tatăl lor, cum poruncise acestuia Domnul Dumnezeul lui Israel.
-20. Ceilalţi fiii ai lui Levi au fost împărţiţi astfel: Din fiii lui Amram: Şubael; din fiii lui Şubael: Iehdia;
-21. Din fiii lui Rehabia, întâiul era Işia;
-22. Din ai lui Iţhar, Şelomot; din ai lui Şelomot era Iahat;
-23. Din ai lui Hebron întâiul era Ieria, al doilea, Amaria, al treilea, Iahaziel, al patrulea, Iecameam.
-24. Din ai lui Uziel era Mica; din ai lui Mica era Şamir.

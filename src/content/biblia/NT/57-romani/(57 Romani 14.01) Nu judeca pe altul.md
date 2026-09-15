@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Do Not Judge Another"
 pericope_title_ro: "Nu judeca pe altul"
 verses_start: 1
-verses_end: 14
-verses_total: 14
+verses_end: 12
+verses_total: 12
 language: ro
 ---
 
@@ -24,5 +24,3 @@ language: ro
 10. Dar tu, de ce judeci pe fratele tău? Sau şi tu, de ce dispreţuieşti pe fratele tău? Căci toţi ne vom înfăţişa înaintea judecăţii lui Dumnezeu.
 11. Căci scris este: "Viu sunt Eu! - zice Domnul - Tot genunchiul să Mi se plece şi toată limba  să dea slavă lui Dumnezeu".
 12. Deci, dar, fiecare din voi va da seama despre sine lui Dumnezeu.
-13. Deci să nu ne mai judecăm unii pe alţii, ci mai degrabă judecaţi aceasta: Să nu daţi fratelui prilej de poticnire sau de sminteală.
-14. Ştiu şi sunt încredinţat în Domnul Iisus că nimic nu este întinat prin sine, decât numai pentru cel care gândeşte că e ceva întinat; pentru acela întinat este.

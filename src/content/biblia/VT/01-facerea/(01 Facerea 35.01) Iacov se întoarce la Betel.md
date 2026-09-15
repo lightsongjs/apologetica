@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jacob Returns to Bethel"
 pericope_title_ro: "Iacov se întoarce la Betel"
 verses_start: 1
-verses_end: 35
-verses_total: 29
+verses_end: 15
+verses_total: 15
 language: ro
 ---
 
@@ -27,17 +27,3 @@ language: ro
 13. Apoi S-a înălţat Dumnezeu de la el, din locul în care îi grăise.
 14. Şi a aşezat Iacov un stâlp pe locul unde-i grăise Dumnezeu, un stâlp de piatră, şi a săvârşit turnare peste el şi a turnat peste el untdelemn.
 15. Şi a pus Iacov locului unde-i grăise Dumnezeu, numele Betel.
-16. După aceea au plecat din Betel. Şi şi-a întins cortul său dincolo de turnul Gader. Dar când se apropiase de Havrata, înainte de a intra în Efrata, Rahila a născut şi naşterea aceasta a fost iar tare grea.
-17. Şi pe când se chinuia Rahila în durerile naşterii, moaşa i-a zis: "Nu te teme, că şi acesta va fi băiat!"
-18. Iar când Rahila îşi dădea sufletul, căci a murit, a pus copilului numele Ben-Oni, adică fiul durerii mele, iar tatăl lui l-a numit Veniamin.
-19. Iar dacă a murit, Rahila a fost îngropată lângă calea ce duce la Efrata, adică la Betleem;
-20. Iacov a ridicat un stâlp de piatră pe mormântul ei şi acest stâlp, de pe mormântul Rahilei, este până în ziua de astăzi.
-21. Apoi plecând Iacov de aici şi-a întins cortul dincolo de turnul Migdal-Eder. Iar pe vremea când locuia Israel în ţara aceasta, a intrat Ruben şi a dormit cu Bilha, ţiitoarea tatălui său Iacov, şi a auzit Israel şi i s-a părut aceasta un rău.
-22. Fiii lui Iacov au fost doisprezece şi anume:
-23. Fiii Liei: Ruben, întâi-născutul lui Iacov; după el veneau: Simeon, Levi, Iuda, Isahar şi Zabulon.
-24. Fiii Rahilei: Iosif şi Veniamin.
-25. Fiii slujnicei Rahilei, Bilha: Dan şi Neftali.
-26. Şi fiii Zilpei, roaba Liei: Gad şi Aşer. Aceştia sunt fiii lui Iacov, care i s-au născut în Mesopotamia.
-27. Apoi a sosit Iacov la Isaac, tatăl său, căci acesta trăia încă la Mamvri, în Chiriat-Arba, adică la Hebron în pământul Canaanului, unde locuiseră vremelnic Avraam şi Isaac.
-28. Iar zilele, pe care le-a trăit Isaac, au fost o sută optzeci de ani.
-29. Slăbind apoi, Isaac a murit şi a trecut la părinţii săi, fiind bătrân şi încărcat de zile, şi l-au îngropat feciorii lui, Isav şi Iacov.

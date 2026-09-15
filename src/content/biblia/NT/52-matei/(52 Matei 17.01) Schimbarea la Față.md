@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Transfiguration"
 pericope_title_ro: "Schimbarea la Față"
 verses_start: 1
-verses_end: 17
-verses_total: 17
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,7 +25,3 @@ language: ro
 11. Iar El, răspunzând, a zis: Ilie într-adevăr va veni şi va aşeza la loc toate.
 12. Eu însă vă spun vouă că Ilie a şi venit, dar ei nu l-au cunoscut, ci au făcut cu el câte au voit; aşa şi Fiul Omului va pătimi de la ei.
 13. Atunci au înţeles ucenicii că Iisus le-a vorbit despre Ioan Botezătorul.
-14. Şi mergând ei spre mulţime, s-a apropiat de El un om, căzându-I în genunchi,
-15. Şi zicând: Doamne, miluieşte pe fiul meu că este lunatic şi pătimeşte rău, căci adesea cade în foc şi adesea în apă.
-16. Şi l-am dus la ucenicii Tăi şi n-au putut să-l vindece.
-17. Iar Iisus, răspunzând, a zis: O, neam necredincios şi îndărătnic, până când voi fi cu voi? Până când vă voi suferi pe voi? Aduceţi-l aici la Mine.

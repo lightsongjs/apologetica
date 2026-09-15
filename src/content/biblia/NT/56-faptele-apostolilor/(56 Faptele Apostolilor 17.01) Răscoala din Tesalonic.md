@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Uproar in Thessalonica"
 pericope_title_ro: "Răscoala din Tesalonic"
 verses_start: 1
-verses_end: 17
-verses_total: 17
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,11 +21,3 @@ language: ro
 7. Pe aceştia i-a găzduit Iason; şi toţi aceştia lucrează împotriva poruncilor Cezarului, zicând că este un alt împărat: Iisus.
 8. Şi au tulburat mulţimea şi pe mai-marii cetăţii, care auzeau acestea.
 9. Şi luând chezăşie de la Iason şi de la ceilalţi, le-au dat drumul.
-10. Iar fraţii au trimis îndată, noaptea, la Bereea, pe Pavel şi pe Sila care, ajungând acolo, au intrat în sinagoga iudeilor.
-11. Şi aceştia erau mai buni la suflet decât cei din Tesalonic; ei au primit cuvântul cu toată osârdia, în toate zilele, cercetând Scripturile, dacă ele sunt aşa.
-12. Au crezut mulţi dintre ei şi dintre femeile de cinste ale elinilor, şi dintre bărbaţi nu puţini.
-13. Şi când au aflat iudeii din Tesalonic că şi în Bereea s-a vestit de către Pavel cuvântul lui Dumnezeu, au venit şi acolo, întărâtând şi tulburând mulţimile.
-14. Şi atunci îndată fraţii au trimis pe Pavel, ca să meargă spre mare; iar Sila şi cu Timotei au rămas acolo în Bereea.
-15. Iar cei ce însoţeau pe Pavel l-au dus până la Atena; şi luând ei porunci către Sila şi Timotei, ca să vină la el cât mai curând, au plecat.
-16. Iar în Atena, pe când Pavel îi aştepta, duhul lui se îndârjea în el, văzând că cetatea este plină de idoli.
-17. Deci discuta în sinagogă cu iudeii şi cu cei credincioşi, şi în piaţă, în fiecare zi, cu cei ce erau de faţă.

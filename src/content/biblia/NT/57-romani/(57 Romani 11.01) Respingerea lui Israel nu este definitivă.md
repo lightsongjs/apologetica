@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Israel's Rejection Is Not Final"
 pericope_title_ro: "Respingerea lui Israel nu este definitivă"
 verses_start: 1
-verses_end: 11
-verses_total: 11
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,4 +22,3 @@ language: ro
 8. Precum este scris: "Dumnezeu le-a dat duh de amorţire, ochi ca să nu vadă şi urechi ca să nu audă până în ziua de azi".
 9. Iar David zice: "Facă-se masa lor cursă şi laţ şi sminteală şi răsplătire lor!
 10. Întunce-se ochii lor ca să nu vadă şi spinarea lor încovoaie-o pentru totdeauna!"
-11. Deci, întreb: S-a poticnit, oare, ca să cadă? Nicidecum! Şi prin căderea lor, neamurilor le-a venit mântuirea, ca Israel să-şi întărâte râvna faţă de ele.

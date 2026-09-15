@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Boundaries of the Land"
 pericope_title_ro: "Hotarele țării"
 verses_start: 1
-verses_end: 34
-verses_total: 29
+verses_end: 15
+verses_total: 15
 language: ro
 ---
 
@@ -27,17 +27,3 @@ language: ro
 13. Atunci a dat Moise poruncă fiilor lui Israel şi a zis: "Iată pământul pe care voi îl veţi împărţi în bucăţi, prin sorţi, şi care a poruncit Domnul să se dea la nouă seminţii şi la jumătate din seminţia lui Manase.
 14. Căci seminţiilor fiilor lui Ruben cu familiile lor, a fiilor lui Gad cu familiile lor, şi jumătate din seminţia lui Manase şi-au primit partea lor.
 15. Două seminţii întregi şi o jumătate de seminţie şi-au primit partea peste Iordan, pe partea răsăriteană, în faţa Ierihonului".
-16. A grăit Domnul cu Moise şi a zis:
-17. "Iată numele bărbaţilor care au să vă împartă pământul: Eleazar preotul şi Iosua, fiul lui Navi;
-18. Veţi mai lua încă şi câte o căpetenie de fiecare seminţie pentru împărţirea pământului.
-19. Numele acestor bărbaţi sunt: Caleb, fiul lui Iefoni, pentru seminţia Iudei;
-20. Samuel, fiul lui Amihud, pentru seminţia fiilor lui Simeon;
-21. Elidad, fiul lui Chislon, pentru seminţia lui Veniamin;
-22. Căpetenia Buchi, fiul lui Iogli, pentru seminţia fiilor lui Dan;
-23. Căpetenia Haniel, fiul lui Efod, pentru seminţia fiilor lui Manase;
-24. Căpetenia Chemuel, fiul lui Şiftan, pentru seminţia fiilor lui Efraim;
-25. Căpetenia Eliţafan, fiul lui Parnac, pentru seminţia fiilor lui Zabulon,
-26. Căpetenia Paltiel, fiul lui Azan, pentru seminţia fiilor lui Isahar;
-27. Căpetenia Ahihud, fiul lui Şelomi, pentru seminţia fiilor lui Aşer;
-28. Căpetenia Pedael, fiul lui Amihud, pentru seminţia fiilor lui Neftali".
-29. Aceştia sunt aceia cărora a poruncit Domnul să împartă pământul Canaan la fiii lui Israel.

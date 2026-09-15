@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jeremiah's Celibacy and Message"
 pericope_title_ro: "Celibatul și mesajul lui Ieremia"
 verses_start: 1
-verses_end: 16
-verses_total: 16
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,6 +25,3 @@ language: ro
 11. Atunci să le spui: Pentru că părinţii voştri M-au părăsit, zice Domnul, şi s-au dus după alţi dumnezei, au slujit acelora şi li s-au închinat, iar pe Mine M-au părăsit şi legea Mea n-au păzit-o.
 12. Dar voi faceţi încă şi mai rău decât părinţii voştri, şi trăiţi fiecare după inima voastră cea rea şi îndărătnică şi nu Mă ascultaţi.
 13. De aceea vă voi arunca din ţara aceasta într-o rară pe care n-aţi cunoscut-o nici voi, nici părinţii voştri, şi veţi sluji acolo ziua şi noaptea la alţi dumnezei, că Eu nu vă voi arăta îndurare.
-14. Pentru că vin zile, zice Domnul, când nu se va mai zice: "Viu este Domnul, Care a scos pe fiii lui Israel din ţara Egiptului",
-15. Ci, "Viu este Domnul, Care a scos pe fiii lui Israel din ţara cea de la miazănoapte şi din toate ţările în care-i izgonise", că îi voi întoarce în ţara pe care le-am dăruit-o părinţilor lor.
-16. Iată, voi trimite mulţime de pescari, zice Domnul, şi-i vor pescui; iar apoi voi trimite mulţime de vânători, şi-i vor vâna de prin toţi munţii, de pe toate dealurile şi de prin crăpăturile stâncilor.

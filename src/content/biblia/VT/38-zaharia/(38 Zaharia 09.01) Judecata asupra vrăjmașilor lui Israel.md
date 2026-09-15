@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Judgment on Israel’s Enemies"
 pericope_title_ro: "Judecata asupra vrăjmașilor lui Israel"
 verses_start: 1
-verses_end: 9
-verses_total: 9
+verses_end: 8
+verses_total: 8
 language: ro
 ---
 
@@ -20,4 +20,3 @@ language: ro
 6. Cel de alt neam va locui în Aşdod! Şi trufia filisteanului o voi nimici,
 7. Şi îi voi scoate sângele din gură şi urâciunile dintre dinţii lui. Va fi şi el un rest pentru Dumnezeul nostru şi va fi ca o familie în Iuda, iar Ecronul va fi ca Iebusitul.
 8. Şi Mă voi aşeza ca strajă împrejurul Casei Mele, ca nimeni dintre cei ce vin şi pleacă şi ca nici un asupritor să nu mai vină asupra ei, căci Eu văd acum aceasta cu ochii Mei.
-9. Bucură-te foarte, fiica Sionului, veseleşte-te, fiica Ierusalimului, căci iată Împăratul tău vine la tine drept şi biruitor; smerit şi călare pe asin, pe mânzul asinei.

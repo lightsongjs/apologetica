@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Majesty of God"
 pericope_title_ro: "Maiestatea lui Dumnezeu"
 verses_start: 1
-verses_end: 18
-verses_total: 18
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,7 +26,3 @@ language: ro
 12. Mila omului către aproapele său, iar mila Domnului peste tot trupul;
 13. Mustrând şi certând şi învăţând, El întoarce ca un păstor turma Sa.
 14. Pe cei care primesc învăţătura şi pe cei care se sârguiesc spre judecăţile Lui ii miluieşte.
-15. Fiule, în cele bune nu da plângere, şi în toată darea nu întrista cu cuvântul.
-16. Oare nu roua răcoreşte căldura? Aşa, mai bun este cuvântul decât darea.
-17. Oare nu este mai bun cuvântul decât darea cea bună? Şi amândouă sunt la omul cel darnic.
-18. Nebunul scoate ochii cu dojenile lui şi darul celui pizmaş face ochii să lăcrimeze.

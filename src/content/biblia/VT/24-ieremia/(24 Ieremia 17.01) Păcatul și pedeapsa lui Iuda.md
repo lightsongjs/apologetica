@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Judah's Sin and Punishment"
 pericope_title_ro: "Păcatul și pedeapsa lui Iuda"
 verses_start: 1
-verses_end: 17
-verses_total: 17
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,7 +25,3 @@ language: ro
 11. Prepeliţa cloceşte ouăle pe care nu le-a ouat; aşa este şi cel ce câştigă avuţie nedreaptă, o lasă la jumătatea zilelor sale şi la sfârşitul său se va trezi că este un nebun".
 12. Tronul slavei, înălţat de la început, este locul sfinţirii noastre.
 13. Tu, Doamne, eşti nădejdea lui Israel! Toţi cei ce Te părăsesc se vor ruşina, că Tu ai zis: "Cei ce se depărtează de Mine vor fi scrişi pe pulbere, pentru că au părăsit pe Domnul, izvorul apei celei vii".
-14. Vindecă-mă, Doamne, şi voi fi vindecat; mântuieşte-mă şi voi fi mântuit, căci Tu eşti lauda mea!
-15. Iată acestea-mi zic ei: "Unde este cuvântul Domnului? Să vină!"
-16. Eu nu te-am îndemnat totuşi la mai rău, nici n-am dorit ziua nenorocirii. Tu ştii acestea; şi ce a ieşit din gura mea e descoperit înaintea feţei Tale.
-17. Nu fi pricină de groază pentru mine, că Tu eşti nădejdea mea în ziua strâmtorării.

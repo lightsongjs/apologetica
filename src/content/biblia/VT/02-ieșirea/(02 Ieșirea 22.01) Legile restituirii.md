@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Laws of Restitution"
 pericope_title_ro: "Legile restituirii"
 verses_start: 1
-verses_end: 22
-verses_total: 22
+verses_end: 15
+verses_total: 15
 language: ro
 ---
 
@@ -27,10 +27,3 @@ language: ro
 13. Dacă însă va fi sfâşiat de fiară, să-i aducă ceea ce a rămas ca mărturie şi nu va plăti despăgubire pentru vita sfâşiată.
 14. De va împrumuta cineva de la aproapele său vită şi aceea se va vătăma sau va pieri, şi stăpânul ei nu va fi cu ea, să o plătească;
 15. Iar dacă stăpânul ei a fost cu ea, să nu o plătească. Iar dacă a fost închiriată cu bani, se va socoti pentru chiria aceea.
-16. De va amăgi cineva o fată nelogodită şi se va culca cu ea, să o înzestreze şi să o ia de soţie;
-17. Iar dacă tatăl ei se va feri şi nu va voi să o dea lui de femeie, atunci el să plătească tatălui fetei bani câţi se cer pentru înzestrarea fetelor.
-18. Pe vrăjitori să nu-i lăsaţi să trăiască!
-19. Tot cel ce se împreună cu dobitoc să fie omorât.
-20. Cel ce jertfeşte la alţi dumnezei, afară de Domnul, să se piardă.
-21. Pe străin să nu-l strâmtorezi, nici să-l apeşi, căci şi voi aţi fost străini în pământul Egiptului.
-22. La nici o văduvă şi la nici un orfan să nu le faceţi rău!

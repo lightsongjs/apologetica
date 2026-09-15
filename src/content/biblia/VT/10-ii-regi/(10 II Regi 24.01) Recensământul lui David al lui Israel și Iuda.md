@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "David’s Census of Israel and Judah"
 pericope_title_ro: "Recensământul lui David al lui Israel și Iuda"
 verses_start: 1
-verses_end: 24
-verses_total: 24
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,18 +21,3 @@ language: ro
 7. Şi ocolind Sidonul, au mers la cetatea Tir şi prin toate cetăţile Heveilor şi Canaaneilor şi au ieşit în partea de miazăzi a Iudei, la Beer-Şeba.
 8. Apoi au străbătut toată ţara aceasta şi după nouă luni şi douăzeci de zile au ajuns la Ierusalim.
 9. Şi a dat Ioab regelui cartea cu numărătoarea poporului, din care se vedea că Israeliţii erau opt sute de mii de bărbaţi vârstnici, buni de război, iar cei din Iuda cinci sute de mii.
-10. Atunci s-a cutremurat inima lui David după ce a numărat poporul. Şi a zis David către Domnul: "Greu am păcătuit eu, făcând aşa, şi acum mă rog înaintea Ta, Doamne, iartă păcatul robului Tău, căci m-am purtat peste măsură de nebuneşte!"
-11. A doua zi dimineaţa s-a sculat David. Fusese însă cuvântul Domnului către Gad proorocul, ca să spună lui David viitorul, zicându-i:
-12. "Mergi şi spune lui David: Aşa zice Domnul: Îţi arăt trei pedepse: alege-ţi una din ele, să vină asupra ta".
-13. Şi a venit Gad la David şi i-a vestit, zicându-i: "Alege-ţi ce vrei: foamete în ţara ta şapte ani; să fugi trei luni de vrăjmaşii tăi şi ei să te urmărească; sau timp de trei zile să fie ciumă în ţara ta? Chibzuieşte şi hotărăşte; ce să spun Celui ce m-a trimis",
-14. "E tare greu, a răspuns David lui Gad, dar să cad mai bine în mâna Domnului, căci mila Lui este mare; numai în mâinile oamenilor să nu cad!" Şi şi-a ales David ciuma în vremea secerişului grâului.
-15. Şi a trimis Domnul ciumă asupra lui Israel de dimineaţă până la vremea hotărâtă. Şi a început molima în popor şi au murit de la Dan până la Beer-Şeba şaptezeci de mii de oameni.
-16. Şi şi-a întins îngerul Domnului mâna asupra Ierusalimului, ca să-l pustiiască, dar I S-a făcut milă Domnului şi a zis îngerului care ucidea poporul: "Destul! Opreşte-i acum mâna!" Îngerul Domnului se afla atunci la aria lui Aravna Iebuseul.
-17. Şi văzând David pe îngerul care lovea poporul, a zis către Domnul: "Iată eu am păcătuit! Fărădelegea am făcut-o eu. Dar aceste oi ce-au făcut? Deci îndreaptă-ţi mâna Ta asupra mea şi asupra casei tatălui meu!"
-18. În ziua aceea Gad a venit la David şi a zis: "Mergi de ridică jertfelnic Domnului în aria lui Aravna Iebuseul".
-19. Şi s-a dus David, cum îi zisese proorocul Gad şi cum poruncise Domnul.
-20. şi privind Aravna, a văzut pe rege şi slugile lui venind la el; şi a ieşit Aravna şi s-a închinat regelui cu faţa până la pământ.
-21. "La ce a venit domnul meu, regele, la robul tău?" a întrebat Aravna. "Ca să cumpăr de la tine aria, a răspuns David, şi să fac acolo jertfelnic Domnului, pentru ca să înceteze moartea în popor"
-22. "Să ia domnul meu, regele, şi să aducă jertfă Domnului ce voieşte, a zis Aravna către David. Iată boii pentru ardere de tot, iar carele şi jugurile boilor vor sluji de lemne.
-23. Toate acestea le dăruiesc regelui. Domnul Dumnezeul tău să te binecuvânteze!" a adăugat Aravna.
-24. "Ba nu, a zis regele către Aravna, eu am să-ţi plătesc preţul şi nu voi aduce Domnului Dumnezeului meu arderi de tot, lucruri luate în darn. Şi a cumpărat David aria şi boii cu cincizeci de sicli de argint.

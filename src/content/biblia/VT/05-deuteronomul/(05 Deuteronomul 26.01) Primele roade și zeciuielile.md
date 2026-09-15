@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "First Fruits and Tithes"
 pericope_title_ro: "Primele roade și zeciuielile"
 verses_start: 1
-verses_end: 26
-verses_total: 19
+verses_end: 15
+verses_total: 15
 language: ro
 ---
 
@@ -27,7 +27,3 @@ language: ro
 13. Atunci să zici înaintea Domnului Dumnezeului tău: Am osebit din casa mea cele sfinte şi le-am dat levitului, străinului, orfanului şi văduvei, după toate poruncile Tale pe care mi le-ai dat Tu mie; n-am călcat poruncile Tale, nici nu le-am uitat;
 14. N-am mâncat din ele în întristarea mea, nici nu le-am osebit în necurăţenie, nici n-am dat din ele cu prilejul vreunui mort, ci m-am supus glasului Domnului Dumnezeului meu şi am împlinit tot ce mi-ai poruncit Tu.
 15. Caută deci din locaşul Tău cel sfânt, din ceruri, şi binecuvintează pe poporul Tău, Israel, şi pământul pe care ni l-ai dat nouă, după cum Te-ai jurat părinţilor noştri, ca să ne dai pământul în care curge lapte şi miere.
-16. În ziua aceasta îţi porunceşte Domnul Dumnezeul tău să împlineşti toate hotărârile şi rânduielile acestea; să le păzeşti şi să le împlineşti din toată inima ta şi din tot sufletul tău.
-17. Astăzi ai mărturisit tu Domnului că El va fi Dumnezeul tău şi că tu vei umbla în căile Lui şi vei păzi hotărârile Lui, poruncile Lui şi legile Lui şi vei asculta glasul Lui.
-18. Şi Domnul ţi-a făgăduit astăzi că tu vei fi poporul Lui adevărat, precum ţi-a grăit El, de vei păzi toate poruncile Lui;
-19. Şi te va pune cu cinstea şi cu mărirea şi cu faima mai presus de toate popoarele pe care le-a făcut El şi vei fi poporul sfânt al Domnului Dumnezeului tău, precum ţi-a grăit El".

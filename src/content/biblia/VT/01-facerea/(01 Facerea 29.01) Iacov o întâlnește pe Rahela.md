@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jacob Meets Rachel"
 pericope_title_ro: "Iacov o întâlnește pe Rahela"
 verses_start: 1
-verses_end: 29
-verses_total: 29
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,18 +26,3 @@ language: ro
 12. Apoi a spus Rahilei că-i rudă cu tatăl ei şi că-i fiul Rebecăi. Iar ea a alergat şi a spus tatălui său toate acestea.
 13. Auzind Laban de sosirea lui Iacov, fiul surorii sale, a alergat în întâmpinarea lui şi, îmbrăţişându-l, l-a sărutat şi l-a adus în casa sa şi el a povestit lui Laban toate.
 14. Iar Laban i-a zis: "Tu eşti din oasele mele şi din carnea mea". Şi a stat Iacov la el o lună de zile.
-15. Atunci Laban a zis către Iacov: "Au doară îmi vei sluji în dar, pentru că îmi eşti rudă? Spune-mi, care-ţi va fi simbria?"
-16. Laban însă avea două fete: pe cea mai mare o chema Lia şi pe cea mai mică o chema Rahila.
-17. Lia era bolnavă de ochi, iar Rahila era chipeşă la statură şi tare frumoasă la fată.
-18. Lui Iacov însă îi era dragă Rahila şi a zis: "Îţi voi sluji şapte ani pentru Rahila, fata ta cea mai mică".
-19. Zisu-i-a Laban: "Mai bine s-o dau după tine decât s-o dau după alt bărbat. Rămâi la mine!"
-20. Şi a slujit Iacov pentru Rahila şapte ani şi i s-a părut numai câteva zile, pentru că o iubea.
-21. Apoi a zis Iacov către Laban: "Dă-mi femeia, că mi s-au împlinit zilele să intru la ea".
-22. Atunci a chemat Laban pe toţi oamenii locului aceluia şi a făcut ospăţ.
-23. Iar seara a luat Laban pe fiica sa Lia şi a băgat-o înăuntru şi a intrat Iacov la ea.
-24. Şi Laban a dat pe roaba sa Zilpa, roabă fiicei sale Lia.
-25. Dar când s-a făcut ziuă, iată era Lia. Şi a zis Iacov către Laban: "Pentru ce mi-ai făcut aceasta? Nu Îi-am slujit eu oare pentru Rahila? Pentru ce m-ai înşelat?"
-26. Răspuns-a Laban: "Aici la noi nu se pomeneşte să se mărite fata cea mai mică înaintea celei mai mari.
-27. Împlineşte această săptămână de nuntă şi-ţi voi da-o şi pe aceea, pentru slujba ce-mi vei mai face alţi şapte ani!"
-28. Şi a făcut Iacov aşa: a împlinit săptămâna de nuntă şi i-a dat Laban şi pe Rahila, fiica sa, de femeie.
-29. Atunci a dat Laban pe roaba sa Bilha, roabă fiicei sale Rahila.

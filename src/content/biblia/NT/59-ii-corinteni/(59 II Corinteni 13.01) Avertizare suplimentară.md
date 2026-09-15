@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Further Warning"
 pericope_title_ro: "Avertizare suplimentară"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,6 +22,3 @@ language: ro
 8. Căci împotriva adevărului n-avem nici o putere; avem pentru adevăr.
 9. Căci ne bucurăm când noi suntem slabi, iar voi sunteţi tari. Aceasta şi cerem în rugăciunea noastră: desăvârşirea voastră.
 10. Pentru aceea vă scriu acestea, nefiind de faţă, ca atunci, când voi fi de faţă, să nu cutez cu asprime, după puterea pe care mi-a dat-o Domnul spre zidire, iar nu spre dărâmare.
-11. Deci, fraţilor, bucuraţi-vă! Desăvârşiţi-vă, mângâiaţi-vă, fiţi uniţi în cuget, trăiţi în pace şi Dumnezeul dragostei şi al păcii va fi cu voi.
-12. Îmbrăţişaţi-vă unii pe alţii cu sărutare sfântă. Sfinţii toţi vă îmbrăţişează.
-13. Harul Domnului nostru Iisus Hristos şi dragostea lui Dumnezeu şi împărtăşirea Sfântului Duh să fie cu voi cu toţi!

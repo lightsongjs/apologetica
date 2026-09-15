@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "David Anointed as King"
 pericope_title_ro: "David uns ca rege"
 verses_start: 1
-verses_end: 16
-verses_total: 16
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,6 +25,3 @@ language: ro
 11. După aceea a zis Samuel către Iesei: "Oare toţi fiii tăi sunt aici?" Iar Iesei a răspuns: "Mai am unul mai mic. Acela paşte oile". A zis Samuel: "Trimite să-l aducă, pentru că nu vom şedea să prânzim până nu vine acela".
 12. Şi a trimis Iesei şi l-au adus. Acela era bălan, cu ochi frumoşi şi plăcut la faţă. Atunci Domnul a zis: "Scoală de-l unge, căci acesta este!"
 13. Şi a luat Samuel cornul cu mir şi l-a uns în mijlocul fraţilor lui, şi a odihnit Duhul Domnului asupra lui David din ziua aceea şi după aceea. Iar Samuel s-a sculat şi a plecat la Rama.
-14. Atunci s-a depărtat de la Saul Duhul Domnului şi-l tulbura un duh rău, trimis de Domnul.
-15. Şi au zis slugile lui Saul: "Iată un duh rău trimis de Domnul te tulbură.
-16. Să poruncească dar domnul nostru slugilor sale care sunt înaintea ta şi să caute un om iscusit lâ cântarea din harpă, şi când va veni asupra ta duhul cel rău trimis de la Dumnezeu, atunci acela, cântând cu mâna sa, te va linişti".

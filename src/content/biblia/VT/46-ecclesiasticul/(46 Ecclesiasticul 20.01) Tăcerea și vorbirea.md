@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Silence and Speech"
 pericope_title_ro: "Tăcerea și vorbirea"
 verses_start: 1
-verses_end: 20
-verses_total: 20
+verses_end: 8
+verses_total: 8
 language: ro
 ---
 
@@ -20,15 +20,3 @@ language: ro
 6. Omul înţelept va tăcea până la vreme, iar cel îngâmfat şi nebun va trece peste vreme.
 7. Cel care înmulţeşte cuvintele se va face urât tuturor, şi cel înfumurat de asemenea.
 8. Este spor care aduce omului pagubă şi este câştig spre nenorocire.
-9. Este dare care nu-ţi va folosi, şi este dare cu îndoită răsplătire.
-10. Poate să-ţi vină smerenia după slavă şi se poate ca, după smerenie, să ridici capul până la slavă.
-11. Câte unul cumpără multe cu puţin, şi altul plăteşte cu şapte părţi mai mult.
-12. Cel înţelept în cuvinte se va face iubit, iar darurile celor nebuni se vor lepăda.
-13. Darul celui fără de minte nu-ţi va folosi; că ochii lui, în loc de unul, sunt mulţi.
-14. Puţine va da şi multe va cere, şi va deschide gura sa ca un ispravnic.
-15. Astăzi va da împrumut, şi mâine va cere înapoi. Urât om este unul ca acesta.
-16. Nebunul va zice: N-am nici un prieten şi faptele mele cele bune nu primesc nici o recunoştinţă.
-17. Cei care mănâncă pâinea mea sunt răi cu limba.
-18. De câte ori şi câţi îl vor batjocori pe el?
-19. Mai bună este căderea pe pământ, decât căderea din pricina limbii; aşa şi căderea celor răi va veni degrabă.
-20. Un om urâcios este ca o glumă proastă, repetată într-una de neghiobi.

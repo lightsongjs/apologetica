@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jerusalem’s Victory"
 pericope_title_ro: "Biruința Ierusalimului"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,6 +21,3 @@ language: ro
 7. Şi Domnul va izbăvi mai întâi corturile lui Iuda, ca seminţia casei lui David şi trufia locuitorilor Ierusalimului să nu se ridice deasupra lui Iuda.
 8. În ziua aceea Domnul va întinde ocrotirea Sa asupra celor ce locuiesc în Ierusalim, încât cel mai slab între ei să fie ca David, şi casa lui David să fie ca Însuşi Dumnezeu, ca îngerul Domnului care merge în fruntea lor.
 9. Şi în ziua aceea Mă voi sârgui să pierd toate neamurile care vor veni împotriva Ierusalimului.
-10. Atunci voi vărsa peste casa lui David şi peste locuitorii Ierusalimului duh de milostivire şi de rugăciune, şi îşi vor aţinti privirile înspre Mine, pe Care ei L-au străpuns şi vor face plângere asupra Lui, cum se face pentru un fiu unul născut şi-L vor jeli ca pe cel întâi născut.
-11. În ziua aceea, va fi plângere mare în Ierusalim, ca plângerea de la Hadad-Rimon, în câmpia Meghidonului.
-12. Ţara se va tângui, fiecare familie deosebit: familia casei lui David deosebit şi femeile ei deosebit; familia casei lui Natan deosebit şi femeile ei deosebit;

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Tradition of the Elders"
 pericope_title_ro: "Tradiția bătrânilor"
 verses_start: 1
-verses_end: 15
-verses_total: 15
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,9 +21,3 @@ language: ro
 7. Făţarnicilor, bine a proorocit despre voi Isaia, când a zis:
 8. "Poporul acesta Mă cinsteşte cu buzele, dar inima lor este departe de Mine.
 9. Şi zadarnic Mă cinstesc ei, învăţând învăţături ce sunt porunci ale oamenilor".
-10. Şi chemând la Sine mulţimile, le-a zis: Ascultaţi şi înţelegeţi:
-11. Nu ceea ce intră în gură spurcă pe om, ci ceea ce iese din gură, aceea spurcă pe om.
-12. Atunci, apropiindu-se, ucenicii I-au zis: Ştii că fariseii, auzind cuvântul, s-au scandalizat?
-13. Iar El, răspunzând, a zis: Orice răsad pe care nu l-a sădit Tatăl Meu cel ceresc, va fi smuls din rădăcină.
-14. Lăsaţii pe ei; sunt călăuze oarbe, orbilor; şi dacă orb pe orb va călăuzi, amândoi vor cădea în groapă.
-15. Şi Petru, răspunzând, I-a zis: Lămureşte-ne nouă pilda aceasta.

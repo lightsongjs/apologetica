@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Cyrus, God's Instrument"
 pericope_title_ro: "Cirus, instrumentul lui Dumnezeu"
 verses_start: 1
-verses_end: 45
-verses_total: 25
+verses_end: 19
+verses_total: 19
 language: ro
 ---
 
@@ -31,9 +31,3 @@ language: ro
 17. Israel va fi izbăvit de Domnul cu mântuire veşnică. Voi nu veţi fi ruşinaţi, nici umiliţi în vecii vecilor!"
 18. Că aşa zice Domnul, Care a făcut cerurile, Dumnezeu, Care a întocmit pământul, l-a făcut şi l-a întărit; şi nu în deşert l-a făcut, ci ca să fie locuit: "Eu sunt Domnul şi nu este altul!"
 19. N-am grăit acestea într-ascuns, undeva în vreun colţ întunecos al pământului; şi n-am zis fără rost neamului lui Iacov: "Căutaţi-Mă!" Eu sunt Domnul Cel ce grăieşte drept şi spune adevărul!
-20. Adunaţi-vă, veniţi, apropiaţi-vă laolaltă, cei rămaşi cu viaţă dintre neamuri! Nu îşi dau seama de nimic cei ce duc după ei un idol de lemn şi se închină unui dumnezeu care nu poate izbăvi!
-21. Grăiţi, apropiaţi-vă şi sfătuiţi-vă unul cu altul! Cine a vestit aceasta, cine altădată a dat de ştire? Oare nu Eu Domnul? Nu este alt dumnezeu afară de Mine. Dumnezeu drept şi izbăvitor nu este altul decât Mine!
-22. Întoarceţi-vă către Mine şi veţi fi mântuiţi, voi cei ce locuiţi toate ţinuturile cele mai îndepărtate ale pământului! Că Eu sunt Dumnezeu tare şi nu este altul!
-23. Am jurat pe Mine Însumi! Din gura Mea iese dreptatea şi nu-Mi întorc cuvântul; înaintea Mea tot genunchiul se va pleca; pe Mine jura-va toată limba
-24. Şi va zice: "Numai în Domnul este dreptatea şi virtutea! Către Dânsul vor veni şi înfruntaţi vor fi cei ce sunt întărâtaţi împotriva Lui.
-25. Întru Domnul se vor îndrepta şi va fi preaslăvită toată seminţia lui Israel!"

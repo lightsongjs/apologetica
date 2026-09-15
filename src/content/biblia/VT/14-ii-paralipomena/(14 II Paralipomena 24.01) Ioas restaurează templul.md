@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Joash Repairs the Temple"
 pericope_title_ro: "Ioas restaurează templul"
 verses_start: 1
-verses_end: 24
-verses_total: 24
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,13 +26,3 @@ language: ro
 12. Iar regele şi Iehoiada preotul l-au dat meşterilor de lucrări ai templului Domnului şi aceştia şi-au tocmit cioplitori de piatră şi dulgheri pentru înnoire, asemenea şi lucrători în fier şi aramă ca să repare templul Domnului.
 13. Şi au luat meşterii şi au săvârşit lucrările cu mâinile lor şi au adus templul lui Dumnezeu la starea lui de mai înainte şi l-au întărit.
 14. Iar după ce au sfârşit toate de lucru, au adus argintul rămas înaintea regelui şi a lui Iehoiada. Şi au făcut din acest argint vase pentru templul Domnului, vase pentru slujbe şi pentru arderi de tot, cupe şi celelalte vase de aur şi de argint. Şi au adus necontenit arderi de tot în templul Domnului în toate zilele lui Iehoiada.
-15. Apoi a îmbătrânit Iehoiada şi a murit sătul de zile, căci era de o sută treizeci de ani când a murit.
-16. Şi l-au înmormântat în cetatea lui David, la un loc cu regii, pentru binele care îl făcuse în Israel, pentru Dumnezeu şi pentru templul Lui.
-17. Iar după moartea lui Iehoiada, au venit căpeteniile lui Iuda şi s-au închinat regelui; şi de atunci regele a început să asculte de ei.
-18. Şi au părăsit templul Domnului Dumnezeului părinţilor lor şi au început să slujească Aşerelor şi idolilor. Din pricina acestui păcat, s-a coborât mânia Domnului peste Iuda şi peste Ierusalim.
-19. Şi a trimis la ei prooroci, pentru a-i face să se întoarcă la Domnul şi i-au sfătuit, dar ei nu i-au ascultat.
-20. Atunci Duhul lui Dumnezeu a cuprins pe Zaharia, fiul lui Iehoiada preotul, care s-a suit pe amvon înaintea poporului şi le-a zis: "Aşa zice Domnul: Pentru ce călcaţi poruncile Domnului? Nu veţi propăşi, fiindcă voi aţi părăsit pe Domnul şi El vă va părăsi pe voi".
-21. Dar s-au vorbit cu toţii împotriva lui şi l-au ucis cu pietre, din porunca regelui Ioaş, în curtea templului Domnului.
-22. Regele Ioaş nu şi-a adus aminte de binefacerea care i-a făcut-o Iehoiada, tatăl lui Zaharia, ci a ucis pe fiul lui şi acesta, când murea, a zis: "Domnul să vadă şi să facă dreptate!"
-23. Iar după un an, a venit împotriva lui armata siriană, a intrat în Iuda şi în Ierusalim şi a stârpit din popor pe toate căpeteniile poporului şi toată prada luată de la ei a trimis-o regelui, la Damasc.
-24. Deşi oştirea Sirienilor care venise era alcătuită dintr-un mic număr de oameni, Domnul însă a dat în mâna lor o oaste foarte mare, pentru că ei părăsiseră pe Domnul Dumnezeul părinţilor lor, iar Sirienii aduceau la îndeplinire judecata care era asupra lui Ioaş.

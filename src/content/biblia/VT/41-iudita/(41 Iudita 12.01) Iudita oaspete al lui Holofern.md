@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Judith as a Guest of Holofernes"
 pericope_title_ro: "Iudita oaspete al lui Holofern"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,6 +21,3 @@ language: ro
 7. Atunci Olofern a poruncit gărzii sale să n-o împiedice. Şi aşa ea a rămas în tabără trei zile, şi noaptea ieşea în văgăuna stâncii de lângă Betulia, şi se spăla la izvorul unde se găsea postul de gardă.
 8. Iar după ce ieşea, se ruga Domnului Dumnezeului lui Israel, ca să-i îndrepteze calea pentru izbăvirea poporului ei.
 9. Şi întorcându-se curată, ea stătea în cort până seara, când i se aducea mâncarea.
-10. Iar în ziua a patra Olofern a făcut ospăţ, numai pentru slujitorii săi, şi n-a poftit pe nimeni dintre dregători.
-11. Şi el a zis lui Bagoas eunucul, care era pus mai mare peste toate ale sale: "Du-te şi înduplecă pe această fiică de Evrei, aceea care este la tine, să vină să mănânce şi să bea cu noi,
-12. Căci ar fi o ruşine pentru noi să lăsăm să ne scape o astfel de femeie fără a trăi cu ea. Şi dacă nu vom reuşi s-o înduplecăm, lumea va râde de noi".

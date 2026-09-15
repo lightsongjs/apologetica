@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Solomon Like Other Mortals"
 pericope_title_ro: "Solomon ca și ceilalți muritori"
 verses_start: 1
-verses_end: 7
-verses_total: 7
+verses_end: 6
+verses_total: 6
 language: ro
 ---
 
@@ -18,4 +18,3 @@ language: ro
 4. Am fost înfăşat în scutece şi am dat părinţilor grijă şi bătaie de cap.
 5. Şi nici un rege n-a început altfel, când s-a născut.
 6. Că toţi intră în viaţă în acelaşi fel şi ies iarăşi la fel.
-7. Pentru aceea m-am rugat şi mi s-a dat înţelepciune, am chemat, şi duhul cuminţeniei a coborât în mine.

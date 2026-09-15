@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Law and Sacrifices"
 pericope_title_ro: "Legea și jertfele"
 verses_start: 1
-verses_end: 35
-verses_total: 24
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,14 +25,3 @@ language: ro
 11. Că Domnul este răsplătitor şi cu şapte părţi îţi va răsplăti.
 12. Nu Îl cumpăra cu daruri, că nu le va primi.
 13. Nu nădăjdui în jertfa nedreaptă, că Domnul este judecător şi nu este la El părtinire.
-14. Nu va primi Domnul pe cel care asupreşte pe sărac, iar rugăciunea celui asuprit o va asculta.
-15. Nu va trece cu vederea rugăciunea sărmanului şi nici pe văduvă când I se va jelui.
-16. Oare nu curg lacrimile văduvei pe obraz? Strigarea ei asupra celui care i le-a stors va fi auzită.
-17. Cel care slujeşte lui Dumnezeu, cu bunăvoinţă va fi primit şi rugăciunea lui până la nori va ajunge.
-18. Rugăciunea celui smerit va pătrunde norii şi nu se va mângâia până nu va ajunge acolo.
-19. Şi nu se va depărta până ce va lua aminte Cel Preaînalt şi va face judecată cu dreptate şi dreptatea va da-o.
-20. Şi Domnul nu va zăbovi, nici va îndelunga răbdarea peste ei, până nu va zdrobi mijlocul celor nemilostivi.
-21. Şi neamurilor va răsplăti cu pedeapsă, până ce va strica mulţimea batjocoritorilor şi sceptrele nelegiuiţilor le va zdrobi;
-22. Până ce va răsplăti omului după lucrurile lui şi lucrurilor oamenilor după gândurile lor;
-23. Până ce va judeca judecata poporului Său şi-l va veseli cu mila Sa.
-24. Frumoasă este mila în vremea necazului poporului lui, ca norii cei de ploaie în vremea secetei.

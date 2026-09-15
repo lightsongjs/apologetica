@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Laborers in the Vineyard"
 pericope_title_ro: "Lucrătorii din vie"
 verses_start: 1
-verses_end: 20
-verses_total: 20
+verses_end: 16
+verses_total: 16
 language: ro
 ---
 
@@ -28,7 +28,3 @@ language: ro
 14. Ia ce este al tău şi pleacă. Voiesc să dau acestuia de pe urmă ca şi ţie.
 15. Au nu mi se cuvine mie să fac ce voiesc cu ale mele? Sau ochiul tău este rău, pentru că eu sunt bun?
 16. Astfel vor fi cei de pe urmă întâi şi cei dintâi pe urmă, că mulţi sunt chemaţi, dar puţini aleşi.
-17. Şi suindu-Se la Ierusalim, Iisus a luat de o parte pe cei doisprezece ucenici şi le-a spus lor, pe cale:
-18. Iată ne suim la Ierusalim şi Fiul Omului va fi dat pe mâna arhiereilor şi a cărturarilor, şi-L vor osândi la moarte;
-19. Şi Îl vor da pe mâna păgânilor, ca să-L batjocorească şi să-L răstignească, dar a treia zi va învia.
-20. Atunci a venit la El mama fiilor lui Zevedeu, împreună cu fiii ei, închinându-se şi cerând ceva de la El.

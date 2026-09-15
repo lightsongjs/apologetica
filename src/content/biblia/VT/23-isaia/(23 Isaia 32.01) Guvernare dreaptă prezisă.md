@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Government with Justice Predicted"
 pericope_title_ro: "Guvernare dreaptă prezisă"
 verses_start: 1
-verses_end: 32
-verses_total: 20
+verses_end: 8
+verses_total: 8
 language: ro
 ---
 
@@ -20,15 +20,3 @@ language: ro
 6. Că nebunul grăieşte nebunii şi inima lui gândeşte răul ca să săvârşească nelegiuiri, să rostească cuvinte mincinoase împotriva Domnului, să lase nemâncat pe cel flămând şi celor însetaţi să nu le dea să bea.
 7. Uneltele celui mişel sunt ticăloase, el plăsmuieşte uneltiri ca să piardă pe cei smeriţi prin cuvinte mincinoase, pe cel sărac care-şi caută dreptate.
 8. Omul de viţă bună sfătuieşte cele cuviincioase şi stăruieşte în cuviinţa lui.
-9. Femei fără de grijă, sculaţi-vă şi ascultaţi glasul meu! Fecioare încrezătoare, luaţi aminte la graiul meu!
-10. Într-un an şi câteva zile veţi tremura, voi încrezătoarelor, culesul va fi trecut şi strânsul nu se va mai face!
-11. Tremuraţi, nepăsătoarelor, înfioraţi-vă, încrezătoarelor, scoateţi îmbrăcămintea, dezbrăcaţi-vă, încingeţi-vă peste mijloc cu haine de jale.
-12. Bateţi-vă în piept şi plângeţi pentru ţarinele cele frumoase, şi rodnicia viilor.
-13. Pe pământul poporului meu vor creşte spini şi ciulini, ba şi în toate casele de petrecere ale veselei cetăţi.
-14. Palatul va fi pustiu, cetatea cea zgomotoasă, părăsită, colina şi turnul de strajă, pustiite, prefăcute pe vecie în vizuini, loc de zburdare pentru asini şi păşune pentru turme,
-15. Până când se va turna din Duhul cel de sus şi pustiul va fi ca o grădină cu pomi şi grădina socotită ca o pădure.
-16. Atunci judecata va locui în deşert şi dreptatea va sălăşlui în grădina cea cu pomi.
-17. Pacea va fi lucrul dreptăţii, roada dreptăţii va fi liniştea şi nădejdea în veci de veci.
-18. Atunci poporul meu va locui într-un loc de pace, în sălaşuri de nădejde şi în adăposturi fără grijă.
-19. Pădurea va cădea de grindină, iar cetatea va fi supusă.
-20. Fericiţi sunteţi voi, care semănaţi şi nu legaţi nici boul, nici asinul!

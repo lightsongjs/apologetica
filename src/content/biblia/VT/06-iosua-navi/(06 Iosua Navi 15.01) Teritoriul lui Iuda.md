@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Territory of Judah"
 pericope_title_ro: "Teritoriul lui Iuda"
 verses_start: 1
-verses_end: 15
-verses_total: 15
+verses_end: 12
+verses_total: 12
 language: ro
 ---
 
@@ -24,6 +24,3 @@ language: ro
 10. După aceea hotarul se întoarce de la Baala spre mare şi merge spre muntele Seir, trece pe partea de miazănoapte a muntelui Iearim, care e Chesalonul şi, pogorându-se către Bet-Şemeş, trece prin Timna;
 11. De aici hotarul merge pe partea de miazănoapte a Ecronului şi se întoarce spre Şicron, trece prin muntele Baala şi ajunge până la Iabneel şi apoi se termină hotarul la mare. Hotarul de la apus îl formează Marea cea Mare.
 12. Acesta este hotarul pământului fiilor lui Iuda, după familiile lor, din toate părţile.
-13. Lui Caleb, fiul lui Iefone, i-a dat Iosua parte intre fiii lui Iuda, cum poruncise Domnul lui Iosua şi i-a dat Iosua Chiriat-Arba a tatălui lui Enac, care este Hebronul.
-14. Însă Caleb, fiul lui Iefone, a alungat de acolo pe cei trei fii ai lui Enac: pe Şeşai, pe Ahiman şi pe Talmai, copiii lui Enac.
-15. De aici Caleb a pornit asupra locuitorilor Debirului; numele Debirului era mai înainte Chiriat-Sefer.

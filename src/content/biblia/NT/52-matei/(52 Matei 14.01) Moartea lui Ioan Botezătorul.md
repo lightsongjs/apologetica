@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Death of John the Baptist"
 pericope_title_ro: "Moartea lui Ioan Botezătorul"
 verses_start: 1
-verses_end: 14
-verses_total: 14
+verses_end: 12
+verses_total: 12
 language: ro
 ---
 
@@ -24,5 +24,3 @@ language: ro
 10. Şi a trimis şi a tăiat capul lui Ioan, în temniţă.
 11. Şi capul lui a fost adus pe tipsie şi a fost dat fetei, iar ea l-a dus mamei sale.
 12. Şi, venind ucenicii lui, au luat trupul lui şi l-au înmormântat şi s-au dus să dea de ştire lui Iisus.
-13. Iar Iisus, auzind, S-a dus de acolo singur, cu corabia, în loc pustiu dar, aflând, mulţimile au venit după El, pe jos, din cetăţi.
-14. Şi ieşind, a văzut mulţime mare şi I S-a făcut milă de ei şi a vindecat pe bolnavii lor.

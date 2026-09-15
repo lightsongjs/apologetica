@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Judith’s Counsel"
 pericope_title_ro: "Sfatul Iuditei"
 verses_start: 1
-verses_end: 14
-verses_total: 14
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,7 +22,3 @@ language: ro
 8. Şi acum spune-mi mie ce-ai făcut în zilele acestea?" Atunci Iudita i-a povestit în mijlocul poporului tot ceea ce făcuse de când plecase şi până în clipa când grăia cu ei.
 9. Şi după ce ea a sfârşit de vorbit, poporul a izbucnit în chiote de veselie, încât strigătul lui se auzi în cetate.
 10. Şi încredinţându-se Ahior despre toate câte le făcuse Dumnezeul lui Israel, a crezut cu neclintire în Dumnezeu şi-a tăiat împrejur trupul şi a fost primit definitiv în casa lui Israel.
-11. Şi în revărsatul zorilor, au spânzurat capul lui Olofern pe zid şi apoi au ieşit în cete spre trecătorile muntelui.
-12. Şi când Asirienii i-au zărit, au trimis după căpeteniile lor, iar aceia s-au dus la căpitani şi la cei de peste mii şi la toţi mai-marii lor,
-13. Şi aceia au ajuns la cortul lui Olofern şi au zis celui ce era mai mare acolo: "Scoală pe domnul nostru, căci robii au cutezat să se scoale cu război împotriva noastră, ca să ne prăpădească cu totul!"
-14. Atunci Bagoas a intrat şi a bătut în perdeaua cortului, fiindcă el socotea că Olofern doarme cu Iudita.

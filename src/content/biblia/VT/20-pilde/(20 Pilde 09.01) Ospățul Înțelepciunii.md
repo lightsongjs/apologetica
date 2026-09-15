@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Wisdom’s Feast"
 pericope_title_ro: "Ospățul Înțelepciunii"
 verses_start: 1
-verses_end: 9
-verses_total: 9
+verses_end: 6
+verses_total: 6
 language: ro
 ---
 
@@ -18,6 +18,3 @@ language: ro
 4. "Cine este neînţelept să intre  la mine!" Şi celor lipsiţi de buna-chibzuială le zice:
 5. "Veniţi şi mâncaţi din pâinea mea şi beţi din vinul pe care eu l-am amestecat cu mirodenii.
 6. Părăsiţi neînţelepciunea ca să rămâneţi cu viaţă şi umblaţi pe calea cea dreaptă a priceperii!"
-7. Cel ce ceartă pe batjocoritor îşi atrage dispreţul, şi cel ce dojeneşte pe cel fără de lege îşi atrage ocara.
-8. Nu certa pe cel batjocoritor ca să nu te urască; dojeneşte pe cel înţelept, şi el te va iubi.
-9. Dă sfat celui înţelept, şi el se va face şi mai înţelept; învaţă pe cel drept, şi el îşi va spori ştiinţa lui.

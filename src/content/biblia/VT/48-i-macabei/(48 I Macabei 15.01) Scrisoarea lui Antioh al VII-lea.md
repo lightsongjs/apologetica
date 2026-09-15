@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Letter of Antiochus VII"
 pericope_title_ro: "Scrisoarea lui Antioh al VII-lea"
 verses_start: 1
-verses_end: 15
-verses_total: 15
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,4 +26,3 @@ language: ro
 12. Că a văzut că s-au adunat peste el răutăţile şi l-au părăsit oştirile.
 13. Şi a tăbărât Antioh asupra Dorei împreună cu o sută douăzeci de mii de bărbaţi războinici şi opt mii de călăreţi.
 14. Şi a înconjurat cetatea şi cu corăbii şi o lovea şi dinspre uscat şi dinspre mare şi pe nimeni n-a lăsat nici să iasă, nici să intre.
-15. Şi a venit Numeniu şi cei care erau cu el de la Roma având scrisori către regi şi ţări, în care erau scrise acestea:

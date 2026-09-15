@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Paul in Ephesus"
 pericope_title_ro: "Pavel în Efes"
 verses_start: 1
-verses_end: 19
-verses_total: 19
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,12 +22,3 @@ language: ro
 8. Şi el, intrând în sinagogă, a vorbit cu îndrăzneală timp de trei luni, vorbind cu ei şi căutând să-i încredinţeze de împărăţia lui Dumnezeu.
 9. Dar fiindcă unii erau învârtoşaţi şi nu credeau, bârfind calea Domnului înaintea mulţimii, Pavel, plecând de la ei, a osebit pe ucenici, învăţând în fiecare zi în şcoala unuia Tiranus.
 10. Şi acesta a ţinut vreme de doi ani, încât toţi, cei ce locuiau în Asia, şi iudei şi elini, au auzit cuvântul Domnului.
-11. Şi Dumnezeu făcea, prin mâinile lui Pavel, minuni nemaiîntâlnite.
-12. Încât şi peste cei ce erau bolnavi se puneau ştergare sau şorţuri purtate de Pavel, şi bolile se depărtau de ei, iar duhurile cele rele ieşeau din ei.
-13. Şi au încercat unii dintre iudeii care cutreierau lumea, scoţând demoni, să cheme peste cei ce aveau duhuri rele, numele Domnului Iisus, zicând: Vă jur pe Iisus, pe Care-l propovăduieşte Pavel!
-14. Iar cei care făceau aceasta erau cei şapte fii ai unuia Scheva, arhiereu iudeu.
-15. Şi răspunzând, duhul cel rău le-a zis: Pe Iisus Îl cunosc şi îl ştiu şi pe Pavel, dar voi cine sunteţi?
-16. Şi sărind asupra lor omul în care era duhul cel rău şi biruindu-i, s-a întărâtat asupra lor, încât ei au fugit goi şi răniţi din casa aceea.
-17. Şi acest lucru s-a făcut cunoscut tuturor iudeilor şi elinilor care locuiau în Efes, şi frică a căzut peste toţi aceştia şi se slăvea numele Domnului Iisus.
-18. Şi mulţi dintre cei ce crezuseră veneau ca să se mărturisească şi să spună faptele lor.
-19. Iar mulţi dintre cei ce făcuseră vrăjitorie, aducând cărţile, le ardeau în faţa tuturor. Şi au socotit preţul lor şi au găsit cincizeci de mii de arginţi.

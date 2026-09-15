@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Paul Appeals to the Emperor"
 pericope_title_ro: "Pavel face apel la cezar"
 verses_start: 1
-verses_end: 25
-verses_total: 25
+verses_end: 12
+verses_total: 12
 language: ro
 ---
 
@@ -24,16 +24,3 @@ language: ro
 10. Dar Pavel a zis: Stau la judecata Cezarului, unde trebuie să fiu judecat. Iudeilor nu le-am făcut nici un rău, precum mai bine ştii şi tu.
 11. Dar dacă fac nedreptate şi am săvârşit ceva vrednic de moarte, nu mă feresc de moarte; dacă însă nu este nimic din cele de care ei mă învinuiesc - nimeni nu poate să mă dăruiască lor. Cer să fiu judecat de Cezarul.
 12. Atunci Festus, vorbind cu sfatul său, a răspuns: Ai cerut să fii judecat de Cezarul, la Cezarul te vei duce.
-13. Şi după ce au trecut câteva zile, regele Agripa şi Berenice au sosit la Cezareea, ca să salute pe Festus.
-14. Şi rămânând acolo mai multe zile, Festus a vorbit regelui despre Pavel, zicând: Este aici un bărbat, lăsat legat de Felix,
-15. În privinţa căruia, când am fost în Ierusalim, mi s-au înfăţişat arhiereii şi bătrânii iudeilor, cerând osândirea lui.
-16. Eu le-am răspuns că romanii n-au obiceiul să dea pe vreun om la pierzare, înainte ca cel învinuit să aibă de faţă pe pârâşii lui şi să aibă putinţa să se apere pentru vina sa.
-17. Adunându-se deci ei aici şi nefăcând eu nici o amânare, a doua zi am stat la judecată şi am poruncit să fie adus bărbatul.
-18. Dar pârâşii care s-au ridicat împotriva lui nu i-au adus nici o învinuire dintre cele rele, pe care le bănuiam eu,
-19. Ci aveau cu el nişte neînţelegeri cu privire la religia lor şi la un oarecare Iisus mort, de Care Pavel zice că trăieşte.
-20. Şi nedumerindu-mă cu privire la cercetarea acestor lucruri, l-am întrebat dacă voieşte să meargă la Ierusalim şi să fie judecat acolo pentru acestea.
-21. Dar Pavel, cerând să fie reţinut pentru judecata Cezarului, am poruncit să fie ţinut până ce îl voi trimite la Cezarul.
-22. Iar Agripa a zis către Festus: Aş vrea să aud şi eu pe acest om. Iar el a zis: Mâine îl vei auzi.
-23. Deci a doua zi, Agripa şi Berenice venind cu mare alai şi intrând în sala de judecată împreună cu tribunii şi cu bărbaţii cei mai de frunte ai cetăţii, Festus a dat poruncă să fie adus Pavel.
-24. Şi a zis Festus: Rege Agripa, şi voi toţi bărbaţii care sunteţi cu noi de faţă, vedeţi pe acela pentru care toată mulţimea iudeilor a venit la mine, şi în Ierusalim şi aici, strigând că el nu trebuie să mai trăiască.
-25. Iar eu am înţeles că n-a făcut nimic vrednic de moarte; iar el însuşi cerând să fie judecat de Cezarul, am hotărât să-l trimit.

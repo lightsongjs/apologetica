@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Paul in Corinth"
 pericope_title_ro: "Pavel în Corint"
 verses_start: 1
-verses_end: 18
-verses_total: 18
+verses_end: 17
+verses_total: 17
 language: ro
 ---
 
@@ -29,4 +29,3 @@ language: ro
 15. Dar dacă sunt la voi nedumeriri despre învăţătură şi despre nume şi despre legea voastră, vedeţi-vă voi înşivă de ele. Judecător pentru acestea eu nu voiesc să fiu.
 16. Şi i-a izgonit de la tribunal.
 17. Şi punând mâna toţi pe Sostene, mai-marele sinagogii, îl băteau înaintea tribunalului. Dar Galion nu lua în seamă nimic din acestea;
-18. Iar Pavel, după ce a stat încă multe zile în Corint, şi-a luat rămas bun de la fraţi şi a plecat cu corabia în Siria, împreună cu Priscila şi cu Acvila, care şi-a tuns capul la Chenhrea, căci făcuse o făgăduinţă.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Righteous Reign of the Coming King"
 pericope_title_ro: "Domnia dreaptă a Regelui ce vine"
 verses_start: 1
-verses_end: 9
-verses_total: 9
+verses_end: 7
+verses_total: 7
 language: ro
 ---
 
@@ -19,5 +19,3 @@ language: ro
 5. Căci Prunc s-a născut nouă, un Fiu s-a dat nouă, a Cărui stăpânire e pe umărul Lui şi se cheamă numele Lui: Înger de mare sfat, Sfetnic minunat, Dumnezeu tare, biruitor, Domn al păcii, Părinte al veacului ce va să fie.
 6. Şi mare va fi stăpânirea Lui şi pacea Lui nu va avea hotar. Va împărăţi pe tronul şi peste împărăţia lui David, ca s-o întărească şi s-o întemeieze prin judecată şi prin dreptate, de acum şi până-n veac. Râvna Domnului Savaot va face aceasta.
 7. Cuvânt va trimite Domnul peste Iacob, şi el se va pogorî peste Israel.
-8. Ca să ştie tot poporul, Efraim şi locuitorii Samariei, care întru mândria lor şi întru semeţia inimii lor zic:
-9. Cărămizile au căzut, să zidim cu piatră cioplită; smochinii au fost tăiaţi, să punem cedri în locul lor!

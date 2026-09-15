@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Alliance with Aram Condemned"
 pericope_title_ro: "Alianța cu Aram condamnată"
 verses_start: 1
-verses_end: 16
-verses_total: 14
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,7 +22,3 @@ language: ro
 8. Oare Etiopienii şi Libienii n-au avut ei oaste mare şi care şi călăreţi, cărora nu li se mai ştia numărul? Dar pentru că tu ţi-ai pus încrederea în Domnul, El ţi i-a dat în mâna ta;
 9. Căci ochii Domnului văd oriunde, peste tot pământul, pentru ca să sprijine pe cei care sunt cu inima lor întreagă la El. Neînţelepţeşte ai lucrat dar acum. Pentru aceasta, de acum înainte tu vei avea războaie".
 10. Şi s-a mâniat Asa pe văzător, şi l-a pus la închisoare; fiindcă din pricina aceasta prinsese mare ciudă pe el; şi a mai apăsat în acel timp Asa şi pe unii din popor.
-11. Iar faptele lui Asa de la cele dintâi până la cele de pe urmă sunt scrise în cartea regilor lui Iuda şi Israel.
-12. în anul al treizeci şi nouălea al domniei sale s-a îmbolnăvit Asa de picioare şi boala lui s-a întins până la părţile cele mai de sus ale corpului; dar el nici la boala sa n-a căutat pe Domnul, ci pe doctori.
-13. Şi a răposat Asa cu părinţii săi şi a murit în anul al patruzeci şi unulea al domniei lui.
-14. Şi l-au îngropat în mormântul pe care şi-l săpase el în cetatea lui David; şi i-au pus pe un pat pe care-l umpluse cu aromate şi cu tot felul de miresme; la înmormântarea lui i s-au ars foarte multe aromate.

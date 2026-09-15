@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Paul’s Journey to Jerusalem"
 pericope_title_ro: "Călătoria lui Pavel la Ierusalim"
 verses_start: 1
-verses_end: 21
-verses_total: 21
+verses_end: 16
+verses_total: 16
 language: ro
 ---
 
@@ -28,8 +28,3 @@ language: ro
 14. Şi neînduplecându-se el, ne-am liniştit, zicând: Facă-se voia Domnului.
 15. Iar după zilele acestea, pregătindu-ne, ne-am suit la Ierusalim.
 16. Şi au venit împreună cu noi şi dintre ucenicii din Cezareea, ducându-ne la un oarecare Mnason din Cipru, vechi ucenic, la care am fost găzduiţi.
-17. Şi sosind la Ierusalim, fraţii ne-au primit cu bucurie.
-18. Iar a doua zi Pavel a mers cu noi la Iacov şi au venit acolo toţi preoţii.
-19. Şi îmbrăţişându-i le povestea cu de-amănuntul cele ce a făcut Dumnezeu între neamuri, prin slujirea lui.
-20. Iar ei, auzind, slăveau pe Dumnezeu, şi i-au zis: Vezi frate, câte mii de iudei au crezut şi toţi sunt plini de râvnă pentru lege.
-21. Şi ei au auzit despre tine că înveţi pe toţi iudeii, care trăiesc printre neamuri, să se lepede de Moise, spunându-le să nu-şi taie împrejur copiii, nici să umble după datini.

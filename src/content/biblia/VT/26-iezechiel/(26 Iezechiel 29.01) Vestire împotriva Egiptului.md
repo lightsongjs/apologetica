@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Proclamation against Egypt"
 pericope_title_ro: "Vestire împotriva Egiptului"
 verses_start: 1
-verses_end: 29
-verses_total: 21
+verses_end: 16
+verses_total: 16
 language: ro
 ---
 
@@ -28,8 +28,3 @@ language: ro
 14. Şi voi aduce înapoi pe prinşii de război ai Egiptului şi-i voi aşeza iarăşi în ţara Patros, în pământul naşterii lor, şi vor fi acolo un regat slab.
 15. Va fi mai slab decât celelalte regate şi nu se vor mai înălţa peste popoare; îl voi mai micşora, ca să nu mai domnească peste popoare;
 16. Şi nu va mai fi de acum înainte pentru casa lui Israel pricină de încredere, ci îi va aduce aminte de nelegiuirea ei, că s-a dat de partea Egiptului, şi vor cunoaşte că Eu sunt Domnul".
-17. În ziua întâi a lunii întâi din anul al douăzeci şi şaptelea de la robirea lui Ioiachim, a fost cuvântul Domnului către mine şi mi-a zis:
-18. "Fiul omului, Nabucodonosor, regele Babilonului, şi-a obosit oştirile sale printr-o muncă grea împotriva Tirului; toate capetele s-au pleşuvit şi toţi umerii sunt răniţi; dar nici pentru el, nici pentru oştirile lui nu este nici o răsplată de la Tir pentru lucrarea pe care a făcut-o împotriva lui.
-19. De aceea, aşa zice Domnul Dumnezeu: Iată, Eu dau lui Nabucodonosor, regele Babilonului, ţara Egiptului, ca să prade bogăţia lui şi să facă jaf în el; aceasta va fi răsplata oştirilor lui.
-20. Ca răsplată pentru lucrarea pe care a făcut-o Tirului, Eu îi dau ţara Egiptului, pentru că acest lucru l-a făcut el pentru Mine, zice Domnul Dumnezeu.
-21. În ziua aceea voi face să crească cornul casei lui Israel şi ţie-ţi voi deschide gura în mijlocul lor şi vor şti că Eu sunt Domnul".

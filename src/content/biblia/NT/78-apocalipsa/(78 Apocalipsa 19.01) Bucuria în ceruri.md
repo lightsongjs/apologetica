@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Rejoicing in Heaven"
 pericope_title_ro: "Bucuria în ceruri"
 verses_start: 1
-verses_end: 19
-verses_total: 19
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,12 +22,3 @@ language: ro
 8. Şi i s-a dat ei să se înveşmânteze cu vison curat, luminos, căci visonul sunt faptele cele drepte ale sfinţilor.
 9. Şi mi-a zis: Scrie: Fericiţi cei chemaţi la cina nunţii Mielului! Şi mi-a zis: Acestea sunt adevăratele cuvinte ale lui Dumnezeu.
 10. Şi am căzut înaintea picioarelor lui, ca să mă închin lui. Şi el mi-a zis: Vezi să nu faci aceasta! Sunt împreună-slujitor cu tine şi cu fraţii tăi, care au mărturia lui Iisus. Lui Dumnezeu închină-te, căci mărturia lui Iisus este duhul proorociei.
-11. Şi am văzut cerul deschis şi iată un cal alb, şi Cel ce şedea pe el se numeşte Credincios şi Adevărat şi judecă şi se războieşte întru dreptate.
-12. Iar ochii Lui sunt ca para focului şi pe capul Lui sunt cununi multe şi are nume scris pe care nimeni nu-l înţelege decât numai El.
-13. Şi este îmbrăcat în veşmânt stropit cu sânge şi numele Lui se cheamă: Cuvântul lui Dumnezeu.
-14. Şi oştile din cer veneau după El, călare pe cai albi, purtând veşminte de vison alb, curat.
-15. Iar din gura Lui ieşea sabie ascuţită, ca să lovească neamurile cu ea. Şi El îi va păstori cu toiag de fier şi va călca teascul vinului aprinderii mâniei lui Dumnezeu, Atotţiitorul.
-16. Şi pe haina Lui şi pe coapsa Lui are nume scris: Împăratul împăraţilor şi Domnul domnilor.
-17. Şi am văzut un înger stând în soare; şi a strigat cu glas puternic, grăind tuturor păsărilor care zboară spre înaltul cerului: Veniţi şi vă adunaţi la ospăţul cel mare al lui Dumnezeu,
-18. Ca să mâncaţi trupuri de împăraţi şi trupuri de căpetenii de oşti şi trupurile celor puternici, şi trupurile cailor şi ale călăreţilor lor, şi trupurile tuturor celor slobozi şi celor robi, şi ale celor mici şi celor mari.
-19. Şi am văzut fiara şi pe împăraţii pământului, şi oştirile lor adunate, ca să facă război ce Cel ce şade pe cal şi cu oştirea Lui.

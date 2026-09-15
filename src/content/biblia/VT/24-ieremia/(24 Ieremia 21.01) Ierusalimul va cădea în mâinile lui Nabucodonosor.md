@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jerusalem Will Fall to Nebuchadrezzar"
 pericope_title_ro: "Ierusalimul va cădea în mâinile lui Nabucodonosor"
 verses_start: 1
-verses_end: 21
-verses_total: 14
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,7 +22,3 @@ language: ro
 8. Iar poporului acestuia spune-i: Aşa zice Domnul: Iată, vă pun înainte calea vieţii şi calea morţii:
 9. Cine va rămâne în cetatea aceasta, acela va muri de sabie şi de foamete şi de ciumă; iar cine va ieşi şi se va preda Caldeilor, care vă împresoară, acela va trăi şi va fi luat ca pradă,
 10. Că Eu Mi-am întors faţa împotriva cetăţii acesteia, zice Domnul, în rău, nu în bine; şi va fi dată în mâinile regelui Babilonului, care o va arde cu foc.
-11. Iar casei regelui Sedechia să-i spui: Ascultaţi cuvântul Domnului!
-12. Casa lui David, aşa zice Domnul: Faceţi judecată dis-de-dimineaţă şi scăpaţi pe cel asuprit din mâna asupritorului, pentru ca să nu izbucnească mânia Mea ca focul şi pentru ca să nu se aprindă din pricina faptelor voastre cele rele, aşa încât nimeni să n-o stingă.
-13. Cetate a văii şi stâncă din câmp, iată sunt împotriva ta, zice Domnul! O, voi, care ziceţi: "Cine se va ridica împotriva noastră şi cine va intra în sălaşul nostru?"
-14. Iată, sunt împotriva voastră! Dar Eu vă voi pedepsi după roadele faptelor voastre, zice Domnul, şi voi aprinde foc în pădurea voastră şi voi mistui totul împrejurul ei".

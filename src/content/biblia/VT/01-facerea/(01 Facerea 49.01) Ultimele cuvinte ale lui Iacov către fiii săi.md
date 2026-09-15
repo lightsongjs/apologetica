@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jacob’s Last Words to His Sons"
 pericope_title_ro: "Ultimele cuvinte ale lui Iacov către fiii săi"
 verses_start: 1
-verses_end: 49
-verses_total: 33
+verses_end: 28
+verses_total: 28
 language: ro
 ---
 
@@ -40,8 +40,3 @@ language: ro
 26. Binecuvântările tatălui tău întrec binecuvântările munţilor celor din veac şi frumuseţea dealurilor celor veşnice. Aceste binecuvântări să fie pe capul lui Iosif, pe creştetul celui mai ales între fraţii lui.
 27. Veniamin, lup răpitor, dimineaţa va mânca vânat şi pradă va împărţi seara".
 28. Iată toate cele douăsprezece seminţii ale lui Israel şi iată ce le-a spus tatăl lor, când le-a binecuvântat şi a dat fiecăreia binecuvântarea cuvenită.
-29. Apoi le-a poruncit: "Eu am să trec la poporul meu. Să mă îngropaţi lângă părinţii mei, în peştera din ţarina lui Efron Heteul.
-30. În peştera din ţarina Macpela, în faţa lui Mamvri, în pământul Canaan, pe care a cumpărat-o Avraam de la Efron Heteul, împreună cu ţarina, ca moşie de înmormântare.
-31. Acolo au fost îngropaţi Avraam şi Sarra, femeia sa, acolo au fost îngropaţi Isaac şi Rebeca, femeia lui, şi tot acolo am îngropat şi eu pe Lia.
-32. Această ţarină şi peştera din ea au fost cumpărate de la feciorii Heteilor".
-33. Sfârşind Iacov poruncile sale, pe care le-a dat feciorilor săi, şi întinzându-şi picioarele sale în pat, şi-a dat sfârşitul şi s-a adăugat la poporul său.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Lamentation for Egypt"
 pericope_title_ro: "Plângere pentru Egipt"
 verses_start: 1
-verses_end: 30
-verses_total: 26
+verses_end: 19
+verses_total: 19
 language: ro
 ---
 
@@ -31,10 +31,3 @@ language: ro
 17. Tinerii din On şi din Bubastis vor cădea de sabie, iar ceilalţi se vor duce în robie.
 18. Şi în Tahpanhes se va întuneca ziua, când voi zdrobi acolo jugul Egiptului şi se va curma puterea cea mândră a lui. Un nor îl va acoperi şi fiicele lui vor fi duse în robie.
 19. Aşa voi face Eu judecată împotriva Egiptului şi vor şti că Eu sunt Domnul".
-20. În anul al unsprezecelea, în luna întâi, în ziua a şaptea a lunii, a fost cuvântul Domnului către mine:
-21. "Fiul omului, Eu am şi zdrobit un braţ al lui Faraon, regele Egiptului, şi iată, nimeni nu l-a legat ca să se vindece şi nu l-a înfăşurat cu legături ca să capete putere pentru a mânui sabia".
-22. De aceea, aşa zice Domnul Dumnezeu: Iată, Eu sunt împotriva lui Faraon, regele Egiptului, şi voi zdrobi braţele lui, pe cel sănătos şi pe cel zdrobit, încât sabia va cădea din mâinile lui.
-23. Voi împrăştia pe Egipteni printre popoare şi-i voi vântura prin ţări.
-24. Iar braţele regelui Babilonului le voi întări şi-i voi da sabia Mea în mână, iar braţele lui Faraon le voi zdrobi şi el, rănit cumplit, va geme înaintea lui.
-25. Întări-voi braţele regelui Babilonului, iar braţele lui Faraon vor cădea fără putere; şi vor şti că Eu sunt Domnul când voi da sabia Mea în mâinile regelui Babilonului, şi acesta o va întinde asupra Egiptului.
-26. Voi împrăştia pe Egipteni printre neamuri; îi voi risipi prin ţări şi vor şti că Eu sunt Domnul".

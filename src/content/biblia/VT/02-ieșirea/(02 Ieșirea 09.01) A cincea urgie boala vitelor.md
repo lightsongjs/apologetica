@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Fifth Plague Livestock Diseased"
 pericope_title_ro: "A cincea urgie: boala vitelor"
 verses_start: 1
-verses_end: 9
-verses_total: 9
+verses_end: 7
+verses_total: 7
 language: ro
 ---
 
@@ -19,5 +19,3 @@ language: ro
 5. Şi a pus Domnul soroc şi a zis: "Mâine va face Domnul aceasta în ţara aceasta!"
 6. Şi a doua zi a făcut Domnul aceasta şi au murit toate vitele Egiptenilor, iar din vitele fiilor lui Israel n-a murit nici una.
 7. Atunci a trimis Faraon să afle şi iată din toate vitele fiilor lui Israel nu murise nici una. Dar inima lui Faraon s-a învârtoşat şi nu a lăsat poporul să se ducă.
-8. Iarăşi a grăit Domnul cu Moise şi cu Aaron şi a zis: "Luaţi-vă câte o mână plină de cenuşă din cuptor şi s-o arunce Moise spre cer înaintea lui Faraon şi a slujitorilor lui.
-9. Şi se va stârni pulbere în tot pământul Egiptului şi vor fi pe oameni şi pe vite răni şi băşici usturătoare în toată ţara Egiptului".

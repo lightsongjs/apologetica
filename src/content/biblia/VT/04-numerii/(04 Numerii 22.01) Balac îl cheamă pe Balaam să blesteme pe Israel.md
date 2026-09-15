@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Balak Summons Balaam to Curse Israel"
 pericope_title_ro: "Balac îl cheamă pe Balaam să blesteme pe Israel"
 verses_start: 1
-verses_end: 22
-verses_total: 22
+verses_end: 21
+verses_total: 21
 language: ro
 ---
 
@@ -33,4 +33,3 @@ language: ro
 19. Rămâneţi însă acum şi voi aici peste noapte şi voi vedea ce-mi va mai spune Domnul".
 20. Atunci a venit Dumnezeu la Valaam noaptea şi i-a zis: "Dacă oamenii aceştia au venit să te cheme, scoală şi te du cu ei; dar să faci ceea ce-ţi voi zice Eu!"
 21. A doua zi s-a sculat Valaam, şi-a pus samarul pe asina sa şi s-a dus cu căpeteniile Moabului.
-22. Dar se aprinsese mânia lui Dumnezeu pentru că s-a dus, iar îngerul Domnului s-a sculat, ca să-l mustre pe cale.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Exhortation to Repent"
 pericope_title_ro: "Îndemn la pocăință"
 verses_start: 1
-verses_end: 22
-verses_total: 22
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,15 +22,3 @@ language: ro
 8. Multe popoare vor trece prin cetatea aceasta şi vor zice unii către alţii: "Pentru ce a făcut Domnul aşa cu această cetate mare?"
 9. Şi li se va răspunde: "Pentru că locuitorii ei au părăsit legământul Domnului Dumnezeului lor, s-au închinat la alţi dumnezei şi au slujit acelora".
 10. Nu plângeţi după mort şi nu-l bociţi, ci plângeţi amar după cel dus în robie, că acela nu se va mai întoarce şi nu îşi va mai vedea ţara sa de naştere;
-11. Căci aşa zice Domnul despre Şalum, fiul lui Iosia, regele lui Iuda, care a domnit după tatăl său, Iosia, şi care a ieşit din locul acesta: "Nu se va mai întoarce acolo,
-12. Ci va muri în locul acela unde a fost dus rob şi nu va mai vedea pământul acesta.
-13. Vai de cel care îşi zideşte casa din nedreptate şi îşi face încăperi din fărădelegi, care sileşte pe aproapele său să-i lucreze degeaba şi nu-i dă plata lui,
-14. Şi care zice: "Am să-mi fac casă mare şi odăi încăpătoare, am să fac ferestre, am să le căptuşesc cu cedru şi am să le vopsesc cu roşu!
-15. Ai ajuns tu, oare, rege ca să te făleşti cu palate clădite din lemn de cedru? Tatăl tău n-a mâncat oare şi n-a băut? Israel a făcut judecată şi dreptate şi de aceea i-a fost bine.
-16. El a judecat pricina săracului şi a nenorocitului şi de aceea i-a fost bine. Oare nu aceasta înseamnă a Mă cunoaşte pe Mine? - zice Domnul.
-17. Inima ta însă şi ochii tăi caută numai la lucrul tău şi la vărsarea sângelui nevinovat; caută să facă numai împilare şi silnicie.
-18. De aceea, aşa zice Domnul despre Ioiachim, fiul lui Iosia, regele lui Iuda: "Nu-l vor plânge, zicând: "Vai, fratele meu!" sau: "Vai, sora mea!" Nu-l vor plânge, zicând: "Vai, doamne!" sau: "Vai, cinstea ta!"
-19. Ci el va fi îngropat ca un asin; îl vor târî şi-l vor arunca departe peste porţile Ierusalimului.
-20. Urcă-te pe Liban şi strigă, înalţă-ţi glasul de pe Vasan şi strigă de pe Abarim, că s-au zdrobit toţi prietenii tăi.
-21. În vremea propăşirii tale Eu ţi-am grăit, dar tu ai zis: "Nu ascult!" Aşa a fost purtarea ta chiar din tinereţea ta şi n-ai ascultat glasul Meu.
-22. Pe toţi păstorii tăi îi va împrăştia vântul, iar prietenii tăi se vor duce în robie. Atunci vei fi ruşinat şi batjocorit pentru toate faptele tale cele rele.

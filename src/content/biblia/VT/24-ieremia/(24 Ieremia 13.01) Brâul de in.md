@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Linen Loincloth"
 pericope_title_ro: "Brâul de in"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,5 +23,3 @@ language: ro
 9. "Iată ce zice Domnul: Aşa voi sfărâma mândria lui Iuda şi trufia cea mare a Ierusalimului.
 10. Acest popor rău, care nu vrea să asculte cuvintele Mele, ci trăieşte după îndărătnicia inimii lui, merge pe urmele altor dumnezei şi se închină şi slujeşte lor, va fi ca brâul acesta care nu este bun de nimic.
 11. Că precum e brâul aproape de coapsele omului, aşa am apropiat Eu de Mine toată casa lui Israel şi toată casa lui Iuda, zice Domnul, ca să-Mi fie poporul Meu, numele Meu, lauda Mea şi slava Mea, dar ei n-au ascultat.
-12. De aceea, spune-le cuvântul acesta: Aşa zice Domnul Dumnezeul lui Israel: Tot urciorul se umple de vin. Şi ei toţi vor zice: Au doară noi nu ştim că tot urciorul se umple de vin?
-13. Iar tu să le spui: Aşa zice Domnul: Iată, Eu voi umple cu vin până la îmbătare pe toţi locuitorii ţării acesteia, pe regii care şed pe scaunul lui David, pe preoţi, pe prooroci şi, pe toţi locuitorii Ierusalimului,

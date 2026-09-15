@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Praise of Wisdom[a]"
 pericope_title_ro: "Lauda Înțelepciunii"
 verses_start: 1
-verses_end: 24
-verses_total: 24
+verses_end: 22
+verses_total: 22
 language: ro
 ---
 
@@ -34,5 +34,3 @@ language: ro
 20. Sunt ca o vilă cu ramuri încântătoare, dar şi florile mele sunt rodul măririi şi al bogăţiei.
 21. Apropiaţi-vă de mine cei ce mă poftiţi şi vă săturaţi din roadele mele.
 22. Că pomenirea mea este mai dulce decât mierea şi moştenirea mea decât fagurele mierii.
-23. Cei care mă mănâncă pe mine iar vor flămânzi; şi cei care mă beau iar vor înseta.
-24. Cel care mă ascultă pe mine nu se va ruşina şi cei care lucrează întru mine nu vor păcătui".

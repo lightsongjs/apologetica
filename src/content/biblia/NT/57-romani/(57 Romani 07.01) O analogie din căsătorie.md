@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "An Analogy from Marriage"
 pericope_title_ro: "O analogie din căsătorie"
 verses_start: 1
-verses_end: 7
-verses_total: 7
+verses_end: 6
+verses_total: 6
 language: ro
 ---
 
@@ -18,4 +18,3 @@ language: ro
 4. Aşa că, fraţii mei, şi voi aţi murit Legii, prin trupul lui Hristos, spre a fi ai altuia, ai Celui ce a înviat din morţi, ca să aducem roade lui Dumnezeu.
 5. Căci pe când eram în trup, patimile păcatelor, care erau prin Lege, lucrau în mădularele noastre, ca să aducem roade morţii;
 6. Dar acum ne-am desfăcut de Lege, murind aceluia în care eram ţinuţi robi, ca noi să slujim întru înnoirea Duhului, iar nu după slova cea veche.
-7. Ce vom zice deci? Au doară Legea este păcat? Nicidecum. Dar eu n-am cunoscut păcatul,  decât prin Lege. Căci n-aş fi ştiut pofta, dacă Legea n-ar fi zis: Să nu pofteşti!

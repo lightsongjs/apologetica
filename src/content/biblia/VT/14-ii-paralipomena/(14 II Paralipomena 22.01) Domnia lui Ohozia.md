@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Ahaziah’s Reign"
 pericope_title_ro: "Domnia lui Ohozia"
 verses_start: 1
-verses_end: 22
-verses_total: 12
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,6 +21,3 @@ language: ro
 7. Cu voia lui Dumnezeu şi spre pieirea lui a venit Ohozia la Ioram, căci, după sosirea lui aici, a plecat cu Ioram împotriva lui Iehu, fiul lui Nimşi, pe care-l unsese Domnul pentru stârpirea casei lui Ahab.
 8. Astfel pe când Iehu aducea la îndeplinire judecata care era asupra casei lui Ahab, a găsit şi pe căpeteniile lui Iuda şi pe fiii fraţilor lui Ohozia, care-i slujeau, şi i-a ucis.
 9. Apoi Iehu a poruncit să caute şi pe Ohozia şi l-au prins pe când el se ascundea în Samaria, l-au adus la Iehu şi l-au ucis şi l-au înmormântat, căci ziceau: "Este fiul lui Iosafat care a căutat pe Domnul din toată inima sa". şi n-a rămas în casa lui Ohozia nimeni care să poată domni,
-10. Căci Atalia, mama lui Ohozia, văzând că a murit fiul ei, s-a sculat şi a stârpit toată sămânţa de rege din casa lui Iuda.
-11. Dar Ioşeba, fiica regelui Ioram, a pus mâna pe Ioaş, fiul lui Ohozia" l-a scos din mijlocul fiilor regelui, care aveau să fie ucişi şi l-a ascuns pe el şi pe doica lui în odaia de dormit. Şi astfel Ioşeba, fiica regelui Ioram, femeia lui Iehoiada preotul şi sora lui Ohozia, a ascuns pe Ioaş din fata Ataliei, şi nu l-a omorât.
-12. Şi l-au ţinut ei ascuns în templul lui Dumnezeu şase ani; iar peste ţară a domnit Atalia.

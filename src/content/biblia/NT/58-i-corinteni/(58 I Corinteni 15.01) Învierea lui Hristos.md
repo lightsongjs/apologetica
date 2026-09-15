@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Resurrection of Christ"
 pericope_title_ro: "Învierea lui Hristos"
 verses_start: 1
-verses_end: 15
-verses_total: 15
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,7 +23,3 @@ language: ro
 9. Căci eu sunt cel mai mic dintre apostoli, care nu sunt vrednic să mă numesc apostol, pentru că am prigonit Biserica lui Dumnezeu.
 10. Dar prin harul lui Dumnezeu sunt ceea ce sunt; şi harul Lui care este în mine n-a fost în zadar, ci m-am ostenit mai mult decât ei toţi. Dar nu eu, ci harul lui Dumnezeu care este cu mine.
 11. Deci ori eu, ori aceia, aşa propovăduim şi voi aşa aţi crezut.
-12. Iar dacă se propovăduieşte că Hristos a înviat din morţi, cum zic unii dintre voi că nu este înviere a morţilor?
-13. Dacă nu este înviere a morţilor, nici Hristos n-a înviat.
-14. Şi dacă Hristos n-a înviat, zadarnică este atunci propovăduirea noastră, zadarnică este şi credinţa voastră.
-15. Ne aflăm încă şi martori mincinoşi ai lui Dumnezeu, pentru că am mărturisit împotriva lui Dumnezeu că a înviat pe Hristos, pe Care nu L-a înviat, dacă deci morţii nu înviază.

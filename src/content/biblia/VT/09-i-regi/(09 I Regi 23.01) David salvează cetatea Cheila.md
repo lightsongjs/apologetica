@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "David Saves the City of Keilah"
 pericope_title_ro: "David salvează cetatea Cheila"
 verses_start: 1
-verses_end: 23
-verses_total: 23
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,12 +26,3 @@ language: ro
 12. Şi a zis David: "Mă vor da locuitorii din Cheila pe mine şi oamenii mei în mâinile lui Saul?" Şi a zis Domnul: "Te vor da!"
 13. Atunci s-a ridicat David şi oamenii lui ca la şase sute de inşi, au ieşit din Cheila şi s-au dus unde au putut. Lui Saul însă i s-a spus că David a fugit din Cheila şi atunci el şi-a schimbat planul.
 14. Iar David a petrecut prin pustiu în locuri nestrăbătute şi apoi pe un munte din pustiul Zif. Saul îl căuta în toate zilele, dar Dumnezeu nu l-a dat în mâinile lui.
-15. David văzuse că Saul a ieşit să caute sufletul lui, dar el se afla într-o pădure din pustiul Zif.
-16. Atunci s-a sculat Ionatan, fiul lui Saul, a venit la David în pădure şi l-a întărit cu nădejdea în Dumnezeu,
-17. Zicându-i: "Nu te teme, căci nu te va găsi mâna tatălui meu Saul şi tu vei împărăţi peste Israel, iar eu voi fi al doilea după tine; Saul, tatăl meu, ştie aceasta".
-18. Şi au încheiat ei între ei legământ înaintea feţei Domnului. Apoi Ionatan s-a întors la casa sa, iar David a rămas în pădure.
-19. Atunci au venit Zifeii la Saul în Ghibeea şi au zis: "Iată David stă ascuns la noi prin locuri nestrăbătute, în pădure, pe muntele Hachila, care vine la dreapta Ieşimonului.
-20. Aşadar, o, rege, mergi după dorinţa sufletului tău, iar treaba noastră va fi să-l dăm în mâinile regelui".
-21. Saul însă le-a zis: "Binecuvântaţi să fiţi voi la Domnul, că aţi avut milă de mine.
-22. Mergeţi şi vă mai încredinţaţi încă; cercetaţi şi vedeţi locul lui, pe unde îi calcă piciorul şi cine l-a văzut acolo, căci mie mi se spune că este foarte şiret.
-23. Cercetaţi şi aflaţi toate ascunzişurile în care se doseşte; apoi întoarceţi-vă la mine cu ştiri amănunţite şi eu voi merge cu voi, de este în acea ţară; îl voi căuta în toate miile lui Iuda".

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Folly of a Navigator Praying to an Idol"
 pericope_title_ro: "Nebunia unui navigator care se roagă la un idol"
 verses_start: 1
-verses_end: 14
-verses_total: 14
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,6 +23,3 @@ language: ro
 9. Că Dumnezeu urăşte deopotrivă şi pe nelegiuiţi şi nelegiuirea lor.
 10. Lucrul şi lucrătorul var fi deopotrivă pedepsiţi.
 11. Pentru aceea, idolii neamurilor vor fi cercetaţi spre pieire, fiindcă, deşi sunt făpturi, au ajuns urâciune, sminteală pentru sufletele oamenilor şi laţ pentru picioarele celor fără de minte.
-12. Gândul plăsmuirii de idoli a fost începutul aprinderii spre desfrâu, şi născocirea lor a fost pierderea vieţii.
-13. Fiindcă n-au fost de la început şi nu vor fi totdeauna.
-14. Prin deşarta mărire omenească au intrat în lume, astfel că apropiatul lor sfârşit este hotărât înaintea lui Dumnezeu.

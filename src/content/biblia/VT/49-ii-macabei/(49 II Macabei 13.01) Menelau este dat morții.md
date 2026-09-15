@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Menelaus Is Put to Death"
 pericope_title_ro: "Menelau este dat morții"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 8
+verses_total: 8
 language: ro
 ---
 
@@ -20,8 +20,3 @@ language: ro
 6. Aici se aruncau toţi cei care erau furi de cele sfinte sau vinovaţi cu alte răutăţi mari.
 7. Cu această moarte s-a întâmplat a muri nelegiuitul Menelau, neînvrednicindu-se nici de înmormântare.
 8. Pe bună dreptate, fiindcă multe păcate făcuse asupra jertfelnicului, ale cărui foc şi cenuşă erau curate şi tocmai în cenuşă şi-a găsit moartea.
-9. Iar regele venea cu gânduri barbare, ca să facă Iudeilor mai mari rele decât s-au făcut în zilele tatălui său.
-10. Şi aflând Iuda acestea, a poruncit poporului să se roage Domnului, ziua şi noaptea ca, precum alteori, aşa şi acum să ajute
-11. Celor care erau să fie lipsiţi de lege, de patrie şi de sfântul locaş, iar pe poporul, care nu de multă vreme îşi venise în fire, să nu-l lase să fie supus neamurilor celor hulitoare.
-12. Şi toţi împreună făcând aceasta şi rugând pe milostivul Dumnezeu cu plângere şi cu ajunări şi cu cădere la pământ trei zile neîncetat, i-a mângâiat Iuda şi le-a poruncit să se gătească.
-13. Iar Iuda împreună cu cei mai bătrâni s-a sfătuit ca, mai înainte de a intra oştirea regelui în Iudeea şi de a birui Ierusalimul, să le iasă înainte şi cu ajutorul Domnului să hotărască lucrul.

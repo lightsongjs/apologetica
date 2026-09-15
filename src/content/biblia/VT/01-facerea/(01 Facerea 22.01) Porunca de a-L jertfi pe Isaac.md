@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Command to Sacrifice Isaac"
 pericope_title_ro: "Porunca de a-L jertfi pe Isaac"
 verses_start: 1
-verses_end: 22
-verses_total: 22
+verses_end: 19
+verses_total: 19
 language: ro
 ---
 
@@ -31,6 +31,3 @@ language: ro
 17. De aceea te voi binecuvânta cu binecuvântarea Mea şi voi înmulţi foarte neamul tău, ca să fie ca stelele cerului şi ca nisipul de pe ţărmul mării şi va stăpâni neamul tău cetăţile duşmanilor săi;
 18. Şi se vor binecuvânta prin neamul tău toate popoarele pământului, pentru că ai ascultat glasul Meu".
 19. Întorcându-se apoi Avraam la slugile sale, s-au sculat împreună şi s-au dus la Beer-Şeba şi a locuit Avraam acolo în Beer-Şeba.
-20. Iar după ce s-au petrecut acestea, i s-a vestit lui Avraam, spunându-i-se: "Iată Milca a născut şi ea fii lui Nahor, fratele tău:
-21. Pe Uţ, întâiul său născut, pe Buz, fratele acestuia şi pe Chemuel, tatăl lui Aram;
-22. Pe Chesed, pe Hazo, pe Pildaş, pe Idlaf şi pe Batuel.

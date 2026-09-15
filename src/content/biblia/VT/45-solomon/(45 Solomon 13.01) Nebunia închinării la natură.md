@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Foolishness of Nature Worship"
 pericope_title_ro: "Nebunia închinării la natură"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,7 +21,3 @@ language: ro
 7. Căci, îndeletnicindu-se cu lucrările lui Dumnezeu şi cercetându-le, ei se încredinţează cu vederea cât de frumoase sunt cele văzute.
 8. De altă parte, ei n-au cuvânt să li se ierte rătăcirea.
 9. Că dacă au putut să adune atâta învăţătură, ca să cerceteze lumea, cum n-au aflat ei mai degrabă pe Stăpânul lumii?
-10. Dar sunt cu totul ticăloşi şi şi-au pus nădejdea în lucruri fără de viaţă cei care au numit dumnezei lucrurile mâinilor omeneşti, aurul şi argintul cu meşteşug lucrat şi închipuiri de dobitoace sau piatră netrebnică, cioplită de mână de demult.
-11. Un meşter lemnar a tăiat din pădure un lemn bun de lucrat, l-a jupuit de coajă şi apoi cu îndemânarea sa a făcut din el o unealtă folositoare spre slujba vieţii.
-12. Rămăşiţele de la lemnul lucrat le pune pe foc să îşi fiarbă de mâncare şi îşi potoleşte foamea.
-13. Şi ce-a mai rămas dintr-acestea, nefiind de nici o treabă, pentru că este lemn strâmb şi noduros, îl ciopleşte ca să-i treacă de urât şi, potrivindu-l şi meşteşugindu-l, l-a făcut asemenea cu chipul de om.

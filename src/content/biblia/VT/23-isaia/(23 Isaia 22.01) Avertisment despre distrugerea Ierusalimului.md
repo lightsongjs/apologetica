@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "A Warning of Destruction of Jerusalem"
 pericope_title_ro: "Avertisment despre distrugerea Ierusalimului"
 verses_start: 1
-verses_end: 22
-verses_total: 22
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,11 +26,3 @@ language: ro
 12. Şi în ziua aceea ne va îndemna Domnul Dumnezeu Savaot să plângem, să suspinăm, să ne radem capul şi să ne încingem cu sac.
 13. Iată bucuria şi veselia, boi tăiaţi şi oi junghiate; toţi mănâncă din carne şi beau vin: "Să mâncăm şi să bem, că mâine vom muri!"
 14. Domnul Savaot a descoperit urechilor mele: Acest păcat nu vă va fi iertat nici până la moarte, zice Domnul Dumnezeu Savaot.
-15. Împotriva lui Şebna, mai-marele palatului, iată ce spune Domnul Dumnezeu Savaot: "Du-te la acest dregător,
-16. Care îşi sapă mormânt pe un loc înalt, care îşi pregăteşte locaş în stâncă şi zi-i: "Ce ai tu şi cine eşti tu de-ţi sapi aici mormânt?
-17. Iată că Domnul te azvârle, dintr-o singură aruncătură, te strânge cu o singură strângere.
-18. El te înfăşură şi te rostogoleşte ca pe un ghem pe un câmp întins. Acolo tu vei muri; acolo vor merge carele tale măreţe, tu, ruşinea palatului stăpânului tău.
-19. El îţi va lua slujba ta şi te va lipsi de dregătoria ta.
-20. Şi în ziua aceea voi chema pe sluga mea, pe Eliachim, feciorul lui Hilchia,
-21. Şi îl voi îmbrăca cu veşmintele tale, îl voi încinge cu brâul tău şi-i voi da în mână dregătoria ta. El va fi tată pentru cei ce locuiesc în Ierusalim şi pentru casa lui Iuda.
-22. Şi îi voi pune pe umeri cheile casei lui David şi dacă el va deschide, nimeni nu va închide, şi dacă el va închide, nimeni nu va deschide.

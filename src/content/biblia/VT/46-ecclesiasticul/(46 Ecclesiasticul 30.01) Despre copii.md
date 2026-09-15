@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Concerning Children[a]"
 pericope_title_ro: "Despre copii"
 verses_start: 1
-verses_end: 30
-verses_total: 25
+verses_end: 17
+verses_total: 17
 language: ro
 ---
 
@@ -29,11 +29,3 @@ language: ro
 15. Sănătatea şi buna tărie este mai bună decât tot aurul, şi trupul sănătos şi eu putere, decât avuţia nenumărată.
 16. Nu este mai bună avuţia decât sănătatea trupului şi nu este bucurie mai mare decât bucuria inimii.
 17. Mai bună este moartea decât viaţa amară sau decât boala necontenită.
-18. Bunătăţi multe, vărsate împrejurul gurii celei închise, sunt ca bucatele cele puse la mormânt.
-19. Ce foloseşte idolului jertfa? Că nici nu mănâncă, nici nu miroase; aşa este cel care stăpâneşte avuţia, dar nu se poate bucura de ea.
-20. Cel care vede cu ochii şi suspină este ca famenul care îmbrăţişează pe fecioară şi suspină.
-21. Nu da spre întristare sufletul tău şi nu te necăji eu sfatul tău.
-22. Veselia inimii este viaţa omului şi bucuria este îndelungarea zilelor lui.
-23. Iubeşte-ţi sufletul tău şi-ţi mângâie inima ta şi departe de la tine goneşte întristarea,
-24. Că pe mulţi i-a omorât întristarea şi nu este folos întru ea.
-25. Pizma şi mânia împuţinează zilele şi grija aduce bătrâneţile mai înainte de vreme.

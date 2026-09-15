@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Judith Beheads Holofernes"
 pericope_title_ro: "Iudita îl decapitează pe Holofern"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,6 +22,3 @@ language: ro
 8. Apoi îl lovi peste gât de două ori din toate puterile şi-i reteză capul;
 9. A rostogolit trupul lui de pe pat şi a luat perdeaua de pe stâlpi şi după puţin timp a ieşit şi a dat roabei sale capul lui Olofern. Şi ea l-a pus în desaga ei cu merinde. Şi amândouă au ieşit ca de obicei la rugăciune. Şi au străbătut tabăra, au ocolit văgăuna stâncii şi au luat-o la deal pe muntele Betuliei şi au ajuns la porţile cetăţii.
 10. Şi de departe Iudita a strigat la străjerii porţilor: "Deschideţi, deschideţi poarta! Cu noi este Dumnezeu, Dumnezeul nostru, ca să-Şi mai arate puterea şi tăria Lui în Israel împotriva duşmanilor noştri, precum a făcut El în ziua de azi!"
-11. Şi când locuitorii cetăţii i-au auzit glasul, s-au grăbit să se coboare la poarta cetăţii şi au strigat şi pe bătrânii cetăţii.
-12. Atunci au alergat toţi de la mic la mare, fiindcă nu se aşteptau la venirea ei. Oamenii au deschis poarta, au primit pe cele două femei, au făcut foc pentru a vedea şi le-au înconjurat.
-13. Şi ea le-a zis cu glas tare: "Lăudaţi pe Dumnezeu! Lăudaţi-L! Preaslăviţi pe Dumnezeu, Care n-a lipsit neamul lui Israel de mila Sa, ci a zdrobit în noaptea aceasta prin mâna mea pe vrăjmaşii noştri!"

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Ingathering of the Dispersed"
 pericope_title_ro: "Adunarea celor împrăștiați"
 verses_start: 1
-verses_end: 60
-verses_total: 22
+verses_end: 18
+verses_total: 18
 language: ro
 ---
 
@@ -30,7 +30,3 @@ language: ro
 16. Tu vei suge laptele neamurilor şi vei mânca bunătăţile regilor. Şi vei şti că Eu, Domnul, sunt Mântuitorul tău, că Cel puternic al lui Iacov este Răscumpărătorul tău.
 17. În loc de aramă îţi voi aduce aur, în loc de fier, argint, în loc de lemn, aramă şi în loc de pietre, fier. Şi voi pune judecător al tău pacea şi stăpânitor peste tine dreptatea.
 18. Şi nu se va mai auzi de silnicie în ţara ta, de pustiire şi de ruină în hotarele tale. Zidurile tale le vei numi mântuire şi porţile tale laudă.
-19. Nu vei mai avea soarele ca lumină în timpul zilei şi strălucirea lunii nu te va mai lumina; ci Domnul va fi pentru tine o lumină veşnică şi Dumnezeul tău va fi slava ta.
-20. Soarele tău nu va mai asfinţi şi luna nu va mai descreşte; că Domnul va fi pentru tine lumină veşnică şi zilele întristării tale se vor sfârşi.
-21. În poporul tău vor fi numai drepţi şi vor stăpâni ţara pentru totdeauna; vlăstar pe care l-am sădit Eu, lucrul mâinilor Mele făcut spre slava Mea.
-22. Cel mai mic va fi cât o mie, cel mai neînsemnat va fi cât un neam puternic: Eu, Domnul, am hotărât acestea şi la vreme voi fi împlinitorul lor.

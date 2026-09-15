@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Slaughtering of Animals"
 pericope_title_ro: "Înjunghierea animalelor"
 verses_start: 1
-verses_end: 17
-verses_total: 16
+verses_end: 9
+verses_total: 9
 language: ro
 ---
 
@@ -21,10 +21,3 @@ language: ro
 7. Ca să nu-şi mai aducă ei jertfele lor la idolii după care umblă desfrânând. Aceasta să fie pentru ei aşezământ veşnic în neamul lor.
 8. Să le spui de asemenea: Dacă un om dintre fiii lui Israel sau dintre fiii străinilor care locuiesc între ei va face ardere de tot sau jertfă
 9. Şi nu o va aduce la uşa cortului adunării, ca să o aducă jertfă înaintea Domnului, omul acela se va stârpi din poporul său.
-10. Dacă un om dintre fiii lui Israel şi dintre străinii care trăiesc între voi va mânca orice fel de sânge, Îmi voi întoarce faţa Mea împotriva sufletului celui ce va mânca sânge şi-l voi stârpi din poporul său,
-11. Pentru că viaţa a tot trupul este în sânge şi pe acesta vi l-am dat pentru jertfelnic, ca să vă curăţiri sufletele voastre, că sângele acesta curăţeşte sufletul.
-12. De aceea am şi zis fiilor lui Israel: Nimeni din voi să nu mănânce sânge şi nici străinul, care locuieşte la voi, să nu mănânce sânge.
-13. Oricine dintre fiii lui Israel şi dintre străinii ce locuiesc la voi va vâna fiară sau pasăre, care se mănâncă, acela să scurgă sângele ei şi să-l acopere cu pământ, căci viaţa oricărui trup este în sângele lui.
-14. De aceea am zis fiilor lui Israel: Să nu mâncaţi sângele nici unui trup, pentru că viaţa oricărui trup este în sângele lui: tot cel ce-l va mânca se va stârpi,
-15. Şi tot cel ce va mânca mortăciune sau sfâşiat de fiară, acela, fie băştinaş sau străin, să-şi spele hainele, să se spele cu apă şi necurat va fi până seara, iar apoi va fi curat;
-16. Iar de nu-şi va spăla hainele sale şi nu-şi va spăla trupul său, va purta asupra sa vina sa".

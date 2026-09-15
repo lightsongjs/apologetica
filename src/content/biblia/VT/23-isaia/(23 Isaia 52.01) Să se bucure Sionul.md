@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Let Zion Rejoice"
 pericope_title_ro: "Să se bucure Sionul"
 verses_start: 1
-verses_end: 52
-verses_total: 15
+verses_end: 12
+verses_total: 12
 language: ro
 ---
 
@@ -24,6 +24,3 @@ language: ro
 10. Descoperit-a Domnul braţul Său cel sfânt în ochii tuturor popoarelor şi toate marginile cele îndepărtate ale pământului vor vedea mântuirea Dumnezeului nostru, zicând:
 11. "Plecaţi, plecaţi, ieşiţi de acolo! Nu vă atingeţi de lucru spurcat! Ieşiţi, curăţiţi-vă, voi cei care purtaţi vasele Domnului!
 12. Dar nu veţi ieşi îngrămădindu-vă şi nu veţi pleca fugind, că înaintea voastră merge Domnul şi în urma voastră tot El, Dumnezeul lui Israel!"
-13. Iată că Sluga Mea va propăşi, Se va sui, mare Se va face şi Se va înălţa pe culmile slavei!
-14. Precum mulţi s-au spăimântat de El - aşa de schimonosită li era înfăţişarea Lui, şi chipul Lui atât de fără asemănare cu oamenii, -
-15. Tot aşa va fi pricină de uimire pentru multe popoare; înaintea Lui regii vor închide gura, că acum văd ceea ce nu li s-a spus, şi înţeleg ceea ce n-au auzit.

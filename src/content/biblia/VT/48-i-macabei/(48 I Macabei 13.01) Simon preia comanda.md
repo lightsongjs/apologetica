@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Simon Takes Command"
 pericope_title_ro: "Simon preia comanda"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,5 +23,3 @@ language: ro
 9. Poartă războiul nostru, şi toate câte vei zice, vom face.
 10. Şi a adunat pe toţi bărbaţii cei de război şi a grăbit a săvârşi zidurile Ierusalimului şi a-l întări primprejur.
 11. Şi a trimis pe Ionatan al lui Absalom cu putere destulă la Iafa şi, scoţând pe cei care erau acolo, a rămas în ea.
-12. Şi a pornit Trifon din Ptolemaida cu oştire multă, să intre în pământul Iudei şi avea cu sine pe Ionatan în lanţuri.
-13. Iar Simon a tăbărât la Hadid în preajma câmpului.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Great Drought"
 pericope_title_ro: "Marea secetă"
 verses_start: 1
-verses_end: 14
-verses_total: 14
+verses_end: 12
+verses_total: 12
 language: ro
 ---
 
@@ -24,5 +24,3 @@ language: ro
 10. Aşa zice Domnul către poporul acesta: "Pentru că le place să rătăcească şi nu-şi cruţă picioarele, de aceea Domnul nu mai găseşte plăcere în ei; pomeneşte acum fărădelegile lor şi numeşte păcatele lor".
 11. Apoi Domnul mi-a spus: "Tu să nu te rogi pentru poporul acesta spre binele lui.
 12. De vor posti, nu voi auzi strigarea lor; de vor aduce arderi de tot şi prinoase, nu voi primi, ci cu sabie, cu foamete şi cu molimă îi voi pierde".
-13. Atunci am zis: "Doamne Dumnezeule! Iată ce le grăiesc proorocii: Nu veţi vedea sabie şi foamete nu va fi la voi, ci voi da în locul acesta pace necontenită".
-14. Iar Domnul mi-a răspuns: "Proorocii proorocesc lucruri mincinoase în numele Meu; Eu nu i-am trimis, nici nu ie-am dat poruncă şi nici nu le-am grăit; ci ei vă vestesc vedenii mincinoase, proorociri deşarte şi închipuiri ale inimii lor".

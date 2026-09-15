@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Abimelech Attempts to Establish a Monarchy"
 pericope_title_ro: "Abimelec încearcă să instaureze monarhia"
 verses_start: 1
-verses_end: 9
-verses_total: 9
+verses_end: 6
+verses_total: 6
 language: ro
 ---
 
@@ -18,6 +18,3 @@ language: ro
 4. Şi i-au dat şaptezeci de sicli de argint din casa lui Baal-Berit, iar Abimelec şi-a tocmit cu ei oameni răi şi fără căpătâi care s-au şi dus cu el.
 5. Apoi a venit la casa tatălui său în Ofra şi a ucis pe fraţii săi, pe cei şaptezeci de fii ai lui Ierubaal, pe o piatră, rămânând numai Iotam, fiul cel mai mic al lui Ierubaal, pentru că s-a ascuns.
 6. După aceea s-au adunat toţi locuitorii Sichemului şi toată casa lui Milo şi s-au dus de au pus rege pe Abimelec la stejarul cel de lângă Sichem.
-7. Iar dacă s-a spus acestea lui Iotam, acesta s-a dus şi a stat pe vârful muntelui Garizim şi, ridicându-şi glasul, a strigat şi a zis: "Ascultaţi-mă, locuitori ai Sichemului, şi Dumnezeu să vă asculte!
-8. S-au dus odată copacii să-şi ungă împărat peste ei. Şi au zis către măslin: Domneşte peste noi!
-9. Iar măslinul a zis: Lăsa-voi eu oare grăsimea mea, cu care se cinsteşte Dumnezeu şi oamenii se mândresc şi mă voi duce să umblu prin copaci?

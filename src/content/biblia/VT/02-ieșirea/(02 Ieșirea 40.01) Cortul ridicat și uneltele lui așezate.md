@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Tabernacle Erected and Its Equipment Installed"
 pericope_title_ro: "Cortul ridicat și uneltele lui așezate"
 verses_start: 1
-verses_end: 40
-verses_total: 38
+verses_end: 33
+verses_total: 33
 language: ro
 ---
 
@@ -45,8 +45,3 @@ language: ro
 31. Moise, Aaron şi fiii lui trebuia să-şi spele din ea mâinile şi picioarele;
 32. Când intrau ei în cortul adunării sau când se apropiau de jertfelnic ca să slujească, se spălau din ea cum poruncise Domnul lui Moise.
 33. După aceea au pus împrejmuirea curţii împrejurul cortului şi a jertfelnicului şi a atârnat perdeaua la intrarea curţii. Şi aşa a isprăvit Moise lucrările.
-34. Atunci un nor a acoperit cortul adunării şi locaşul s-a umplut de slava Domnului;
-35. Şi Moise n-a putut să intre în cortul adunării, pentru că-l cuprinsese pe acesta norul şi slava Domnului umpluse locaşul.
-36. În tot timpul călătoriei fiilor lui Israel, când se ridica norul de pe cort, atunci plecau la drum,
-37. Iar de nu se ridica norul, nici ei nu plecau la drum până nu se ridica;
-38. Pentru că în tot timpul călătoriei, ziua stătea peste cort norul Domnului, iar noaptea se afla peste el foc, înaintea ochilor întregii case a lui Israel.

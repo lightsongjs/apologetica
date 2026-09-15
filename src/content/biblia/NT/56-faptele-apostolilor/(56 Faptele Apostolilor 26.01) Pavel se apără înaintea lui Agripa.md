@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Paul Defends Himself before Agrippa"
 pericope_title_ro: "Pavel se apără înaintea lui Agripa"
 verses_start: 1
-verses_end: 26
-verses_total: 26
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,18 +23,3 @@ language: ro
 9. Eu unul am socotit, în sinea mea, că faţă de numele lui Iisus Nazarineanul trebuia să fac multe împotrivă;
 10. Ceea ce am şi făcut în Ierusalim, şi pe mulţi dintre sfinţi i-am închis în temniţe cu puterea pe care o luasem de la arhierei. Iar când erau daţi la moarte, mi-am dat şi eu încuviinţarea.
 11. Şi îi pedepseam adesea prin toate sinagogile şi-i sileam să hulească şi, mult înfuriindu-mă  împotriva lor, îi urmăream până şi prin cetăţile de din afară;
-12. Şi în felul acesta, mergând şi la Damasc, cu putere şi cu însărcinare de la arhierei,
-13. Am văzut, o, rege, la amiază, în calea mea, o lumină din cer, mai puternică decât strălucirea soarelui, strălucind împrejurul meu şi a celor ce mergeau împreună cu mine.
-14. Şi noi toţi căzând la pământ, eu am auzit un glas care-mi zicea în limba evreiască: Saule, Saule, de ce Mă prigoneşti? Greu îţi este să loveşti în ţepuşă cu piciorul.
-15. Iar eu am zis: Cine eşti Doamne? Iar Domnul a zis: Eu sunt Iisus, pe Care tu Îl prigoneşti.
-16. Dar, scoală-te şi stai pe picioarele tale. Căci spre aceasta M-am arătat ţie: ca să te rânduiesc slujitor şi martor, şi al celor ce ai văzut, şi al celor întru care Mă voi arăta ţie.
-17. Alegându-te pe tine din popor şi din neamurile la care te trimit,
-18. Să le deschizi ochii, ca să se întoarcă de la întuneric la lumină şi de la stăpânirea lui satana la Dumnezeu, ca să ia iertarea păcatelor şi parte cu cei ce s-au sfinţit, prin credinţa în Mine.
-19. Drept aceea, rege Agripa, n-am fost neascultător cereştii arătări;
-20. Ci mai întâi celor din Damasc şi din Ierusalim, şi din toată ţara Iudeii, şi neamurilor le-am vestit să se pocăiască şi să se întoarcă la Dumnezeu, făcând lucruri vrednice de pocăinţă.
-21. Pentru acestea, iudeii, prinzându-mă în templu, încercau să mă ucidă.
-22. Dobândind deci ajutorul de la Dumnezeu, am stat până în ziua aceasta, mărturisind la mic şi la mare, fără să spun nimic decât ceea ce şi proorocii şi Moise au spus că va să fie:
-23. Că Hristos avea să pătimească şi să fie cel dintâi înviat din morţi şi să vestească lumină şi poporului şi neamurilor.
-24. Şi acestea grăind el, întru apărarea sa, i-a zis Festus cu glas mare: Pavele, eşti nebun!  Învăţătura ta cea multă te duce la nebunie.
-25. Iar Pavel a zis: Nu sunt nebun, prea puternice Festus, ci grăiesc cuvintele adevărului şi ale înţelepciunii.
-26. Regele ştie despre acestea, şi în faţa lui vorbesc fără sfială, fiind încredinţat că nimic nu i-a rămas ascuns, pentru că aceasta nu s-a întâmplat, într-un ungher.

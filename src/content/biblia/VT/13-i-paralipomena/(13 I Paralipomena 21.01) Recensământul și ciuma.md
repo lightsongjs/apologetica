@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Census and Plague"
 pericope_title_ro: "Recensământul și ciuma"
 verses_start: 1
-verses_end: 21
-verses_total: 21
+verses_end: 17
+verses_total: 17
 language: ro
 ---
 
@@ -29,7 +29,3 @@ language: ro
 15. Şi a trimis Dumnezeu îngerul la Ierusalim ca să-l piardă. Şi când a început el să pustiiască, a văzut Domnul şi I s-a făcut milă pentru această nenorocire şi a zis către îngerul pierzător: "Destul! De acum lasă-ţi mâinile în jos!" Îngerul Domnului stătea atunci deasupra ariei lui Ornan (Aravna) Iebuseul.
 16. Atunci ridicându-şi David ochii săi, a văzut pe îngerul Domnului stând între pământ şi cer cu sabia goală în mâna sa, întinsă asupra Ierusalimului; şi a căzut David şi bătrânii cu fetele la pământ, îmbrăcaţi în sac.
 17. Şi a zis David către Dumnezeu: "Oare nu eu am poruncit să se numere poporul? Eu am greşit, eu am făcut rău; dar aceste oi ce au făcut? Doamne Dumnezeul meu, să vină mâna Ta asupra mea, asupra casei tatălui meu, iar nu asupra poporului Tău, ca să-l piardă pe el!"
-18. Iar îngerul Domnului a zis lui Gad proorocul să spună lui David: "Să se suie David şi să ridice un jertfelnic Domnului în aria lui Ornan Iebuseul".
-19. Şi s-a dus David, după cuvântul lui Gad pe care i-l grăise în numele Domnului.
-20. Ornan, întorcându-se, a văzut îngerul, şi cei trei fii ai lui s-au ascuns împreună cu el; în vremea aceea Ornan treiera.
-21. A venit deci David la Ornan; iar Ornan, privind şi văzând pe David, a ieşit din arie şi s-a plecat înaintea lui David cu faţa până la pământ.

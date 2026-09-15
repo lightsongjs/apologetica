@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jacob and Esau Meet"
 pericope_title_ro: "Iacov și Esau se întâlnesc"
 verses_start: 1
-verses_end: 33
-verses_total: 20
+verses_end: 17
+verses_total: 17
 language: ro
 ---
 
@@ -29,6 +29,3 @@ language: ro
 15. Atunci Isav a zis: "Să-ţi las măcar o parte din oamenii cei ce sunt cu mine". Iar Iacov i-a răspuns: "La ce aceasta? Mi-ajunge mie bunăvoinţa ce-am aflat înaintea domnului meu".
 16. Şi s-a întors Isav în aceeaşi zi pe calea sa la Seir.
 17. Iar Iacov s-a îndreptat spre Sucot şi şi-a făcut acolo locuinţă pentru sine, iar pentru vitele sale a făcut şuri; de aceea a pus el numele locului aceluia Sucot.
-18. Întorcându-se Iacov din Mesopotamia şi ajungând cu bine la Salem, o cetate în ţinutul Sichem, din pământul Canaan, s-a aşezat în faţa cetăţii.
-19. Apoi şi-a cumpărat partea de câmp, pe care era cortul său, cu o sută de kesite, de la fiii lui Hemor, tatăl lui Sichem.
-20. A înălţat acolo un jertfelnic şi i-a pus numele El-Elohe-Israel.

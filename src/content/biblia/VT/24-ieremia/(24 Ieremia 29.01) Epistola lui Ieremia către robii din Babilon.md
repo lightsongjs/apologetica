@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Jeremiah’s Letter to the Exiles in Babylon"
 pericope_title_ro: "Epistola lui Ieremia către robii din Babilon"
 verses_start: 1
-verses_end: 29
-verses_total: 29
+verses_end: 23
+verses_total: 23
 language: ro
 ---
 
@@ -35,9 +35,3 @@ language: ro
 21. Aşa zice Domnul Savaot, Dumnezeul lui Israel despre Ahab, fiul lui Colaia şi despre Sedechia, fiul lui Maaseia, care vă proorocesc vouă minciună în numele Meu: pe aceştia îi voi da în mâinile lui Nabucodonosor, regele Babilonului, şi acela îi va omorî înaintea ochilor voştri.
 22. şi se va obişnui după ei. printre toţi robii lui Iuda din Babilon a se blestema astfel: "Să-i facă Domnul cum a făcut lui Sedechia şi lui Ahab", pe care i-a fript regele Babilonului pe jeratic,
 23. Pentru că au făcut ticăloşie în Israel: se desfrânau cu femeile aproapelui lor şi spuneau minciuni în numele Meu, ceea ce Eu nu le-am poruncit; Eu ştiu acestea şi sunt martor, zice Domnul.
-24. Iar lui Şemaia Nehelamitul spune-i:
-25. Aşa zice Domnul Savaot, Dumnezeul lui Israel: Pentru că ai trimis scrisori în numele tău către tot poporul cel din Ierusalim şi către preotul Sofonie, fiul lui Maaseia, şi către toţi preoţii şi ai scris:
-26. "Domnul te-a pus preot în locul preotului Iehoiada, ca să fii supraveghetor în templul Domnului peste tot omul nebun şi peste tot omul ce prooroceşte, şi ca să pui pe unul ca acesta în temniţă şi în cătuşe:
-27. Pentru ce dar nu opreşti pe Ieremia din Anatot de a mai prooroci acolo la voi?
-28. Că acesta şi în Babilon a trimis să mi se spună: "Robia va fi lungă: zidiţi case şi locuiţi în ele, sădiţi grădini şi mâncaţi roadele lor".
-29. Preotul Sofonie a citit această scrisoare în auzul proorocului Ieremia,

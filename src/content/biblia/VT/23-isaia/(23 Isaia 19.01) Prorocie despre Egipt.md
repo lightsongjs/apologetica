@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "An Oracle concerning Egypt"
 pericope_title_ro: "Prorocie despre Egipt"
 verses_start: 1
-verses_end: 19
-verses_total: 19
+verses_end: 17
+verses_total: 17
 language: ro
 ---
 
@@ -29,5 +29,3 @@ language: ro
 15. Şi nu va fi nici un lucru în Egipt cu rostul lui: nici cap, nici coadă, nici început, nici sfârşit.
 16. În ziua aceea, Egiptenii vor fi ca femeile fricoase şi tremurătoare, din pricina ameninţării mâinii Domnului Savaot pe care o va ridica peste ei.
 17. Atunci pământul lui Iuda va fi pentru Egipt înfricoşare mare; ori de câte ori i se va aminti numele; Egiptul va tremura, din pricina hotărârii luate împotriva lui de Domnul Savaot.
-18. În vremea aceea, vor fi numai cinci cetăţi în pământul Egiptului care vor grăi limba Canaanului şi vor jura în numele Domnului Savaot; una se va numi "Cetatea Soarelui".
-19. În ziua aceea, va fi un jertfelnic în mijlocul pământului Egiptului şi un stâlp de pomenire la hotarul lui, pentru Domnul.

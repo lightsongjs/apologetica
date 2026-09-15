@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Sennacherib’s Invasion"
 pericope_title_ro: "Invazia lui Sanherib"
 verses_start: 1
-verses_end: 32
-verses_total: 32
+verses_end: 19
+verses_total: 19
 language: ro
 ---
 
@@ -31,16 +31,3 @@ language: ro
 17. Ba scrisese el şi scrisori prin care hulea pe Domnul Dumnezeul lui Israel şi în care grăia împotriva Lui astfel de cuvinte: "Precum dumnezeii popoarelor pământului n-au scăpat pe popoarele lor din mâna mea, aşa nici Dumnezeul lui Iezechia nu va scăpa pe poporul Său din mâna mea".
 18. Şi strigau cu glas tare în limba Iudeilor către poporul din Ierusalim, care era pe zid, ca să-i îngrozească şi să-i sperie şi să le ia cetatea.
 19. Ei vorbeau despre Dumnezeul Ierusalimului, ca despre dumnezeii popoarelor pământului, care sunt lucruri de mâini omeneşti.
-20. Atunci s-a rugat regele Iezechia şi Isaia proorocul, fiul lui Amos, şi au strigat cu glas mare la cer.
-21. Şi a trimis Domnul pe un înger care a pierdut pe tot viteazul şi războinicul şi căpetenia şi generalul din tabăra regelui Asiriei, încât acesta s-a întors cu ruşine în ţara sa; şi când a intrat în casa dumnezeului său, l-au ucis cu sabia acolo fiii lui.
-22. Aşa a scăpat Domnul pe Iezechia şi pe locuitorii Ierusalimului din mâna lui Sanherib, regele Asiriei, şi din mâna tuturor celorlalţi şi i-a apărat din toate părţile.
-23. Atunci mulţi au adus daruri Domnului în Ierusalim şi lucruri scumpe lui Iezechia, regele Iudei, care după aceasta a câştigat în ochii tuturor popoarelor mărire mare.
-24. În zilele acelea s-a îmbolnăvit Iezechia de moarte şi s-a rugat Domnului şi Domnul l-a auzit şi i-a dat semn.
-25. Însă Iezechia n-a fost recunoscător pentru binefacerea care i s-a făcut, căci s-a semeţit în inima lui. şi a căzut mânia lui Dumnezeu peste el şi peste Iuda şi peste Ierusalim.
-26. Dar îndată ce Iezechia s-a smerit pentru mândria inimii lui şi cu el împreună şi locuitorii Ierusalimului, mânia Domnului nu s-a mai coborât asupra lor în zilele lui Iezechia.
-27. Iezechia a avut bogăţie şi mărire foarte mare; şi şi-a făcut vistierii de păstrat argint, aur, pietre scumpe, aromate, scuturi şi tot felul de vase preţioase.
-28. A făcut de asemenea şi hambare pentru roade: grâu, vin şi untdelemn; aşezări şi iesle pentru tot felul de vite şi staule pentru turme.
-29. Şi-a zidit şi cetăţi şi a avut o mulţime de vite mari şi de vite mărunte, pentru că Dumnezeu îi dăduse lui foarte multă avere.
-30. Tot acest Iezechia a astupat gura de sus a apelor Ghihonului şi le-a făcut să curgă în jos prin partea de apus a cetăţii lui David. Şi la tot lucrul lui, Iezechia a lucrat cu spor.
-31. Când trimişii regelui Babilonului au venit la el să-l întrebe pentru semnul care se săvârşise în ţară, atunci l-a părăsit Dumnezeu, ca să-l încerce şi să cunoască tot ce avea el în inima lui,
-32. Celelalte fapte ale lui Iezechia şi milosteniile lui sunt scrise în vedenia lui Isaia-proorocul, fiul lui Amos, şi în cartea regilor lui Iuda şi Israel.

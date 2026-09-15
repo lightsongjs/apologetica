@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Paul’s Visions and Revelations"
 pericope_title_ro: "Vedeniile și descoperirile lui Pavel"
 verses_start: 1
-verses_end: 12
-verses_total: 12
+verses_end: 10
+verses_total: 10
 language: ro
 ---
 
@@ -22,5 +22,3 @@ language: ro
 8. Pentru aceasta de trei ori am rugat pe Domnul ca să-l îndepărteze de la mine;
 9. Şi mi-a zis: Îţi este de ajuns harul Meu, căci puterea Mea se desăvârşeşte în slăbiciune. Deci, foarte bucuros, mă voi lăuda mai ales întru slăbiciunile mele, ca să locuiască în mine puterea lui Hristos.
 10. De aceea mă bucur în slăbiciuni, în defăimări, în nevoi, în prigoniri, în strâmtorări pentru Hristos, căci, când sunt slab, atunci sunt tare.
-11. M-am făcut ca unul fără minte, lăudându-mă. Voi m-aţi silit! Căci se cuvenea să vorbiţi voi de bine despre mine, pentru că nu sunt cu nimic mai prejos decât cei mai de frunte dintre apostoli, deşi nu sunt nimic.
-12. Dovezile mele de apostol s-au arătat la voi în toată răbdarea, prin semne, prin minuni şi prin puteri.

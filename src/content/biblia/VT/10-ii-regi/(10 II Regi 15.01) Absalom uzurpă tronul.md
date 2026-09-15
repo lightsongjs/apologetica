@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Absalom Usurps the Throne"
 pericope_title_ro: "Absalom uzurpă tronul"
 verses_start: 1
-verses_end: 15
-verses_total: 15
+verses_end: 12
+verses_total: 12
 language: ro
 ---
 
@@ -24,6 +24,3 @@ language: ro
 10. Atunci a trimis Abesalom şapte fete la toate triburile lui Israel, zicând: "Când veţi auzi sunetul cornului, să ziceţi: Abesalom s-a făcut rege în Hebron".
 11. Şi s-au dus cu Abesalom două sute de oameni din Ierusalim, care fuseseră poftiţi de el, dar s-au dus din nevinovăţie, neştiind ce este la mijloc.
 12. În timpul jertfei, Abesalom a trimis şi a chemat pe Ahitofel Ghiloneanul, sfetnicul lui David, din cetatea lui, Ghilo. Şi s-a făcut răzvrătire mare şi curgea poporul şi se înmulţea împrejurul lui Abesalom.
-13. Deci a venit un vestitor la David şi a zis: "Inima Israeliţilor a înclinat în partea lui Abesalom".
-14. Iar David a zis către toate slugile sale, care erau cu el în Ierusalim: "Sculaţi-vă să fugim, căci nu vom scăpa de Abesalom. Grăbiţi-vă să plecăm, ca să nu ne ajungă şi să ne prindă, ca să nu aducă necaz asupra noastră şi să strice cetăţile cu sabia".
-15. Şi slugile regelui au zis către rege: "La tot ce va voi regele, stăpânul nostru, noi slugile tale suntem gata".

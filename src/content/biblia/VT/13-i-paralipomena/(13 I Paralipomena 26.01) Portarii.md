@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Gatekeepers"
 pericope_title_ro: "Portarii"
 verses_start: 1
-verses_end: 26
-verses_total: 26
+verses_end: 19
+verses_total: 19
 language: ro
 ---
 
@@ -31,10 +31,3 @@ language: ro
 17. Spre răsărit câte şase leviţi, spre miazănoapte câte patru, spre miazăzi câte patru, iar la cămări câte doi.
 18. Spre apus, în faţa pridvorului la drum, câte patru, iar la pridvor câte doi.
 19. Acestea sunt cetele de portari din fiii lui Core şi din fiii lui Merari.
-20. Iar alţii dintre leviţi, fraţii lor, păzeau vistieria templului lui Dumnezeu şi vistieria lucrurilor sfinte,
-21. Şi anume: Fiii lui Laedan, fiul lui Gherşon, Căpeteniile familiilor din Laedan Gherşonitul: Iehiel,
-22. Şi fiii lui Iehiel: Zetam şi Ioil, fratele lui, care păzeau vistieria templului lui Dumnezeu,
-23. Împreună cu urmaşii lui Amram Iţhar, Hebron, Uziel;
-24. Şebuel, fiul lui Gherşon, fiul lui Moise, era străjuitor de căpetenie al vistieriilor.
-25. Fratele său Eleazar avea fiu pe Rehabia; acesta a avut fiu pe Isaia; acesta a avut fiu pe Ioram; acesta a avut fiu pe Zicri, iar acesta a avut fiu pe Şelomit.
-26. Şelomit şi fraţii lui privegheau asupra tuturor vistieriilor lucrurilor sfinte care le hărăzise regele David, căpeteniile familiilor,  căpeteniile peste mii şi peste sute şi căpeteniile de oştire.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Blessings for Obedience"
 pericope_title_ro: "Binecuvântări pentru ascultare"
 verses_start: 1
-verses_end: 28
-verses_total: 28
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -26,17 +26,3 @@ language: ro
 12. Domnul îţi va deschide comoara Sa cea bună, cerul, ca să dea ploaie pământului tău la vreme şi ca să binecuvânteze toate lucrurile mâinilor tale; şi vei da împrumut multor popoare, iar tu nu vei lua împrumut; vei domni peste multe popoare, iar acelea nu vor domni peste tine;
 13. Domnul Dumnezeul tău te va pune cap iar nu coadă şi vei fi numai sus, iar jos nu vei fi, dacă te vei supune poruncilor Domnului Dumnezeului tău, care ţi le spun eu astăzi să le ţii şi să le împlineşti
 14. Şi dacă nu te vei abate de la toate poruncile care ţi le poruncesc eu astăzi nici la dreapta nici la stânga, ca să mergeţi după alţi dumnezei să le slujiţi.
-15. Iar dacă nu vei asculta glasul Domnului Dumnezeului tău şi nu te vei sili să împlineşti toate poruncile şi hotărârile Lui pe care îi le poruncesc eu astăzi, să vină asupra ta toate blestemele acestea şi să te ajungă:
-16. Blestemat să fii tu în cetate şi blestemat să fii tu în ţarină;
-17. Blestemate să fie grânarele tale şi cămările tale;
-18. Blestemat să fie rodul pântecelui tău şi rodul pământului tău, rodul vacilor tale şi rodul oilor tale;
-19. Blestemat să fii tu la intrarea ta în casă şi blestemat la ieşirea ta din casă;
-20. Să trimită Domnul asupra ta blestem, tulburare şi necaz în tot lucrul mâinilor tale pe care te vei apuca să-l faci, până vei fi stârpit şi până vei pieri curând, pentru faptele tale rele şi pentru că M-ai părăsit;
-21. Ba să mai trimită Domnul asupra ta ciumă, până te va stârpi de pe pământul în care mergi ca să-l stăpâneşti;
-22. Să te bată Domnul cu oftică, cu lingoare, cu friguri, cu aprindere, cu secetă, cu vânt rău şi cu rugină, şi te vor urmări acestea până vei pieri;
-23. Cerurile tale, care sunt deasupra capului tău, să se facă aramă şi pământul de sub tine fier;
-24. În loc de ploaie, Domnul să dea pământului tău praf şi pulbere, care să cadă din cer asupra ta până te va pierde şi până vei fi prăpădit;
-25. Domnul te va da să fii bătut de vrăjmaşii tăi; pe un drum să mergi asupra lor şi pe şapte drumuri să fugi de ei şi să fii împrăştiat prin toate ţările pământului;
-26. Trupurile tale să fie hrană tuturor păsărilor cerului şi fiarelor şi nu va fi cine să le alunge;
-27. Te va lovi Domnul cu lepra Egiptului, cu trânji, cu râie şi cu pecingine, de care să nu te poţi vindeca;
-28. Să te bată Domnul cu nebunie, cu orbire şi cu amorţirea inimii;

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Tobit’s Final Counsel"
 pericope_title_ro: "Ultimele sfaturi ale lui Tobit"
 verses_start: 1
-verses_end: 14
-verses_total: 14
+verses_end: 11
+verses_total: 11
 language: ro
 ---
 
@@ -23,6 +23,3 @@ language: ro
 9. Să păzeşti legea şi poruncile; să fii blând, milostiv şi drept, ca să-ţi fie bine.
 10. Pe mine să mă îngropi după cuviinţă, şi pe mama ta alături de mine, şi după aceea să nu mai rămâneţi în Ninive.
 11. Fiule, vezi ce-a făcut Nadab cu Ahiacar, care l-a crescut. Cum l-a dus el din lumină la întuneric, şi cum i s-a răsplătit. Dar Dumnezeu a mântuit pe Ahiacar, iar acela a primit vrednică răsplată, coborându-se în întuneric. Ahiacar a făcut milostenie şi s-a mântuit din cursa morţii, care i se întinsese, iar Nadab a căzut în laţuri şi a pierit.
-12. Deci, copiilor, iată ce face milostenia şi cum izbăveşte dreptatea".
-13. Şi după ce a spus el acestea, i-a ieşit sufletul. Şi era el atunci de o sută cincizeci şi opt de ani şi fiul său l-a îngropat cu cinste.
-14. Şi după ce a murit şi Ana, a îngropat-o şi pe ea cu tatăl său. Iar după aceea Tobie cu femeia şi copiii săi a plecat la Ecbatana, la sacrul său Raguel, şi a ajuns la bătrâneţe cinstită şi a îngropat cu cinste pe socrul şi pe soacra sa şi a căpătat moştenire averea lor şi a lui Tobit, tatăl său, şi a murit de o sută douăzeci şi şapte de ani, în Ecbatana Mediei.
