@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Interlude An Appeal to the Exiles"
 pericope_title_ro: "Interludiu: Apel către exilați"
 verses_start: 6
-verses_end: 13
-verses_total: 8
+verses_end: 17
+verses_total: 12
 language: ro
 ---
 
@@ -20,3 +20,7 @@ language: ro
 11. Fugi, Sioane, şi te izbăveşte, tu care locuieşti la fiica Babilonului.
 12. Căci aşa zice Domnul Savaot: "Pentru slava Sa, El m-a trimis la neamurile care v-au jefuit pe voi; căci cel care se atinge de voi se atinge de lumina ochiului Lui!
 13. Căci iată că Eu rotesc mâna Mea peste ei şi ei vor fi pradă pentru cei care au fost robii lor, ca să vă daţi seama că Domnul Savaot m-a trimis.
+14. Bucură-te şi te veseleşte, fiica Sionului, căci iată Eu vin să locuiesc în mijlocul tău", zice Domnul.
+15. "Şi multe neamuri se vor alipi de Domnul în ziua aceea şi Îmi vor fi Mie popor şi voi locui în mijlocul tău, ca să ştii că Domnul Savaot m-a trimis la tine.
+16. Şi va lua Domnul ca moştenire a Sa pe Iuda, în ţara cea sfântă, şi va alege încă o dată Ierusalimul.
+17. Să tacă tot trupul înaintea Domnului, căci El S-a ridicat din locaşul Său cel sfânt".

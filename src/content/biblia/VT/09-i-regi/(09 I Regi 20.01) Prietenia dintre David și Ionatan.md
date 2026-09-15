@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Friendship of David and Jonathan"
 pericope_title_ro: "Prietenia dintre David și Ionatan"
 verses_start: 1
-verses_end: 42
-verses_total: 42
+verses_end: 43
+verses_total: 43
 language: ro
 ---
 
@@ -54,3 +54,4 @@ language: ro
 40. Şi a dat Ionatan arma băiatului, care era cu el, şi i-a zis: "Du-te şi o du în cetate".
 41. După ce s-a dus băiatul, David s-a ridicat din partea de miazăzi a stâncii şi s-a închinat de trei ori; apoi s-au sărutat ei unul pe altul şi au plâns amândoi, împreună, iar David a plâns mai tare.
 42. Şi a zis Ionatan către David: "Mergi cu pace! Iar cele pentru care ne-am jurat noi amândoi pe numele Domnului zicând: "Domnul să fie între mine şi tine şi între copiii mei şi copiii tăi, aceea să fie pe veci".
+43. Şi s-a sculat David şi s-a dus, iar Ionatan s-a întors în cetate.

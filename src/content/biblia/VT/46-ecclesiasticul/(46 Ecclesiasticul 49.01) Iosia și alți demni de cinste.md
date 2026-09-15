@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Josiah and Other Worthies"
 pericope_title_ro: "Iosia și alți demni de cinste"
 verses_start: 1
-verses_end: 49
-verses_total: 18
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,8 +25,3 @@ language: ro
 11. şi oasele celor doisprezece prooroci să odrăslească din locul lor!
 12. Şi a mângâiat pe Iacov şi i-a mântuit pe ei cu credinţa nădejdii.
 13. Cum vom mări pe Zorobabel? Că şi el este ca o pecete în mâna dreaptă.
-14. Tot aşa Iosua, fiul lui Iosedec; căci în zilele lor au zidit iarăşi locaşul Domnului şi au înălţat templu sfinţit Domnului, spre mărire veşnică.
-15. Şi pomenirea lui Neemia este întru multă vreme, cel ce ne-a ridicat nouă zidurile cele căzute şi a întărit porţi şi izvoare şi a ridicat casele noastre.
-16. Nici unul nu s-a făcut ca Enoh pe pământ, pentru că şi el a fost răpit de pe pământ.
-17. Nici ca Iosif care s-a făcut bărbat povăţuitor fraţilor, întărire poporului, iar oasele lui s-au ascuns cu grijă.
-18. Set şi Sem între oameni s-au mărit şi mai mult decât toată suflarea întru zidirea lui Adam.

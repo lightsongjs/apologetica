@@ -7,8 +7,8 @@ pericope: 3
 pericope_title_en: "The Evil of a Wicked Woman"
 pericope_title_ro: "Răul unei femei viclene"
 verses_start: 16
-verses_end: 26
-verses_total: 11
+verses_end: 29
+verses_total: 14
 language: ro
 ---
 
@@ -23,3 +23,6 @@ language: ro
 24. Sminteală, urâciune şi ruşine este când femeia hrăneşte pe bărbatul său.
 25. Inimă înfrântă şi faţă tristă şi rană inimii este femeia rea.
 26. Mâini leneşe şi genunchi slăbănogi este femeia rea, care nu-şi fericeşte bărbatul său.
+27. De la femeie este începutul păcatului şi prin ea toţi murim.
+28. Nu da apei loc să iasă, nici femeii rele putere asupra ta.
+29. De nu umblă după mâna ta, de la trupul tău depărteaz-o.

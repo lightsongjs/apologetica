@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "The Report of the Spies"
 pericope_title_ro: "Raportul iscoazilor"
 verses_start: 25
-verses_end: 33
-verses_total: 9
+verses_end: 34
+verses_total: 10
 language: ro
 ---
 
@@ -21,3 +21,4 @@ language: ro
 31. Caleb însă a liniştit poporul înaintea lui Moise, zicând: "Nu, ci să mergem şi să-l cuprindem, pentru că îl vom putea birui!"
 32. Iar oamenii cei ce fuseseră cu el au zis: "Nu putem să mergem împotriva poporului aceluia, pentru că e mult mai puternic decât noi".
 33. Şi au împrăştiat printre fiii lui Israel zvonuri rele despre pământul pe care-l cercetaseră, zicând: "Pământul pe care l-am străbătut noi, ca să-l vedem, este un pământ care mănâncă pe cei ce locuiesc în el şi tot poporul, pe care l-am văzut acolo, sunt oameni foarte mari.
+34. Acolo am văzut noi şi uriaşi, pe fiii lui Enac, din neamul uriaşilor; şi nouă ni se părea că suntem faţă de ei ca nişte lăcuste şi tot aşa le păream şi noi lor".

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "In Praise of Wisdom"
 pericope_title_ro: "Lauda Înțelepciunii"
 verses_start: 1
-verses_end: 37
-verses_total: 37
+verses_end: 38
+verses_total: 38
 language: ro
 ---
 
@@ -49,3 +49,4 @@ language: ro
 35. Chematu-le-a, şi ele au răspuns: "Iată-ne!" Ele strălucesc cu bucurie pentru Cel care le-a făcut.
 36. Acesta este Dumnezeul nostru, şi nimeni altul nu este asemenea Lui.
 37. Aflat-a toată calea ştiinţei şi a dat-o lui Iacob, sluga Sa, şi lui Israel, cel iubit de Dânsul.
+38. După aceasta pe pământ S-a arătat şi cu oamenii împreună a locuit.

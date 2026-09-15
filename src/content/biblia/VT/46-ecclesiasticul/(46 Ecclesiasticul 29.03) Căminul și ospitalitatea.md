@@ -7,8 +7,8 @@ pericope: 3
 pericope_title_en: "Home and Hospitality"
 pericope_title_ro: "Căminul și ospitalitatea"
 verses_start: 21
-verses_end: 28
-verses_total: 8
+verses_end: 31
+verses_total: 11
 language: ro
 ---
 
@@ -20,3 +20,6 @@ language: ro
 26. Spre mic şi spre mare, fii voitor de bine. Fie că ai puţin sau mult, fii mulţumit şi nu vei fi socotit ca un străin.
 27. Tristă este viaţa să umbli din casă în casă, şi unde te vei opri, nu vei îndrăzni să deschizi gura ta.
 28. Vei ospăta şi vei adăpa nemulţumitori şi de la ei vei auzi amărăciuni:
+29. "Vino încoace, tu cel străin, şi pune masa şi cu ce va fi în mâna ta hrăneşte-mă".
+30. Ieşi, străinule, lasă locul unuia mai vrednic, că mi-a venit oaspete fratele meu şi-mi trebuie casa!
+31. Grele sunt acestea omului care are minte: certarea stăpânului casei şi ocara că eşti cămătar.

@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Evil Tongue"
 pericope_title_ro: "Limba rea"
 verses_start: 1
-verses_end: 26
-verses_total: 26
+verses_end: 29
+verses_total: 29
 language: ro
 ---
 
@@ -38,3 +38,6 @@ language: ro
 24. Nu va birui pe cei binecredincioşi şi în văpaia ei nu vor arde.
 25. Cei care părăsesc pe Domnul vor cădea într-însa şi se va aţâţa întru ei şi nu se va stinge.
 26. Se va trimite asupra lor, ca leul; şi ca pardosul fi va pierde.
+27. Vezi, îngrădeşte moşia ta cu spini şi argintul tău şi aurul tău leagă-l bine.
+28. Şi cuvintelor tale fă jug şi cumpănă şi gurii tale fă-i uşă şi încuietoare.
+29. Ia aminte ca nu cumva să aluneci cu ea şi să nu cazi înaintea celui ce te pândeşte cu vicleşug.

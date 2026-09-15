@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Final Instructions"
 pericope_title_ro: "Îndrumări finale"
 verses_start: 17
-verses_end: 23
-verses_total: 7
+verses_end: 24
+verses_total: 8
 language: ro
 ---
 
@@ -19,3 +19,4 @@ language: ro
 21. Vă îmbrăţişează Timotei, cel împreună-lucrător cu mine, şi Luciu şi Iason şi Sosipatru, cei de un neam cu mine,
 22. Vă îmbrăţişez în Domnul eu, Tertius, care am scris epistola.
 23. Vă îmbrăţişează Gaius, gazda mea şi a toată Biserica. Vă îmbrăţişează Erast, vistiernicul cetăţii, şi fratele Cvartus.
+24. Harul Domnului nostru Iisus Hristos să fie cu voi cu toţi. Amin!

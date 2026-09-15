@@ -7,8 +7,8 @@ pericope: 3
 pericope_title_en: "Trypho Captures Jonathan"
 pericope_title_ro: "Trifon îl capturează pe Ionatan"
 verses_start: 39
-verses_end: 53
-verses_total: 15
+verses_end: 54
+verses_total: 16
 language: ro
 ---
 
@@ -27,3 +27,4 @@ language: ro
 51. Şi văzând cei care îi izgoneau că ei pentru sufletul lor se vor bate, s-au întors.
 52. Şi au ajuns toţi sănătoşi în ţara lui Iuda şi au plâns pe Ionatan şi pe cei care erau cu el şi s-au temut şi a jelit tot Israelul cu jale mare.
 53. Şi au încercat toate neamurile cele de primprejurul lor, ca să-i piardă.
+54. Că ziceau: "N-au căpetenie şi ajutor; acum dar să-i batem şi să pierdem dintre oameni pomenirea lor".

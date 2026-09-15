@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Caution Regarding Associates"
 pericope_title_ro: "Prudență în privința tovarășilor"
 verses_start: 1
-verses_end: 26
-verses_total: 26
+verses_end: 31
+verses_total: 31
 language: ro
 ---
 
@@ -38,3 +38,8 @@ language: ro
 24. Pe bogat, când se clatină, îl reazimă prietenii; iar cel sărac, când cade, este respins de prietenii săi.
 25. Bogatul, când alunecă, mulţi sunt care îl sprijină; când spune cuvinte nebuneşti, îi dau dreptate.
 26. Cel smerit a greşit, şi toii îl ceartă pe el; grăit-a înţelepţeşte, şi nu este băgat în seamă.
+27. Bogatul a vorbit, şi toţi au tăcut, şi cuvântul lui până la nori l-a înălţat.
+28. Săracul a grăit, şi zic: Cine este acesta? Şi de se împiedică, îl răstoarnă pe el.
+29. Bună este avuţia la cel care este fără de păcat şi rea este sărăcia în gura celui nelegiuit.
+30. Inima omului schimbă faţa lui ori spre bune, ori spre rele.
+31. Faţa veselă este semn că inima întru cele bune petrece; iar aflarea înţelepciunii cere cugetare cu osteneală.

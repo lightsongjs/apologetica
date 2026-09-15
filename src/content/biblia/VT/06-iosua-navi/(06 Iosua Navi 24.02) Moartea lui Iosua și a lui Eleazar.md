@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Death of Joshua and Eleazar"
 pericope_title_ro: "Moartea lui Iosua și a lui Eleazar"
 verses_start: 29
-verses_end: 33
-verses_total: 5
+verses_end: 35
+verses_total: 7
 language: ro
 ---
 
@@ -17,3 +17,5 @@ language: ro
 31. Israel a slujit Domnului în toate zilele lui Iosua şi în toate zilele bătrânilor a căror viaţă s-a prelungit după Iosua şi care văzuseră toate lucrurile Domnului, pe care le făcuse El cu Israel.
 32. Oasele lui Iosif, pe care le aduseseră fiii lui Israel din Egipt, le-au îngropat în Sichem, în partea de ţarină pe care o cumpărase Iacov de la fiii lui Hemor, tatăl lui Sichem, cu o sută de arginţi, şi care căzuse de moştenire fiilor lui Iosif.
 33. După aceasta a murit şi Eleazar, fiul lui Aaron, arhiereul, şi l-au îngropat în Ghibeea, oraşul lui Finees, fiul lui, care i se dăduse în muntele Efraim.
+34. În ziua aceea fiii lui Israel, luând chivotul lui Dumnezeu, l-au dus cu ei, iar Finees a fost preot în locul lui Eleazar, tatăl său, până ce a murit şi a fost îngropat în cetatea sa Ghibeea.
+35. Iar fiii lui Israel s-au dus fiecare la locul său şi în cetatea sa. Şi au început fiii lui Israel a sluji Astartei şi lui Aştarot şi dumnezeilor popoarelor vecine. De aceea i-a dat Domnul în mâinile lui Eglon, regele Moabului, şi i-a stăpânit optsprezece ani.

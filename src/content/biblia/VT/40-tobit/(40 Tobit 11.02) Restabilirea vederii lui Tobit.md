@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Tobit’s Sight Restored"
 pericope_title_ro: "Restabilirea vederii lui Tobit"
 verses_start: 7
-verses_end: 18
-verses_total: 12
+verses_end: 19
+verses_total: 13
 language: ro
 ---
 
@@ -24,3 +24,4 @@ language: ro
 16. Şi a ieşit Tobit întru întâmpinarea nurorii sale, către poarta Ninivei, bucurându-se şi binecuvântând pe Dumnezeu. Iar cei ce-l vedeau umblând se mirau cum de vede. Şi Tobit mărturisea înaintea lor că Dumnezeu l-a miluit.
 17. Şi dacă s-a apropiat Tobit de Sara, nora sa, a binecuvântat-o şi a zis: "Bine ai venit, fiică! Binecuvântat este Dumnezeu, Cel care te-a adus la noi! Binecuvântaţi să fie tatăl tău şi mama ta! Binecuvântat să fie fiul meu Tobie şi binecuvântată să fii tu, fiica mea! Binevenită să fii în casa ta, în bucurie şi binecuvântare! Intră, fiica mea!"
 18. Şi s-au bucurat în ziua aceea toţi fraţii lui din Ninive.
+19. Şi a venit Ahiacar şi Nadab, rudele lui, şi au prăznuit cu veselie nunta lui Tobie şapte zile.

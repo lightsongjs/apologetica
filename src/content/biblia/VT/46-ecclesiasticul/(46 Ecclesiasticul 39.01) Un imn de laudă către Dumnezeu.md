@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "A Hymn of Praise to God"
 pericope_title_ro: "Un imn de laudă către Dumnezeu"
 verses_start: 1
-verses_end: 35
-verses_total: 35
+verses_end: 41
+verses_total: 41
 language: ro
 ---
 
@@ -47,3 +47,9 @@ language: ro
 33. Sunt vânturi făcute ca să aducă pedeapsă şi întru urgia lor au întărit bătăile lor.
 34. Şi în vremea săvârşirii vor vărsa urgia şi mânia Celui care le-a făcut o vor linişti.
 35. Focul şi grindina, foametea şi moartea, toate acestea spre pedepsire sunt făcute.
+36. Dinţii fiarelor şi scorpiile, şerpii şi sabia răzbunătoare sunt ca să piardă pe cei necredincioşi.
+37. Când porunceşte Domnul, se vor veseli şi pe pământ la treburi se vor găti, şi în vremurile hotărâte nu vor trece peste cuvântul Lui.
+38. Pentru aceea din început m-am întărit şi am cugetat şi în scrisoare am lăsat:
+39. Toate lucrurile Domnului bune sunt şi tot folosul la vreme îl vor da.
+40. Şi nu se poate zice: Aceasta este mai rea decât aceea, că toate la vremea lor se vor adeveri.
+41. Şi acum cu toată inima şi gura lăudaţi şi binecuvântaţi numele Domnului.

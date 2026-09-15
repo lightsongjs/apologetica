@@ -7,8 +7,8 @@ pericope: 6
 pericope_title_en: "Installation of Gentile Cults"
 pericope_title_ro: "Instalarea cultelor păgâne"
 verses_start: 41
-verses_end: 64
-verses_total: 24
+verses_end: 67
+verses_total: 27
 language: ro
 ---
 
@@ -36,3 +36,6 @@ language: ro
 62. Şi în douăzeci şi cinci ale lunii, au jertfit pe jertfelnicul care era deasupra altarului.
 63. Şi pe femeile care-şi tăiaseră împrejur pe fiii lor, le-au omorât după poruncă.
 64. Şi pe prunci i-au spânzurat de grumajii lor şi casele lor le-au prădat şi pe cei care i-au tăiat împrejur i-au omorât.
+65. Iar mulţi din Israel s-au întărit şi au pus legământ întru sine, ca să nu mănânce necurat.
+66. Şi mai bine au voit a muri, decât a se pângări cu mâncăruri necurate şi a călca legea cea sfântă; pentru aceea au primit moartea.
+67. Şi mare urgie a venit peste Israel.

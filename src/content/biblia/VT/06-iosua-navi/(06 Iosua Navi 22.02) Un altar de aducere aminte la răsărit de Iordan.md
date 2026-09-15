@@ -8,7 +8,7 @@ pericope_title_en: "A Memorial Altar East of the Jordan"
 pericope_title_ro: "Un altar de aducere aminte la răsărit de Iordan"
 verses_start: 10
 verses_end: 34
-verses_total: 24
+verses_total: 25
 language: ro
 ---
 
@@ -32,6 +32,7 @@ language: ro
 27. Ci ca să fie el între noi şi voi, între urmaşii noştri, mărturie că noi putem sluji Domnului cu arderile de tot ale noastre şi cu jertfele noastre şi cu cele de împăcare ale noastre, şi pentru ca în vremurile viitoare să nu zică fiii voştri către fiii noştri: Voi nu aveţi nici o legătură cu Domnul.
 28. Şi ziceam noi: Dacă ni se va zice astfel nouă şi urmaşilor noştri, atunci vom răspunde: Priviţi chipul jertfelnicului Domnului pe care l-au făcut părinţii noştri nu pentru arderi de tot şi nu pentru jertfe, ci ca să fie mărturie între noi şi voi şi între fiii noştri şi fiii voştri.
 29. Să nu se întâmple una ca aceea ca să ne ridicăm noi împotriva Domnului şi să ne abatem acum de la Domnul şi să facem jertfelnic pentru arderi de tot şi pentru prinos de pâine şi pentru jertfe, afară de jertfelnicul Domnului Dumnezeu care se află înaintea cortului".
+30. Iar preotul Finees şi toate căpeteniile obştii şi căpeteniile peste miile lui Israel, care erau cu dânsul, auzind cuvintele pe care le-au vorbit fiii lui Ruben şi fiii lui Gad şi jumătatea seminţiei lui Manase, au rămas mulţumiţi.
 31. Şi a zis Finees, fiul preotului Eleazar, către fiii lui Ruben şi către fiii lui Gad şi către jumătatea de seminţie a lui Manase: "Astăzi am aflat noi că Domnul este în mijlocul nostru şi că voi n-aţi făcut prin aceasta o nelegiuire; acum aţi izbăvit pe fiii lui Israel din mâna Domnului".
 32. Şi s-a întors Finees, fiul preotului Eleazar, şi căpeteniile de la fiii lui Ruben şi de la fiii lui Gad şi de la jumătatea de seminţie a lui Manase din pământul Galaadului în ţara Canaan la fiii lui Israel şi le-a adus răspunsul.
 33. Şi le-a plăcut aceasta fiilor lui Israel şi au binecuvântat fiii lui Israel pe Dumnezeu şi au zis să nu se mai ridice împotriva lor cu război, ca să pustiiască ţara în care locuiau fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase.

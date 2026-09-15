@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "The Compiler’s Preface"
 pericope_title_ro: "Prefața compilatorului"
 verses_start: 19
-verses_end: 32
-verses_total: 14
+verses_end: 33
+verses_total: 15
 language: ro
 ---
 
@@ -26,3 +26,4 @@ language: ro
 30. Că precum meşterul casei celei noi se cade să poarte grijă de toată aşezarea, iar cel care se apucă a o înfrumuseţa şi a o zugrăvi trebuie să caute cele ce sunt spre podoabă, aşa trebuie a socoti şi despre noi.
 31. Că a căuta şi a culege multe cu amănuntul, şi a vorbi despre toate, este de datoria celui care scrie istoria;
 32. Iar a urmări scurtarea povestirii şi a lăsa cercetarea lucrării este în voia celui care face prescurtarea.
+33. De aici dar vom începe istorisirea, la cele de mai sus atâta adăugând, că neînţelept lucru ar fi în precuvântare a înmulţi cuvintele şi istoria a o scurta.

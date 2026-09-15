@@ -7,8 +7,8 @@ pericope: 3
 pericope_title_en: "A Series of Contrasts"
 pericope_title_ro: "O serie de contraste"
 verses_start: 15
-verses_end: 22
-verses_total: 8
+verses_end: 28
+verses_total: 14
 language: ro
 ---
 
@@ -20,3 +20,9 @@ language: ro
 20. Ruşinaţi-vă de desfrânare înaintea tatălui şi a mamei şi de minciună înaintea conducătorului şi a celui puternic;
 21. De judecător şi de domn, pentru păcat; de adunare şi de popor, pentru fărădelege;
 22. De tovarăş şi de prieten, pentru strâmbătate; şi de oamenii cu care locuieşti, pentru furtişag;
+23. Şi de adevărul lui Dumnezeu şi făgăduinţă, pentru punerea cotului peste pâini ca să le furi;
+24. De ponosul luării şi al dării şi de tăcere către cei care ţi se închină;
+25. De căutarea la femeia desfrânată şi de întoarcerea feţei de la rudenii;
+26. De luarea părţii şi a darului şi de căutarea la femeia cu bărbat;
+27. De căutarea la slujnica ta şi de şederea pe aşternutul ei;
+28. De prieteni pentru cuvintele cele de imputare, şi de a imputa după ce vei da.

@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Restoration Promised after Exile"
 pericope_title_ro: "Restaurarea făgăduită după exil"
 verses_start: 6
-verses_end: 13
-verses_total: 8
+verses_end: 14
+verses_total: 9
 language: ro
 ---
 
@@ -20,3 +20,4 @@ language: ro
 11. Acum s-au adunat la tine neamuri fără de număr, care zic: "Pângărită să fie, şi ochii noştri să privească nesăţioşi Sionul!"
 12. Dar ele nu cunosc cugetele Domnului şi nu pricep sfatul Lui, că El le-a adunat ca snopii pe arie.
 13. Scoală-te şi calcă în picioare pe fiica Sionului; că voi face cornul tău de fier şi copitele tale de aramă! Tu vei zdrobi popoare multe şi prada luată de la ele, Domnului o vei închina şi bogăţiile lor Stăpânului a tot pământul.
+14. Şi acum închide-te cu zid, Bet-Gader! Suntem cuprinşi de toate părţile! Ei lovesc cu toiagul peste obraz pe toate seminţiile lui Israel!

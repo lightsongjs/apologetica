@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Precepts for Everyday Living"
 pericope_title_ro: "Precepte pentru viața de zi cu zi"
 verses_start: 1
-verses_end: 15
-verses_total: 15
+verses_end: 18
+verses_total: 18
 language: ro
 ---
 
@@ -27,3 +27,6 @@ language: ro
 13. Fii grabnic la ascultat şi zăbavnic la dat răspunsul.
 14. De ştii, răspunde aproapelui tău, iar de nu, pune-ţi mâna peste gură.
 15. Mărirea şi batjocura sunt în vorbă şi limba omului îi face să cadă.
+16. Să nu te chemi bârfitor şi cu limba ta nu vicleni.
+17. Că peste fur este ruşine şi o grea ocară peste cel cu două limbi.
+18. Să nu greşeşti nici în lucrurile mari, nici în cele mici.

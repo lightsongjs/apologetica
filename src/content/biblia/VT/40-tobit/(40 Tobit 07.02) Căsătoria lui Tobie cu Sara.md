@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Marriage of Tobias and Sarah"
 pericope_title_ro: "Căsătoria lui Tobie cu Sara"
 verses_start: 10
-verses_end: 16
-verses_total: 7
+verses_end: 17
+verses_total: 8
 language: ro
 ---
 
@@ -19,3 +19,4 @@ language: ro
 14. Şi chemând pe Edna, femeia sa, şi luând o hârtie, a scris învoiala şi a pecetluit-o; apoi au început a mânca.
 15. Şi a chemat Raguel pe Edna, femeia sa, şi a zis: "Pregăteşte, soro, cealaltă cameră de culcare şi du-o acolo".
 16. Şi făcând cum a zis el, a dus-o acolo, şi aceasta a plâns, şi împărtăşind şi ea lacrimile fiicei saţle, i-a zis:
+17. Îndrăzneşte, fiică! Domnul cerului şi al pământului îii va da bucurie în locul întristării. Îndrăzneşte, fiică!

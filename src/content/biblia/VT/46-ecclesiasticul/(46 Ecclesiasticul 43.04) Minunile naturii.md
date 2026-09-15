@@ -7,8 +7,8 @@ pericope: 4
 pericope_title_en: "The Marvels of Nature"
 pericope_title_ro: "Minunile naturii"
 verses_start: 13
-verses_end: 33
-verses_total: 21
+verses_end: 38
+verses_total: 26
 language: ro
 ---
 
@@ -33,3 +33,8 @@ language: ro
 31. Am putea spune multe, fără să terminăm; intr-un cuvânt El este toate.
 32. Cum vom putea să-L preaslăvim? Că El este mai mare decât toate lucrurile Sale.
 33. De temut este Domnul şi mare foarte şi minunată este puterea Lui.
+34. Slăvind pe Domnul, înălţaţi-L cât veţi putea, pentru că va prisosi încă.
+35. Şi înălţindu-L pe El, întăriţi-vă şi nu vă osteniţi, pentru că nu veţi ajunge.
+36. Cine L-a văzut pe El şi va povesti? Şi cine-L slăveşte pe El, precum este?
+37. Multe şi mai mari decât acestea sunt ascunse; că puţine am văzut din lucrurile Lui.
+38. Că toate le-a făcut Domnul şi celor cuvioşi le-a dat înţelepciune.

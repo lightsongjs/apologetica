@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Admonition to Keep to the Right Path"
 pericope_title_ro: "Îndemn de a rămâne pe calea dreaptă"
 verses_start: 10
-verses_end: 27
-verses_total: 18
+verses_end: 29
+verses_total: 20
 language: ro
 ---
 
@@ -30,3 +30,5 @@ language: ro
 25. Ochii tăi să privească drept înainte şi genele tale drept înainte să caute.
 26. Fii cu luare aminte la calea picioarelor tale şi toate cărările tale să fie bine chibzuite.
 27. Nu te abate nici la dreapta, nici la stânga, ţine piciorul tău departe de rău.
+28. Căci cărările drepte le păzeşte Domnul, iar cele strâmbe sunt căi rele.
+29. El va face drepte căile tale şi mergerea ta o va face să fie în pace.

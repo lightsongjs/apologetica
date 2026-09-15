@@ -7,8 +7,8 @@ pericope: 6
 pericope_title_en: "Simon Regains the Citadel at Jerusalem"
 pericope_title_ro: "Simon recucerește cetățuia din Ierusalim"
 verses_start: 49
-verses_end: 53
-verses_total: 5
+verses_end: 54
+verses_total: 6
 language: ro
 ---
 
@@ -17,3 +17,4 @@ language: ro
 51. Şi au intrat în ea în douăzeci şi trei ale lunii a doua, în anul o sută şaptezeci şi unu, cu laude şi cu stâlpări şi harpe şi chimvale şi cu alăute şi cu cântări şi cântece, fiindcă marele vrăjmaş al lui Israel fusese înfrânt.
 52. Şi a rânduit ca în fiecare an să serbeze această zi cu veselie.
 53. Şi a întărit muntele templului Domnului cel de lângă cetate şi au locuit acolo, el şi cei care erau cu ei.
+54. Şi a văzut Simon că Ioan, feciorul său, este om deplin şi l-a pus căpetenie peste toate oştirile şi a locuit în Gaza.

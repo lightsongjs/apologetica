@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "God’s Wisdom Seen in Creation"
 pericope_title_ro: "Înțelepciunea lui Dumnezeu văzută în Creație"
 verses_start: 24
-verses_end: 30
-verses_total: 7
+verses_end: 31
+verses_total: 8
 language: ro
 ---
 
@@ -19,3 +19,4 @@ language: ro
 28. El a rânduit pentru totdeauna lucrurile Sale şi a hotărât pentru vecie rastul lor; ele nu ştiu de foame, nici de oboseală şi nu contenesc să-şi facă datoria.
 29. Nici unul din aceste lucruri nu se ciocneşte cu cel de lângă el şi mereu ascultă de porunca Lui.
 30. Şi după aceasta a căutat Domnul pe pământ şi l-a umplut de bunătăţi.
+31. Cu tot felul de dobitoace vii a acoperit faţa lui şi în el va fi întoarcerea lor.

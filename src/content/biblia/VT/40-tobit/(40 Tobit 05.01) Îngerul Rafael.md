@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Angel Raphael"
 pericope_title_ro: "Îngerul Rafael"
 verses_start: 1
-verses_end: 22
-verses_total: 22
+verses_end: 23
+verses_total: 23
 language: ro
 ---
 
@@ -34,3 +34,4 @@ language: ro
 20. Căci cât ne e rânduit de la Domnul să trăim avem destul pentru aceasta".
 21. Iar Tobit a zis către ea: "Nu te întrista, soră! Căci el se va întoarce sănătos şi-l vor vedea ochii tăi,
 22. Căci un înger bun va merge împreună cu el, şi va avea izbândă la drum şi se va întoarce sănătos!"
+23. Şi a încetat ea de a mai plânge.

@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Relations with Others"
 pericope_title_ro: "Relațiile cu alții"
 verses_start: 18
-verses_end: 36
-verses_total: 19
+verses_end: 38
+verses_total: 21
 language: ro
 ---
 
@@ -31,3 +31,5 @@ language: ro
 34. Şi celui sărac întinde-i mâna ta, ca binecuvântarea ta să fie desăvârşită.
 35. Dărnicia ta să atingă pe toţi cei în viară şi chiar morţilor fă-le parte de dărnicia ta.
 36. Nu te întoarce de la cei ce plâng, şi întristează-te cu cei întristaţi.
+37. Nu te teme a cerceta pe bolnavi că pentru aceste fapte vei câştiga iubirea.
+38. În tot ce faci adu-ţi aminte de sfârşitul tău şi nu vei păcătui niciodată.

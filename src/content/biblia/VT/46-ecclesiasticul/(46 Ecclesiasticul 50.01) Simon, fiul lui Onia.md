@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Simon Son of Onias"
 pericope_title_ro: "Simon, fiul lui Onia"
 verses_start: 1
-verses_end: 50
-verses_total: 31
+verses_end: 21
+verses_total: 21
 language: ro
 ---
 
@@ -33,13 +33,3 @@ language: ro
 19. Au făcut auzit glas mare întru pomenire înaintea Celui Preaînalt.
 20. Atunci tot poporul împreună s-a grăbit şi a căzut cu faţa la pământ, ea să se închine Domnului său atotţiitorul, Dumnezeului Celui Preaînalt.
 21. Şi au lăudat cântăreţii cu glasurile lor în casa cea mare, s-a îndulcit viersul şi s-a rugat poporul Domnului Celui Preaînalt cu rugăciune înaintea Celui milostiv, până ce s-a săvârşit podoaba Domnului şi slujba Lui s-a încheiat.
-22. Atunci, coborându-se, a ridicat mâinile sale peste toată adunarea fiilor lui Israel ca să dea binecuvântarea Domnului cu buzele sale şi, rostind numele Domnului, întru numele Lui să fie lăudat.
-23. Şi ei se închinau încă o dată, ca să primească binecuvântare de la Cel Preaînalt.
-24. Şi acum, binecuvântaţi pe Dumnezeu, toţi, pe Cel care face lucruri mari pretutindeni.
-25. Cel care înalţă zilele noastre din sânul mamei şi face cu noi după mila Sa
-26. Să ne dea nouă veselia inimii şi să fie pace în zilele noastre întru Israel, până ce vor fi zilele veacului, ca să întărească la noi credinţa milei Sale şi în zilele Lui să ne izbăvească.
-27. Două neamuri a urât sufletul meu şi al treilea nu este neam:
-28. Cei care şed în muntele Samariei, Filistenii şi poporul cel nelegiuit care locuieşte în Sichem.
-29. Învăţătura înţelegerii şi a ştiinţei am scris în cartea aceasta eu, Isus, fiul lui Sirah din Ierusalim, care a vărsat ploaie de înţelepciune din inima sa.
-30. Fericit este cel care va petrece întru acestea; şi cel care va pune acestea în inima sa înţelept va fi.
-31. Că de va face acestea, la toate va birui, că lumina Domnului este poteca lui şi dă celor credincioşi înţelepciune. Bine este cuvântat Domnul în veac. Fie! Fie!

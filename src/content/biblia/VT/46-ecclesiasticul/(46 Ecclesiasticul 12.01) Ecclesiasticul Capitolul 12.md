@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Sirach Chapter 12"
 pericope_title_ro: "Ecclesiasticul Capitolul 12"
 verses_start: 1
-verses_end: 18
-verses_total: 18
+verses_end: 24
+verses_total: 24
 language: ro
 ---
 
@@ -30,3 +30,9 @@ language: ro
 16. Să nu-l pui să şadă de-a dreapta ta, ca nu cumva să caute scaunul tău, şi mai pe urmă vei cunoaşte cuvintele mele şi de graiurile mele te vei umili.
 17. Cui îi va fi milă de descântătorul cel muşcat de şarpe şi de toţi cei care se apropie de fiare?
 18. Aşa şi de cel care merge la omul păcătos şi se învăluie cu păcatele lui.
+19. Un ceas va rămâne cu tine, iar de te clatini, nu va rămâne cu tine.
+20. Cu buzele sale te va îndulci vrăjmaşul şi multe îţi va şopti şi îţi va grăi bune,
+21. Dar în inimă va sfătui să te surpe în groapă. Cu ochii va lăcrima vrăjmaşul,
+22. Dar de va afla vreme, nu se va sătura de sânge.
+23. De ţi se vor întâmpla rele, îl vei afla pe el acolo înaintea ta; cu ochii săi va lăcrima vrăjmaşul, şi, ca şi cum ţi-ar ajuta, va săpa sub picioarele tale.
+24. Va clătina capul său şi va bate în palmele sale, şi multe va şopti, şi va schimba faţa sa.

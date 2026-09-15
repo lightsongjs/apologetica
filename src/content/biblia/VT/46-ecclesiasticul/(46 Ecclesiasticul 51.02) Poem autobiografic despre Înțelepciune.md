@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Autobiographical Poem on Wisdom"
 pericope_title_ro: "Poem autobiografic despre Înțelepciune"
 verses_start: 13
-verses_end: 30
-verses_total: 18
+verses_end: 37
+verses_total: 25
 language: ro
 ---
 
@@ -30,3 +30,10 @@ language: ro
 28. Şi lăuntrul meu s-a tulburat căutând-o, pentru aceea bună comoară mi-am agonisit.
 29. Mi-a dat Domnul drept plată limba şi cu ea Îl voi lăuda.
 30. Apropiaţi-vă către mine, cei neînvăţaţi, şi rămâneţi în casa învăţăturii!
+31. Pentru ce întârziaţi la acestea, deşi sufletele voastre însetează foarte?
+32. Am deschis gura mea şi am grăit: Agonisiţi-vă, fără de argint.
+33. Supuneţi cerbicea voastră sub jug, şi să primească sufletul vostru învăţătură; aproape este de cei care o caută.
+34. Vedeţi cu ochii voştri că puţin m-am ostenit şi multă odihnă mi-am aflat.
+35. Luaţi învăţătură, că mult argint şi mult aur veţi câştiga cu ea.
+36. Să se veselească sufletul vostru de mila Domnului şi să nu vă ruşinaţi de lauda Lui.
+37. Lucraţi lucrul vostru mai înainte de vreme, şi El va da plata voastră la timpul potrivit.

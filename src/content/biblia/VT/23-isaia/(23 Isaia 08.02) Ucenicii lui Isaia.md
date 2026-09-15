@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Disciples of Isaiah"
 pericope_title_ro: "Ucenicii lui Isaia"
 verses_start: 16
-verses_end: 22
-verses_total: 7
+verses_end: 23
+verses_total: 8
 language: ro
 ---
 
@@ -19,3 +19,4 @@ language: ro
 20. Întrebaţi legea şi descoperirea! De nu vă vor vorbi asemenea cuvântului acesta, atunci nu-i lumină în ei.
 21. Vor rătăci pe pământ flămânzi şi cumplit apăsaţi, şi în vremea foametei îşi vor arăta colţii şi vor huli pe regele lor şi pe Dumnezeul lor.
 22. Apoi îşi vor întoarce privirea spre pământ şi iată că acolo va fi strâmtorare, întuneric şi scârbă şi nevoie! Dar noaptea va fi alungată!
+23. Căci nu va mai fi întuneric pentru ţara care era în nevoie. În vremurile de dedemult el a supus pământul Zabulonului şi ţinutul lui Neftali; în vremurile cele de pe urmă el va acoperi de slavă calea mării, celălalt ţărm al Iordanului, Galileea neamurilor.

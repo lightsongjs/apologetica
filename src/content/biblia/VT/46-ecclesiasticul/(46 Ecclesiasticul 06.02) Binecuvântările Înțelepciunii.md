@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Blessings of Wisdom"
 pericope_title_ro: "Binecuvântările Înțelepciunii"
 verses_start: 18
-verses_end: 37
-verses_total: 20
+verses_end: 39
+verses_total: 22
 language: ro
 ---
 
@@ -32,3 +32,5 @@ language: ro
 35. Stai în tovărăşia celor bătrâni şi cu cel înţelept te uneşte.
 36. Tot graiul dumnezeiesc pofteşte a-l auzi şi pildele înţelegerii să nu treacă de la tine.
 37. De vei vedea înţelept, intră la el şi pragurile uşilor lui să le roadă piciorul tău.
+38. Cugetă întru poruncile Domnului şi întru legea Lui pururea să gândeşti.
+39. El va întări inima ta şi pofta înţelepciunii tale se va da ţie.

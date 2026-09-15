@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Wisdom and the Law"
 pericope_title_ro: "Înțelepciunea și Legea"
 verses_start: 23
-verses_end: 34
-verses_total: 12
+verses_end: 36
+verses_total: 14
 language: ro
 ---
 
@@ -24,3 +24,5 @@ language: ro
 32. Zis-am: Voi adăpa grădina mea şi voi îmbăta sădirea mea.
 33. Iată s-a făcut mie din albie râu şi din râul meu s-a făcut mare.
 34. Că învăţătura ca zorile o răspândesc şi o arăt până departe.
+35. Şi ca proorocia voi turna învăţătura şi o voi lăsa pe ea în neamurile veacurilor.
+36. Vedeţi că nu numai pentru mine m-am ostenit, ci pentru toţi cei care caută înţelepciunea.

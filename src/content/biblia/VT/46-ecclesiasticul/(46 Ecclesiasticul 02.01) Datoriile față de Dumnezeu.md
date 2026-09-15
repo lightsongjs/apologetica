@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Duties toward God"
 pericope_title_ro: "Datoriile față de Dumnezeu"
 verses_start: 1
-verses_end: 18
-verses_total: 18
+verses_end: 20
+verses_total: 20
 language: ro
 ---
 
@@ -30,3 +30,5 @@ language: ro
 16. Cei care se tem de Domnul nu vor fi necrezători cuvintelor Lui, şi cei ce-L iubesc pe El vor păzi căile Lui.
 17. Că cei ce se tem de Domnul vor căuta bunăvoinţa Lui, şi cei ce-L iubesc pe El vor împlini legea.
 18. Cei care se tem de Domnul vor găti inimile lor şi înaintea Lui vor smeri sufletele lor, zicând:
+19. Să cădem în mâinile Domnului, şi nu în mâinile oamenilor.
+20. Că precum este slava Lui, aşa este şi mila Lui.

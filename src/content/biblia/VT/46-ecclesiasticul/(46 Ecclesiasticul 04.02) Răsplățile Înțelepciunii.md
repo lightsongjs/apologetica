@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "The Rewards of Wisdom"
 pericope_title_ro: "Răsplățile Înțelepciunii"
 verses_start: 11
-verses_end: 31
-verses_total: 21
+verses_end: 33
+verses_total: 23
 language: ro
 ---
 
@@ -33,3 +33,5 @@ language: ro
 29. Nu te supune omului nebun şi nu măguli faţa celui puternic.
 30. Până la moarte luptă-te pentru adevăr, şi Domnul Dumnezeu se va lupta pentru tine.
 31. Nu fi aspru cu limba ta şi leneş în lucrurile tale.
+32. Nu fi ca un leu în casa ta şi nu necăji cu mânie pe casnicii tăi.
+33. Să nu fie mâna ta întinsă la luat şi strânsă la dat.

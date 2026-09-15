@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Against Loose Talk"
 pericope_title_ro: "Împotriva vorbirii în vânt"
 verses_start: 1
-verses_end: 17
-verses_total: 17
+verses_end: 19
+verses_total: 19
 language: ro
 ---
 
@@ -29,3 +29,5 @@ language: ro
 15. Cercetează pe prieten, că de multe ori este năpăstuit, şi nu crede tot cuvântul.
 16. Este câte unul care alunecă, dar nu din suflet, şi cine n-a greşit cu limba sa?
 17. Dojeneşte pe prietenul tău, mai înainte ca să-l înfricoşezi, şi dă loc legii Celui Preaînalt.
+18. Toată înţelepciunea este în frica Domnului, şi în toată înţelepciunea este împlinirea legii.
+19. Şi nu este înţelepciunea ştiinţa răutăţii; şi unde este sfatul păcătoşilor nu ţeste înţelepciune.

@@ -7,9 +7,10 @@ pericope: 6
 pericope_title_en: "Anger and Vengeance"
 pericope_title_ro: "Mânia și răzbunarea"
 verses_start: 30
-verses_end: 30
-verses_total: 1
+verses_end: 31
+verses_total: 2
 language: ro
 ---
 
 30. În laţ se vor prinde cei care se bucură de căderea celor drepţi şi durerea îi va mistui mai înainte de a muri.
+31. Mânia şi urgia sunt lucruri urâte; şi bărbatul păcătos le ţine minte.

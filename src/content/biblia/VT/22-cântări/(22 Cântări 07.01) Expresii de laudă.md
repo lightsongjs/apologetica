@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Expressions of Praise"
 pericope_title_ro: "Expresii de laudă"
 verses_start: 1
-verses_end: 13
-verses_total: 13
+verses_end: 14
+verses_total: 14
 language: ro
 ---
 
@@ -25,3 +25,4 @@ language: ro
 11. Eu sunt a lui, a celui drag. El dorul meu îl poartă.
 12. Hai, iubitul meu, la câmp, hai la tară să petrecem!
 13. Mâine hai la vie să vedem dacă a dat vila de vie, merii de-au înmugurit, de-s aproape de-nflorit. Şi acolo iţi voi da dezmierdările mele.
+14. Mandragorele miresme varsă şi la noi acasă sunt multe fructe vechi şi noi pe care, iubitul meu, pentru tine le-am păstrat.

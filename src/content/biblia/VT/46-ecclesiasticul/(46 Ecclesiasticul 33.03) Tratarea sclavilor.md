@@ -7,8 +7,8 @@ pericope: 3
 pericope_title_en: "The Treatment of Slaves"
 pericope_title_ro: "Tratarea sclavilor"
 verses_start: 25
-verses_end: 33
-verses_total: 9
+verses_end: 37
+verses_total: 13
 language: ro
 ---
 
@@ -21,3 +21,7 @@ language: ro
 31. Jugul şi hamul pleacă grumajii şi pe sluga cea rea legăturile şi caznele.
 32. Pune-l la lucru, ca să nu şadă, că multă răutate a învăţat lenevirea.
 33. La lucru pune-l precum se cuvine şi de nu te va asculta, îngreuiază obezile lui.
+34. Şi să nu faci nimic afară din cale şi fără de judecată nimic să nu lucrezi.
+35. De ai slugă, să fie cu tine, că ai câştigat-o cu sânge.
+36. De ai slugă, îngrijeşte-o ca şi pe tine însuţi, deoarece, ca de sufletul tău, vei avea nevoie de ea.
+37. De o vei necăji şi va fugi, în care parte de loc o vei căuta?

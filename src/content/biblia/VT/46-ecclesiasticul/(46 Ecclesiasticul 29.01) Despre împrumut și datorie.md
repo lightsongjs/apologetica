@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "On Lending and Borrowing"
 pericope_title_ro: "Despre împrumut și datorie"
 verses_start: 1
-verses_end: 29
-verses_total: 29
+verses_end: 13
+verses_total: 13
 language: ro
 ---
 
@@ -25,19 +25,3 @@ language: ro
 11. Însă cu cel smerit fii îngăduitor şi nu întârzia a face milă cu el.
 12. Pentru poruncă, ajută pe sărac şi în sărăcia lui să nu-l întorci deşert.
 13. Jertfeşte banii tăi, pentru un frate şi un prieten, ca să nu ruginească sub o piatră, pierzându-se.
-14. Pune-ţi comoara ta întru poruncile Celui Preaînalt şi-ţi va folosi mai mult decât aurul.
-15. Grămădeşte milostenii în cămările tale şi ele te vor scoate din orice nenorocire.
-16. Mai mult decât pavăza puterii şi decât suliţa tăriei ele se vor război pentru tine împotriva vrăjmaşului.
-17. Bărbatul bun se pune chezaş pentru aproapele său; iar cel care a pierdut ruşinea îl va părăsi.
-18. Binele făcut de chezaş nu-l uita, că el şi-a pus viaţa pentru tine.
-19. Binele chezaşului îl strică păcătosul şi cel nemulţumitor în cuget părăseşte pe cel care l-a izbăvit.
-20. Chezăşia pe mulţi drepţi i-a pierdut şi i-a azvârlit încoace şi încolo ca valurile mării.
-21. Pe bărbaţii puternici i-a scos din case şi i-a făcut să rătăcească pe la neamuri străine.
-22. Păcătosul, căzând în chezăşie şi gonind după câştig nedrept, va cădea în judecată.
-23. Ajută pe aproapele tău după puterea ta şi ia aminte să nu cazi.
-24. Cele mai de seamă lucruri în viaţa omului sunt apa, pâinea, haina şi o casă, pentru adăpost.
-25. Mai bună este viaţa săracului, sub acoperământ de scânduri, decât ospeţe luminate în străini.
-26. Spre mic şi spre mare, fii voitor de bine. Fie că ai puţin sau mult, fii mulţumit şi nu vei fi socotit ca un străin.
-27. Tristă este viaţa să umbli din casă în casă, şi unde te vei opri, nu vei îndrăzni să deschizi gura ta.
-28. Vei ospăta şi vei adăpa nemulţumitori şi de la ei vei auzi amărăciuni:
-29. "Vino încoace, tu cel străin, şi pune masa şi cu ce va fi în mâna ta hrăneşte-mă".

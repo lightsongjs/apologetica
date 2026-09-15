@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Raphael’s Instructions"
 pericope_title_ro: "Învățăturile lui Rafael"
 verses_start: 10
-verses_end: 18
-verses_total: 9
+verses_end: 19
+verses_total: 10
 language: ro
 ---
 
@@ -21,3 +21,4 @@ language: ro
 16. Şi i-a zis îngerul: "Oare ai uitat cuvintele pe care ţi le-a spus tatăl tău, ca să-ti iei femeie din neamul tău? Ascultă-mă deci pe mine, frate. Ea trebuie să fie femeia ta, iar de demon nu te nelinişti! Chiar în noaptea aceasta au să ţi-o dea de femeie.
 17. Deci, când vei intra în camera de nuntă, să iei căţuia, să pui în ea inima şi ficatul peştelui şi să afumi; şi demonul va simţi mirosul şi se va depărta şi nu se va mai întoarce niciodată,
 18. Şi când va trebui să te apropii de ea, ridicaţi-vă amândoi şi să strigaţi către milostivul Dumnezeu, şi El vă va mântui şi vă va milui. Nu te teme, căci ea este menită din veac pentru tine şi tu o vei mântui, şi ea va merge cu tine, şi ştiu că vei avea de la ea copii".
+19. Şi ascultând Tobie acestea, a iubit-o şi sufletul lui s-a lipit de ea foarte.

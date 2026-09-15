@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Faith and Wisdom"
 pericope_title_ro: "Credința și înțelepciunea"
 verses_start: 2
-verses_end: 6
-verses_total: 5
+verses_end: 8
+verses_total: 7
 language: ro
 ---
 
@@ -17,3 +17,5 @@ language: ro
 4. Iar răbdarea să-şi aibă lucrul ei desăvârşit, ca să fiţi desăvârşiţi şi întregi, nelipsiţi fiind de nimic.
 5. Şi de este cineva din voi lipsit de înţelepciune, să o ceară de la Dumnezeu, Cel ce dă tuturor fără deosebire şi fără înfruntare; şi i se va da.
 6. Să ceară însă cu credinţă, fără să aibă nici o îndoială, pentru că cine se îndoieşte este asemenea valului mării, mişcat de vânt şi aruncat încoace şi încolo.
+7. Să nu gândească omul acela că va lua ceva de la Dumnezeu.
+8. Bărbatul îndoielnic este nestatornic în toate căile sale.

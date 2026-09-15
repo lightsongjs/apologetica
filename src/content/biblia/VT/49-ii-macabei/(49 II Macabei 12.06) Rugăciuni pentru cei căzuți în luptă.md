@@ -7,8 +7,8 @@ pericope: 6
 pericope_title_en: "Prayers for Those Killed in Battle"
 pericope_title_ro: "Rugăciuni pentru cei căzuți în luptă"
 verses_start: 38
-verses_end: 45
-verses_total: 8
+verses_end: 46
+verses_total: 9
 language: ro
 ---
 
@@ -20,3 +20,4 @@ language: ro
 43. Şi strângând bani după numărul bărbaţilor care erau cu el, două mii de drahme de argint a trimis în Ierusalim, să se aducă jertfă pentru păcat. Foarte bun şi cuvios lucru pentru socotinţa învierii morţilor!
 44. Că de n-ar fi avut nădejde că vor învia cei care mai înainte au căzut, deşert şi de râs lucru ar fi a se ruga pentru cei morţi.
 45. Şi a văzut că celor care cu bună cucernicie au adormit, foarte bun dar le este pus.
+46. Drept aceea, sfânt şi cucernic gând a fost, că a adus jertfă de curăţie pentru cei morţi, ca să se slobozească de păcat.

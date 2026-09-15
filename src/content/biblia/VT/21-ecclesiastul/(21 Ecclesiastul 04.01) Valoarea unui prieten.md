@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "The Value of a Friend"
 pericope_title_ro: "Valoarea unui prieten"
 verses_start: 1
-verses_end: 16
-verses_total: 16
+verses_end: 17
+verses_total: 17
 language: ro
 ---
 
@@ -28,3 +28,4 @@ language: ro
 14. Căci el poate să iasă din închisoare ca să domnească, deşi s-a născut sărac în ţara celuilalt.
 15. Văzut-am pe toţi cei vii care merg sub soare îmbulzindu-se lângă tânărul care va sta în locul regelui ca moştenitor.
 16. Şi nu se mai sfârşea poporul în fruntea căruia era; totuşi urmaşii lui nu se vor bucura de el. Şi aceasta este deşertăciune şi vânare de vânt.
+17. Ia seama la picioarele tale când te duci în templul Domnului. Dacă te apropii să asculţi este mai bine, decât să aduci jertfa nebunilor, căci ei nu ştiu decât să facă rău.

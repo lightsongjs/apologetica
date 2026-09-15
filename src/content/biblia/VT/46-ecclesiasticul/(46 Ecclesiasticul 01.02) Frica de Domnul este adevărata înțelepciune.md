@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Fear of the Lord Is True Wisdom"
 pericope_title_ro: "Frica de Domnul este adevărata înțelepciune"
 verses_start: 11
-verses_end: 30
-verses_total: 20
+verses_end: 31
+verses_total: 21
 language: ro
 ---
 
@@ -32,3 +32,4 @@ language: ro
 28. Nu te făţărnici înaintea oamenilor, şi buzelor tale ia aminte.
 29. Nu te înălţa, ca să nu cazi şi să aduci necinste sufletului tău.
 30. Căci va descoperi Domnul cele ascunse ale tale şi în mijlocul adunării te va înjosi,
+31. Pentru că nu te-ai apropiat cu inimă curată de frica Domnului, şi inima ta este plină de vicleşug.

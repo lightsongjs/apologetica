@@ -7,8 +7,8 @@ pericope: 3
 pericope_title_en: "Daniel Saved from the Lions"
 pericope_title_ro: "Daniel scăpat de lei"
 verses_start: 19
-verses_end: 28
-verses_total: 10
+verses_end: 29
+verses_total: 11
 language: ro
 ---
 
@@ -22,3 +22,4 @@ language: ro
 26. Regele Darius a scris la toate popoarele, neamurile şi limbile care locuiesc peste tot pământul: "Pacea voastră să sporească!
 27. Poruncă iese de la mine ca în tot cuprinsul regatului meu să se teamă şi să tremure lumea înaintea Dumnezeului lui Daniel, că El este Dumnezeul cel viu, Care rămâne în veci şi împărăţia lui nu se va nimici, iar stăpânirea Lui nu va avea sfârşit.
 28. El poate să scape şi să libereze, face semne şi minuni în cer şi pe pământ; El a scăpat pe Daniel din ghearele leilor".
+29. Şi Daniel se afla într-o stare fericită în regatul lui Darius şi în regatul lui Cirus, regele Perşilor.

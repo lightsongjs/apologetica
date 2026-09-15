@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "Wisdom and Foolishness"
 pericope_title_ro: "Înțelepciunea și nebunia"
 verses_start: 11
-verses_end: 28
-verses_total: 18
+verses_end: 30
+verses_total: 20
 language: ro
 ---
 
@@ -30,3 +30,5 @@ language: ro
 26. Semn de om prost este a asculta la uşă; iar cel înţelept se va îndepărta de astfel de necinste.
 27. Buzele celor fără minte vorbesc mereu de alţii; iar cuvintele celor înţelepţi se vor cumpăni.
 28. Inima nebunului este în gura lui, iar gura înţeleptului este în inima lui.
+29. Când blesteamă cel nelegiuit pe satana, blesteamă sufletul său.
+30. Pângăreşte sufletul său cel care vâră zâzanii şi oriunde va locui va fi urât.

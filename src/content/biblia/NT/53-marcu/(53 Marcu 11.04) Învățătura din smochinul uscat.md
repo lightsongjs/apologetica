@@ -7,8 +7,8 @@ pericope: 4
 pericope_title_en: "The Lesson from the Withered Fig Tree"
 pericope_title_ro: "Învățătura din smochinul uscat"
 verses_start: 20
-verses_end: 25
-verses_total: 6
+verses_end: 26
+verses_total: 7
 language: ro
 ---
 
@@ -18,3 +18,4 @@ language: ro
 23. Adevărat zic vouă că oricine va zice acestui munte: Ridică-te şi te aruncă în mare, şi nu se va îndoi în inima lui, ci va crede că ceea ce spune se va face, fi-va lui orice va zice.
 24. De aceea vă zic vouă: Toate câte cereţi, rugându-vă, să credeţi că le-aţi primit şi le veţi avea.
 25. Iar când staţi de vă rugaţi, iertaţi orice aveţi împotriva cuiva, ca şi Tatăl vostru Cel din ceruri să vă ierte vouă greşealele voastre.
+26. Că de nu iertaţi voi, nici Tatăl vostru Cel din ceruri nu vă va ierta vouă greşealele voastre.

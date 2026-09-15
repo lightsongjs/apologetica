@@ -7,8 +7,8 @@ pericope: 1
 pericope_title_en: "Tobit’s Thanksgiving to God"
 pericope_title_ro: "Mulțumirea lui Tobit către Dumnezeu"
 verses_start: 1
-verses_end: 17
-verses_total: 17
+verses_end: 18
+verses_total: 18
 language: ro
 ---
 
@@ -29,3 +29,4 @@ language: ro
 15. Să binecuvânteze sufletul meu pe Dumnezeu, Împăratul cel mare, căci Ierusalimul se va zidi din nou, cu safir, cu smarald şi cu pietre scumpe!
 16. Iar zidurile tale, turnurile şi întăriturile se vor face de aur curat!
 17. Pieţele Ierusalimului vor fi pardosite cu beril, rubin şi piatră de Ofir.
+18. Pe toate uliţele lui va răsuna "Aliluia", şi se va cânta: Bine este cuvântat Dumnezeul lui Israel! Întru Tine se va binecuvânta numele Tău cel sfânt în vecii vecilor!"

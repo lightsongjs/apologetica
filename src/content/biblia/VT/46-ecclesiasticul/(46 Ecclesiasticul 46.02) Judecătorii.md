@@ -7,8 +7,8 @@ pericope: 2
 pericope_title_en: "The Judges"
 pericope_title_ro: "Judecătorii"
 verses_start: 11
-verses_end: 20
-verses_total: 10
+verses_end: 23
+verses_total: 13
 language: ro
 ---
 
@@ -22,3 +22,6 @@ language: ro
 18. Întru credinţa sa s-a adeverit prooroc şi s-a cunoscut întru credinţa sa credincios vedeniei.
 19. Şi a chemat pe Domnul cel Puternic, când a bătut pe vrăjmaşii săi de primprejur, prin aducerea unui miel de lapte.
 20. Şi a tunat din cer Domnul şi cu sunet mare a făcut auzit glasul Său.
+21. Şi a înfrânt pe povăţuitorii Tirienilor şi pe toate căpeteniile Filistenilor.
+22. Şi Samuel, mai înainte de vremea adormirii sale, a mărturisit înaintea Domnului şi a unsului Lui: "Nici bani, nici măcar încălţăminte de la nimeni n-am luat" şi nu l-a învinovăţit pe el nici un om.
+23. Şi după ce a adormit, a proorocit şi a arătat regelui sfârşitul lui, a înălţat glasul său din pământ întru proorocie, ca să piardă fărădelegea poporului.

@@ -7,8 +7,8 @@ pericope: 3
 pericope_title_en: "An Oracle concerning Assyria"
 pericope_title_ro: "Prorocie despre Asiria"
 verses_start: 24
-verses_end: 27
-verses_total: 4
+verses_end: 28
+verses_total: 5
 language: ro
 ---
 
@@ -16,3 +16,4 @@ language: ro
 25. Sfărâma-voi Asiria în pământul Meu şi o voi călca în picioare pe munţii Mei. Şi robii vor fi liberaţi de jugul lor şi umerii de povara lor".
 26. Iată hotărârea pentru tot pământul, iată mâna întinsă peste toate neamurile!
 27. Dacă Domnul Savaot a hotărât, cine îl va putea împiedica? Şi dacă mâna Lui stă întinsă, cine o va întoarce la loc?
+28. În anul morţii lui Ahaz, fost-a această proorocie:
