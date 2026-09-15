@@ -28,6 +28,8 @@ export const BOOKS_METADATA: Record<'VT' | 'NT', BookMetadata[]> = {
     { code: 8, slug: 'rut', name_ro: 'Rut', name_en: 'Ruth', chapters: 4, tema_slug: 'cartea-rut' },
     { code: 9, slug: '1-regi', name_ro: 'I Regi', name_en: '1 Samuel', chapters: 31, tema_slug: 'cartea-1-samuel' },
     { code: 10, slug: '2-regi', name_ro: 'II Regi', name_en: '2 Samuel', chapters: 24, tema_slug: 'cartea-2-samuel' },
+    { code: 11, slug: '3-regi', name_ro: 'III Regi', name_en: '3 Kings', chapters: 22, tema_slug: 'cartea-1-regi' },
+    { code: 12, slug: '4-regi', name_ro: 'IV Regi', name_en: '4 Kings', chapters: 25, tema_slug: 'cartea-2-regi' },
     { code: 13, slug: '1-paralipomena', name_ro: 'I Paralipomena', name_en: '1 Chronicles', chapters: 29, tema_slug: 'cartea-1-cronici' },
     { code: 14, slug: '2-paralipomena', name_ro: 'II Paralipomena', name_en: '2 Chronicles', chapters: 36, tema_slug: 'cartea-2-cronici' },
     { code: 15, slug: '1-ezdra', name_ro: 'I Ezdra', name_en: 'Ezra', chapters: 10, tema_slug: 'cartea-ezra' },

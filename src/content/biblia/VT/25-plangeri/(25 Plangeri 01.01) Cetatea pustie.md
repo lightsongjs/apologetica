@@ -1,7 +1,7 @@
 ---
 testament: OT
 book: Lamentations
-book_romanian: Plangeri
+book_romanian: Plângeri
 chapter: 1
 pericope: 1
 pericope_title_en: "The Deserted City"

@@ -1,7 +1,7 @@
 ---
 testament: OT
 book: Lamentations
-book_romanian: Plangeri
+book_romanian: Plângeri
 chapter: 4
 pericope: 1
 pericope_title_en: "The Punishment of Zion"

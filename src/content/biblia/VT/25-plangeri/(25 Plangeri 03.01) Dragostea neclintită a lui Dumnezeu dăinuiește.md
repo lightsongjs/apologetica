@@ -1,7 +1,7 @@
 ---
 testament: OT
 book: Lamentations
-book_romanian: Plangeri
+book_romanian: Plângeri
 chapter: 3
 pericope: 1
 pericope_title_en: "God's Steadfast Love Endures"
