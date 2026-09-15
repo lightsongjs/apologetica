@@ -36,7 +36,7 @@ export const BOOKS_METADATA: Record<'VT' | 'NT', BookMetadata[]> = {
 
     // Cărți poetice și de înțelepciune (Poetic & Wisdom Books)
     { code: 18, slug: 'iov', name_ro: 'Iov', name_en: 'Job', chapters: 42, tema_slug: 'cartea-iov' },
-    { code: 19, slug: 'psalmi', name_ro: 'Psalmi', name_en: 'Psalms', chapters: 150, tema_slug: 'psalmi' },
+    { code: 19, slug: 'psalmi', name_ro: 'Psalmi', name_en: 'Psalms', chapters: 151, tema_slug: 'psalmi' },
     { code: 20, slug: 'pilde', name_ro: 'Pilde', name_en: 'Proverbs', chapters: 31, tema_slug: 'proverbe' },
     { code: 21, slug: 'ecclesiastul', name_ro: 'Ecclesiastul', name_en: 'Ecclesiastes', chapters: 12, tema_slug: 'ecclesiastul' },
     { code: 22, slug: 'cantari', name_ro: 'Cântări', name_en: 'Song of Solomon', chapters: 8, tema_slug: 'cantarea-cantarilor' },
@@ -52,7 +52,7 @@ export const BOOKS_METADATA: Record<'VT' | 'NT', BookMetadata[]> = {
     { code: 28, slug: 'osea', name_ro: 'Osea', name_en: 'Hosea', chapters: 14, tema_slug: 'cartea-osea' },
     { code: 29, slug: 'amos', name_ro: 'Amos', name_en: 'Amos', chapters: 9, tema_slug: 'cartea-amos' },
     { code: 30, slug: 'miheia', name_ro: 'Miheia', name_en: 'Micah', chapters: 7, tema_slug: 'cartea-miheia' },
-    { code: 31, slug: 'ioil', name_ro: 'Ioil', name_en: 'Joel', chapters: 3, tema_slug: 'cartea-ioil' },
+    { code: 31, slug: 'ioil', name_ro: 'Ioil', name_en: 'Joel', chapters: 4, tema_slug: 'cartea-ioil' },
     { code: 32, slug: 'avdie', name_ro: 'Avdie', name_en: 'Obadiah', chapters: 1, tema_slug: 'cartea-avdie' },
     { code: 33, slug: 'iona', name_ro: 'Iona', name_en: 'Jonah', chapters: 4, tema_slug: 'cartea-iona' },
     { code: 34, slug: 'naum', name_ro: 'Naum', name_en: 'Nahum', chapters: 3, tema_slug: 'cartea-naum' },
