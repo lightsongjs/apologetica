@@ -62,12 +62,13 @@ export const BOOKS_METADATA: Record<'VT' | 'NT', BookMetadata[]> = {
     { code: 36, slug: 'sofonie', name_ro: 'Sofonie', name_en: 'Zephaniah', chapters: 3, tema_slug: 'cartea-tefania' },
     { code: 37, slug: 'agheu', name_ro: 'Agheu', name_en: 'Haggai', chapters: 2, tema_slug: 'cartea-hagai' },
     { code: 38, slug: 'zaharia', name_ro: 'Zaharia', name_en: 'Zechariah', chapters: 14, tema_slug: 'cartea-zaharia' },
-    { code: 39, slug: 'maleahi', name_ro: 'Maleahi', name_en: 'Malachi', chapters: 4, tema_slug: 'cartea-maleahi' },
+    { code: 39, slug: 'maleahi', name_ro: 'Maleahi', name_en: 'Malachi', chapters: 3, tema_slug: 'cartea-maleahi' },
 
     // Cărți deuterocanonice (Deuterocanonical Books)
     { code: 40, slug: 'tobit', name_ro: 'Tobit', name_en: 'Tobit', chapters: 14, tema_slug: 'cartea-tobit' },
     { code: 41, slug: 'iudita', name_ro: 'Iudita', name_en: 'Judith', chapters: 16, tema_slug: 'cartea-iudita' },
     { code: 42, slug: 'baruh', name_ro: 'Baruh', name_en: 'Baruch', chapters: 6, tema_slug: 'cartea-baruh' },
+    { code: 44, slug: '3-ezdra', name_ro: 'III Ezdra', name_en: '3 Ezra', chapters: 9 },
     { code: 45, slug: 'solomon', name_ro: 'Solomon', name_en: 'Wisdom of Solomon', chapters: 19, tema_slug: 'cartea-intelepciunii-lui-solomon' },
     { code: 46, slug: 'ecclesiasticul', name_ro: 'Ecclesiasticul', name_en: 'Sirach', chapters: 51, tema_slug: 'cartea-intelepciunii-lui-isus-sirah' },
     { code: 48, slug: '1-macabei', name_ro: 'I Macabei', name_en: '1 Maccabees', chapters: 16, tema_slug: 'cartea-1-macabei' },
@@ -76,6 +77,8 @@ export const BOOKS_METADATA: Record<'VT' | 'NT', BookMetadata[]> = {
 
   NT: [
     // Evanghelii (Gospels)
+    { code: 50, slug: '3-macabei', name_ro: 'III Macabei', name_en: '3 Maccabees', chapters: 7, tema_slug: 'cartea-3-macabei' },
+    { code: 51, slug: 'rugaciunea-lui-manase', name_ro: 'Rugăciunea lui Manase', name_en: 'Prayer of Manasseh', chapters: 1 },
     { code: 52, slug: 'matei', name_ro: 'Matei', name_en: 'Matthew', chapters: 28, tema_slug: 'evanghelia-matei' },
     { code: 53, slug: 'marcu', name_ro: 'Marcu', name_en: 'Mark', chapters: 16, tema_slug: 'evanghelia-marcu' },
     { code: 54, slug: 'luca', name_ro: 'Luca', name_en: 'Luke', chapters: 24, tema_slug: 'evanghelia-luca' },

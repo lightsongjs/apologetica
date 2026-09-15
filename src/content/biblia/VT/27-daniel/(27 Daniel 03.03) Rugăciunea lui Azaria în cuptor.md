@@ -8,17 +8,29 @@ pericope_title_en: "The Prayer of Azariah in the Furnace"
 pericope_title_ro: "Rugăciunea lui Azaria în cuptor"
 verses_start: 24
 verses_end: 45
-verses_total: 10
+verses_total: 22
 language: ro
 ---
 
-24. Atunci regele Nabucodonosor a fost cuprins de spaimă şi s-a sculat în grabă. El a început a grăi şi a zis către sfetnicii săi: "Oare, n-am aruncat noi trei bărbaţi legaţi în mijlocul cuptorului cu foc arzător?" Răspuns-au şi i-au zis: "Cu adevărat, aşa este, o, rege!"
-25. Şi începând din nou a grăi, a zis: "Iată, eu văd patru bărbaţi dezlegaţi, umblând prin mijlocul cuptorului, nevătămaţi, iar chipul celui de al patrulea, ca faţa unuia dintre fiii zeilor".
-26. Atunci s-a apropiat Nabucodonosor de gura cuptorului cu foc arzător şi, începând a grăi, a zis: "Şadrac, Meşac şi Abed-Nego, slujitorii mei, ieşiţi afară şi veniţi la mine!" Atunci Şadrac, Meşac şi Abed-Nego au ieşit dinăuntrul cuptorului.
-27. Şi adunându-se satrapii, dregătorii cei mai mari, cârmuitorii şi sfetnicii regelui, au văzut că focul nu pricinuise nici o vătămare trupului acestor oameni, că nici perii capului nu se pârliseră şi că hainele lor erau neschimbate şi că nici măcar nu miroseau a foc.
-28. Răspuns-a Nabucodonosor şi a zis: "Binecuvântat să fie Dumnezeul lui Şadrac, Meşac şi Abed-Nego, Care a trimis pe îngerul Său şi a izbăvit pe servii Săi, care îşi puseseră nădejdea în El şi care au călcat porunca regelui şi şi-au dat trupurile lor ca să nu slujească şi să nu se închine altor dumnezei decât Dumnezeului lor.
-29. Şi poruncesc: Popoare, neamuri şi limbi, toţi aceia care ar vorbi de rău pe Dumnezeul lui Şadrac, Meşac şi Abed-Nego, să fie tăiaţi în bucăţi şi casele lor să fie nimicite, fiindcă nu este un alt dumnezeu care să-i poată izbăvi într-acest chip".
-30. După aceasta a întărit regele în slujbele lor pe Şadrac, Meşac şi Abed-Nego, peste ţinutul Babilonului.
-31. Regele Nabucodonosor a dat hrisov către toate popoarele, neamurile şi limbile care locuiesc pe tot pământul: "Pacea voastră să sporească!
-32. Plăcutu-mi-a să vestesc minunile şi faptele cele peste fire, pe care le-a făcut mie Dumnezeul cel Preaînalt.
-33. Cât de mari sunt minunile Lui şi cât de puternice sunt faptele cele peste fire! Împărăţia Lui este împărăţie veşnică şi stăpânirea Lui ţine din neam în neam!
+24. Şi stând Azaria în mijlocul focului, şi deschizând gura sa, aşa s-a rugat, zicând:
+25. "Binecuvântat eşti, Doamne Dumnezeul părinţilor noştri, şi lăudat şi preaslăvit este numele Tău în veci.
+26. Că drept eşti în toate câte ai făcut nouă, şi toate lucrurile Tale sunt adevărate, şi drepte căile Tale şi toate judecăţile Tale adevărate.
+27. Tu ai dat hotărâri drepte în toate relele ce ai făcut să vină asupra noastră şi asupra cetăţii celei sfinte a părinţilor noştri, Ierusalimul; că în adevăr şi dreptate ai adus acestea peste noi din pricina păcatelor noastre:
+28. Că am păcătuit, că am făcut fărădelege, depărtându-ne de la Tine.
+29. Şi am greşit în toate, şi poruncile Tale n-am ascultat, nici le-am păzit, nici le-am făcut, după cum ne-ai poruncit nouă, ca să ne fie bine.
+30. Şi câte ai adus şi ai făcut nouă în dreaptă judecată sunt.
+31. Tu ne-ai dat în mâinile vrăjmaşilor noştri, oameni fără lege şi cei mai răi dintre nelegiuiţi, unui rege nedrept, cel mai rău care este pe pământ.
+32. Şi astăzi nu mai putem să deschidem gura; ruşine şi ocară ne-am făcut robilor Tăi şi celor ce Te cinstesc pe Tine.
+33. Nu ne părăsi pe noi pentru totdeauna, pentru numele Tău, şi nu strica legământul Tău.
+34. Şi nu depărta mila Ta de la noi, pentru Avraam cel iubit de Tine şi pentru Isaac, robul Tău, şi pentru Israel, sfântul Tău,
+35. Cărora le-ai făgăduit să le înmulţeşti seminţia lor, ca stelele cerului şi ca nisipul de pe ţărmul mării.
+36. Căci, Stăpâne, ne-am împuţinat mai mult decât toate neamurile şi suntem umiliţi astăzi, în tot pământul, pentru păcatele noastre.
+37. Şi nu mai este în vremea aceasta căpetenie, prooroc, nici conducător, nici ardere de tot, nici jertfă, nici prinos, nici tămâie, nici loc unde să aducem înaintea Ta pârga noastră şi să aflăm har la Tine.
+38. Ci cu suflet zdrobit şi cu duh umilit să fim primiţi de Tine.
+39. Ca ardere de tot de berbeci si de junci, ca zeci de mii de miei graşi, aşa să fie jertfa noastră înaintea Ta astăzi şi înţelegere să găsească la Tine; că nu este ruşine celor ce nădăjduiesc în Tine.
+40. Şi acum urmăm ţie cu toată inima, şi ne temem de Tine, şi căutăm faţa Ta.
+41. Să nu ne ruşinezi pe noi, ci fă cu noi după îndurarea Ta şi după mulţimea milei Tale.
+42. Şi ne scoate pe noi după minunile Tale, şi dă mărire numelui Tău, Doamne; şi să se ruşineze toţi cei ce arată robilor Tăi rele.
+43. Şi să se ruşineze de toată puterea Ta, şi tăria lor să se sfărâme.
+44. Şi să ştie că Tu eşti Domn, Dumnezeu singur, şi slăvit peste toată lumea".
+45. Şi n-au încetat slujitorii regelui, care îi aruncaseră în cuptor, să înfierbânte cuptorul cu catran şi cu smoală şi cu câlţi şi cu viţă.
