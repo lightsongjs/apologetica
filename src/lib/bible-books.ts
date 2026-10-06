@@ -1,6 +1,6 @@
 /**
  * Orthodox Bible Book Metadata Registry
- * Complete catalog of all 71 canonical books (44 OT + 27 NT)
+ * Complete catalog of all 76 books (49 OT + 27 NT)
  * including deuterocanonical books from the Septuagint tradition
  */
 
@@ -73,12 +73,12 @@ export const BOOKS_METADATA: Record<'VT' | 'NT', BookMetadata[]> = {
     { code: 46, slug: 'ecclesiasticul', name_ro: 'Ecclesiasticul', name_en: 'Sirach', chapters: 51, tema_slug: 'cartea-intelepciunii-lui-isus-sirah' },
     { code: 48, slug: '1-macabei', name_ro: 'I Macabei', name_en: '1 Maccabees', chapters: 16, tema_slug: 'cartea-1-macabei' },
     { code: 49, slug: '2-macabei', name_ro: 'II Macabei', name_en: '2 Maccabees', chapters: 15, tema_slug: 'cartea-2-macabei' },
+    { code: 50, slug: '3-macabei', name_ro: 'III Macabei', name_en: '3 Maccabees', chapters: 7, tema_slug: 'cartea-3-macabei' },
+    { code: 51, slug: 'rugaciunea-lui-manase', name_ro: 'Rugăciunea lui Manase', name_en: 'Prayer of Manasseh', chapters: 1 },
   ],
 
   NT: [
     // Evanghelii (Gospels)
-    { code: 50, slug: '3-macabei', name_ro: 'III Macabei', name_en: '3 Maccabees', chapters: 7, tema_slug: 'cartea-3-macabei' },
-    { code: 51, slug: 'rugaciunea-lui-manase', name_ro: 'Rugăciunea lui Manase', name_en: 'Prayer of Manasseh', chapters: 1 },
     { code: 52, slug: 'matei', name_ro: 'Matei', name_en: 'Matthew', chapters: 28, tema_slug: 'evanghelia-matei' },
     { code: 53, slug: 'marcu', name_ro: 'Marcu', name_en: 'Mark', chapters: 16, tema_slug: 'evanghelia-marcu' },
     { code: 54, slug: 'luca', name_ro: 'Luca', name_en: 'Luke', chapters: 24, tema_slug: 'evanghelia-luca' },
@@ -158,7 +158,7 @@ export function getTestamentName(testament: 'VT' | 'NT'): string {
  * Get total count of books in each testament
  */
 export const TESTAMENT_STATS = {
-  VT: BOOKS_METADATA.VT.length,  // 44 books
+  VT: BOOKS_METADATA.VT.length,  // 49 books
   NT: BOOKS_METADATA.NT.length,  // 27 books
-  total: BOOKS_METADATA.VT.length + BOOKS_METADATA.NT.length,  // 71 books
+  total: BOOKS_METADATA.VT.length + BOOKS_METADATA.NT.length,  // 76 books
 };
