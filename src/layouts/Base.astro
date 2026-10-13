@@ -595,6 +595,10 @@ const {
     <script is:inline>
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js');
+        // Resume the offline download (pages + Bible chapters) if it didn't finish
+        navigator.serviceWorker.ready.then(function(reg) {
+          if (reg.active) reg.active.postMessage('cache-all');
+        });
       }
     </script>
   </body>

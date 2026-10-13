@@ -179,7 +179,7 @@ The site is a fully offline-capable PWA. Users can install it to their home scre
 ### How caching works
 
 1. **Install**: precaches core shell (homepage, icons, search data)
-2. **Activate**: background-downloads all pages + CSS/JS assets (batches of 10)
+2. **Activate**: background-downloads all pages + CSS/JS assets + Bible chapter JSON (`/biblia/api/**`, except `verse-search.json`) in batches of 10. Every page load also posts `cache-all` to the worker, so an interrupted download resumes (already-cached URLs are skipped)
 3. **Fetch**:
    - **Pages**: network-first with a 1 s timeout — good signal gets the latest deploy, weak signal falls back to the cached copy (the network request still refreshes the cache)
    - **`/_astro/*`**: cache-first (content-hashed filenames; also served with `immutable` via `public/_headers`)

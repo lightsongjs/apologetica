@@ -32,6 +32,18 @@ try {
   }
 } catch {}
 
-const precache = { pages, assets };
+// Bible chapter JSON, fetched by the chapter pages' infinite scroll.
+// verse-search.json (≈7 MB) is left out: it is cached the first time someone searches.
+const chapters = [];
+async function walkJson(dir, base) {
+  for (const entry of await readdir(dir, { withFileTypes: true })) {
+    const rel = base + '/' + entry.name;
+    if (entry.isDirectory()) await walkJson(join(dir, entry.name), rel);
+    else if (entry.name.endsWith('.json') && entry.name !== 'verse-search.json') chapters.push(rel);
+  }
+}
+await walkJson(join(DIST, 'biblia', 'api'), '/biblia/api');
+
+const precache = { pages, assets, chapters };
 await writeFile(join(DIST, 'sw-precache.json'), JSON.stringify(precache));
-console.log(`sw-precache.json: ${pages.length} pages, ${assets.length} assets`);
+console.log(`sw-precache.json: ${pages.length} pages, ${assets.length} assets, ${chapters.length} chapters`);

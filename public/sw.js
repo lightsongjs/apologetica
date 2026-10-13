@@ -32,14 +32,27 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-// Background-cache all pages and assets from the build manifest
-async function backgroundCacheAll() {
+// Pages ask for this on every load: the browser kills a long activate step after a few
+// minutes, so on a slow connection the download resumes where it left off.
+let cachingAll = null;
+self.addEventListener('message', (event) => {
+  if (event.data === 'cache-all') event.waitUntil(backgroundCacheAll());
+});
+
+// Background-cache all pages, assets and Bible chapters from the build manifest.
+// URLs already in the cache are skipped, so a repeat run is cheap.
+function backgroundCacheAll() {
+  if (!cachingAll) cachingAll = cacheAllOnce().finally(() => { cachingAll = null; });
+  return cachingAll;
+}
+
+async function cacheAllOnce() {
   try {
-    const res = await fetch('/sw-precache.json');
+    const res = await fetch('/sw-precache.json', { cache: 'no-cache' });
     if (!res.ok) return;
-    const { pages, assets } = await res.json();
+    const { pages, assets, chapters = [] } = await res.json();
     const cache = await caches.open(CACHE_NAME);
-    const allUrls = [...pages, ...assets];
+    const allUrls = [...pages, ...assets, ...chapters];
 
     // Cache in small batches to avoid overwhelming the network
     const BATCH_SIZE = 10;
