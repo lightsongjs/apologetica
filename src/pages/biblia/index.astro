@@ -38,15 +38,24 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
 
 <Base title="Biblia Ortodoxă" headerTitle="Apologetica" backHref="/" activeTab="biblia">
   <div class="pt-2 pb-6">
+    <!-- Mode Segmented Control -->
+    <div id="mode-track" class="relative flex mb-3 bg-slate-100 dark:bg-[#1A1A1E] rounded-full p-0.5 border border-slate-200 dark:border-[#2A2A2E]">
+      <div id="mode-slider" class="absolute top-0.5 left-0.5 h-[calc(100%-4px)] rounded-full bg-primary shadow-md transition-all duration-300 ease-out" style="width: calc(33.333% - 2px);"></div>
+      <button id="mode-books" class="mode-btn relative z-10 flex-1 py-2.5 rounded-full text-[13px] font-medium text-white transition-colors duration-200">Cărți</button>
+      <button id="mode-verse" class="mode-btn relative z-10 flex-1 py-2.5 rounded-full text-[13px] font-medium text-on-surface-variant dark:text-on-surface-variant transition-colors duration-200">Verset</button>
+      <button id="mode-text" class="mode-btn relative z-10 flex-1 py-2.5 rounded-full text-[13px] font-medium text-on-surface-variant dark:text-on-surface-variant transition-colors duration-200">În Text</button>
+    </div>
+
     <!-- Search Bar -->
-    <div class="mb-4">
+    <div class="mb-5">
       <div class="relative">
         <span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-lg">search</span>
         <input
           type="text"
           id="bible-search-input"
-          placeholder="Facerea, Psalmi, Matei..."
-          class="w-full bg-slate-50 dark:bg-[#1A1A1E] border border-slate-200 dark:border-[#2A2A2E] rounded-xl py-2.5 pl-10 pr-10 text-xs focus:ring-1 focus:ring-primary/20 focus:border-primary/30 focus:bg-white dark:focus:bg-[#16161A] transition-all placeholder:text-slate-400"
+          placeholder="Numele cărții…"
+          enterkeyhint="search"
+          class="w-full bg-slate-50 dark:bg-[#1A1A1E] border border-slate-200 dark:border-[#2A2A2E] rounded-xl py-2.5 pl-10 pr-10 text-base focus:ring-1 focus:ring-primary/20 focus:border-primary/30 focus:bg-white dark:focus:bg-[#16161A] transition-all placeholder:text-slate-400"
           autocomplete="off"
         />
         <button id="bible-search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-primary p-1 rounded-full hover:bg-primary/10 transition-colors">
@@ -55,20 +64,9 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
       </div>
     </div>
 
-    <!-- Mode Segmented Control -->
-    <div id="mode-track" class="relative flex mb-5 bg-slate-100 dark:bg-[#1A1A1E] rounded-full p-0.5 border border-slate-200 dark:border-[#2A2A2E]">
-      <div id="mode-slider" class="absolute top-0.5 left-0.5 h-[calc(100%-4px)] rounded-full bg-primary shadow-md transition-all duration-300 ease-out" style="width: calc(33.333% - 2px);"></div>
-      <button id="mode-books" class="mode-btn relative z-10 flex-1 py-1.5 rounded-full text-[11px] font-medium text-white transition-colors duration-200">Cărți</button>
-      <button id="mode-verse" class="mode-btn relative z-10 flex-1 py-1.5 rounded-full text-[11px] font-medium text-on-surface-variant dark:text-on-surface-variant transition-colors duration-200">Verset</button>
-      <button id="mode-text" class="mode-btn relative z-10 flex-1 py-1.5 rounded-full text-[11px] font-medium text-on-surface-variant dark:text-on-surface-variant transition-colors duration-200">În Text</button>
-    </div>
-
     <!-- Text Search Action (shown in text mode) -->
     <div id="text-search-action" class="hidden mb-5">
-      <button id="text-search-btn" class="w-full py-2.5 bg-primary hover:bg-primary-dim text-white rounded-xl text-sm font-medium flex items-center justify-center gap-2 transition-colors">
-        <span class="material-symbols-outlined text-lg">search</span>
-        Caută în Scriptură
-      </button>
+      <p id="text-search-hint" class="text-[11px] text-on-surface-variant text-center"></p>
     </div>
 
     <!-- Text Search Loading -->
@@ -187,7 +185,7 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
       var bookCards = document.querySelectorAll('.book-card');
       // Text search
       var textSearchAction = document.getElementById('text-search-action');
-      var textSearchBtn = document.getElementById('text-search-btn');
+      var textSearchHint = document.getElementById('text-search-hint');
       var textSearchLoading = document.getElementById('text-search-loading');
       var textResults = document.getElementById('text-results');
       var textResultsCount = document.getElementById('text-results-count');
@@ -281,13 +279,21 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
           if (i === idx) { btn.classList.remove('text-on-surface-variant', 'dark:text-on-surface-variant'); btn.classList.add('text-white'); }
           else { btn.classList.remove('text-white'); btn.classList.add('text-on-surface-variant', 'dark:text-on-surface-variant'); }
         });
-        searchInput.value = '';
-        searchClear.classList.add('hidden');
-        if (mode === 'books') searchInput.placeholder = 'Facerea, Psalmi, Matei...';
-        else if (mode === 'verse') searchInput.placeholder = 'Caută o carte pentru a alege versetul...';
-        else searchInput.placeholder = 'Eu sunt Calea, Adevărul și Viața...';
-        showDefault();
+        if (mode === 'books') searchInput.placeholder = 'Numele cărții…';
+        else if (mode === 'verse') searchInput.placeholder = 'Carte, apoi capitol și verset…';
+        else searchInput.placeholder = 'Cuvânt sau frază…';
+        // Keep what the user typed and re-run it in the new mode.
+        // The Verset flow always restarts from the book filter step.
+        selectedBook = null;
+        selectedChapter = null;
+        var val = searchInput.value.trim();
+        if (mode === 'text' && val.length >= 3) performTextSearch();
+        else runSearch(val);
       }
+      modeBtns.forEach(function(btn) {
+        // Keep focus (and the keyboard) on the input when switching modes
+        btn.addEventListener('pointerdown', function(e) { e.preventDefault(); });
+      });
       modeBooks.addEventListener('click', function() { setMode('books'); });
       modeVerse.addEventListener('click', function() { setMode('verse'); });
       modeText.addEventListener('click', function() { setMode('text'); });
@@ -453,7 +459,7 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
           if (ch === 'a') return '[aăâ]'; if (ch === 'i') return '[iîï]'; if (ch === 's') return '[sșş]'; if (ch === 't') return '[tțţ]'; return ch;
         }).join('');
         // Highlight only at word starts, same rule as the search itself
-        return text.replace(new RegExp('(^|[^\\p{L}\\p{N}])(' + pat + ')', 'giu'), '$1<mark class="bg-primary/15 text-primary font-semibold rounded px-0.5">$2</mark>');
+        return text.replace(new RegExp('(^|[^\\p{L}\\p{N}])(' + pat + ')', 'giu'), '$1<mark class="bg-primary/15 text-primary font-semibold rounded-sm">$2</mark>');
       }
 
       function performTextSearch() {
@@ -489,23 +495,29 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
       searchInput.addEventListener('input', function() {
         var val = searchInput.value.trim();
         searchClear.classList.toggle('hidden', !val);
+        runSearch(val);
+      });
+
+      function runSearch(val) {
         if (searchMode === 'books') { searchBooksMode(val); }
         else if (searchMode === 'verse') { searchVerseMode(val); }
         else {
-          if (val.length >= 3) { hideAll(); textSearchAction.classList.remove('hidden'); }
-          else { textSearchAction.classList.add('hidden'); if (!val) showDefault(); }
+          if (!val) { showDefault(); return; }
+          hideAll();
+          textSearchHint.textContent = val.length >= 3 ? 'Apasă Caută pe tastatură' : 'Minim 3 caractere';
+          textSearchAction.classList.remove('hidden');
         }
-      });
+      }
 
       searchInput.addEventListener('keydown', function(e) {
         if (e.key === 'Enter' && searchMode === 'text' && searchInput.value.trim().length >= 3) {
           e.preventDefault();
+          searchInput.blur(); // drop the keyboard so the results are visible
           performTextSearch();
         }
       });
 
-      textSearchBtn.addEventListener('click', performTextSearch);
-
+      
       searchClear.addEventListener('click', function() {
         searchInput.value = '';
         searchClear.classList.add('hidden');
