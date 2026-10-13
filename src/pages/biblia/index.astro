@@ -452,7 +452,8 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
         var pat = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').split('').map(function(ch) {
           if (ch === 'a') return '[aăâ]'; if (ch === 'i') return '[iîï]'; if (ch === 's') return '[sșş]'; if (ch === 't') return '[tțţ]'; return ch;
         }).join('');
-        return text.replace(new RegExp('(' + pat + ')', 'gi'), '<mark class="bg-primary/15 text-primary font-semibold rounded px-0.5">$1</mark>');
+        // Highlight only at word starts, same rule as the search itself
+        return text.replace(new RegExp('(^|[^\\p{L}\\p{N}])(' + pat + ')', 'giu'), '$1<mark class="bg-primary/15 text-primary font-semibold rounded px-0.5">$2</mark>');
       }
 
       function performTextSearch() {
@@ -461,10 +462,12 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
         hideAll();
         textSearchLoading.classList.remove('hidden');
         loadVerseIndex().then(function(data) {
-          var q = norm(query);
+          // Match at the start of a word, so "Nain" finds "Nain"/"Nainului" but not "înaintea"
+          var q = norm(query).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          var re = new RegExp('(^|[^\\p{L}\\p{N}])' + q, 'u');
           var results = [];
           for (var i = 0; i < data.length && results.length < 50; i++) {
-            if (norm(data[i].t).includes(q)) results.push(data[i]);
+            if (re.test(norm(data[i].t))) results.push(data[i]);
           }
           textSearchLoading.classList.add('hidden');
           if (!results.length) { noResults.classList.remove('hidden'); return; }
