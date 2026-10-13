@@ -102,15 +102,21 @@ const {
     <!-- Only the icons the site uses (~8 KB instead of ~320 KB). Using a new icon? Add its name here, alphabetically. -->
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@400&icon_names=account_balance,account_tree,add,arrow_back,arrow_forward,article,auto_awesome,auto_stories,badge,book,bookmarks,chevron_right,church,close,dark_mode,description,expand_more,explore,favorite,folder_open,format_quote,forum,gavel,group,groups,history_edu,home,info,input,landscape,light,lightbulb,link,local_fire_department,location_on,menu_book,open_in_new,person,person_pin,place,post,progress_activity,psychology,psychology_alt,publish,school,search,search_off,self_improvement,settings,shield,source,sync,tabs,tag,timeline,title,toc,verified,width,workspaces&display=block" rel="stylesheet" />
 
-    <link rel="preload" href="/search-data.json" as="fetch" crossorigin />
     <title>{title} | Apologetica</title>
   </head>
   <body class="bg-bg dark:bg-[#0B0B0E] text-on-surface dark:text-[#FAFAF9] antialiased min-h-screen flex flex-col">
     <script is:inline>
-      // Eagerly fetch search data on every page — shared by home search + header search
-      if (!window.__searchDataPromise) {
-        window.__searchDataPromise = fetch('/search-data.json').then(r => r.json()).catch(() => null);
-      }
+      // Search data is fetched the first time a search field is used, then shared by
+      // home search + header search. A failed fetch is forgotten so the next try retries.
+      window.__loadSearchData = function() {
+        if (!window.__searchDataPromise) {
+          window.__searchDataPromise = fetch('/search-data.json').then(r => r.json()).catch(() => {
+            window.__searchDataPromise = null;
+            return null;
+          });
+        }
+        return window.__searchDataPromise;
+      };
     </script>
 
     <header class="sticky top-0 z-50 bg-bg/80 dark:bg-[#0B0B0E]/80 backdrop-blur-md border-b border-primary/10 dark:border-[#2A2A2E] px-4 py-3">
@@ -303,12 +309,10 @@ const {
 
     {!isHomePage && (
       <script>
-        // Use shared preloaded search data
+        // Shared search data, loaded on first use (see window.__loadSearchData)
         let searchData = null;
-
-        // Resolve preloaded data immediately
-        if (window.__searchDataPromise) {
-          window.__searchDataPromise.then(d => { if (d) searchData = d; });
+        function loadSearchData() {
+          return window.__loadSearchData().then(d => { if (d) searchData = d; });
         }
 
         function initHeaderSearch() {
@@ -323,11 +327,6 @@ const {
           const noResultsEl = document.getElementById('header-no-results');
 
           if (!searchMode || !searchInput) return;
-
-          // Ensure data is loaded (should already be from preload)
-          if (!searchData && window.__searchDataPromise) {
-            window.__searchDataPromise.then(d => { if (d) searchData = d; });
-          }
 
           function openSearch() {
             document.getElementById('header-normal')?.classList.add('hidden');
@@ -540,8 +539,10 @@ const {
           const newSearchInput = searchInput.cloneNode(true);
           searchInput.replaceWith(newSearchInput);
 
+          newSearchInput.addEventListener('focus', loadSearchData);
           newSearchInput.addEventListener('input', function(e) {
-            performSearch(e.target.value);
+            if (searchData) { performSearch(e.target.value); return; }
+            loadSearchData().then(() => performSearch(newSearchInput.value));
           });
 
           newSearchInput.addEventListener('keydown', function(e) {

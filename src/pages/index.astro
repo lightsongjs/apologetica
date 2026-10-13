@@ -41,12 +41,10 @@ import Base from '../layouts/Base.astro';
   </div>
 
   <script>
-    // Use shared preloaded search data
+    // Shared search data, loaded on first use (see window.__loadSearchData in Base.astro)
     let homeSearchData = null;
-
-    // Resolve preloaded data immediately
-    if (window.__searchDataPromise) {
-      window.__searchDataPromise.then(d => { if (d) homeSearchData = d; });
+    function loadSearchData() {
+      return window.__loadSearchData().then(d => { if (d) homeSearchData = d; });
     }
 
     function initHomeSearch() {
@@ -59,11 +57,6 @@ import Base from '../layouts/Base.astro';
       const noResultsEl = document.getElementById('no-results');
 
       if (!searchInput) return;
-
-      // Ensure data is loaded (should already be from preload)
-      if (!homeSearchData && window.__searchDataPromise) {
-        window.__searchDataPromise.then(d => { if (d) homeSearchData = d; });
-      }
 
       function removeDiacritics(str) {
         return str
@@ -237,9 +230,11 @@ import Base from '../layouts/Base.astro';
       const newInput = searchInput.cloneNode(true) as HTMLInputElement;
       searchInput.replaceWith(newInput);
 
+      newInput.addEventListener('focus', loadSearchData);
       newInput.addEventListener('input', function(e) {
         const value = (e.target as HTMLInputElement).value;
-        performSearch(value);
+        if (homeSearchData) performSearch(value);
+        else loadSearchData().then(() => performSearch(newInput.value));
         if (value.trim()) {
           searchClearBtn?.classList.remove('hidden');
           searchKbd?.classList.add('hidden');
