@@ -156,7 +156,7 @@ Implementation: `src/lib/wiki-links.ts` — applied to conversation responses, p
 - **Astro 5** (static output, PWA-enabled)
 - **Tailwind CSS 4** + Typography plugin
 - **Marked** for markdown → HTML (not Astro's `<Content />`)
-- **Literata** serif font (primary, everywhere), Material Symbols Outlined icons
+- **Literata** serif font (primary, everywhere), Material Symbols Outlined icons — loaded as a subset via `icon_names=` in `src/layouts/Base.astro`; **a new icon must be added to that list** (alphabetical) or it renders as plain text
 - Primary color: `#1A237E` (oxford-navy)
 
 ---
@@ -171,6 +171,7 @@ The site is a fully offline-capable PWA. Users can install it to their home scre
 |------|---------|
 | `public/manifest.webmanifest` | App name, icons, theme color, display mode |
 | `public/sw.js` | Service worker — caching strategies |
+| `public/_headers` | Cloudflare Pages cache headers (`/_astro/*` immutable) |
 | `public/pwa-192x192.png` | App icon (192×192) |
 | `public/pwa-512x512.png` | App icon (512×512) |
 | `scripts/generate-sw-precache.js` | Post-build script — generates `dist/sw-precache.json` URL list |
@@ -179,14 +180,17 @@ The site is a fully offline-capable PWA. Users can install it to their home scre
 
 1. **Install**: precaches core shell (homepage, icons, search data)
 2. **Activate**: background-downloads all pages + CSS/JS assets (batches of 10)
-3. **Fetch**: stale-while-revalidate — serves from cache instantly, updates in background
+3. **Fetch**:
+   - **Pages**: network-first with a 1 s timeout — good signal gets the latest deploy, weak signal falls back to the cached copy (the network request still refreshes the cache)
+   - **`/_astro/*`**: cache-first (content-hashed filenames; also served with `immutable` via `public/_headers`)
+   - **Everything else** (JSON, images): stale-while-revalidate — cached copy instantly, refreshed in background
 
 ### Cache versioning
 
 The cache name in `public/sw.js` controls cache invalidation:
 
 ```js
-const CACHE_NAME = 'apologetica-v1';
+const CACHE_NAME = 'apologetica-v4';
 ```
 
 **Bump the version** (e.g., `v1` → `v2`) after major deploys (redesigns, structural changes). This wipes the old cache and re-downloads everything. For normal content updates (new pages, edited text), no version bump is needed — stale-while-revalidate handles it automatically.

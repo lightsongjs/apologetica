@@ -1,5 +1,8 @@
 // Apologetica Service Worker — Full offline support
-const CACHE_NAME = 'apologetica-v3';
+const CACHE_NAME = 'apologetica-v4';
+
+// Pages wait this long for the network before falling back to the cached copy
+const NETWORK_TIMEOUT_MS = 1000;
 
 // Core shell to precache on install (instant)
 const PRECACHE_URLS = [
@@ -54,7 +57,11 @@ async function backgroundCacheAll() {
   } catch {}
 }
 
-// Fetch: cache-first for everything (fully local experience)
+// Fetch strategies:
+// - pages: network first, but give up after NETWORK_TIMEOUT_MS and serve the cached copy,
+//   so a good signal still shows the latest deploy and a weak one doesn't stall every tap
+// - /_astro/*: cache first (filenames are content-hashed, a cached file never goes stale)
+// - everything else: cached copy right away, refreshed in the background
 self.addEventListener('fetch', (event) => {
   const { request } = event;
   const url = new URL(request.url);
@@ -70,21 +77,43 @@ self.addEventListener('fetch', (event) => {
   // Only handle same-origin
   if (url.origin !== self.location.origin) return;
 
-  // Everything same-origin: network-first, cache fallback for offline
-  event.respondWith(networkFirst(request));
+  if (request.mode === 'navigate') {
+    event.respondWith(networkFirstWithTimeout(request));
+  } else if (url.pathname.startsWith('/_astro/')) {
+    event.respondWith(cacheFirst(request, CACHE_NAME));
+  } else {
+    event.respondWith(staleWhileRevalidate(event, request));
+  }
 });
 
-// Try network first, fall back to cache when offline
-async function networkFirst(request) {
+async function networkFirstWithTimeout(request) {
   const cache = await caches.open(CACHE_NAME);
-  try {
-    const response = await fetch(request);
+  const network = fetch(request).then((response) => {
     if (response.ok) cache.put(request, response.clone());
     return response;
-  } catch {
-    const cached = await cache.match(request);
-    return cached || caches.match('/');
+  });
+  const cached = await cache.match(request);
+  if (!cached) {
+    // Nothing to fall back to: wait for the network however long it takes
+    try { return await network; } catch { return (await caches.match('/')) || Response.error(); }
   }
+  const timeout = new Promise((resolve) => setTimeout(() => resolve(cached), NETWORK_TIMEOUT_MS));
+  // On timeout the network request keeps going and still refreshes the cache
+  return Promise.race([network.catch(() => cached), timeout]);
+}
+
+async function staleWhileRevalidate(event, request) {
+  const cache = await caches.open(CACHE_NAME);
+  const cached = await cache.match(request);
+  const network = fetch(request).then((response) => {
+    if (response.ok) cache.put(request, response.clone());
+    return response;
+  });
+  if (cached) {
+    event.waitUntil(network.catch(() => {}));
+    return cached;
+  }
+  return network;
 }
 
 // Simple cache-first for fonts
