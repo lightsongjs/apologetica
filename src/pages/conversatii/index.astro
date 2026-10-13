@@ -23,7 +23,9 @@ const topicCounts = groups.map((g) => ({
     <div class="relative w-full">
       <span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-lg">search</span>
       <input
-        type="text"
+        type="search"
+        enterkeyhint="search"
+        autocomplete="off"
         id="search-input"
         placeholder="Caută conversații..."
         class="w-full bg-slate-50 dark:bg-[#1A1A1E] border border-slate-200 dark:border-[#2A2A2E] rounded-xl py-2 pl-10 pr-10 text-xs focus:ring-1 focus:ring-primary/20 focus:border-primary/30 focus:bg-white dark:focus:bg-[#16161A] transition-all placeholder:text-slate-400"
