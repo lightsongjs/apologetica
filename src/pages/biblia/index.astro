@@ -118,28 +118,31 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
       <button id="tab-nt" class="flex-1 py-2 text-xs font-bold tracking-wider uppercase bg-white dark:bg-[#16161A] text-primary dark:text-[#c4d0fd] shadow-sm transition-all">Noul Testament</button>
     </div>
 
-    <!-- VT Books Grid -->
-    <div id="grid-vt" class="hidden grid grid-cols-3 gap-2.5">
-      {vtBooks.map(book => (
-        <button type="button"
-          class="book-card bg-white dark:bg-[#16161A] rounded-xl border border-slate-100 dark:border-[#2A2A2E] p-3 flex items-center justify-center min-h-[56px] hover:border-primary/40 hover:shadow-md active:bg-primary/5 transition-all cursor-pointer"
-          data-book-slug={book.slug} data-testament={book.testament} data-chapters={book.chapters} data-full-name={book.fullName}
-        >
-          <span class="text-xs font-medium text-on-surface dark:text-[#FAFAF9] text-center leading-tight">{book.name}</span>
-        </button>
-      ))}
-    </div>
+    <!-- One grid while searching: the two testament grids become display:contents -->
+    <div class="grid grid-cols-3 gap-2.5">
+      <!-- VT Books Grid -->
+      <div id="grid-vt" class="hidden col-span-3 grid grid-cols-3 gap-2.5">
+        {vtBooks.map(book => (
+          <button type="button"
+            class="book-card bg-white dark:bg-[#16161A] rounded-xl border border-slate-100 dark:border-[#2A2A2E] p-3 flex items-center justify-center min-h-[56px] hover:border-primary/40 hover:shadow-md active:bg-primary/5 transition-all cursor-pointer"
+            data-book-slug={book.slug} data-testament={book.testament} data-chapters={book.chapters} data-full-name={book.fullName}
+          >
+            <span class="text-xs font-medium text-on-surface dark:text-[#FAFAF9] text-center leading-tight">{book.name}</span>
+          </button>
+        ))}
+      </div>
 
-    <!-- NT Books Grid (default visible) -->
-    <div id="grid-nt" class="grid grid-cols-3 gap-2.5">
-      {ntBooks.map(book => (
-        <button type="button"
-          class="book-card bg-white dark:bg-[#16161A] rounded-xl border border-slate-100 dark:border-[#2A2A2E] p-3 flex items-center justify-center min-h-[56px] hover:border-primary/40 hover:shadow-md active:bg-primary/5 transition-all cursor-pointer"
-          data-book-slug={book.slug} data-testament={book.testament} data-chapters={book.chapters} data-full-name={book.fullName}
-        >
-          <span class="text-xs font-medium text-on-surface dark:text-[#FAFAF9] text-center leading-tight">{book.name}</span>
-        </button>
-      ))}
+      <!-- NT Books Grid (default visible) -->
+      <div id="grid-nt" class="col-span-3 grid grid-cols-3 gap-2.5">
+        {ntBooks.map(book => (
+          <button type="button"
+            class="book-card bg-white dark:bg-[#16161A] rounded-xl border border-slate-100 dark:border-[#2A2A2E] p-3 flex items-center justify-center min-h-[56px] hover:border-primary/40 hover:shadow-md active:bg-primary/5 transition-all cursor-pointer"
+            data-book-slug={book.slug} data-testament={book.testament} data-chapters={book.chapters} data-full-name={book.fullName}
+          >
+            <span class="text-xs font-medium text-on-surface dark:text-[#FAFAF9] text-center leading-tight">{book.name}</span>
+          </button>
+        ))}
+      </div>
     </div>
 
     <!-- No Results -->
@@ -245,7 +248,17 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
       tabVT.addEventListener('click', function() { switchTab('vt'); });
       tabNT.addEventListener('click', function() { switchTab('nt'); });
 
+      // Search results: show both testaments as one continuous grid
+      function showMergedGrids() {
+        gridVT.classList.remove('hidden');
+        gridNT.classList.remove('hidden');
+        gridVT.style.display = 'contents';
+        gridNT.style.display = 'contents';
+      }
+
       function hideAll() {
+        gridVT.style.display = '';
+        gridNT.style.display = '';
         tabsContainer.classList.add('hidden');
         gridVT.classList.add('hidden');
         gridNT.classList.add('hidden');
@@ -304,15 +317,14 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
         if (!q) { showDefault(); return; }
         hideAll();
         tabsContainer.classList.add('hidden');
-        gridVT.classList.remove('hidden');
-        gridNT.classList.remove('hidden');
+        showMergedGrids();
         var count = 0;
         bookCards.forEach(function(c) {
           var match = norm(c.dataset.fullName || '').includes(q);
           c.style.display = match ? '' : 'none';
           if (match) count++;
         });
-        if (!count) { gridVT.classList.add('hidden'); gridNT.classList.add('hidden'); noResults.classList.remove('hidden'); }
+        if (!count) { hideAll(); noResults.classList.remove('hidden'); }
       }
 
       // === CAUTA VERSET: step-by-step flow ===
@@ -321,15 +333,14 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
         var q = norm(query);
         if (!q) { showDefault(); return; }
         hideAll();
-        gridVT.classList.remove('hidden');
-        gridNT.classList.remove('hidden');
+        showMergedGrids();
         var count = 0;
         bookCards.forEach(function(c) {
           var match = norm(c.dataset.fullName || '').includes(q);
           c.style.display = match ? '' : 'none';
           if (match) count++;
         });
-        if (!count) { gridVT.classList.add('hidden'); gridNT.classList.add('hidden'); noResults.classList.remove('hidden'); }
+        if (!count) { hideAll(); noResults.classList.remove('hidden'); }
       }
 
       function selectBookForVerse(book) {
