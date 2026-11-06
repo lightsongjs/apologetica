@@ -81,6 +81,7 @@ const {
             var saved = localStorage.getItem('pwa-last-path');
             if (saved && saved !== '/' && saved !== '/index.html'
               && saved !== '/biblia' && saved !== '/biblia/') {
+              window.__redirecting = true;
               location.replace(saved);
             }
           }
@@ -97,6 +98,21 @@ const {
               setTimeout(function() { window.scrollTo(0, parseInt(scrollY, 10)); }, 100);
             });
           }
+        }
+      })();
+    </script>
+
+    <!-- Arriving on the site (typed URL, bookmark, link from elsewhere) opens the Bible.
+         The search home page stays reachable from inside the site (back arrows to "/"). -->
+    <script is:inline>
+      (function() {
+        if (window.__redirecting) return;
+        if (location.pathname !== '/' && location.pathname !== '/index.html') return;
+        var fromSite = false;
+        try { fromSite = !!document.referrer && new URL(document.referrer).origin === location.origin; } catch (e) {}
+        if (!fromSite) {
+          window.__redirecting = true;
+          location.replace('/biblia/' + location.search + location.hash);
         }
       })();
     </script>
