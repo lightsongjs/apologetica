@@ -5,7 +5,7 @@ book_romanian: Numerii
 chapter: 23
 pericope: 2
 pericope_title_en: "Balaam’s Second Oracle"
-pericope_title_ro: "Al doilea oracol al lui Balaam"
+pericope_title_ro: "Al doilea oracol al lui Valaam"
 verses_start: 13
 verses_end: 26
 verses_total: 14

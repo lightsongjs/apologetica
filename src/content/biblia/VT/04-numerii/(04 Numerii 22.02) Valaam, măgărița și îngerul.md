@@ -5,7 +5,7 @@ book_romanian: Numerii
 chapter: 22
 pericope: 2
 pericope_title_en: "Balaam, the Donkey, and the Angel"
-pericope_title_ro: "Balaam, măgărița și îngerul"
+pericope_title_ro: "Valaam, măgărița și îngerul"
 verses_start: 22
 verses_end: 40
 verses_total: 19

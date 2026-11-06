@@ -5,7 +5,7 @@ book_romanian: Numerii
 chapter: 23
 pericope: 3
 pericope_title_en: "Balaam’s Third Oracle"
-pericope_title_ro: "Al treilea oracol al lui Balaam"
+pericope_title_ro: "Al treilea oracol al lui Valaam"
 verses_start: 27
 verses_end: 30
 verses_total: 4

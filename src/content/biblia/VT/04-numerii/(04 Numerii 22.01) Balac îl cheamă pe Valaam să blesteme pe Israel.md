@@ -5,7 +5,7 @@ book_romanian: Numerii
 chapter: 22
 pericope: 1
 pericope_title_en: "Balak Summons Balaam to Curse Israel"
-pericope_title_ro: "Balac îl cheamă pe Balaam să blesteme pe Israel"
+pericope_title_ro: "Balac îl cheamă pe Valaam să blesteme pe Israel"
 verses_start: 1
 verses_end: 21
 verses_total: 21
