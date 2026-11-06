@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Jeremiah’s Prophecies in the Temple"
 pericope_title_ro: "Proorociile lui Ieremia în templu"
 verses_start: 1
-verses_end: 26
+verses_end: 24
 verses_total: 24
 language: ro
 ---

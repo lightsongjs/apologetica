@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "David Serves King Achish of Gath"
 pericope_title_ro: "David îl servește pe regele Achis din Gat"
 verses_start: 1
-verses_end: 27
+verses_end: 12
 verses_total: 12
 language: ro
 ---

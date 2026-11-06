@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Isaiah Chapter 64"
 pericope_title_ro: "Isaia Capitolul 64"
 verses_start: 1
-verses_end: 64
+verses_end: 11
 verses_total: 11
 language: ro
 ---

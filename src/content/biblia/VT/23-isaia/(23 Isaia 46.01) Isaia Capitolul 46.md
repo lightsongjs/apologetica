@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Isaiah Chapter 46"
 pericope_title_ro: "Isaia Capitolul 46"
 verses_start: 1
-verses_end: 46
+verses_end: 13
 verses_total: 13
 language: ro
 ---

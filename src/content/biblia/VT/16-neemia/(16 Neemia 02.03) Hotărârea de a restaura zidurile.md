@@ -7,7 +7,7 @@ pericope: 3
 pericope_title_en: "Decision to Restore the Walls"
 pericope_title_ro: "Hotărârea de a restaura zidurile"
 verses_start: 17
-verses_end: 20
+verses_end: 19
 verses_total: 3
 language: ro
 ---

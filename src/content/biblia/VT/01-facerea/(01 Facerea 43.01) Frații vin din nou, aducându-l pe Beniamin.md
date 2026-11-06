@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Brothers Come Again, Bringing Benjamin"
 pericope_title_ro: "Frații vin din nou, aducându-l pe Beniamin"
 verses_start: 1
-verses_end: 43
+verses_end: 34
 verses_total: 34
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Broken Earthenware Jug"
 pericope_title_ro: "Ulciorul de lut spart"
 verses_start: 1
-verses_end: 19
+verses_end: 15
 verses_total: 15
 language: ro
 ---

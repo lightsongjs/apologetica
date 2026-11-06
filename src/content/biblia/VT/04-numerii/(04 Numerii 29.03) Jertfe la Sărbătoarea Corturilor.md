@@ -7,7 +7,7 @@ pericope: 3
 pericope_title_en: "Offerings at the Festival of Booths"
 pericope_title_ro: "Jertfe la Sărbătoarea Corturilor"
 verses_start: 12
-verses_end: 40
+verses_end: 39
 verses_total: 28
 language: ro
 ---

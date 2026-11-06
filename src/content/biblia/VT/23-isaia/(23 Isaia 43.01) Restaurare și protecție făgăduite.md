@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Restoration and Protection Promised"
 pericope_title_ro: "Restaurare și protecție făgăduite"
 verses_start: 1
-verses_end: 43
+verses_end: 28
 verses_total: 28
 language: ro
 ---

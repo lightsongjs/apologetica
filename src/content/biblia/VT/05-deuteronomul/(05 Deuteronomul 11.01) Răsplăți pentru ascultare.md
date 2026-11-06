@@ -6,7 +6,7 @@ chapter: 11
 pericope: 1
 pericope_title_en: "Rewards for Obedience"
 pericope_title_ro: "Răsplăți pentru ascultare"
-verses_start: 1
+verses_start: 2
 verses_end: 32
 verses_total: 32
 language: ro

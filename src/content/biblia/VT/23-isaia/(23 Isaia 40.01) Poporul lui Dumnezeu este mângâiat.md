@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "God's People Are Comforted"
 pericope_title_ro: "Poporul lui Dumnezeu este mângâiat"
 verses_start: 1
-verses_end: 40
+verses_end: 31
 verses_total: 31
 language: ro
 ---

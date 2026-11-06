@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Saul Rejected as King"
 pericope_title_ro: "Saul respins ca rege"
 verses_start: 10
-verses_end: 35
+verses_end: 34
 verses_total: 25
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Judah and Tamar"
 pericope_title_ro: "Iuda și Tamar"
 verses_start: 1
-verses_end: 38
+verses_end: 30
 verses_total: 30
 language: ro
 ---

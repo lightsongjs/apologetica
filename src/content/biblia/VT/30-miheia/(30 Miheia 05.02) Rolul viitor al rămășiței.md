@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "The Future Role of the Remnant"
 pericope_title_ro: "Rolul viitor al rămășiței"
 verses_start: 7
-verses_end: 15
+verses_end: 14
 verses_total: 8
 language: ro
 ---

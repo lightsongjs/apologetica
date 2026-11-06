@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Philistines Reject David"
 pericope_title_ro: "Filistenii îl resping pe David"
 verses_start: 1
-verses_end: 29
+verses_end: 11
 verses_total: 11
 language: ro
 ---

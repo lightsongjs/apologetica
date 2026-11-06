@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Aaron and Miriam Jealous of Moses"
 pericope_title_ro: "Aaron și Maria geloși pe Moise"
 verses_start: 1
-verses_end: 16
+verses_end: 15
 verses_total: 15
 language: ro
 ---

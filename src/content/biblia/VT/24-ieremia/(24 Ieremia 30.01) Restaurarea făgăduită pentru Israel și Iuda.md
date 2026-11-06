@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Restoration Promised for Israel and Judah"
 pericope_title_ro: "Restaurarea făgăduită pentru Israel și Iuda"
 verses_start: 1
-verses_end: 30
+verses_end: 24
 verses_total: 24
 language: ro
 ---

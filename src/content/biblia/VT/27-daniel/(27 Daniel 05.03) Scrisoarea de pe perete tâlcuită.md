@@ -7,7 +7,7 @@ pericope: 3
 pericope_title_en: "The Writing on the Wall Interpreted"
 pericope_title_ro: "Scrisoarea de pe perete tâlcuită"
 verses_start: 13
-verses_end: 31
+verses_end: 30
 verses_total: 18
 language: ro
 ---

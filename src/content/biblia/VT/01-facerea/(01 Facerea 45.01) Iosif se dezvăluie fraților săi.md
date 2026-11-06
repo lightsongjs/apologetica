@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Joseph Reveals Himself to His Brothers"
 pericope_title_ro: "Iosif se dezvăluie fraților săi"
 verses_start: 1
-verses_end: 45
+verses_end: 28
 verses_total: 28
 language: ro
 ---

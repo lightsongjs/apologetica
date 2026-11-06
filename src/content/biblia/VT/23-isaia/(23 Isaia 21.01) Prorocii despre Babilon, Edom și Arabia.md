@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Oracles concerning Babylon, Edom, and Arabia"
 pericope_title_ro: "Prorocii despre Babilon, Edom și Arabia"
 verses_start: 1
-verses_end: 21
+verses_end: 17
 verses_total: 17
 language: ro
 ---

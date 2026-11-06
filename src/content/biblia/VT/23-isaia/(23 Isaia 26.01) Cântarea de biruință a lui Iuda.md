@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Judah's Song of Victory"
 pericope_title_ro: "Cântarea de biruință a lui Iuda"
 verses_start: 1
-verses_end: 26
+verses_end: 21
 verses_total: 21
 language: ro
 ---

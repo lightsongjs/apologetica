@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Joshua Exhorts the People"
 pericope_title_ro: "Iosua îndeamnă poporul"
 verses_start: 1
-verses_end: 23
+verses_end: 16
 verses_total: 16
 language: ro
 ---

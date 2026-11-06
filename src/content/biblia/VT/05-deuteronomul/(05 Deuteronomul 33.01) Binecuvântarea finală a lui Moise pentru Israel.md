@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Moses’ Final Blessing on Israel"
 pericope_title_ro: "Binecuvântarea finală a lui Moise pentru Israel"
 verses_start: 1
-verses_end: 33
+verses_end: 29
 verses_total: 29
 language: ro
 ---

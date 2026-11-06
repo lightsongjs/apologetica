@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "An Oracle concerning Damascus"
 pericope_title_ro: "Prorocie despre Damasc"
 verses_start: 1
-verses_end: 17
+verses_end: 14
 verses_total: 14
 language: ro
 ---

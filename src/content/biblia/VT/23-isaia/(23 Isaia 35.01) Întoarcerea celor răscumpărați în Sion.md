@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Return of the Redeemed to Zion"
 pericope_title_ro: "Întoarcerea celor răscumpărați în Sion"
 verses_start: 1
-verses_end: 35
+verses_end: 10
 verses_total: 10
 language: ro
 ---

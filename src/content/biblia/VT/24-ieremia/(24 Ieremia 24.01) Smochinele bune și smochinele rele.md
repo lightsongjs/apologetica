@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Good and the Bad Figs"
 pericope_title_ro: "Smochinele bune și smochinele rele"
 verses_start: 1
-verses_end: 24
+verses_end: 10
 verses_total: 10
 language: ro
 ---

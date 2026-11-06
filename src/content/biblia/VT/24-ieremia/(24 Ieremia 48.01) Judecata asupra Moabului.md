@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Judgment on Moab"
 pericope_title_ro: "Judecata asupra Moabului"
 verses_start: 1
-verses_end: 48
+verses_end: 47
 verses_total: 47
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Moses Dies and Is Buried in the Land of Moab"
 pericope_title_ro: "Moise moare și este îngropat în țara Moabului"
 verses_start: 1
-verses_end: 34
+verses_end: 10
 verses_total: 10
 language: ro
 ---

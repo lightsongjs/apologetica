@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Thanksgiving and Praise"
 pericope_title_ro: "Mulțumire și laudă"
 verses_start: 1
-verses_end: 12
+verses_end: 6
 verses_total: 6
 language: ro
 ---

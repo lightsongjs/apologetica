@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Money Recovered"
 pericope_title_ro: "Primirea argintului"
 verses_start: 1
-verses_end: 9
+verses_end: 6
 verses_total: 6
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "False and True Worship"
 pericope_title_ro: "Închinarea falsă și cea adevărată"
 verses_start: 1
-verses_end: 58
+verses_end: 14
 verses_total: 14
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Joseph and Potiphar’s Wife"
 pericope_title_ro: "Iosif și soția lui Potifar"
 verses_start: 1
-verses_end: 39
+verses_end: 23
 verses_total: 23
 language: ro
 ---

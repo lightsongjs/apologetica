@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "True and False Wisdom"
 pericope_title_ro: "Înțelepciunea adevărată și cea falsă"
 verses_start: 20
-verses_end: 30
+verses_end: 28
 verses_total: 9
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "God Will Restore Israel"
 pericope_title_ro: "Dumnezeu va restaura pe Israel"
 verses_start: 14
-verses_end: 21
+verses_end: 20
 verses_total: 7
 language: ro
 ---

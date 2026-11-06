@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Proverbs Chapter 29"
 pericope_title_ro: "Pildele Capitolul 29"
 verses_start: 1
-verses_end: 29
+verses_end: 27
 verses_total: 27
 language: ro
 ---

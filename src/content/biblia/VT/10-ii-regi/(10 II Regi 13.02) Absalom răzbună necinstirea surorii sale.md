@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Absalom Avenges the Violation of His Sister"
 pericope_title_ro: "Absalom răzbună necinstirea surorii sale"
 verses_start: 23
-verses_end: 39
+verses_end: 38
 verses_total: 16
 language: ro
 ---

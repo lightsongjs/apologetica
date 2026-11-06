@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Dreams of Two Prisoners"
 pericope_title_ro: "Visele celor doi prizonieri"
 verses_start: 1
-verses_end: 40
+verses_end: 23
 verses_total: 23
 language: ro
 ---

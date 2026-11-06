@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Money Left in Trust with Gabael"
 pericope_title_ro: "Argintul încredințat lui Gabael"
 verses_start: 20
-verses_end: 21
+verses_end: 20
 verses_total: 1
 language: ro
 ---

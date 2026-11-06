@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Isaiah Chapter 16"
 pericope_title_ro: "Isaia Capitolul 16"
 verses_start: 1
-verses_end: 16
+verses_end: 14
 verses_total: 14
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Reign of Jotham"
 pericope_title_ro: "Domnia lui Ioatam"
 verses_start: 1
-verses_end: 27
+verses_end: 9
 verses_total: 9
 language: ro
 ---

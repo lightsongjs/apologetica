@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "David Spares Saul’s Life"
 pericope_title_ro: "David îl cruță pe Saul"
 verses_start: 1
-verses_end: 24
+verses_end: 23
 verses_total: 23
 language: ro
 ---

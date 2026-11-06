@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Alliance with Egypt Is Futile"
 pericope_title_ro: "Alianța cu Egiptul este zadarnică"
 verses_start: 1
-verses_end: 31
+verses_end: 9
 verses_total: 9
 language: ro
 ---

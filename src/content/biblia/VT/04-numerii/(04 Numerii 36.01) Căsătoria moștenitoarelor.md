@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Marriage of Female Heirs"
 pericope_title_ro: "Căsătoria moștenitoarelor"
 verses_start: 1
-verses_end: 36
+verses_end: 13
 verses_total: 13
 language: ro
 ---

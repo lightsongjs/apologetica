@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Worship of Baal of Peor"
 pericope_title_ro: "Închinarea la Baal-Peor"
 verses_start: 1
-verses_end: 25
+verses_end: 18
 verses_total: 18
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Israel's Redemption"
 pericope_title_ro: "Răscumpărarea lui Israel"
 verses_start: 1
-verses_end: 27
+verses_end: 13
 verses_total: 13
 language: ro
 ---

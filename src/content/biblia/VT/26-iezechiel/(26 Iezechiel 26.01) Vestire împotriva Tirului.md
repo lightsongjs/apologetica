@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Proclamation against Tyre"
 pericope_title_ro: "Vestire împotriva Tirului"
 verses_start: 1
-verses_end: 26
+verses_end: 21
 verses_total: 21
 language: ro
 ---

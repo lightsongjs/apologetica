@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Sign of the Yoke"
 pericope_title_ro: "Semnul jugului"
 verses_start: 1
-verses_end: 27
+verses_end: 22
 verses_total: 22
 language: ro
 ---

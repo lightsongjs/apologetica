@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Judgment on Babylon"
 pericope_title_ro: "Judecata asupra Babilonului"
 verses_start: 1
-verses_end: 50
+verses_end: 46
 verses_total: 46
 language: ro
 ---

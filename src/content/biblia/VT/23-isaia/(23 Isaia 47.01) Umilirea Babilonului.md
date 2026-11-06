@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Humiliation of Babylon"
 pericope_title_ro: "Umilirea Babilonului"
 verses_start: 1
-verses_end: 47
+verses_end: 15
 verses_total: 15
 language: ro
 ---

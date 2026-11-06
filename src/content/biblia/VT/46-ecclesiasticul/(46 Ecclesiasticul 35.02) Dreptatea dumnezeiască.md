@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Divine Justice"
 pericope_title_ro: "Dreptatea dumnezeiască"
 verses_start: 14
-verses_end: 26
+verses_end: 24
 verses_total: 11
 language: ro
 ---

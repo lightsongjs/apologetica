@@ -7,7 +7,7 @@ pericope: 4
 pericope_title_en: "Nebuchadnezzar Praises God"
 pericope_title_ro: "Nabucodonosor laudă pe Dumnezeu"
 verses_start: 34
-verses_end: 37
+verses_end: 34
 verses_total: 1
 language: ro
 ---

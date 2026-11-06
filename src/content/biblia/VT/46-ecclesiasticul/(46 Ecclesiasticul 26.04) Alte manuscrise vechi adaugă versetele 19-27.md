@@ -7,7 +7,7 @@ pericope: 4
 pericope_title_en: "Other ancient authorities add verses 19–27"
 pericope_title_ro: "Alte manuscrise vechi adaugă versetele 19-27"
 verses_start: 19
-verses_end: 27
+verses_end: 25
 verses_total: 7
 language: ro
 ---

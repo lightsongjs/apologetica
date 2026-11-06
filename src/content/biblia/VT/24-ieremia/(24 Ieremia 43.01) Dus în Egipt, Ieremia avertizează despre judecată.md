@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Taken to Egypt, Jeremiah Warns of Judgment"
 pericope_title_ro: "Dus în Egipt, Ieremia avertizează despre judecată"
 verses_start: 1
-verses_end: 43
+verses_end: 13
 verses_total: 13
 language: ro
 ---

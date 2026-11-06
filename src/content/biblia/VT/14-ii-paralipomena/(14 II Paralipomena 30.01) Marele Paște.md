@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Great Passover"
 pericope_title_ro: "Marele Paște"
 verses_start: 1
-verses_end: 30
+verses_end: 27
 verses_total: 27
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Miscellaneous Regulations"
 pericope_title_ro: "Rânduieli diferite"
 verses_start: 1
-verses_end: 46
+verses_end: 24
 verses_total: 24
 language: ro
 ---

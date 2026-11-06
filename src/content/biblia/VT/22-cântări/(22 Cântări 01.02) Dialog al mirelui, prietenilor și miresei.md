@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Colloquy of Bridegroom, Friends, and Bride"
 pericope_title_ro: "Dialog al mirelui, prietenilor și miresei"
 verses_start: 9
-verses_end: 17
+verses_end: 16
 verses_total: 8
 language: ro
 ---

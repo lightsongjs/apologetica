@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "The Decree of Ahasuerus"
 pericope_title_ro: "Porunca lui Ahasveros"
 verses_start: 2
-verses_end: 24
+verses_end: 17
 verses_total: 16
 language: ro
 ---

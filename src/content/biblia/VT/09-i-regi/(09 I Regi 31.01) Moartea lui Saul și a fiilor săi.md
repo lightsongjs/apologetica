@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Death of Saul and His Sons"
 pericope_title_ro: "Moartea lui Saul și a fiilor săi"
 verses_start: 1
-verses_end: 31
+verses_end: 13
 verses_total: 13
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Judgment on Mount Seir"
 pericope_title_ro: "Judecata asupra muntelui Seir"
 verses_start: 1
-verses_end: 35
+verses_end: 15
 verses_total: 15
 language: ro
 ---

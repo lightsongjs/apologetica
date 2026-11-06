@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Vows Made by Women"
 pericope_title_ro: "Juruințe făcute de femei"
 verses_start: 1
-verses_end: 30
+verses_end: 17
 verses_total: 17
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Sarah’s Death and Burial"
 pericope_title_ro: "Moartea și înmormântarea Sarei"
 verses_start: 1
-verses_end: 23
+verses_end: 20
 verses_total: 20
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Cities of Refuge"
 pericope_title_ro: "Cetățile de scăpare"
 verses_start: 1
-verses_end: 20
+verses_end: 9
 verses_total: 9
 language: ro
 ---

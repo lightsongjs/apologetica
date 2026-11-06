@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "A Call to Repentance"
 pericope_title_ro: "Chemare la pocăință"
 verses_start: 1
-verses_end: 32
+verses_end: 27
 verses_total: 27
 language: ro
 ---

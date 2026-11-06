@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Solomon Instructed to Build the Temple"
 pericope_title_ro: "Solomon îndrumat să construiască templul"
 verses_start: 1
-verses_end: 28
+verses_end: 21
 verses_total: 21
 language: ro
 ---

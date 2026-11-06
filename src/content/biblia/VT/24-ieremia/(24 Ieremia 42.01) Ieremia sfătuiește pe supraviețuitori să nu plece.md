@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Jeremiah Advises Survivors Not to Migrate"
 pericope_title_ro: "Ieremia sfătuiește pe supraviețuitori să nu plece"
 verses_start: 1
-verses_end: 42
+verses_end: 22
 verses_total: 22
 language: ro
 ---

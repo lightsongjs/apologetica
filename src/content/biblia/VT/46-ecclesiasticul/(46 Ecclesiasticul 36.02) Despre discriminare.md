@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Concerning Discrimination"
 pericope_title_ro: "Despre discriminare"
 verses_start: 23
-verses_end: 31
+verses_end: 28
 verses_total: 6
 language: ro
 ---

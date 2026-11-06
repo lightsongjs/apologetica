@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Purification of Women after Childbirth"
 pericope_title_ro: "Curățirea femeilor după naștere"
 verses_start: 1
-verses_end: 12
+verses_end: 8
 verses_total: 8
 language: ro
 ---

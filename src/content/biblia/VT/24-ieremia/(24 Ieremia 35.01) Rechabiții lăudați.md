@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Rechabites Commended"
 pericope_title_ro: "Rechabiții lăudați"
 verses_start: 1
-verses_end: 35
+verses_end: 19
 verses_total: 19
 language: ro
 ---

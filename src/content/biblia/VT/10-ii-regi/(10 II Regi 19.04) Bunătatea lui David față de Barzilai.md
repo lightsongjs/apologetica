@@ -7,7 +7,7 @@ pericope: 4
 pericope_title_en: "David’s Kindness to Barzillai"
 pericope_title_ro: "Bunătatea lui David față de Barzilai"
 verses_start: 31
-verses_end: 43
+verses_end: 42
 verses_total: 12
 language: ro
 ---

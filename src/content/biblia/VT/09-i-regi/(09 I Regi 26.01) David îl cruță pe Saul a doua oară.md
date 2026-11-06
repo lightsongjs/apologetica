@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "David Spares Saul’s Life a Second Time"
 pericope_title_ro: "David îl cruță pe Saul a doua oară"
 verses_start: 1
-verses_end: 26
+verses_end: 25
 verses_total: 25
 language: ro
 ---

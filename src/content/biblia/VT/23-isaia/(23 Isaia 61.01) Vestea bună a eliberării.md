@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Good News of Deliverance"
 pericope_title_ro: "Vestea bună a eliberării"
 verses_start: 1
-verses_end: 61
+verses_end: 11
 verses_total: 11
 language: ro
 ---

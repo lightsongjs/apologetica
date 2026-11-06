@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "An Oracle concerning Moab"
 pericope_title_ro: "Prorocie despre Moab"
 verses_start: 1
-verses_end: 15
+verses_end: 9
 verses_total: 9
 language: ro
 ---

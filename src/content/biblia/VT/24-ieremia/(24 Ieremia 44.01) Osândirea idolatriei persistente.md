@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Denunciation of Persistent Idolatry"
 pericope_title_ro: "Osândirea idolatriei persistente"
 verses_start: 1
-verses_end: 44
+verses_end: 30
 verses_total: 30
 language: ro
 ---

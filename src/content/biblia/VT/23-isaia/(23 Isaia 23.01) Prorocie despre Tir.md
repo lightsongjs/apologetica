@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "An Oracle concerning Tyre"
 pericope_title_ro: "Prorocie despre Tir"
 verses_start: 1
-verses_end: 23
+verses_end: 18
 verses_total: 18
 language: ro
 ---

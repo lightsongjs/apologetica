@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Judith Returns to Bethulia"
 pericope_title_ro: "Iudita se întoarce la Betulia"
 verses_start: 11
-verses_end: 20
+verses_end: 19
 verses_total: 9
 language: ro
 ---

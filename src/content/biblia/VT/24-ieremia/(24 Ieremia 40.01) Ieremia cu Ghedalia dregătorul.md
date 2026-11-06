@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Jeremiah with Gedaliah the Governor"
 pericope_title_ro: "Ieremia cu Ghedalia dregătorul"
 verses_start: 1
-verses_end: 40
+verses_end: 16
 verses_total: 16
 language: ro
 ---

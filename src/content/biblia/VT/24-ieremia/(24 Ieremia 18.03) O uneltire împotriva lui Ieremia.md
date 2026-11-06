@@ -7,7 +7,7 @@ pericope: 3
 pericope_title_en: "A Plot against Jeremiah"
 pericope_title_ro: "O uneltire împotriva lui Ieremia"
 verses_start: 18
-verses_end: 23
+verses_end: 22
 verses_total: 5
 language: ro
 ---

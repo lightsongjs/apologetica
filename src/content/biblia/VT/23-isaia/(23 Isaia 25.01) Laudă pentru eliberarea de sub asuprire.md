@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Praise for Deliverance from Oppression"
 pericope_title_ro: "Laudă pentru eliberarea de sub asuprire"
 verses_start: 1
-verses_end: 25
+verses_end: 12
 verses_total: 12
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Angels with the Seven Last Plagues"
 pericope_title_ro: "Îngerii cu cele șapte plăgi de pe urmă"
 verses_start: 1
-verses_end: 15
+verses_end: 8
 verses_total: 8
 language: ro
 ---

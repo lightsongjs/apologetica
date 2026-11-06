@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Mordecai’s Dream Fulfilled"
 pericope_title_ro: "Împlinirea visului lui Mardoheu"
 verses_start: 1
-verses_end: 13
+verses_end: 3
 verses_total: 3
 language: ro
 ---

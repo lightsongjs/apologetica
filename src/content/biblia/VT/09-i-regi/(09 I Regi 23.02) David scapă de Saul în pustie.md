@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "David Eludes Saul in the Wilderness"
 pericope_title_ro: "David scapă de Saul în pustie"
 verses_start: 15
-verses_end: 29
+verses_end: 27
 verses_total: 13
 language: ro
 ---

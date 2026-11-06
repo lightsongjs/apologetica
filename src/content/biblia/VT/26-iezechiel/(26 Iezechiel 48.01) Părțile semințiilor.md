@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Tribal Portions"
 pericope_title_ro: "Părțile semințiilor"
 verses_start: 1
-verses_end: 48
+verses_end: 35
 verses_total: 35
 language: ro
 ---

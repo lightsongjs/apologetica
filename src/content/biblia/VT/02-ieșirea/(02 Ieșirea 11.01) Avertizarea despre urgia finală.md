@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Warning of the Final Plague"
 pericope_title_ro: "Avertizarea despre urgia finală"
 verses_start: 1
-verses_end: 11
+verses_end: 10
 verses_total: 10
 language: ro
 ---

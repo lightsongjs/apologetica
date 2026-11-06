@@ -7,7 +7,7 @@ pericope: 4
 pericope_title_en: "Offering Sacrifices"
 pericope_title_ro: "Aducerea jertfelor"
 verses_start: 21
-verses_end: 31
+verses_end: 29
 verses_total: 9
 language: ro
 ---

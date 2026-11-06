@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Hananiah Opposes Jeremiah and Dies"
 pericope_title_ro: "Hanania se împotrivește lui Ieremia și moare"
 verses_start: 1
-verses_end: 28
+verses_end: 17
 verses_total: 17
 language: ro
 ---

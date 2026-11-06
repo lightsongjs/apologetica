@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Insurrection against Gedaliah"
 pericope_title_ro: "Răscoala împotriva lui Ghedalia"
 verses_start: 1
-verses_end: 41
+verses_end: 18
 verses_total: 18
 language: ro
 ---

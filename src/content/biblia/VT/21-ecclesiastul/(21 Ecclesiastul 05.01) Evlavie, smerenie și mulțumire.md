@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Reverence, Humility, and Contentment"
 pericope_title_ro: "Evlavie, smerenie și mulțumire"
 verses_start: 1
-verses_end: 20
+verses_end: 19
 verses_total: 19
 language: ro
 ---

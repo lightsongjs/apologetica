@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "An Invitation to Abundant Life"
 pericope_title_ro: "O invitație la viață din belșug"
 verses_start: 1
-verses_end: 55
+verses_end: 13
 verses_total: 13
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Terror Strikes the Egyptians at Night"
 pericope_title_ro: "Groaza lovește pe egipteni noaptea"
 verses_start: 1
-verses_end: 21
+verses_end: 20
 verses_total: 20
 language: ro
 ---

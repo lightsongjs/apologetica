@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Eternal Covenant of Peace"
 pericope_title_ro: "Legământul veșnic de pace"
 verses_start: 1
-verses_end: 54
+verses_end: 17
 verses_total: 17
 language: ro
 ---

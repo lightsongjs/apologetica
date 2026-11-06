@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Lofty Cedar"
 pericope_title_ro: "Cedrul cel înalt"
 verses_start: 1
-verses_end: 31
+verses_end: 18
 verses_total: 18
 language: ro
 ---

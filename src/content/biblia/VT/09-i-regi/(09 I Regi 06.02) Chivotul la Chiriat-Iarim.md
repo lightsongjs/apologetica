@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "The Ark at Kiriath-jearim"
 pericope_title_ro: "Chivotul la Chiriat-Iarim"
 verses_start: 19
-verses_end: 21
+verses_end: 20
 verses_total: 2
 language: ro
 ---

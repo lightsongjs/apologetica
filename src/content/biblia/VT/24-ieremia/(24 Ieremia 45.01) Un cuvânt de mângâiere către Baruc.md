@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "A Word of Comfort to Baruch"
 pericope_title_ro: "Un cuvânt de mângâiere către Baruc"
 verses_start: 1
-verses_end: 45
+verses_end: 5
 verses_total: 5
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Judgment on Arrogance and Oppression"
 pericope_title_ro: "Judecata asupra aroganței și oprimării"
 verses_start: 8
-verses_end: 21
+verses_end: 20
 verses_total: 13
 language: ro
 ---

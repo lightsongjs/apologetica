@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Holy Chambers and the Outer Wall"
 pericope_title_ro: "Camerele sfinte și zidul de afară"
 verses_start: 1
-verses_end: 42
+verses_end: 20
 verses_total: 20
 language: ro
 ---

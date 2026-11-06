@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Bride's Matchless Beauty"
 pericope_title_ro: "Frumusețea de neîntrecut a miresei"
 verses_start: 1
-verses_end: 13
+verses_end: 12
 verses_total: 12
 language: ro
 ---

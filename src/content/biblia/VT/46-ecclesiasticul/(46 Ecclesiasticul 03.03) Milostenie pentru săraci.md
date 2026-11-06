@@ -7,7 +7,7 @@ pericope: 3
 pericope_title_en: "Alms for the Poor"
 pericope_title_ro: "Milostenie pentru săraci"
 verses_start: 30
-verses_end: 31
+verses_end: 30
 verses_total: 1
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Envoys from Babylon Welcomed"
 pericope_title_ro: "Trimișii din Babilon bine-primiți"
 verses_start: 1
-verses_end: 39
+verses_end: 8
 verses_total: 8
 language: ro
 ---

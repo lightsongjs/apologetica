@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Budding of Aaron’s Rod"
 pericope_title_ro: "Înflorirea toiagului lui Aaron"
 verses_start: 1
-verses_end: 17
+verses_end: 13
 verses_total: 13
 language: ro
 ---

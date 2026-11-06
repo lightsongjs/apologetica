@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Impending Judgment on the Earth"
 pericope_title_ro: "Judecata iminentă asupra pământului"
 verses_start: 1
-verses_end: 24
+verses_end: 23
 verses_total: 23
 language: ro
 ---

@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Israel Degraded"
 pericope_title_ro: "Israel înjosit"
 verses_start: 1
-verses_end: 19
+verses_end: 14
 verses_total: 14
 language: ro
 ---

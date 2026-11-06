@@ -7,7 +7,7 @@ pericope: 3
 pericope_title_en: "The People Plead for Mercy"
 pericope_title_ro: "Poporul imploră milă"
 verses_start: 19
-verses_end: 22
+verses_end: 21
 verses_total: 3
 language: ro
 ---

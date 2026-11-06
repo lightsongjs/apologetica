@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "Youth and Old Age"
 pericope_title_ro: "Tinerețea și bătrânețea"
 verses_start: 7
-verses_end: 10
+verses_end: 9
 verses_total: 3
 language: ro
 ---

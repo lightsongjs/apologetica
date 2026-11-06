@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Blessings in Store for God's People"
 pericope_title_ro: "Binecuvântări pregătite pentru poporul lui Dumnezeu"
 verses_start: 1
-verses_end: 51
+verses_end: 23
 verses_total: 23
 language: ro
 ---

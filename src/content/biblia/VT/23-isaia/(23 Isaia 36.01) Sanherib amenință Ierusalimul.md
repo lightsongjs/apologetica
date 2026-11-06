@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Sennacherib Threatens Jerusalem"
 pericope_title_ro: "Sanherib amenință Ierusalimul"
 verses_start: 1
-verses_end: 36
+verses_end: 22
 verses_total: 22
 language: ro
 ---

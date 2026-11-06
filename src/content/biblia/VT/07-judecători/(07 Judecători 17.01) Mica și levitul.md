@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Micah and the Levite"
 pericope_title_ro: "Mica și levitul"
 verses_start: 1
-verses_end: 17
+verses_end: 13
 verses_total: 13
 language: ro
 ---

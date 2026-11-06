@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Jacob Blesses Joseph’s Sons"
 pericope_title_ro: "Iacov îi binecuvântează pe fiii lui Iosif"
 verses_start: 1
-verses_end: 48
+verses_end: 22
 verses_total: 22
 language: ro
 ---

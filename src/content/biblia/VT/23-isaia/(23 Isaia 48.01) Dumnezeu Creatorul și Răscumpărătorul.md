@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "God the Creator and Redeemer"
 pericope_title_ro: "Dumnezeu Creatorul și Răscumpărătorul"
 verses_start: 1
-verses_end: 48
+verses_end: 22
 verses_total: 22
 language: ro
 ---

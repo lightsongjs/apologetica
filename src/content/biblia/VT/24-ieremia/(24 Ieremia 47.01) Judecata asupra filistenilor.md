@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Judgment on the Philistines"
 pericope_title_ro: "Judecata asupra filistenilor"
 verses_start: 1
-verses_end: 47
+verses_end: 7
 verses_total: 7
 language: ro
 ---

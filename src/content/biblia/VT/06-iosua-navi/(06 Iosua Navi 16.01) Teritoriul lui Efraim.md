@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "The Territory of Ephraim"
 pericope_title_ro: "Teritoriul lui Efraim"
 verses_start: 1
-verses_end: 16
+verses_end: 10
 verses_total: 10
 language: ro
 ---

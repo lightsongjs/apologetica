@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Hezekiah's Illness"
 pericope_title_ro: "Boala lui Ezechia"
 verses_start: 1
-verses_end: 38
+verses_end: 22
 verses_total: 22
 language: ro
 ---

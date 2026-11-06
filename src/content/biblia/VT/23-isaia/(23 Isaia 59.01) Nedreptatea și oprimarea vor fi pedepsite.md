@@ -7,7 +7,7 @@ pericope: 1
 pericope_title_en: "Injustice and Oppression to Be Punished"
 pericope_title_ro: "Nedreptatea și oprimarea vor fi pedepsite"
 verses_start: 1
-verses_end: 59
+verses_end: 21
 verses_total: 21
 language: ro
 ---
