@@ -3,7 +3,7 @@ testament: OT
 book: Esther
 book_romanian: Esterei
 chapter: 1
-pericope: 3
+pericope: 1
 pericope_title_en: "King Ahasuerus Deposes Queen Vashti"
 pericope_title_ro: "Regele Ahasveros o destituie pe regina Vasti"
 verses_start: 1

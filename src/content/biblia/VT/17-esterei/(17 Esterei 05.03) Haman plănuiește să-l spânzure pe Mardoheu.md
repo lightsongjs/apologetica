@@ -3,7 +3,7 @@ testament: OT
 book: Esther
 book_romanian: Esterei
 chapter: 5
-pericope: 5
+pericope: 3
 pericope_title_en: "Haman Plans to Have Mordecai Hanged"
 pericope_title_ro: "Haman plănuiește să-l spânzure pe Mardoheu"
 verses_start: 9

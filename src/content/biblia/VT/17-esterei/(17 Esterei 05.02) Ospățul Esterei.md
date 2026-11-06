@@ -3,7 +3,7 @@ testament: OT
 book: Esther
 book_romanian: Esterei
 chapter: 5
-pericope: 4
+pericope: 2
 pericope_title_en: "Esther’s Banquet"
 pericope_title_ro: "Ospățul Esterei"
 verses_start: 3
