@@ -52,6 +52,7 @@ export const GET: APIRoute = async ({ props }) => {
     title: p.data.pericope_title_ro,
     versesStart: p.data.verses_start,
     versesEnd: p.data.verses_end,
+    rangeLabel: p.data.range_label ?? null,
     versesHtml: formatVerses(p.body ?? ''),
   }));
 

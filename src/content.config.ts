@@ -54,6 +54,9 @@ const biblia = defineCollection({
     verses_start: z.number(),
     verses_end: z.number(),
     verses_total: z.number(),
+    // Pericope that crosses a chapter boundary (e.g. Ioan 7:53 – 8:11): each chapter
+    // keeps its own file, both show this full range instead of verses_start–verses_end.
+    range_label: z.string().optional(),
     language: z.string(),
   }),
 });
