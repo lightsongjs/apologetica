@@ -9,6 +9,7 @@ pericope_title_ro: "Al treilea oracle al lui Balaam"
 verses_start: 1
 verses_end: 14
 verses_total: 14
+range_label: "23:27 – 24:14"
 language: ro
 ---
 

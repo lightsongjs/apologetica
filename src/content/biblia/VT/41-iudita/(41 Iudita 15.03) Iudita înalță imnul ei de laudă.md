@@ -9,6 +9,7 @@ pericope_title_ro: "Iudita înalță imnul ei de laudă"
 verses_start: 14
 verses_end: 14
 verses_total: 1
+range_label: "15:14 – 16:17"
 language: ro
 ---
 

@@ -4,11 +4,12 @@ book: Judith
 book_romanian: Iudita
 chapter: 16
 pericope: 1
-pericope_title_en: "The Renown and Death of Judith"
-pericope_title_ro: "Faima și moartea Iuditei"
+pericope_title_en: "Judith Offers Her Hymn of Praise"
+pericope_title_ro: "Iudita înalță imnul ei de laudă"
 verses_start: 1
-verses_end: 25
-verses_total: 25
+verses_end: 17
+verses_total: 17
+range_label: "15:14 – 16:17"
 language: ro
 ---
 
@@ -29,11 +30,3 @@ language: ro
 15. Munţii ca şi mările se zbuciumă din temelie, stâncile se topesc cum se topeşte ceara înaintea feţei Tale, iar cucei ce Te cinstesc pe Tine, milostiv eşti Tu cu ei!
 16. Fiindcă orice jertfă cu miros de mireasmă preţuieşte puţin pentru Tine şi toată grăsimea arderii de tot este şi de mai puţin preţ, însă cel ce se teme de Domnul totdeauna este mare.
 17. Vai de neamurile care se ridică împotriva poporului meu, căci Domnul cel Atotputernic le va pedepsi în ziua judecăţii, şi va da pradă trupul lor focului şi viermilor, ca să urle de durere în veci de veci!"
-18. Şi când a ajuns la Ierusalim, toţi s-au închinat lui Dumnezeu, iar după ce poporul s-a curăţit, a adus arderi de tot, prinoasele lor de bună voie şi darurile lor.
-19. Şi Iudita a afierosit lui Dumnezeu ca dar, toate lucrurile lui Olofern, câte i le dăduse poporul, precum şi perdeaua pe care ea o ridicase de la patul lui, a dat-o ca afierosire pentru Domnul.
-20. Şi poporul s-a veselit în Ierusalim trei luni, în faţa templului, şi Iudita a rămas la ei.
-21. Iar după aceste zile, fiecare s-a întors la locul său, şi Iudita s-a întors în Betulia şi şi-a petrecut viaţa la casa ei. Şi cu înaintarea în vârstă a ajuns vestită în toată ţara.
-22. Mulţi au cerut-o în căsătorie, dar ea n-a cunoscut bărbat în toate zilele vieţii ei, de când murise soţul ei Manase şi se adăugase la poporul lui.
-23. Faima ei creştea din ce în ce mai mult, pe când ea înainta în vârstă în casa bărbatului ei. Ea a atins vârsta de o sută şi cinci ani. Şi ea a dezrobit pe roaba ei. Ea a murit în Betulia şi a fost îngropată în peştera în care se odihnea bărbatul ei Manase.
-24. Şi neamul lui Israel a jelit-o şapte zile. Şi înainte de moarte şi-a împărţit averea la rudele bărbatului ei  Manase şi la rudele ei.
-25. Şi cât a trăit Iudita, nimeni n-a îndrăznit să tulbure pe Israeliţi şi încă multă vreme după moartea ei.

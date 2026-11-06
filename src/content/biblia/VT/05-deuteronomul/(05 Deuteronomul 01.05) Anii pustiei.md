@@ -9,6 +9,7 @@ pericope_title_ro: "Anii pustiei"
 verses_start: 46
 verses_end: 46
 verses_total: 1
+range_label: "1:46 – 2:25"
 language: ro
 ---
 

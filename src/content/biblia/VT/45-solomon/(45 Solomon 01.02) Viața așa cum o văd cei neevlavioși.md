@@ -9,6 +9,7 @@ pericope_title_ro: "Viața așa cum o văd cei neevlavioși"
 verses_start: 16
 verses_end: 16
 verses_total: 1
+range_label: "1:16 – 2:20"
 language: ro
 ---
 

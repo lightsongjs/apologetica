@@ -9,6 +9,7 @@ pericope_title_ro: "Fiii lui Dumnezeu"
 verses_start: 29
 verses_end: 29
 verses_total: 1
+range_label: "2:29 – 3:10"
 language: ro
 ---
 

@@ -9,6 +9,7 @@ pericope_title_ro: "Slujitorul cel suferind"
 verses_start: 13
 verses_end: 15
 verses_total: 3
+range_label: "52:13 – 53:12"
 language: ro
 ---
 

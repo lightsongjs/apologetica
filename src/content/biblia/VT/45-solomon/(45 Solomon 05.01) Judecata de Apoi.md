@@ -4,11 +4,12 @@ book: Wisdom of Solomon
 book_romanian: Solomon
 chapter: 5
 pericope: 1
-pericope_title_en: "The Reward of the Righteous"
-pericope_title_ro: "Răsplata celor drepți"
+pericope_title_en: "The Final Judgment"
+pericope_title_ro: "Judecata de Apoi"
 verses_start: 1
-verses_end: 23
-verses_total: 23
+verses_end: 14
+verses_total: 14
+range_label: "4:20 – 5:14"
 language: ro
 ---
 
@@ -26,12 +27,3 @@ language: ro
 12. Sau la fel cu săgeata care zboară spre locul însemnat, iar aerul pe care l-a spintecat se împreună la loc şi nu poţi să mai ştii care i-a fost urma.
 13. Tot aşa şi noi ne-am născut şi am isprăvit cu viaţa şi nu putem să arătăm nici un semn de faptă bună, ci în răutatea noastră ne-am risipit.
 14. Într-adevăr, nădejdea celui nelegiuit este ca praful pe care-l spulberă vântul, este ca pâcla subţire pe care o împrăştie vijelia, ca fumul pe care-l suflă o adiere şi ca amintirea unui oaspete de o singură zi care se destramă.
-15. Însă cei drepţi vor fi vii în veacul veacului şi răsplata lor este la Domnul şi Cel Atotputernic are grijă de ei.
-16. Drept aceea, vor primi din mâna Domnului împărăţia frumuseţii şi cununa cea strălucitoare, căci El îi va ocroti cu dreapta Sa şi cu braţul Său; asemenea unui scut, îi va acoperi.
-17. El va face arme din mânia Sa şi cu ele va întări făptura mâinilor Sale ca să răsplătească vrăjmaşilor.
-18. Din dreptate El Îşi va face platoşă şi din judecata cea nefăţarnică Îşi va face coif.
-19. Din sfinţenia Sa va face pavăză nebiruită;
-20. Iar din cumplita Sa mânie va face sabie ascuţită şi lumea va porni război împreună cu El împotriva celor fără de minte.
-21. Săgeţile fulgerului Său vor porni bine îndreptate şi vor lovi în ţintă, zburând din arcul puternic încordat al norilor.
-22. Mânia Lui, ca o praştie, va azvârli noian de grindină; apele mării se vor întărâta asupra lor şi râurile îi vor îneca vijelios.
-23. Duhul puterii dumnezeieşti se va ridica împotriva lor şi ca viscolul îi va vântura. Astfel fărădelegea va aduce pustiire pe pământ şi răutatea va răsturna scaunele celor puternici.

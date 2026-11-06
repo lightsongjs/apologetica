@@ -3,7 +3,7 @@ testament: OT
 book: 1 Kings
 book_romanian: I Regi
 chapter: 14
-pericope: 2
+pericope: 3
 pericope_title_en: "Jonathan in Danger of Death"
 pericope_title_ro: "Ionatan în primejdie de moarte"
 verses_start: 36

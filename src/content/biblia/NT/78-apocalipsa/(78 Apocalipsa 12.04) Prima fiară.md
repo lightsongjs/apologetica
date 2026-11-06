@@ -9,6 +9,7 @@ pericope_title_ro: "Prima fiară"
 verses_start: 18
 verses_end: 18
 verses_total: 1
+range_label: "12:18 – 13:10"
 language: ro
 ---
 

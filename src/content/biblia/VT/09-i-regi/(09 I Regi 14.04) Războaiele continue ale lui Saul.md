@@ -3,7 +3,7 @@ testament: OT
 book: 1 Kings
 book_romanian: I Regi
 chapter: 14
-pericope: 3
+pericope: 4
 pericope_title_en: "Saul’s Continuing Wars"
 pericope_title_ro: "Războaiele continue ale lui Saul"
 verses_start: 47

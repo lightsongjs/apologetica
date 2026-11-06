@@ -9,6 +9,7 @@ pericope_title_ro: "Cei ce au semnat legământul"
 verses_start: 38
 verses_end: 38
 verses_total: 1
+range_label: "9:38 – 10:27"
 language: ro
 ---
 

@@ -9,6 +9,7 @@ pericope_title_ro: "Ionatan surprinde și înfrânge pe filisteni"
 verses_start: 23
 verses_end: 23
 verses_total: 1
+range_label: "13:23 – 14:15"
 language: ro
 ---
 

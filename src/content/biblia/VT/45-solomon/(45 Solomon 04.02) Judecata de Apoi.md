@@ -9,6 +9,7 @@ pericope_title_ro: "Judecata de Apoi"
 verses_start: 20
 verses_end: 20
 verses_total: 1
+range_label: "4:20 – 5:14"
 language: ro
 ---
 

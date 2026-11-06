@@ -4,11 +4,12 @@ book: Esther
 book_romanian: Esterei
 chapter: 7
 pericope: 1
-pericope_title_en: "Esther Chapter 7"
-pericope_title_ro: "Estera Capitolul 7"
+pericope_title_en: "Haman’s Downfall and Mordecai’s Advancement"
+pericope_title_ro: "Căderea lui Haman și înălțarea lui Mardoheu"
 verses_start: 1
 verses_end: 10
 verses_total: 10
+range_label: "6:14 – 7:10"
 language: ro
 ---
 

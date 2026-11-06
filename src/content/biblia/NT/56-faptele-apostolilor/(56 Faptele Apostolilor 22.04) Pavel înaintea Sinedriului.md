@@ -9,6 +9,7 @@ pericope_title_ro: "Pavel înaintea Sinedriului"
 verses_start: 30
 verses_end: 30
 verses_total: 1
+range_label: "22:30 – 23:11"
 language: ro
 ---
 

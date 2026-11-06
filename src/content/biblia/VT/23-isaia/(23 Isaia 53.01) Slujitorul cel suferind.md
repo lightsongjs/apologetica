@@ -4,11 +4,12 @@ book: Isaiah
 book_romanian: Isaia
 chapter: 53
 pericope: 1
-pericope_title_en: "Isaiah Chapter 53"
-pericope_title_ro: "Isaia Capitolul 53"
+pericope_title_en: "The Suffering Servant"
+pericope_title_ro: "Slujitorul cel suferind"
 verses_start: 1
-verses_end: 53
+verses_end: 12
 verses_total: 12
+range_label: "52:13 – 53:12"
 language: ro
 ---
 

@@ -4,11 +4,12 @@ book: Revelation
 book_romanian: Apocalipsa
 chapter: 13
 pericope: 1
-pericope_title_en: "The Second Beast"
-pericope_title_ro: "A doua fiară"
+pericope_title_en: "The First Beast"
+pericope_title_ro: "Prima fiară"
 verses_start: 1
-verses_end: 18
-verses_total: 18
+verses_end: 10
+verses_total: 10
+range_label: "12:18 – 13:10"
 language: ro
 ---
 
@@ -22,11 +23,3 @@ language: ro
 8. Şi i se vor închina ei toţi cei ce locuiesc pe pământ, ale căror nume nu sunt scrise, de la întemeierea lumii, în cartea vieţii Mielului celui înjunghiat.
 9. Dacă are cineva urechi - să audă!
 10. Cine duce în robie de robie are parte; cine cu sabia va ucide trebuie să fie ucis de sabie. Aici este răbdarea şi credinţa sfinţilor.
-11. Şi am văzut o altă fiară, ridicându-se din pământ, şi avea două coarne asemenea mielului, dar grăia ca un balaur
-12. Şi toată stăpânirea celei dintâi fiare ea o pune în lucrare, în faţa ei. Şi face pământul şi pe locuitorii de pe el să se închine fiarei celei dintâi, a cărei rană de moarte fusese vindecată.
-13. Şi face semne mari, încât şi foc face să se pogoare din cer, pe pământ, înaintea oamenilor,
-14. Şi amăgeşte pe cei ce locuiesc pe pământ prin semnele ce i s-au dat să facă înaintea fiarei, zicând celor ce locuiesc pe pământ să facă un chip fiarei care a fost rănită cu sabia şi a rămas în viaţă.
-15. Şi i s-a dat ei să insufle duh chipului fiarei, ca chipul fiarei să şi grăiască şi să omoare pe toţi câţi nu se vor închina chipului fiarei.
-16. Şi ea îi sileşte pe toţi, pe cei mici şi pe cei mari, şi pe cei bogaţi şi pe cei săraci, şi pe cei slobozi şi pe cei robi, ca să-şi pună semn pe mâna lor cea dreaptă sau pe frunte.
-17. Încât nimeni să nu poată cumpăra sau vinde, decât numai cel ce are semnul, adică numele fiarei, sau numărul numelui fiarei.
-18. Aici este înţelepciunea. Cine are pricepere să socotească numărul fiarei; căci este număr de om. Şi numărul ei este şase sute şaizeci şi şase.

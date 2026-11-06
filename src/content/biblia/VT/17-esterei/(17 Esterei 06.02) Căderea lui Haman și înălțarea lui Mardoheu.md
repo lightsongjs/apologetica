@@ -9,6 +9,7 @@ pericope_title_ro: "Căderea lui Haman și înălțarea lui Mardoheu"
 verses_start: 14
 verses_end: 14
 verses_total: 1
+range_label: "6:14 – 7:10"
 language: ro
 ---
 

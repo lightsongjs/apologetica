@@ -3,7 +3,7 @@ testament: NT
 book: Acts
 book_romanian: Faptele Apostolilor
 chapter: 23
-pericope: 2
+pericope: 3
 pericope_title_en: "Paul Sent to Felix the Governor"
 pericope_title_ro: "Pavel trimis la Felix guvernatorul"
 verses_start: 23

@@ -9,6 +9,7 @@ pericope_title_ro: "Primul oracle al lui Balaam"
 verses_start: 41
 verses_end: 41
 verses_total: 1
+range_label: "22:41 – 23:12"
 language: ro
 ---
 

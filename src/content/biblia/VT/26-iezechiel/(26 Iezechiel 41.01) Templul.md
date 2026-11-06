@@ -4,11 +4,12 @@ book: Ezekiel
 book_romanian: Iezechiel
 chapter: 41
 pericope: 1
-pericope_title_en: "Ezekiel Chapter 41"
-pericope_title_ro: "Iezechiel Capitolul 41"
+pericope_title_en: "The Temple"
+pericope_title_ro: "Templul"
 verses_start: 1
-verses_end: 41
+verses_end: 26
 verses_total: 26
+range_label: "40:48 – 41:26"
 language: ro
 ---
 

@@ -9,6 +9,7 @@ pericope_title_ro: "Cântarea lui Moise"
 verses_start: 30
 verses_end: 30
 verses_total: 1
+range_label: "31:30 – 32:47"
 language: ro
 ---
 

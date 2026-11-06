@@ -9,6 +9,7 @@ pericope_title_ro: "Templul"
 verses_start: 48
 verses_end: 49
 verses_total: 2
+range_label: "40:48 – 41:26"
 language: ro
 ---
 
