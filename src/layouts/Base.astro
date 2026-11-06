@@ -38,10 +38,17 @@ const {
     <meta name="description" content="Apologetică Ortodoxă - Răspunsuri rapide pentru conversații" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="manifest" href="/manifest.webmanifest" />
-    <meta name="theme-color" content="#1A237E" />
+    <meta name="theme-color" content="#0B0B0E" />
     <link rel="apple-touch-icon" href="/pwa-192x192.png" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
+    <!-- Page background before the stylesheet arrives: without it the first paint is
+         white, which blinds in dark mode (app start, slow network). -->
+    <style is:inline>
+      html { background: #f7f9fc; }
+      html.dark { background: #0B0B0E; color-scheme: dark; }
+    </style>
 
     <!-- Prevent flash of wrong theme (FOUC) - runs BEFORE any CSS -->
     <script is:inline>
@@ -50,6 +57,9 @@ const {
           || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
         document.documentElement.classList.toggle('dark', theme === 'dark');
         document.documentElement.classList.toggle('light', theme === 'light');
+        // Status bar color follows the theme (navy in light mode, page black in dark mode)
+        document.querySelector('meta[name="theme-color"]')
+          .setAttribute('content', theme === 'dark' ? '#0B0B0E' : '#1A237E');
       })();
     </script>
 
@@ -300,6 +310,8 @@ const {
             html.classList.toggle('dark', newTheme === 'dark');
             html.classList.toggle('light', newTheme === 'light');
             localStorage.setItem('theme', newTheme);
+            document.querySelector('meta[name="theme-color"]')
+              ?.setAttribute('content', newTheme === 'dark' ? '#0B0B0E' : '#1A237E');
           });
         }
       }
