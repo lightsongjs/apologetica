@@ -5,7 +5,7 @@ book_romanian: Numerii
 chapter: 23
 pericope: 1
 pericope_title_en: "Balaam’s First Oracle"
-pericope_title_ro: "Primul oracle al lui Balaam"
+pericope_title_ro: "Primul oracol al lui Balaam"
 verses_start: 1
 verses_end: 12
 verses_total: 12

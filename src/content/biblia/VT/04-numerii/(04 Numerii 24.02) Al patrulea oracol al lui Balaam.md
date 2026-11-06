@@ -5,7 +5,7 @@ book_romanian: Numerii
 chapter: 24
 pericope: 2
 pericope_title_en: "Balaam’s Fourth Oracle"
-pericope_title_ro: "Al patrulea oracle al lui Balaam"
+pericope_title_ro: "Al patrulea oracol al lui Balaam"
 verses_start: 15
 verses_end: 25
 verses_total: 11
