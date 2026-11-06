@@ -22,6 +22,7 @@ language: ro
 8. Adu-ţi aminte de ziua odihnei, ca să o sfinţeşti.
 9. Lucrează şase zile şi-ţi fă în acelea toate treburile tale,
 10. Iar ziua a şaptea este odihna Domnului Dumnezeului tău: să nu faci în acea zi nici un lucru: nici tu, nici fiul tău, nici fiica ta, nici sluga ta, nici slujnica ta, nici boul tău, nici asinul tău, nici orice dobitoc al tău, nici străinul care rămâne la tine,
+11. Că în şase zile a făcut Domnul cerul şi pământul, marea şi toate cele ce sunt într-însele, iar în ziua a şaptea S-a odihnit. De aceea a binecuvântat Domnul ziua a şaptea şi a sfinţit-o.
 12. Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti ani mulţi pe pământul pe care Domnul Dumnezeul tău ţi-l va da ţie.
 13. Să nu ucizi!
 14. Să nu fii desfrânat!
@@ -31,5 +32,4 @@ language: ro
 18. Şi tot poporul a auzit fulgerele şi tunetele şi sunetul trâmbiţelor, şi a văzut muntele fumegând; şi văzând, tot poporul s-a dat înapoi şi a stat departe, temându-se.
 19. Apoi a zis către Moise: "Vorbeşte tu cu noi şi vom asculta, dar Dumnezeu să nu grăiască cu noi, ca să nu murim".
 20. Zis-a Moise către popor: "Cutezaţi, că Dumnezeu a venit la voi, să vă pună la încercare pentru ca frica Lui să fie în voi, ca să nu greşiţi".
-21. Că în şase zile a făcut Domnul cerul şi pământul, marea şi toate cele ce sunt într-însele, iar în ziua a şaptea S-a odihnit. De aceea a binecuvântat Domnul ziua a şaptea şi a sfinţit-o.
 21. Şi a stat tot poporul departe, iar Moise s-a apropiat de întunericul unde era Dumnezeu.

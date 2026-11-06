@@ -7,7 +7,7 @@ pericope: 2
 pericope_title_en: "The Furnishings of the Temple"
 pericope_title_ro: "Podoabele templului"
 verses_start: 23
-verses_end: 37
+verses_end: 38
 verses_total: 16
 language: ro
 ---
@@ -23,8 +23,8 @@ language: ro
 31. Pentru intrat în Sfânta Sfintelor, a făcut uşi de lemn de măslin care se deschid în două părţi, cu uşori în cinci muchii.
 32. Pe cele două jumătăţi ale uşilor de lemn de măslin, el a făcut heruvimi săpaţi, finici şi flori îmbobocite; şi le-a îmbrăcat în aur şi heruvimii şi finicii.
 33. La intrarea în templu a făcut uşori din lemn de măslin în patru muchii
-33. Iar în anul al unsprezecelea, în luna Bul, care este luna a opta, a terminat el templul, cu toate părţile lor şi după toate rânduielile lor; aşa că l-a zidit în şapte ani.
 34. Şi două uşi din lemn de chiparos, fiecare cu câte două canate. Amândouă jumătăţile unei uşi se învârteau într-o parte şi în alta şi amândouă jumătăţile celeilalte uşi de asemenea se; învârteau într-o parte şi în alta.
 35. Şi a săpat pe ele heruvimi, finici şi flori îmbobocite, şi le-a îmbrăcat cu aur peste săpătură.
 36. Şi a făcut de asemenea curtea cea dinăuntru din trei rânduri de pietre cioplite şi dintr-un rând de grinzi de cedru.
 37. În anul al patrulea, în luna Zif, care este a doua lună a anului, a  pus el temelia casei Domnului.
+38. Iar în anul al unsprezecelea, în luna Bul, care este luna a opta, a terminat el templul, cu toate părţile lor şi după toate rânduielile lor; aşa că l-a zidit în şapte ani.

@@ -44,5 +44,5 @@ language: ro
 42. "Nu m-am jurat eu, oare, pe Domnul către tine şi nu ţi-am spus eu, oare, înainte, zicând: Să ştii că în ziua în care vei ieşi din Ierusalim şi te vei duce undeva, numaidecât vai muri? Şi tu mi-ai spus: Bine!
 43. De ce n-ai păzit legea pe care ţi-am dat-o înaintea Domnului cu jurământ?
 44. Apoi a mai zis regele către Şimei: "Tu ştii şi ştie şi inima ta tot râul care l-ai făcut tatălui meu David; să se întoarcă asupra capului tău răutatea ta!
-46. Iar regele Solomon să fie binecuvântat şi tronul lui David să fie neclintit înaintea Domnului în veci!"
+45. Iar regele Solomon să fie binecuvântat şi tronul lui David să fie neclintit înaintea Domnului în veci!"
 46. Şi a poruncit regele lui Benaia, fiul lui Iehoiada; şi el s-a dus şi a lovit pe Şimei şi acela a murit.

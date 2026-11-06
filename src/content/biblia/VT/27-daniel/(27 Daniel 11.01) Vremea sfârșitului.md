@@ -32,7 +32,7 @@ language: ro
 18. Şi îşi va întoarce privirea spre insule şi va cuprinde multe din ele, iar o căpetenie va pune capăt ocării lui, fără putinţă de răspuns.
 19. Şi îşi va întoarce faţa spre întăriturile ţării sale, dar se va poticni, va cădea şi va pieri.
 20. Şi în locul lui va veni altul, care va trimite un strângător de dări în locul care este gloria regatului (Ierusalimul), dar în câteva zile va fi doborât nu prin mânie, nici prin război.
-22. Şi în locul lui va veni un batjocoritor, care nu avusese nici un drept la vrednicia regală, şi el va veni paşnic şi prin uneltiri se va face stăpân pe regat.
+21. Şi în locul lui va veni un batjocoritor, care nu avusese nici un drept la vrednicia regală, şi el va veni paşnic şi prin uneltiri se va face stăpân pe regat.
 22. Şi oştirile de ajutor vor da înapoi înaintea lui şi vor fi sfărâmate, de asemenea şi o căpetenie a legământului.
 23. Şi după împrietenirea cu el se va servi de vicleşug şi va porni şi va birui cu puţin popor.
 24. Şi pe neaşteptate va veni în cele mai bogate ţinuturi ale ţării şi va face ceea ce n-au făcut părinţii lui şi părinţii părinţilor lui; el le va împărţi cu risipă, pradă şi jaf şi bogăţii; şi va urzi planuri împotriva cetăţilor întărite, numai pentru o vreme.

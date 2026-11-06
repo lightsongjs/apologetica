@@ -13,10 +13,10 @@ language: ro
 ---
 
 19. Atunci fiii lui Israel au strigat către Domnul Dumnezeul lor, deoarece îşi pierduseră cumpătul, când s-au văzut împresuraţi de duşmanii lor şi că nici nu mai era chip de scăpare.
+20. Şi toată oştirea Asirienilor, pedestrimea, carele de război şi călărimea, i-a ţinut împresuraţi treizeci şi patru de zile, încât toţi locuitorii Betuliei au terminat toate rezervele de apă.
 21. Dar şi cisternele s-au golit şi nu au avut să-şi astâmpere setea nici măcar pe o zi, căci li se da să bea cu măsură.
 22. Şi femeile şi copiii şi-au pierdut curajul, iar tinerii erau leşinaţi de sete şi cădeau pe uliţele oraşului şi în adăposturile porţilor şi nu mai rămăsese în ei vlagă.
 23. Atunci întreg poporul, tinerii, femeile şi copiii, s-a adunat la Oziaş şi la căpeteniile cetăţii şi au strigat cu mare glas şi au zis în faţa tuturor bătrânilor:
-24. Şi toată oştirea Asirienilor, pedestrimea, carele de război şi călărimea, i-a ţinut împresuraţi treizeci şi patru de zile, încât toţi locuitorii Betuliei au terminat toate rezervele de apă.
 24. "Dumnezeu să fie judecător între noi şi voi, fiindcă ne-aţi pricinuit mare rău, nefăcând înţelegere paşnică cu Asirienii.
 25. Şi acum nu mai avem ajutor de nicăieri, fiindcă Dumnezeu ne-a predat în mâna lor, ca să pierim doborâţi de sete înaintea lor şi să pierim cu totul.
 26. Deci acum chemaţi-i şi daţi cetatea pradă războinicilor lui Olofern şi oştirii lui,

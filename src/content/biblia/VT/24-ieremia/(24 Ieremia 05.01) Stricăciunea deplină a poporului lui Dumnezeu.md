@@ -21,6 +21,7 @@ language: ro
 7. Cum, adică, să te iert, Ierusalime, pentru aceasta? Fiii tăi M-au părăsit şi se jură pe dumnezei care n-au fiinţă. Eu i-am săturat, iar ei au făcut desfrânare, umblând în grup prin casele desfrânatelor.
 8. Ei sunt cai îngrăşaţi şi fiecare din ei nechează după femeia aproapelui său.
 9. E cu putinţă să nu pedepsesc aceasta, zice Domnul, şi Duhul Meu să nu se răzbune asupra unui popor ca acesta?
+10. Suiţi-vă pe zidurile lui şi le dărâmaţi, dar nu de tot, ci stricaţi numai crestele lor, pentru că acestea nu sunt ale Domnului;
 11. Căci casa lui Israel şi casa lui Iuda s-au purtat faţă de Mine cu multă necredinţă, zice Domnul.
 12. Au tăgăduit pe Domnul şi au zis: "El nu este şi nenorocirea nu va veni asupra noastră; şi nu vom vedea nici sabie, nici foamete!
 13. Proorocii sunt vânt şi nu este în aceştia cuvântul Domnului. De aceasta şi ei să aibă parte!"
@@ -28,7 +29,6 @@ language: ro
 15. Casa lui Israel, iată voi aduce asupra voastră un neam de departe, zice Domnul, un popor puternic, un popor vechi, un popor a cărui limbă tu nu o ştii şi nu vei înţelege ce grăieşte el.
 16. Tolba lui e ca un mormânt deschis şi ai lui toţi sunt viteji;
 17. şi vor mânca aceia secerişul tău şi pâinea ta; vor mânca pe fiii tăi şi pe fiicele tale; vor mânca oile tale şi boii tăi; vor mânca strugurii tăi şi smochinele tale şi vor trece prin sabie cetăţile tale cele întărite în care tu te încrezi.
-18. Suiţi-vă pe zidurile lui şi le dărâmaţi, dar nu de tot, ci stricaţi numai crestele lor, pentru că acestea nu sunt ale Domnului;
 18. Dar nici în zilele acelea nu vă voi pierde cu totul, zice Domnul.
 19. Şi de veţi zice: Pentru ce ne face Domnul Dumnezeul nostru toate acestea? Atunci să ţi se răspundă: Pentru că M-aţi părăsit pe Mine şi aţi slujit la dumnezei străini, în ţara voastră, de aceea veţi sluji la dumnezei străini într-o ţară care nu este a voastră.
 20. Spuneţi aceasta în casa lui Iacov, vestiţi-o în Iuda şi ziceţi:

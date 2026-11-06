@@ -8,7 +8,7 @@ pericope_title_en: "Campaigns of Jonathan and Simon"
 pericope_title_ro: "Campaniile lui Ionatan și Simon"
 verses_start: 60
 verses_end: 74
-verses_total: 14
+verses_total: 15
 language: ro
 ---
 
@@ -19,6 +19,7 @@ language: ro
 64. Şi a ieşit înaintea lor, iar pe fratele său Simon l-a lăsat în ţară.
 65. Şi Simon a tăbărât asupra Betţurului şi a făcut război împotriva lui zile multe şi l-a închis.
 66. Şi l-au rugat pentru pace, şi el le-a dat-o, şi i-a scos de acolo şi a luat cetatea şi a pus în ea pază.
+67. Iar Ionatan şi tabăra lui a tăbărât la Marea Ghenizaretului şi, sculându-se de dimineaţă, a mers în câmpul Haţorului.
 68. Dar dintr-o dată le-a ieşit în faţă, în câmpie, o armată păgână, care după ce lăsase o parte din oştire în munţi să-l pândească, înainta drept în faţa lui.
 69. Iar oştirea cea ascunsă s-a ridicat din locurile ei şi a început războiul.
 70. Şi au fugit toţi cei care erau cu Ionatan; nici unul n-a rămas dintre ei, fără de Matatia, fiul lui Absalom, şi Iuda, fiul lui Alfeu, căpeteniile cetelor de oaste.

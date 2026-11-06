@@ -8,7 +8,7 @@ pericope_title_en: "The Desert Years"
 pericope_title_ro: "Anii pustiei"
 verses_start: 1
 verses_end: 25
-verses_total: 24
+verses_total: 25
 range_label: "1:46 – 2:25"
 language: ro
 ---
@@ -29,7 +29,8 @@ language: ro
 14. De atunci, de când ne-am dus la Cadeş-Barnea şi până ce am trecut râul Zared, au trecut treizeci şi opt de ani şi au pierit din tabăra noastră toţi cei ce erau atunci buni de război, după cum li se jurase Domnul;
 15. Că mâna Domnului, până au pierit ei, a fost asupra lor, ca să-i piardă din tabără.
 16. Iar dacă au pierit toţi cei ce erau atunci buni de război din popor,
-17. Mi-a grăit Domnul şi a zis: 18. "Acum tu să treci pe lângă hotarele lui Moab spre Ar,
+17. Mi-a grăit Domnul şi a zis:
+18. "Acum tu să treci pe lângă hotarele lui Moab spre Ar,
 19. Şi să te apropii repede de Amoniţi, dar să nu intri cu aceştia în duşmănie şi să nu începi război cu ei, căci nu-ţi voi da în stăpânire nimic din pământul fiilor lui Amon, pentru că l-am dat în stăpânire fiilor lui Lot".
 20. Acesta se socotea a fi pământul Refaimilor, căci Refaimii locuiseră înainte într-însul. Amoniţii însă îi numeau Zomzomimi.
 21. Poporul acesta fusese mare, mult la număr şi înalt la statură, ca fiii lui Enac; dar Domnul îi pierduse de la faţa Amoniţilor şi-i alungaseră aceştia şi se aşezaseră în locul lor.

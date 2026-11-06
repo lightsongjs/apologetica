@@ -8,7 +8,7 @@ pericope_title_en: "God’s Assurance of the People’s Return"
 pericope_title_ro: "Asigurarea lui Dumnezeu privind întoarcerea poporului"
 verses_start: 26
 verses_end: 44
-verses_total: 18
+verses_total: 19
 language: ro
 ---
 
@@ -19,6 +19,7 @@ language: ro
 30. Că fiii lui Israel şi fiii lui Iuda au făcut numai rău înaintea ochilor Mei din tinereţile lor; fiii lui Israel M-au mâniat necontenit cu faptele mâinilor lor, zice Domnul.
 31. Cetatea aceasta, chiar din ziua zidirii sale şi până astăzi, pare că a fost făcută pentru mânia Mea şi pentru urgia Mea, ca s-o lepăd de la fala Mea,
 32. Din pricina răului fiilor lui Israel şi al fiilor lui Iuda, pe care l-au făcut pentru mânierea Mea, ei şi regii lor, căpeteniile lor, preoţii lor şi proorocii lor, bărbaţii lui Iuda şi locuitorii Ierusalimului.
+33. Şi Mi-au întors spatele, iar nu faţa şi, când i-am învăţat, dis-de-dimineaţă i-am învăţat şi ei n-au voit să primească învăţătură;
 34. În templul asupra căruia s-a chemat numele Meu au pus urâciunile lor, întinându-l.
 35. Au făcut locuri înalte lui Baal în valea fiilor lui Hinom, ca să treacă prin foc pe fiii lor şi pe fiicele lor în cinstea lui Moloh, ceea ce Eu nu le-am poruncit, şi nici prin minte nu Mi-a trecut că ei vor face această urâciune, ducând în păcat pe Iuda".
 36. Şi acum, aşa vorbeşte Domnul Dumnezeul lui Israel despre cetatea aceasta, de care ziceţi: "Ea se va da în mâinile regelui Babilonului prin sabie, foamete şi boala ciumei":

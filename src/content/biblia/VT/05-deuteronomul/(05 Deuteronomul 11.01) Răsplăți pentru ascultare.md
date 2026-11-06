@@ -6,12 +6,13 @@ chapter: 11
 pericope: 1
 pericope_title_en: "Rewards for Obedience"
 pericope_title_ro: "Răsplăți pentru ascultare"
-verses_start: 2
+verses_start: 1
 verses_end: 32
 verses_total: 32
 language: ro
 ---
 
+1. "Să iubeşti dar pe Domnul Dumnezeul tău şi să păzeşti în toate zilele cele ce ţi-a poruncit El să păzeşti: hotărârile Lui, legile Lui şi poruncile Lui.
 2. Băgaţi de seamă dar că eu nu grăiesc cu copiii voştri, care nu ştiu şi n-au văzut pedeapsa Domnului Dumnezeului vostru, nici slava Lui, nici mâna Lui cea tare, nici braţul Lui cel înalt,
 3. Nici semnele Lui, nici lucrurile Lui, pe care le-a făcut în mijlocul Egiptului cu Faraon, regele egiptean, şi cu tot pământul lui,
 4. Nici ce a făcut El cu oştirea egipteană, cu caii lui şi cu carele lui, pe care le-â înecat în apele Mării Roşii, când alergau după voi; şi i-a pierdut Domnul Dumnezeu până în ziua de astăzi;
@@ -21,7 +22,6 @@ language: ro
 8. De aceea păziţi toate poruncile Lui, pe care vi le spun eu astăzi, ca să fiţi vii şi să vă întăriţi, să vă duceţi să moşteniţi pământul în care veţi trece peste Iordan ca să-l stăpâniţi;
 9. Şi ca să trăiţi multă vreme în pământul acela pentru care Domnul S-a jurat părinţilor voştri să li-l dea lor şi seminţiei lor, în pământul unde curge miere şi lapte.
 10. Căci pământul la care mergi tu ca să-l stăpâneşti nu este ca pământul Egiptului din care ai ieşit, unde, semănând sămânţa, o udai cu ajutorul picioarelor tale, ca pe o grădină de legume.
-11. "Să iubeşti dar pe Domnul Dumnezeul tău şi să păzeşti în toate zilele cele ce ţi-a poruncit El să păzeşti: hotărârile Lui, legile Lui şi poruncile Lui.
 11. Ci pământul în care treceţi ca să-l stăpâniţi este o ţară cu munţi şi cu văi şi se adapă cu apă din ploaia cerului.
 12. Este ţara de care poartă grijă Domnul Dumnezeul tău; ochii Domnului Dumnezeului tău sunt necontenit asupra ei, de la începutul anului până la sfârşitul lui.
 13. De veţi asculta poruncile Mele pe care vi le dau astăzi, zice Domnul, şi veţi iubi pe Domnul Dumnezeul vostru şi-I veţi sluji din toată inima şi din tot sufletul vostru,
