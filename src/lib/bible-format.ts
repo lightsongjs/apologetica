@@ -19,10 +19,11 @@ export function formatVerses(body: string): string {
   // Remove extra blank lines
   cleaned = cleaned.replace(/\n{3,}/g, '\n\n');
 
-  // Format verse numbers: "1. Text" → "<sup>1</sup> Text"
+  // Format verse lines: "1. Text" → "<span data-v="1"><sup>1</sup> Text</span>"
+  // (one verse per line; data-v lets search results jump to the verse via #v1)
   cleaned = cleaned.replace(
-    /^(\d+)\.\s+/gm,
-    '<sup class="font-semibold mr-1 opacity-60">$1</sup> '
+    /^(\d+)\.\s+(.*)$/gm,
+    '<span class="verse" data-v="$1"><sup class="font-semibold mr-1 opacity-60">$1</sup> $2</span>'
   );
 
   // Trim whitespace

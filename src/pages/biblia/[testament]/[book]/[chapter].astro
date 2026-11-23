@@ -109,6 +109,26 @@ const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
     font-size: 0.75em;
     line-height: 0;
   }
+
+  /* Verse reached from search (#v5): tinted, with a short pulse on arrival */
+  :global(.verse-target) {
+    --verse-bg: rgb(26 35 126 / 0.12);
+    --verse-flash: rgb(26 35 126 / 0.3);
+    background-color: var(--verse-bg);
+    border-radius: 0.25rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    padding: 0.1em 0.2em;
+    animation: verse-pulse 1.6s ease-out 2;
+  }
+  :global(.dark .verse-target) {
+    --verse-bg: rgb(196 208 253 / 0.16);
+    --verse-flash: rgb(196 208 253 / 0.35);
+  }
+  @keyframes verse-pulse {
+    0%, 100% { background-color: var(--verse-bg); }
+    40% { background-color: var(--verse-flash); }
+  }
 </style>
 
 <script define:vars={{ initialChapter: chapterNum, totalChapters: bookMeta.chapters, bookSlug, testament: testamentSlug }}>
@@ -136,6 +156,19 @@ const { testamentSlug, bookMeta, chapterNum, chapterPericopes } = Astro.props;
       localStorage.setItem('pwa-last-path', newPath);
     }
   }, { rootMargin: '-20% 0px -60% 0px' });
+
+  // Jump to the verse asked for by search results (#v5) and mark it
+  const verseMatch = location.hash.match(/^#v(\d+)$/);
+  if (verseMatch) {
+    const target = contentContainer.querySelector('[data-chapter="' + initialChapter + '"] [data-v="' + verseMatch[1] + '"]');
+    if (target) {
+      target.classList.add('verse-target');
+      const jump = () => target.scrollIntoView({ block: 'center' });
+      jump();
+      // Fonts can shift the layout after first paint; land on the verse again
+      if (document.fonts) document.fonts.ready.then(jump);
+    }
+  }
 
   // Observe the initial chapter marker
   document.querySelectorAll('[data-chapter-marker]').forEach((el) => {

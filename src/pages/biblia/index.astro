@@ -431,7 +431,7 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
           }
 
           if (verseText) {
-            var href = '/biblia/' + testPath(selectedBook.testament) + '/' + selectedBook.slug + '/' + selectedChapter;
+            var href = '/biblia/' + testPath(selectedBook.testament) + '/' + selectedBook.slug + '/' + selectedChapter + '#v' + verseNum;
             vfResult.innerHTML = '<a href="' + href + '" class="block bg-white dark:bg-[#16161A] border border-primary/20 dark:border-[#2A2A2E] rounded-xl p-4 hover:shadow-md transition-shadow">'
               + '<div class="flex items-center gap-2 mb-2">'
               + '<span class="material-symbols-outlined text-primary text-sm">menu_book</span>'
@@ -492,7 +492,7 @@ const ntBooks = BOOKS_METADATA.NT.map(book => ({
           textResultsCount.classList.remove('hidden');
           var html = '';
           results.forEach(function(v) {
-            var href = '/biblia/' + testPathFromSlug(v.b) + '/' + v.b + '/' + v.c;
+            var href = '/biblia/' + testPathFromSlug(v.b) + '/' + v.b + '/' + v.c + '#v' + v.v;
             html += '<a href="' + href + '" class="block bg-white dark:bg-[#16161A] border border-slate-100 dark:border-[#2A2A2E] rounded-lg p-3 hover:shadow-md transition-shadow">'
               + '<div class="flex items-center gap-2 mb-1"><span class="material-symbols-outlined text-primary/40 text-sm">menu_book</span><span class="text-[11px] font-bold text-primary dark:text-[#c4d0fd]">' + v.n + ' ' + v.c + ':' + v.v + '</span></div>'
               + '<p class="text-xs text-on-surface dark:text-[#FAFAF9] leading-relaxed">' + highlightText(v.t, query) + '</p></a>';
